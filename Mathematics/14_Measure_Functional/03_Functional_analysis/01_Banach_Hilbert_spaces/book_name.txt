@@ -1,0 +1,12 @@
+Primary book: A Course in Functional Analysis — John B. Conway
+Read: sections on normed Banach and Hilbert spaces. Select by heading; page numbers vary by edition.
+Study checklist:
+01. normed spaces.
+02. bounded linear maps.
+03. Banach completeness.
+04. Hahn-Banach theorem.
+05. open mapping theorem.
+06. closed graph theorem.
+07. Hilbert projection theorem.
+08. Riesz representation.
+Completion: Prove a projection result and identify needed completeness.

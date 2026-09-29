@@ -1,0 +1,12 @@
+Primary book: Discrete Mathematics: An Open Introduction — Oscar Levin
+Read: sections on Introductory graph theory. Select by heading; page numbers vary by edition.
+Study checklist:
+01. vertices edges degree.
+02. paths cycles connectivity.
+03. trees.
+04. Euler paths.
+05. basic graph representations.
+06. breadth-first search.
+07. proof of a graph invariant.
+08. depth-first search and its traversal tree.
+Completion: Prove the handshake lemma and trace BFS on a graph.

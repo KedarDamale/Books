@@ -1,0 +1,12 @@
+Primary book: Introduction to Graph Theory — Douglas B. West
+Read: sections on trees connectivity and planar graphs. Select by heading; page numbers vary by edition.
+Study checklist:
+01. walks and paths.
+02. spanning trees.
+03. cut vertices and bridges.
+04. Menger theorem.
+05. Eulerian and Hamiltonian graphs.
+06. planar embeddings.
+07. Euler formula.
+08. graph coloring.
+Completion: Prove a connectivity or planarity result on a chosen family.

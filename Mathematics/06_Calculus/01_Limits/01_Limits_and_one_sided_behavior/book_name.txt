@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 1 — OpenStax
+Read: sections on Limits and limit laws. Select by heading; page numbers vary by edition.
+Study checklist:
+01. intuitive approach to a point.
+02. one-sided limits.
+03. finite and infinite limits.
+04. limit laws.
+05. algebraic cancellation.
+06. rationalization.
+07. squeeze theorem.
+08. limits at infinity.
+Completion: Compute limits by three methods and justify any failed limit.

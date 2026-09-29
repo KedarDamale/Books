@@ -1,0 +1,12 @@
+Primary book: Mathematical Writing — Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts
+Read: sections on reading and writing mathematical research. Select by heading; page numbers vary by edition.
+Study checklist:
+01. parse definitions and hypotheses.
+02. reconstruct omitted proof steps.
+03. build dependency diagrams.
+04. check examples and counterexamples.
+05. trace original sources.
+06. maintain notation glossary.
+07. write concise proof summaries.
+08. separate known results from conjectures.
+Completion: Reconstruct and present a theorem from a published paper.

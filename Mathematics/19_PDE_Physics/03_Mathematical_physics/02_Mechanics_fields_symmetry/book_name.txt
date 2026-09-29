@@ -1,0 +1,12 @@
+Primary book: Mathematical Methods in the Physical Sciences — Mary L. Boas
+Read: sections on mechanics and field mathematics. Select by heading; page numbers vary by edition.
+Study checklist:
+01. variational principles.
+02. Lagrangian mechanics.
+03. Hamiltonian formulation.
+04. conservation laws.
+05. Noether theorem.
+06. electromagnetic vector calculus.
+07. wave propagation.
+08. dimensional analysis.
+Completion: Derive a conserved quantity from a symmetry.

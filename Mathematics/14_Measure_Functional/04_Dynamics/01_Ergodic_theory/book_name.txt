@@ -1,0 +1,12 @@
+Primary book: An Introduction to Ergodic Theory — Peter Walters
+Read: sections on measure-preserving transformations and ergodicity. Select by heading; page numbers vary by edition.
+Study checklist:
+01. invariant measures.
+02. ergodicity.
+03. Poincaré recurrence.
+04. Birkhoff ergodic theorem.
+05. mixing.
+06. entropy.
+07. symbolic dynamics.
+08. examples of rotations and shifts.
+Completion: Determine whether a rotation is ergodic under a stated measure.

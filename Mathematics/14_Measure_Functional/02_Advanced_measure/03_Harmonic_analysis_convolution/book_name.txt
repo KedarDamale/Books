@@ -1,0 +1,12 @@
+Primary book: Fourier Analysis: An Introduction — Elias M. Stein and Rami Shakarchi
+Read: sections on harmonic analysis. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Fourier series convergence.
+02. Fourier transform and inversion.
+03. Plancherel theorem.
+04. convolution and approximate identities.
+05. Poisson summation.
+06. uncertainty principle.
+07. tempered distributions.
+08. harmonic analysis on groups preview.
+Completion: Prove a convolution identity and apply Fourier inversion.

@@ -1,0 +1,12 @@
+Primary book: Introduction to Modern Statistics — Mine Çetinkaya-Rundel and Johanna Hardin
+Read: sections on confidence intervals and tests. Select by heading; page numbers vary by edition.
+Study checklist:
+01. confidence-interval interpretation.
+02. standard errors.
+03. null and alternative hypotheses.
+04. type I and II errors.
+05. p values.
+06. one and two-sample tests.
+07. power.
+08. multiple testing.
+Completion: Write conclusions for a test without confusing p with probability of the null.

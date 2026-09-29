@@ -1,0 +1,12 @@
+Primary book: Introduction to Smooth Manifolds — John M. Lee
+Read: sections on smooth manifolds and tangent vectors. Select by heading; page numbers vary by edition.
+Study checklist:
+01. smooth atlases.
+02. transition maps.
+03. derivations as tangent vectors.
+04. differential of a map.
+05. tangent bundle.
+06. immersions and submersions.
+07. regular value theorem.
+08. embedded submanifolds.
+Completion: Prove a level set is a manifold and compute its tangent space.

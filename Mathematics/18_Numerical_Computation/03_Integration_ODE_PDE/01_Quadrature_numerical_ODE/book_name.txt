@@ -1,0 +1,12 @@
+Primary book: Numerical Analysis — Richard L. Burden and J. Douglas Faires
+Read: sections on quadrature and ODE solvers. Select by heading; page numbers vary by edition.
+Study checklist:
+01. trapezoidal and Simpson rules.
+02. Gaussian quadrature.
+03. adaptive integration.
+04. Euler method.
+05. Runge-Kutta methods.
+06. local versus global error.
+07. stiffness.
+08. implicit methods.
+Completion: Plot error versus step size for two ODE methods.

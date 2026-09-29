@@ -1,0 +1,12 @@
+Primary book: Basic Analysis: Introduction to Real Analysis — Jiří Lebl
+Read: sections on Riemann integration. Select by heading; page numbers vary by edition.
+Study checklist:
+01. partitions and upper-lower sums.
+02. integrability criterion.
+03. continuous and monotone integrability.
+04. FTC rigor.
+05. change of variables.
+06. integration by parts.
+07. nonintegrable bounded examples.
+08. Riemann-Stieltjes preview.
+Completion: Prove integrability of a class and analyze a counterexample.

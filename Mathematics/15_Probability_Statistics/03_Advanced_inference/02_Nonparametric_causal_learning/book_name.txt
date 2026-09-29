@@ -1,0 +1,12 @@
+Primary book: An Introduction to Statistical Learning — Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+Read: sections on statistical learning and extensions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. cross-validation.
+02. bias-variance tradeoff.
+03. k-nearest neighbors.
+04. trees and ensembles.
+05. nonparametric smoothing.
+06. propensity scores preview.
+07. causal identification assumptions.
+08. uncertainty under model selection.
+Completion: Compare two learning methods using held-out data.

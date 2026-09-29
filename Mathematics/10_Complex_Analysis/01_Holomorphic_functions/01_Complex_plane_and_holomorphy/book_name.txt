@@ -1,0 +1,12 @@
+Primary book: A First Course in Complex Analysis — Matthias Beck, Gerald Marchesi, Dennis Pixton, and Lucas Sabalka
+Read: sections on complex numbers and analytic functions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. complex topology.
+02. limits.
+03. complex differentiability.
+04. Cauchy-Riemann equations.
+05. holomorphic functions.
+06. analyticity.
+07. harmonic conjugates.
+08. conformal maps.
+Completion: Check holomorphy of three functions using two methods.

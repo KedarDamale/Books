@@ -1,0 +1,12 @@
+Primary book: Partial Differential Equations — Lawrence C. Evans
+Read: sections on weak solutions and Sobolev spaces. Select by heading; page numbers vary by edition.
+Study checklist:
+01. test functions.
+02. distributional derivative.
+03. Sobolev spaces.
+04. trace.
+05. Poincaré inequality.
+06. weak formulation.
+07. Lax-Milgram theorem.
+08. energy estimates.
+Completion: Write a weak form and prove uniqueness by energy.

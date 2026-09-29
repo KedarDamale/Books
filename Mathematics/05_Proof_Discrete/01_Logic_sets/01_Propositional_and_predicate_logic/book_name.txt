@@ -1,0 +1,12 @@
+Primary book: Book of Proof — Richard Hammack
+Read: sections on Statements logic and quantifiers. Select by heading; page numbers vary by edition.
+Study checklist:
+01. truth tables.
+02. equivalence and implication.
+03. De Morgan laws.
+04. quantified statements.
+05. negating nested quantifiers.
+06. valid argument forms.
+07. existence and uniqueness.
+08. proof scope.
+Completion: Write truth tables and negate ten nested quantified claims.

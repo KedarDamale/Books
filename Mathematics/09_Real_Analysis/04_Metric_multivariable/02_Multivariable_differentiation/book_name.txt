@@ -1,0 +1,12 @@
+Primary book: Basic Analysis II: Introduction to Real Analysis, Volume II — Jiří Lebl
+Read: sections on multivariable analysis. Select by heading; page numbers vary by edition.
+Study checklist:
+01. norms on Euclidean space.
+02. Fréchet derivative.
+03. Jacobian.
+04. chain rule.
+05. inverse function theorem.
+06. implicit function theorem.
+07. Taylor approximation.
+08. Hessian and extrema.
+Completion: State and apply inverse and implicit function theorems carefully.

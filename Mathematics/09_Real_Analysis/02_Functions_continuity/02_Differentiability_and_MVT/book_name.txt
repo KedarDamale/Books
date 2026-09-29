@@ -1,0 +1,12 @@
+Primary book: Basic Analysis: Introduction to Real Analysis — Jiří Lebl
+Read: sections on differentiation theory. Select by heading; page numbers vary by edition.
+Study checklist:
+01. derivative from limit.
+02. Darboux property.
+03. Rolle and mean value theorems.
+04. Taylor theorem with remainder.
+05. inverse function in one variable.
+06. monotonicity.
+07. convexity.
+08. counterexamples to smoothness.
+Completion: Prove Taylor error and construct a continuous nondifferentiable example.

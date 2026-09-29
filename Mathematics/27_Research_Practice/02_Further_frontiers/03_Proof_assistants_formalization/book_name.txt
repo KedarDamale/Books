@@ -1,0 +1,12 @@
+Primary book: Theorem Proving in Lean 4 — Jeremy Avigad, Leonardo de Moura, Soonho Kong, and Sebastian Ullrich
+Read: sections on propositions, tactics, structures, inductive types, and formal proofs. Select by heading; page numbers vary by edition.
+Study checklist:
+01. propositions as types.
+02. lambda terms and implication.
+03. rewriting and simplification.
+04. tactics and proof states.
+05. inductive data and induction.
+06. structures and type classes.
+07. library search and reuse.
+08. checking a formal proof against an informal statement.
+Completion: Formalize a nontrivial elementary theorem in Lean.

@@ -1,0 +1,12 @@
+Primary book: Mathematics for Machine Learning — Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
+Read: sections on mathematical foundations for machine learning. Select by heading; page numbers vary by edition.
+Study checklist:
+01. linear algebra and geometry.
+02. matrix decompositions.
+03. analytic gradients.
+04. probability models.
+05. maximum likelihood.
+06. regularization.
+07. convex optimization.
+08. generalization bounds preview.
+Completion: Derive linear regression from both least squares and likelihood.

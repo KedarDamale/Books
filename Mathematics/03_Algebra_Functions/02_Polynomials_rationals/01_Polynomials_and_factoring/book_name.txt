@@ -1,0 +1,12 @@
+Primary book: College Algebra 2e — OpenStax
+Read: sections on Polynomial operations and factoring. Select by heading; page numbers vary by edition.
+Study checklist:
+01. polynomial arithmetic.
+02. special products.
+03. greatest common factor.
+04. factoring quadratics.
+05. grouping.
+06. remainder and factor theorems.
+07. roots and multiplicity.
+08. end behavior.
+Completion: Factor and sketch several polynomials with justified intercepts.

@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 2 — OpenStax
+Read: sections on Applications of integration. Select by heading; page numbers vary by edition.
+Study checklist:
+01. area between curves.
+02. disk and washer methods.
+03. shell method.
+04. arc length.
+05. surface of revolution.
+06. work and force.
+07. center of mass.
+08. probability density preview.
+Completion: Derive a volume two ways and compare the setup.

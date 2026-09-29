@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Angles and geometric basics. Select by heading; page numbers vary by edition.
+Study checklist:
+01. points rays segments and lines.
+02. parallel and perpendicular lines.
+03. angle measurement.
+04. vertical and supplementary angles.
+05. transversals.
+06. interior and exterior angles.
+07. basic construction.
+08. proof with angle relationships.
+Completion: Prove three angle identities from a labeled diagram.

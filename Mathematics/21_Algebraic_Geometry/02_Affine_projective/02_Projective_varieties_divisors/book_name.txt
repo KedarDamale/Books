@@ -1,0 +1,12 @@
+Primary book: Algebraic Geometry — Robin Hartshorne
+Read: sections on projective varieties and divisors. Select by heading; page numbers vary by edition.
+Study checklist:
+01. homogeneous coordinates.
+02. projective closure.
+03. projective morphisms.
+04. Bezout theorem statement.
+05. divisors.
+06. line bundles.
+07. intersection number intuition.
+08. projective curves.
+Completion: Projectivize an affine curve and analyze its points at infinity.

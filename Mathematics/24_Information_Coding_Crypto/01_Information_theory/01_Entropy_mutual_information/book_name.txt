@@ -1,0 +1,12 @@
+Primary book: Elements of Information Theory — Thomas M. Cover and Joy A. Thomas
+Read: sections on entropy and information. Select by heading; page numbers vary by edition.
+Study checklist:
+01. self-information.
+02. Shannon entropy.
+03. conditional entropy.
+04. chain rule.
+05. mutual information.
+06. KL divergence.
+07. data-processing inequality.
+08. typical sequences.
+Completion: Calculate entropy and mutual information for a joint law.

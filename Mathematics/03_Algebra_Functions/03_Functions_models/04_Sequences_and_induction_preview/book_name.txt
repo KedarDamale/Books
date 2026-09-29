@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Sequences series and mathematical induction. Select by heading; page numbers vary by edition.
+Study checklist:
+01. explicit versus recursive sequences.
+02. arithmetic sequences.
+03. geometric sequences.
+04. finite sums.
+05. sigma notation.
+06. induction base case.
+07. induction step.
+08. growth comparisons.
+Completion: Prove one summation identity and compute its first ten cases.

@@ -1,0 +1,12 @@
+Primary book: A Shorter Model Theory — Wilfrid Hodges
+Read: sections on model theory. Select by heading; page numbers vary by edition.
+Study checklist:
+01. elementary embeddings.
+02. types.
+03. compactness applications.
+04. quantifier elimination.
+05. categoricity.
+06. saturation.
+07. stability intuition.
+08. ultraproducts.
+Completion: Show quantifier elimination in a simple theory.

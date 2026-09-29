@@ -1,0 +1,12 @@
+Primary book: Geometry with an Introduction to Cosmic Topology — Michael P. Hitchman
+Read: sections on classical geometries. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Euclidean postulates.
+02. parallel postulate.
+03. isometries.
+04. hyperbolic plane models.
+05. spherical geometry.
+06. geodesics.
+07. triangle angle sums.
+08. curvature intuition.
+Completion: Compare triangle angle sums in three geometries.

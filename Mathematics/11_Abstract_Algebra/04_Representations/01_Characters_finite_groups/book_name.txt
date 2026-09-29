@@ -1,0 +1,12 @@
+Primary book: Linear Representations of Finite Groups — Jean-Pierre Serre
+Read: sections on representations and characters of finite groups. Select by heading; page numbers vary by edition.
+Study checklist:
+01. group actions versus linear representations.
+02. invariant subspaces.
+03. Maschke theorem.
+04. irreducible representations.
+05. characters and orthogonality.
+06. regular representation.
+07. induced representations preview.
+08. character tables.
+Completion: Compute a character table for a small finite group.

@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 1 — OpenStax
+Read: sections on Derivatives of transcendental functions and rates. Select by heading; page numbers vary by edition.
+Study checklist:
+01. exponential derivatives.
+02. logarithmic differentiation.
+03. trigonometric derivatives.
+04. inverse trig derivatives.
+05. related rates.
+06. units of derivatives.
+07. linear approximation.
+08. error propagation.
+Completion: Set up and solve three related-rate problems from diagrams.

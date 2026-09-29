@@ -1,0 +1,12 @@
+Primary book: Discrete Mathematics: An Open Introduction — Oscar Levin
+Read: sections on How to read and solve discrete mathematics problems. Select by heading; page numbers vary by edition.
+Study checklist:
+01. active recall of definitions.
+02. spaced problem review.
+03. easy medium and challenge problems.
+04. error log and correction.
+05. when to consult a solution.
+06. reconstructing proofs from memory.
+07. explaining a result aloud.
+08. connecting equivalent formulations.
+Completion: Build an error log from twenty problems and resolve each error.

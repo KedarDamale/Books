@@ -1,0 +1,12 @@
+Primary book: Linear Algebra Done Right — Sheldon Axler
+Read: sections on linear maps and their structure. Select by heading; page numbers vary by edition.
+Study checklist:
+01. linear transformations.
+02. kernel and image.
+03. rank-nullity.
+04. isomorphisms.
+05. change of basis.
+06. quotient spaces.
+07. dual space.
+08. transpose or adjoint intuition.
+Completion: Prove rank-nullity and build a nontrivial quotient example.

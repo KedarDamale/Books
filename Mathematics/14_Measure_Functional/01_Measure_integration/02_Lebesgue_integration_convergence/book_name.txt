@@ -1,0 +1,12 @@
+Primary book: Real Analysis: Modern Techniques and Their Applications — Gerald B. Folland
+Read: sections on measurable functions and Lebesgue integration. Select by heading; page numbers vary by edition.
+Study checklist:
+01. simple functions.
+02. measurability.
+03. integral of nonnegative functions.
+04. integrable signed functions.
+05. monotone convergence.
+06. Fatou lemma.
+07. dominated convergence.
+08. comparison with Riemann integral.
+Completion: Prove a limit-integral interchange using the right theorem.

@@ -1,0 +1,12 @@
+Primary book: Partial Differential Equations — Lawrence C. Evans
+Read: sections on first-order PDE and equation classes. Select by heading; page numbers vary by edition.
+Study checklist:
+01. PDE notation.
+02. order and linearity.
+03. characteristics.
+04. transport equation.
+05. elliptic parabolic hyperbolic classes.
+06. initial versus boundary data.
+07. well-posedness.
+08. weak solution motivation.
+Completion: Solve a first-order PDE by characteristics.

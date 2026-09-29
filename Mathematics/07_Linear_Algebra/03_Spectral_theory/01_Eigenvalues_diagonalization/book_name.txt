@@ -1,0 +1,12 @@
+Primary book: Linear Algebra Done Right — Sheldon Axler
+Read: sections on eigenvalues and invariant subspaces. Select by heading; page numbers vary by edition.
+Study checklist:
+01. eigenvalues and eigenvectors.
+02. characteristic polynomial.
+03. algebraic versus geometric multiplicity.
+04. invariant subspaces.
+05. diagonalization.
+06. minimal polynomial preview.
+07. triangularization.
+08. spectral interpretation.
+Completion: Determine whether several operators are diagonalizable and explain why.

@@ -1,0 +1,12 @@
+Primary book: Introduction to Probability Models — Sheldon M. Ross
+Read: sections on Markov chains and Poisson processes. Select by heading; page numbers vary by edition.
+Study checklist:
+01. transition matrices.
+02. communicating classes.
+03. stationary distributions.
+04. hitting times.
+05. birth-death chains.
+06. Poisson process.
+07. exponential waiting times.
+08. renewal intuition.
+Completion: Compute a stationary law and a hitting time.

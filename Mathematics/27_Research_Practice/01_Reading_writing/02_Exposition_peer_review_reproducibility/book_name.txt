@@ -1,0 +1,12 @@
+Primary book: Mathematical Writing — Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts
+Read: sections on mathematical exposition and publication. Select by heading; page numbers vary by edition.
+Study checklist:
+01. structure a paper.
+02. state contributions narrowly.
+03. write theorem-proof chains.
+04. cite prior work.
+05. check proof gaps.
+06. prepare figures and computation.
+07. respond to peer review.
+08. archive reproducible artifacts.
+Completion: Write a short note with one theorem and complete proof.

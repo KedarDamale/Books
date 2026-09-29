@@ -1,0 +1,12 @@
+Primary book: Introduction to Homotopy Theory — Paul Selick
+Read: sections on higher homotopy theory. Select by heading; page numbers vary by edition.
+Study checklist:
+01. homotopy groups.
+02. fibrations and cofibrations.
+03. long exact homotopy sequence.
+04. CW complexes.
+05. Whitehead theorem.
+06. loop and suspension spaces.
+07. stable homotopy motivation.
+08. spectral sequence connection.
+Completion: Compute a low-dimensional homotopy group using a fibration.

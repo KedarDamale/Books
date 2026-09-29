@@ -1,0 +1,12 @@
+Primary book: Computability and Logic — George S. Boolos, John P. Burgess, and Richard C. Jeffrey
+Read: sections on computability and incompleteness. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Turing machines.
+02. recursive and recursively enumerable sets.
+03. halting problem.
+04. diagonalization.
+05. representability.
+06. Gödel incompleteness theorems.
+07. Rice theorem.
+08. degrees of unsolvability preview.
+Completion: Prove an undecidability result by reduction.

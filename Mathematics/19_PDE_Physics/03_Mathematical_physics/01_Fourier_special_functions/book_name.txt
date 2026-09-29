@@ -1,0 +1,12 @@
+Primary book: Mathematical Methods in the Physical Sciences — Mary L. Boas
+Read: sections on Fourier methods and special functions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Fourier series.
+02. orthogonal functions.
+03. Sturm-Liouville spectra.
+04. Bessel functions.
+05. Legendre polynomials.
+06. Fourier transforms.
+07. Green functions.
+08. separation of variables.
+Completion: Solve a cylindrical or spherical boundary problem.

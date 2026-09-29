@@ -1,0 +1,12 @@
+Primary book: The Arithmetic of Elliptic Curves — Joseph H. Silverman
+Read: sections on elliptic curves and arithmetic. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Weierstrass equations.
+02. group law.
+03. singular versus nonsingular curves.
+04. rational points.
+05. torsion.
+06. reduction modulo primes.
+07. Mordell-Weil theorem statement.
+08. descent intuition.
+Completion: Compute the group law on a concrete elliptic curve.

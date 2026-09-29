@@ -1,0 +1,12 @@
+Primary book: Computational Topology: An Introduction — Herbert Edelsbrunner and John Harer
+Read: sections on simplicial complexes, filtrations, and persistent homology.
+Study checklist:
+01. point-cloud sampling.
+02. Čech and Vietoris-Rips complexes.
+03. simplicial boundary matrices.
+04. filtrations.
+05. persistence modules.
+06. barcodes and persistence diagrams.
+07. stability intuition.
+08. interpretation limits under noise.
+Completion: Compute a small persistence barcode by hand.

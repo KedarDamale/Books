@@ -1,0 +1,12 @@
+Primary book: An Introduction to Fluid Dynamics — G. K. Batchelor
+Read: sections on mathematics of fluids. Select by heading; page numbers vary by edition.
+Study checklist:
+01. continuum hypothesis.
+02. Eulerian versus Lagrangian description.
+03. conservation of mass.
+04. Euler equations.
+05. Navier-Stokes equations.
+06. vorticity.
+07. boundary layers.
+08. dimensional similarity.
+Completion: Derive continuity from a control volume.

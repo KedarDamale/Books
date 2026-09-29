@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Geometric measurement. Select by heading; page numbers vary by edition.
+Study checklist:
+01. quadrilateral properties.
+02. regular polygons.
+03. interior angle sums.
+04. circle arcs and chords.
+05. inscribed and central angles.
+06. perimeter and circumference.
+07. area decomposition.
+08. sector area and arc length.
+Completion: Solve a composite area problem and check dimensions.

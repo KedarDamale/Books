@@ -1,0 +1,12 @@
+Primary book: Introduction to Topological Manifolds — John M. Lee
+Read: sections on topological manifolds and charts. Select by heading; page numbers vary by edition.
+Study checklist:
+01. locally Euclidean spaces.
+02. charts and atlases.
+03. transition maps.
+04. manifolds with boundary.
+05. embedded versus abstract manifolds.
+06. tangent-space motivation.
+07. orientability.
+08. examples and nonexamples.
+Completion: Build an atlas for the sphere and explain chart overlap.

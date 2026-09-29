@@ -1,0 +1,12 @@
+Primary book: A First Course in Complex Analysis — Matthias Beck, Gerald Marchesi, Dennis Pixton, and Lucas Sabalka
+Read: sections on complex integration and Cauchy theory. Select by heading; page numbers vary by edition.
+Study checklist:
+01. piecewise smooth paths.
+02. contour integrals.
+03. antiderivatives.
+04. Cauchy integral theorem.
+05. homotopy intuition.
+06. Cauchy integral formula.
+07. derivative estimates.
+08. Liouville theorem.
+Completion: Compute a contour integral via parameterization and Cauchy formula.

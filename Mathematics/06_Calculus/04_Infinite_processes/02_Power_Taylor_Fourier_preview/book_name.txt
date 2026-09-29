@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 2 — OpenStax
+Read: sections on Power series and Taylor series. Select by heading; page numbers vary by edition.
+Study checklist:
+01. radius and interval of convergence.
+02. termwise differentiation and integration.
+03. Taylor polynomial.
+04. remainder estimate.
+05. common Maclaurin series.
+06. series solution applications.
+07. Fourier-series motivation.
+08. approximation error.
+Completion: Approximate two functions with certified Taylor errors.

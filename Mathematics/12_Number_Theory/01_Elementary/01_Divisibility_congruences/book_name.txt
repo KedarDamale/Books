@@ -1,0 +1,12 @@
+Primary book: Number Theory: In Context and Interactive — Karl-Dieter Crisman
+Read: sections on divisibility and modular arithmetic. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Euclidean algorithm.
+02. Bezout identity.
+03. primes and unique factorization.
+04. congruence classes.
+05. linear congruences.
+06. Chinese remainder theorem.
+07. Fermat theorem.
+08. Euler phi function.
+Completion: Solve a system of congruences and prove its uniqueness class.

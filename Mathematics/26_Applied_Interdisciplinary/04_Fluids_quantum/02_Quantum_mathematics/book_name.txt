@@ -1,0 +1,12 @@
+Primary book: Principles of Quantum Mechanics — R. Shankar
+Read: sections on mathematical structure of quantum mechanics. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Hilbert spaces.
+02. operators and observables.
+03. eigenstates.
+04. spectral measurement rule.
+05. unitary evolution.
+06. commutators.
+07. angular momentum.
+08. tensor-product systems.
+Completion: Solve a two-state system and check unitary time evolution.

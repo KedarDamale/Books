@@ -1,0 +1,13 @@
+Primary book: Arithmetic Geometry — Gary Cornell and Joseph H. Silverman (editors)
+Read: introductory surveys on arithmetic geometry and elliptic curves. Select by heading; page numbers vary by edition.
+Study checklist:
+01. elliptic curves.
+02. abelian varieties.
+03. Galois representations.
+04. modular forms.
+05. automorphic representation motivation.
+06. étale cohomology motivation.
+07. arithmetic schemes.
+08. local-global principles.
+Extension book: A First Course in Modular Forms — Fred Diamond and Jerry Shurman; use its opening sections for the modular-form item.
+Completion: Write a concept map connecting one theorem to its foundations.

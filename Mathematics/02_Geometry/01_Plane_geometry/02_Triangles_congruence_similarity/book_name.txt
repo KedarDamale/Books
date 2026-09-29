@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Triangle geometry and similarity. Select by heading; page numbers vary by edition.
+Study checklist:
+01. triangle inequality.
+02. interior angle sum.
+03. congruence criteria.
+04. isosceles triangle properties.
+05. similarity criteria.
+06. scale factors.
+07. right triangles.
+08. Pythagorean theorem and converse.
+Completion: Derive a length from similar triangles and explain the proof.

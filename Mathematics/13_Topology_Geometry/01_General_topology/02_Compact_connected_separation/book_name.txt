@@ -1,0 +1,12 @@
+Primary book: Topology — James R. Munkres
+Read: sections on compactness connectedness and separation. Select by heading; page numbers vary by edition.
+Study checklist:
+01. open-cover compactness.
+02. sequential compactness caveat.
+03. connectedness and path connectedness.
+04. components.
+05. Hausdorff condition.
+06. countability axioms.
+07. Urysohn lemma preview.
+08. Tychonoff theorem statement.
+Completion: Prove that continuous images preserve compactness and connectedness.

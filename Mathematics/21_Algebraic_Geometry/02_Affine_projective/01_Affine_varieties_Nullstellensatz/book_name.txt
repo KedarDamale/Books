@@ -1,0 +1,12 @@
+Primary book: The Rising Sea: Foundations of Algebraic Geometry — Ravi Vakil
+Read: sections on affine algebraic geometry. Select by heading; page numbers vary by edition.
+Study checklist:
+01. polynomial zero sets.
+02. coordinate rings.
+03. radical ideals.
+04. Hilbert Nullstellensatz.
+05. regular maps.
+06. irreducible varieties.
+07. tangent spaces.
+08. singular points.
+Completion: Find the coordinate ring and singular locus of a plane curve.

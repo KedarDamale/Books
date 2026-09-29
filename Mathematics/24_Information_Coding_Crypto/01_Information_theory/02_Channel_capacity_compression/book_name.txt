@@ -1,0 +1,12 @@
+Primary book: Elements of Information Theory — Thomas M. Cover and Joy A. Thomas
+Read: sections on source coding and channel capacity. Select by heading; page numbers vary by edition.
+Study checklist:
+01. prefix-free codes.
+02. Kraft inequality.
+03. Huffman coding.
+04. source coding theorem.
+05. noisy channel model.
+06. channel capacity.
+07. rate-distortion theory.
+08. information bottleneck motivation.
+Completion: Design a prefix code and evaluate its expected length.

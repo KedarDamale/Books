@@ -1,0 +1,12 @@
+Primary book: Higher Topos Theory — Jacob Lurie
+Read: introductory material on simplicial sets and ∞-categories; use prerequisite references as needed.
+Study checklist:
+01. simplicial sets.
+02. nerves of ordinary categories.
+03. horns and Kan complexes.
+04. quasi-categories.
+05. homotopy-coherent composition.
+06. functors and mapping spaces.
+07. limits and colimits in higher categories.
+08. relationship to homotopy theory.
+Completion: Explain why an ordinary category is a special case.

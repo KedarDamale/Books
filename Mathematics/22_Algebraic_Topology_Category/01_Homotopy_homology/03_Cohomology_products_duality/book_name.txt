@@ -1,0 +1,12 @@
+Primary book: Algebraic Topology — Allen Hatcher
+Read: sections on cohomology and duality. Select by heading; page numbers vary by edition.
+Study checklist:
+01. cochains and coboundary.
+02. cup product.
+03. universal coefficient theorem.
+04. Künneth theorem.
+05. Poincare duality.
+06. orientation.
+07. cohomology rings.
+08. characteristic class motivation.
+Completion: Determine the cohomology ring of a simple product space.

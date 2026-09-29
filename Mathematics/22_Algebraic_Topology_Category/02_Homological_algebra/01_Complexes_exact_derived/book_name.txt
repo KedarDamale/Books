@@ -1,0 +1,12 @@
+Primary book: An Introduction to Homological Algebra — Charles A. Weibel
+Read: sections on homological algebra basics. Select by heading; page numbers vary by edition.
+Study checklist:
+01. chain complexes.
+02. short and long exact sequences.
+03. projective and injective modules.
+04. resolutions.
+05. Ext.
+06. Tor.
+07. derived functors.
+08. spectral-sequence motivation.
+Completion: Compute an Ext or Tor group from a resolution.

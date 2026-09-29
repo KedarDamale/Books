@@ -1,0 +1,12 @@
+Primary book: Introduction to Operations Research — Frederick S. Hillier and Gerald J. Lieberman
+Read: sections on linear integer and network optimization. Select by heading; page numbers vary by edition.
+Study checklist:
+01. simplex geometry.
+02. dual linear programs.
+03. sensitivity analysis.
+04. integer programs.
+05. branch and bound.
+06. minimum-cost flow.
+07. assignment and transportation.
+08. valid inequalities.
+Completion: Model a small scheduling problem as an integer program.

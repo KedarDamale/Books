@@ -1,0 +1,13 @@
+Primary book: Direct Methods in the Calculus of Variations — Bernard Dacorogna
+Read: sections on calculus of variations and further PDE. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Euler-Lagrange equations.
+02. direct method.
+03. lower semicontinuity.
+04. compactness.
+05. constrained minimization.
+06. free boundaries.
+07. Gamma convergence motivation.
+08. applications to mechanics.
+Extension book: An Introduction to Γ-Convergence — Gianni Dal Maso; use its opening chapters for item 07.
+Completion: Show existence of a minimizer under a simple coercivity assumption.

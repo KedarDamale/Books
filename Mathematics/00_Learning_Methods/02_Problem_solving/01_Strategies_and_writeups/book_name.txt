@@ -1,0 +1,12 @@
+Primary book: Book of Proof — Richard Hammack
+Read: sections on Proof discovery and exposition. Select by heading; page numbers vary by edition.
+Study checklist:
+01. identify the target statement.
+02. unpack definitions.
+03. work backward from conclusion.
+04. try special cases.
+05. draw a diagram when useful.
+06. separate intuition from proof.
+07. write coherent paragraphs.
+08. check for hidden assumptions.
+Completion: Write a complete solution, then revise it for a reader unfamiliar with the problem.

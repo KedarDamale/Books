@@ -1,0 +1,12 @@
+Primary book: Introduction to Modern Cryptography — Jonathan Katz and Yehuda Lindell
+Read: sections on cryptographic protocols and proofs. Select by heading; page numbers vary by edition.
+Study checklist:
+01. semantic security intuition.
+02. indistinguishability.
+03. hybrid arguments.
+04. hash-function properties.
+05. commitment schemes.
+06. zero-knowledge basics.
+07. side-channel risks.
+08. post-quantum motivation.
+Completion: State a security game and identify its assumptions.

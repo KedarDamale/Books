@@ -1,0 +1,12 @@
+Primary book: Discrete Mathematics: An Open Introduction — Oscar Levin
+Read: sections on Counting and discrete structures. Select by heading; page numbers vary by edition.
+Study checklist:
+01. sum and product rules.
+02. permutations.
+03. combinations.
+04. binomial identities.
+05. pigeonhole principle.
+06. inclusion-exclusion.
+07. counting with repetition.
+08. double counting.
+Completion: Count one object family in two ways and equate results.

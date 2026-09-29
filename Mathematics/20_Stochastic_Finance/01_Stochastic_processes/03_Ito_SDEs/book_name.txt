@@ -1,0 +1,12 @@
+Primary book: Stochastic Differential Equations: An Introduction with Applications — Bernt Øksendal
+Read: sections on stochastic differential equations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Brownian filtration.
+02. Itô integral.
+03. quadratic variation.
+04. Itô formula.
+05. existence and uniqueness.
+06. geometric Brownian motion.
+07. Fokker-Planck equation.
+08. Euler-Maruyama approximation.
+Completion: Derive and simulate an Ornstein-Uhlenbeck process.

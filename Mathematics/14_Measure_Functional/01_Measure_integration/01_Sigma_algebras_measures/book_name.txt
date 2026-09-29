@@ -1,0 +1,12 @@
+Primary book: Real Analysis: Modern Techniques and Their Applications — Gerald B. Folland
+Read: sections on measures and measurable sets. Select by heading; page numbers vary by edition.
+Study checklist:
+01. sigma algebras.
+02. Borel sets.
+03. outer measure.
+04. Carathéodory construction.
+05. Lebesgue measure.
+06. null sets.
+07. completion.
+08. regularity preview.
+Completion: Construct a measure and identify nonmeasurable pitfalls.

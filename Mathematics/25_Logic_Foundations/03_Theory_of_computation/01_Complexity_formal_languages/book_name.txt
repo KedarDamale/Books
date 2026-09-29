@@ -1,0 +1,12 @@
+Primary book: Introduction to the Theory of Computation — Michael Sipser
+Read: sections on formal languages and complexity. Select by heading; page numbers vary by edition.
+Study checklist:
+01. finite automata.
+02. regular languages.
+03. context-free grammars.
+04. Turing computability.
+05. P and NP.
+06. NP-completeness.
+07. reductions.
+08. randomized complexity preview.
+Completion: Give a correct polynomial-time reduction between two problems.

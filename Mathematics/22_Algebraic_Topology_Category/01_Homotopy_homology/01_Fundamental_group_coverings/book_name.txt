@@ -1,0 +1,12 @@
+Primary book: Algebraic Topology — Allen Hatcher
+Read: sections on fundamental groups and covering spaces. Select by heading; page numbers vary by edition.
+Study checklist:
+01. homotopy of paths.
+02. fundamental group.
+03. van Kampen theorem.
+04. covering maps.
+05. lifting criteria.
+06. deck transformations.
+07. classification of covers.
+08. computations on surfaces.
+Completion: Compute a fundamental group using van Kampen.

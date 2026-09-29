@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Trigonometric applications. Select by heading; page numbers vary by edition.
+Study checklist:
+01. right-triangle solving.
+02. law of sines.
+03. law of cosines.
+04. ambiguous SSA case.
+05. bearing and elevation.
+06. sinusoidal models.
+07. frequency and phase.
+08. harmonic motion preview.
+Completion: Solve an oblique triangle and fit a sinusoidal time series.

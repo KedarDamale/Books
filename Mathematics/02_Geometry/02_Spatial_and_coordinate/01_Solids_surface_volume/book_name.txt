@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Three-dimensional geometry. Select by heading; page numbers vary by edition.
+Study checklist:
+01. prisms pyramids cylinders cones spheres.
+02. nets and cross-sections.
+03. surface area.
+04. volume formulas.
+05. scaling of length area volume.
+06. Cavalieri intuition.
+07. density and capacity.
+08. units and error.
+Completion: Compare volumes under a scale change and explain the cubic factor.

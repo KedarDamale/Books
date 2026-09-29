@@ -1,0 +1,12 @@
+Primary book: Introduction to Applied Linear Algebra — Stephen Boyd and Lieven Vandenberghe
+Read: sections on singular value decomposition and applications. Select by heading; page numbers vary by edition.
+Study checklist:
+01. singular values.
+02. SVD geometry.
+03. low-rank approximation.
+04. pseudoinverse.
+05. principal components.
+06. positive definite matrices.
+07. quadratic forms.
+08. conditioning.
+Completion: Compute a small SVD and use it for low-rank approximation.

@@ -1,0 +1,12 @@
+Primary book: Linear System Theory and Design — Chi-Tsong Chen
+Read: sections on linear control systems. Select by heading; page numbers vary by edition.
+Study checklist:
+01. state-space form.
+02. controllability matrix.
+03. observability matrix.
+04. pole placement.
+05. state feedback.
+06. observer design.
+07. stability by Lyapunov equation.
+08. LQR preview.
+Completion: Design a feedback controller and observer for a small system.

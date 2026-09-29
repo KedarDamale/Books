@@ -1,0 +1,12 @@
+Primary book: Combinatorial Optimization: Algorithms and Complexity — Christos H. Papadimitriou and Kenneth Steiglitz
+Read: sections on combinatorial optimization. Select by heading; page numbers vary by edition.
+Study checklist:
+01. shortest paths.
+02. minimum spanning trees.
+03. matching.
+04. flows.
+05. linear-programming relaxations.
+06. approximation algorithms.
+07. NP-hardness proofs.
+08. branch-and-bound tradeoffs.
+Completion: Prove correctness of one network algorithm and analyze complexity.

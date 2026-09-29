@@ -1,0 +1,12 @@
+Primary book: Introduction to Probability — Charles M. Grinstead and J. Laurie Snell
+Read: sections on joint distributions and limit theorems. Select by heading; page numbers vary by edition.
+Study checklist:
+01. joint and marginal laws.
+02. conditional distributions.
+03. covariance and correlation.
+04. independence tests.
+05. law of large numbers.
+06. central limit theorem.
+07. moment generating functions.
+08. simulation verification.
+Completion: Derive covariance for a joint law and simulate the CLT.

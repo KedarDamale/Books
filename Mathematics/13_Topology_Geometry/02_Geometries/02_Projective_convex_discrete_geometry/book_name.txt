@@ -1,0 +1,12 @@
+Primary book: Geometry with an Introduction to Cosmic Topology — Michael P. Hitchman
+Read: sections on projective and other geometries. Select by heading; page numbers vary by edition.
+Study checklist:
+01. perspective and vanishing points.
+02. homogeneous coordinates.
+03. projective transformations.
+04. duality intuition.
+05. convex sets and hulls.
+06. supporting lines.
+07. polytope faces.
+08. Euler polyhedron relation.
+Completion: Prove a convex hull claim and represent a projective point.

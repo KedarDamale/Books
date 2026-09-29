@@ -1,0 +1,12 @@
+Primary book: Real Analysis: Modern Techniques and Their Applications — Gerald B. Folland
+Read: sections on Fourier analysis and generalized functions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Fourier coefficients.
+02. L2 convergence.
+03. Fourier transform.
+04. convolution.
+05. Plancherel theorem.
+06. Schwartz class.
+07. tempered distributions.
+08. weak derivatives.
+Completion: Analyze a convolution and a simple distributional derivative.

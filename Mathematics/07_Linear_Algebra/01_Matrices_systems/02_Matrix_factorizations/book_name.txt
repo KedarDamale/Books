@@ -1,0 +1,12 @@
+Primary book: Introduction to Applied Linear Algebra — Stephen Boyd and Lieven Vandenberghe
+Read: sections on matrix factorizations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. LU factorization.
+02. pivoting.
+03. QR factorization.
+04. orthogonal matrices.
+05. condition of a factorization.
+06. least-squares QR.
+07. Cholesky factorization.
+08. computational cost.
+Completion: Factor a matrix by hand and verify the reconstruction.

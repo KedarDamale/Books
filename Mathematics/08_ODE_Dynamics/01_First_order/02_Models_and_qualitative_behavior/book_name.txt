@@ -1,0 +1,12 @@
+Primary book: Notes on Diffy Qs — Jiří Lebl
+Read: sections on population and mechanical models. Select by heading; page numbers vary by edition.
+Study checklist:
+01. exponential growth.
+02. logistic growth.
+03. mixing models.
+04. Newton cooling.
+05. phase lines.
+06. stability of equilibria.
+07. bifurcation intuition.
+08. nondimensionalization.
+Completion: Build and analyze a model with parameters and units.

@@ -1,0 +1,12 @@
+Primary book: Notes on Diffy Qs — Jiří Lebl
+Read: sections on series solutions and boundary-value problems. Select by heading; page numbers vary by edition.
+Study checklist:
+01. ordinary versus singular points.
+02. power-series substitution.
+03. recurrence relations.
+04. Frobenius preview.
+05. two-point boundary conditions.
+06. eigenvalue boundary problems.
+07. Sturm-Liouville intuition.
+08. Green function preview.
+Completion: Compute a series solution and test a boundary-value case.

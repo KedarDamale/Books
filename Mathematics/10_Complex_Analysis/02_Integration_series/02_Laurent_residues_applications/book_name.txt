@@ -1,0 +1,12 @@
+Primary book: A First Course in Complex Analysis — Matthias Beck, Gerald Marchesi, Dennis Pixton, and Lucas Sabalka
+Read: sections on power series Laurent series and residues. Select by heading; page numbers vary by edition.
+Study checklist:
+01. analytic power series.
+02. zeros and identity theorem.
+03. isolated singularities.
+04. Laurent series.
+05. residue theorem.
+06. real integrals via contours.
+07. argument principle.
+08. Rouché theorem.
+Completion: Classify singularities and evaluate two contour integrals.

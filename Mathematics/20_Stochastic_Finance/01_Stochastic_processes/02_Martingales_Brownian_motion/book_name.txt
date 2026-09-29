@@ -1,0 +1,12 @@
+Primary book: Probability: Theory and Examples — Rick Durrett
+Read: sections on advanced stochastic processes. Select by heading; page numbers vary by edition.
+Study checklist:
+01. conditional expectation.
+02. martingales.
+03. stopping times.
+04. optional stopping conditions.
+05. Brownian paths.
+06. Gaussian increments.
+07. quadratic variation.
+08. stochastic-integral motivation.
+Completion: Check martingale property and explain a stopping-time failure.

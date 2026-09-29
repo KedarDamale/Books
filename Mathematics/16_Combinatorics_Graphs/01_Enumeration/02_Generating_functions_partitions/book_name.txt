@@ -1,0 +1,12 @@
+Primary book: Applied Combinatorics — Mitchel T. Keller and William T. Trotter
+Read: sections on generating functions and partitions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. ordinary generating functions.
+02. exponential generating functions.
+03. coefficient extraction.
+04. linear recurrence solution.
+05. integer partitions.
+06. Ferrers diagrams.
+07. asymptotic counting preview.
+08. combinatorial species preview.
+Completion: Solve a recurrence with a generating function.

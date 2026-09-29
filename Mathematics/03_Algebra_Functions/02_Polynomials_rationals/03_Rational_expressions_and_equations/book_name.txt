@@ -1,0 +1,12 @@
+Primary book: College Algebra 2e — OpenStax
+Read: sections on Rational functions and equations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. factor and cancel with domain restrictions.
+02. common denominators.
+03. compound rational expressions.
+04. asymptotes and holes.
+05. partial-fraction preview.
+06. rational equations.
+07. sign charts.
+08. inverse variation.
+Completion: Sketch a rational function showing domain, holes, and asymptotes.

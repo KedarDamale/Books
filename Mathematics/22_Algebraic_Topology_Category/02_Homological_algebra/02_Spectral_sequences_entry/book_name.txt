@@ -1,0 +1,12 @@
+Primary book: An Introduction to Homological Algebra — Charles A. Weibel
+Read: sections on spectral sequence methods. Select by heading; page numbers vary by edition.
+Study checklist:
+01. filtered complexes.
+02. pages and differentials.
+03. convergence conditions.
+04. exact couples.
+05. Serre spectral sequence.
+06. Leray spectral sequence overview.
+07. edge maps.
+08. extension problems.
+Completion: Explain the page structure for a basic filtered complex.

@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Trigonometric functions and identities. Select by heading; page numbers vary by edition.
+Study checklist:
+01. amplitude period phase shift.
+02. reciprocal and quotient functions.
+03. Pythagorean identities.
+04. sum and difference formulas.
+05. double and half angles.
+06. inverse trig branches.
+07. trig equations.
+08. checking introduced solutions.
+Completion: Derive two identities and solve equations over a fixed interval.

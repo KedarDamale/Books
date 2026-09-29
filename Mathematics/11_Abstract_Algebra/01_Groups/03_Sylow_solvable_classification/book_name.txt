@@ -1,0 +1,12 @@
+Primary book: Abstract Algebra — David S. Dummit and Richard M. Foote
+Read: sections on Sylow theory and finite group structure. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Sylow existence and conjugacy.
+02. counting Sylow subgroups.
+03. simple groups preview.
+04. direct and semidirect products.
+05. composition series.
+06. solvable groups.
+07. nilpotent groups.
+08. classification of small groups.
+Completion: Classify groups of a selected small order with proof.

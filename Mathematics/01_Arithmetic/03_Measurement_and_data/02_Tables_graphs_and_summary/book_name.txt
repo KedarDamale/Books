@@ -1,0 +1,12 @@
+Primary book: Prealgebra 2e — OpenStax
+Read: sections on Data graphs and descriptive summaries. Select by heading; page numbers vary by edition.
+Study checklist:
+01. frequency tables.
+02. bar charts and histograms.
+03. line plots.
+04. mean median and mode.
+05. range and outliers.
+06. misleading axes.
+07. reading two-way tables.
+08. simple probability from counts.
+Completion: Create two plots of the same data and explain what each reveals.

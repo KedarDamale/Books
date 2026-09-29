@@ -1,0 +1,12 @@
+Primary book: Inverse Problems and Regularization — Heinz W. Engl, Martin Hanke, and Andreas Neubauer
+Read: sections on inverse problems and regularization. Select by heading; page numbers vary by edition.
+Study checklist:
+01. forward versus inverse map.
+02. ill-posedness.
+03. noise models.
+04. Tikhonov regularization.
+05. singular-value filtering.
+06. parameter choice.
+07. Bayesian inverse viewpoint.
+08. identifiability.
+Completion: Recover a signal from noisy data and compare regularization strengths.

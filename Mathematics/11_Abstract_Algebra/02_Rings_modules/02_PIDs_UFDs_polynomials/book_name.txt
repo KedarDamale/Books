@@ -1,0 +1,12 @@
+Primary book: Abstract Algebra — David S. Dummit and Richard M. Foote
+Read: sections on divisibility and polynomial rings. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Euclidean domains.
+02. principal ideal domains.
+03. unique factorization domains.
+04. irreducible versus prime elements.
+05. Gauss lemma.
+06. Eisenstein criterion.
+07. polynomial gcds.
+08. factorization over fields.
+Completion: Prove a polynomial irreducible and compare two rings.

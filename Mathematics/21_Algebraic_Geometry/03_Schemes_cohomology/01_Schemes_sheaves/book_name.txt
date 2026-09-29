@@ -1,0 +1,12 @@
+Primary book: The Rising Sea: Foundations of Algebraic Geometry — Ravi Vakil
+Read: sections on schemes and sheaves. Select by heading; page numbers vary by edition.
+Study checklist:
+01. affine schemes.
+02. gluing affine pieces.
+03. structure sheaf.
+04. stalks.
+05. scheme morphisms.
+06. fiber products.
+07. reduced and nonreduced schemes.
+08. functor-of-points viewpoint.
+Completion: Build a projective line by gluing two affine schemes.

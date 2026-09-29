@@ -1,0 +1,12 @@
+Primary book: Category Theory in Context — Emily Riehl
+Read: sections on categories functors and naturality. Select by heading; page numbers vary by edition.
+Study checklist:
+01. objects and morphisms.
+02. opposite categories.
+03. functors.
+04. natural transformations.
+05. universal properties.
+06. products and coproducts.
+07. Yoneda lemma.
+08. representable functors.
+Completion: Show one construction is characterized by a universal property.

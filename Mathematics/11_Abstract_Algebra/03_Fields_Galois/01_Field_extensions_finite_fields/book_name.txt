@@ -1,0 +1,12 @@
+Primary book: Abstract Algebra — David S. Dummit and Richard M. Foote
+Read: sections on field extensions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. algebraic and transcendental elements.
+02. minimal polynomial.
+03. extension degree.
+04. tower law.
+05. splitting fields.
+06. finite fields.
+07. separable extensions.
+08. normal extensions.
+Completion: Construct a finite field and determine extension degrees.

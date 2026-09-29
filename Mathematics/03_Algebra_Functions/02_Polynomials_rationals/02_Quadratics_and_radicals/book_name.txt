@@ -1,0 +1,12 @@
+Primary book: College Algebra 2e — OpenStax
+Read: sections on Quadratic equations and radical expressions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. completing the square.
+02. quadratic formula.
+03. discriminant.
+04. vertex form.
+05. radical rules.
+06. rational exponents.
+07. radical equations.
+08. extraneous roots.
+Completion: Derive the quadratic formula and solve three forms of quadratics.

@@ -1,0 +1,12 @@
+Primary book: Commutative Algebra — David Eisenbud
+Read: sections on Noetherian rings and dimension. Select by heading; page numbers vary by edition.
+Study checklist:
+01. ascending chain condition.
+02. Hilbert basis theorem.
+03. primary decomposition.
+04. Krull dimension.
+05. integral dependence.
+06. normalization.
+07. Nakayama lemma.
+08. regular local rings preview.
+Completion: Prove a Noetherian property and calculate a ring dimension.

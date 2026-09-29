@@ -1,0 +1,12 @@
+Primary book: Linear Algebra Done Right — Sheldon Axler
+Read: sections on generalized eigenvectors and canonical forms. Select by heading; page numbers vary by edition.
+Study checklist:
+01. generalized eigenspaces.
+02. nilpotent maps.
+03. Jordan chains.
+04. Jordan blocks.
+05. minimal polynomial.
+06. matrix functions.
+07. real versus complex forms.
+08. stability implications.
+Completion: Construct Jordan form for a defective operator.

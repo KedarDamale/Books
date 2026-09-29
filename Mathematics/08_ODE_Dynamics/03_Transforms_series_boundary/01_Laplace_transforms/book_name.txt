@@ -1,0 +1,12 @@
+Primary book: Notes on Diffy Qs — Jiří Lebl
+Read: sections on Laplace transforms and discontinuous forcing. Select by heading; page numbers vary by edition.
+Study checklist:
+01. transform definition.
+02. linearity and shifts.
+03. derivatives under transforms.
+04. partial fractions.
+05. unit step.
+06. impulse forcing.
+07. convolution theorem.
+08. inverse transform.
+Completion: Solve one discontinuously forced IVP by Laplace transforms.

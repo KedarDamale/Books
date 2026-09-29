@@ -1,0 +1,12 @@
+Primary book: College Algebra 2e — OpenStax
+Read: sections on Functions and their graphs. Select by heading; page numbers vary by edition.
+Study checklist:
+01. relations versus functions.
+02. domain and range.
+03. function notation.
+04. graph reading.
+05. piecewise definitions.
+06. transformations.
+07. composition.
+08. inverse functions.
+Completion: Construct a piecewise function and analyze its inverse conditions.

@@ -1,0 +1,12 @@
+Primary book: Riemannian Manifolds: An Introduction to Curvature — John M. Lee
+Read: sections on Riemannian metrics and curvature. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Riemannian metric.
+02. length and geodesics.
+03. Levi-Civita connection.
+04. covariant derivative.
+05. Riemann curvature tensor.
+06. sectional and Ricci curvature.
+07. Jacobi fields.
+08. Gauss-Bonnet viewpoint.
+Completion: Compute geodesics and curvature on a simple surface.

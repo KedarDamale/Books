@@ -1,0 +1,12 @@
+Primary book: A First Course in Complex Analysis — Matthias Beck, Gerald Marchesi, Dennis Pixton, and Lucas Sabalka
+Read: sections on complex elementary functions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. complex exponential.
+02. trigonometric functions.
+03. complex logarithm.
+04. branches and branch cuts.
+05. complex powers.
+06. Möbius transformations.
+07. mapping domains.
+08. Riemann-sphere preview.
+Completion: Choose a branch and describe its domain and boundary behavior.

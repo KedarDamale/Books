@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 1 — OpenStax
+Read: sections on Continuity and the precise definition of a limit. Select by heading; page numbers vary by edition.
+Study checklist:
+01. continuity at a point and interval.
+02. types of discontinuity.
+03. intermediate value theorem.
+04. epsilon-delta definition.
+05. choosing delta.
+06. uniform versus pointwise preview.
+07. sequential criterion preview.
+08. continuous function composition.
+Completion: Prove one elementary limit with epsilon-delta and apply IVT.

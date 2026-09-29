@@ -1,0 +1,12 @@
+Primary book: Number Theory: In Context and Interactive — Karl-Dieter Crisman
+Read: sections on quadratic residues and Diophantine equations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Legendre symbol.
+02. Euler criterion.
+03. quadratic reciprocity.
+04. primitive roots.
+05. Pythagorean triples.
+06. Pell equations.
+07. infinite descent.
+08. continued fractions.
+Completion: Prove a quadratic congruence criterion and solve a Pell case.

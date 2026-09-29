@@ -1,0 +1,12 @@
+Primary book: An Introduction to Diophantine Approximation — J. W. S. Cassels
+Read: sections on Diophantine approximation. Select by heading; page numbers vary by edition.
+Study checklist:
+01. continued fractions.
+02. best rational approximations.
+03. Dirichlet approximation theorem.
+04. Roth theorem statement.
+05. transcendence methods overview.
+06. linear forms in logarithms motivation.
+07. applications to equations.
+08. open conjectures.
+Completion: Prove a rational approximation bound and test examples.

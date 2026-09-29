@@ -1,0 +1,12 @@
+Primary book: Set Theory — Thomas Jech
+Read: sections on axiomatic set theory. Select by heading; page numbers vary by edition.
+Study checklist:
+01. ZF axioms.
+02. ordinal arithmetic.
+03. transfinite induction.
+04. cardinal arithmetic.
+05. Cantor theorem.
+06. axiom of choice.
+07. Zorn lemma.
+08. well-ordering theorem.
+Completion: Prove equivalent forms of choice in a standard setting.

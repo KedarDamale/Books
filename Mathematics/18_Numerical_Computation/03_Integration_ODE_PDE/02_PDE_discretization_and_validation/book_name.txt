@@ -1,0 +1,13 @@
+Primary book: Finite Difference Methods for Ordinary and Partial Differential Equations — Randall J. LeVeque
+Read: sections on numerical PDE entry. Select by heading; page numbers vary by edition.
+Study checklist:
+01. finite differences.
+02. mesh and boundary conditions.
+03. consistency.
+04. stability.
+05. convergence.
+06. heat equation stepping.
+07. wave equation stepping.
+08. finite-element introduction.
+Extension book: The Finite Element Method: Theory, Implementation, and Applications — Mats G. Larson and Fredrik Bengzon; use its introductory finite-element sections for item 08.
+Completion: Discretize a boundary-value problem and test grid convergence.

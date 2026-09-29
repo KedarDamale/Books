@@ -1,0 +1,12 @@
+Primary book: Numerical Linear Algebra — Lloyd N. Trefethen and David Bau III
+Read: sections on numerical linear algebra. Select by heading; page numbers vary by edition.
+Study checklist:
+01. LU with pivoting.
+02. QR and Householder reflections.
+03. least squares.
+04. condition number.
+05. iterative methods.
+06. power method.
+07. QR eigenvalue iteration.
+08. SVD computation.
+Completion: Estimate condition and residual for a solved system.

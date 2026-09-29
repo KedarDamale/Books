@@ -1,0 +1,12 @@
+Primary book: Topology — James R. Munkres
+Read: sections on topological spaces and continuous maps. Select by heading; page numbers vary by edition.
+Study checklist:
+01. topology axioms.
+02. bases and subbases.
+03. subspace topology.
+04. product topology.
+05. quotient topology.
+06. continuous maps.
+07. homeomorphisms.
+08. universal property intuition.
+Completion: Construct three distinct topologies on one set and compare them.

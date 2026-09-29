@@ -1,0 +1,12 @@
+Primary book: Abstract Algebra: Theory and Applications — Thomas W. Judson
+Read: sections on rings and ideals. Select by heading; page numbers vary by edition.
+Study checklist:
+01. commutative rings and units.
+02. integral domains.
+03. ring homomorphisms.
+04. ideals.
+05. quotient rings.
+06. prime versus maximal ideals.
+07. Chinese remainder theorem.
+08. polynomial rings.
+Completion: Construct a quotient ring and classify its units and ideals.

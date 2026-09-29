@@ -1,0 +1,13 @@
+Primary book: All of Statistics — Larry Wasserman
+Read: sections on regression and generalized linear models. Select by heading; page numbers vary by edition.
+Study checklist:
+01. linear regression assumptions.
+02. least-squares fit.
+03. residual diagnostics.
+04. model selection.
+05. logistic regression.
+06. link functions.
+07. Poisson regression.
+08. regularization.
+09. out-of-sample assessment.
+Completion: Fit and critique a regression with diagnostics.

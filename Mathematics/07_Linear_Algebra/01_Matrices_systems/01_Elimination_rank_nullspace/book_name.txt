@@ -1,0 +1,12 @@
+Primary book: Introduction to Applied Linear Algebra — Stephen Boyd and Lieven Vandenberghe
+Read: sections on linear equations and matrix operations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. matrix dimensions.
+02. matrix multiplication.
+03. linear systems.
+04. Gaussian elimination.
+05. row-echelon forms.
+06. rank.
+07. nullspace.
+08. consistency and free variables.
+Completion: Solve a parameterized system and classify all solution cases.

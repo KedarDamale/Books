@@ -1,0 +1,12 @@
+Primary book: Prealgebra 2e — OpenStax
+Read: sections on Integers and the number line. Select by heading; page numbers vary by edition.
+Study checklist:
+01. positive and negative numbers.
+02. ordering integers.
+03. absolute value as distance.
+04. integer addition and subtraction.
+05. sign rules for multiplication and division.
+06. opposites.
+07. applications to change and balance.
+08. inequalities on the number line.
+Completion: Model ten signed-quantity situations and justify each sign.

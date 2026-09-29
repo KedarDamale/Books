@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 3 — OpenStax
+Read: sections on Integral theorems of vector calculus. Select by heading; page numbers vary by edition.
+Study checklist:
+01. orientation and boundaries.
+02. Green theorem.
+03. surface parameterization.
+04. flux integrals.
+05. curl and divergence.
+06. Stokes theorem.
+07. Divergence theorem.
+08. physical interpretations and hypotheses.
+Completion: Verify all three theorems on suitable explicit examples.

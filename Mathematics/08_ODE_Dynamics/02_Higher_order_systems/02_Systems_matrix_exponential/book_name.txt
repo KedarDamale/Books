@@ -1,0 +1,12 @@
+Primary book: Notes on Diffy Qs — Jiří Lebl
+Read: sections on systems of differential equations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. first-order vector form.
+02. matrix exponential.
+03. eigenmode solutions.
+04. defective systems.
+05. phase portraits.
+06. stable and unstable directions.
+07. variation of constants.
+08. linearization.
+Completion: Draw a phase portrait and compute its linear solution.

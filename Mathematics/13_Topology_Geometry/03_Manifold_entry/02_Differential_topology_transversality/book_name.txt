@@ -1,0 +1,12 @@
+Primary book: Differential Topology — Morris W. Hirsch
+Read: sections on differential topology. Select by heading; page numbers vary by edition.
+Study checklist:
+01. regular values.
+02. Sard theorem.
+03. transversality.
+04. intersection number.
+05. degree theory.
+06. Morse functions.
+07. handle decomposition preview.
+08. cobordism motivation.
+Completion: Prove a regular-value preimage is a submanifold.

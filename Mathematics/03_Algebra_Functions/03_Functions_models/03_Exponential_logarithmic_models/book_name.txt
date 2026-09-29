@@ -1,0 +1,12 @@
+Primary book: College Algebra 2e — OpenStax
+Read: sections on Exponential and logarithmic functions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. exponential growth and decay.
+02. logarithm as inverse.
+03. log laws.
+04. change of base.
+05. solving exponential equations.
+06. solving logarithmic equations.
+07. compound interest.
+08. doubling time.
+Completion: Fit an exponential model and solve for a threshold time.

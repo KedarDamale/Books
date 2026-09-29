@@ -1,0 +1,12 @@
+Primary book: Basic Analysis: Introduction to Real Analysis — Jiří Lebl
+Read: sections on series and sequences of functions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Cauchy criterion for series.
+02. comparison tests.
+03. absolute convergence.
+04. power series.
+05. pointwise versus uniform convergence.
+06. Weierstrass M-test.
+07. exchange of limits and integrals.
+08. exchange of limits and derivatives.
+Completion: Find examples showing each interchange can fail without hypotheses.

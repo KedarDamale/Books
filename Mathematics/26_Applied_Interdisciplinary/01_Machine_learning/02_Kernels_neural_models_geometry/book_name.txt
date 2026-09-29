@@ -1,0 +1,12 @@
+Primary book: Mathematics for Machine Learning — Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
+Read: sections on advanced mathematical tools for machine learning. Select by heading; page numbers vary by edition.
+Study checklist:
+01. kernel trick.
+02. feature maps.
+03. Gaussian processes preview.
+04. principal components.
+05. manifold learning.
+06. backpropagation chain rule.
+07. information geometry preview.
+08. uncertainty calibration.
+Completion: Derive the gradient of a two-layer network.

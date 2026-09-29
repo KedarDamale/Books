@@ -1,0 +1,12 @@
+Primary book: Real Analysis: Modern Techniques and Their Applications — Gerald B. Folland
+Read: sections on signed measures and differentiation. Select by heading; page numbers vary by edition.
+Study checklist:
+01. signed measures.
+02. Jordan decomposition.
+03. absolute continuity.
+04. Radon-Nikodym theorem.
+05. Lebesgue decomposition.
+06. distribution functions.
+07. conditional expectation preview.
+08. measure differentiation.
+Completion: Find a Radon-Nikodym density in an explicit example.

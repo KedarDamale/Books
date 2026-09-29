@@ -1,0 +1,12 @@
+Primary book: Basic Analysis: Introduction to Real Analysis — Jiří Lebl
+Read: sections on the real number system. Select by heading; page numbers vary by edition.
+Study checklist:
+01. ordered field.
+02. least upper bound property.
+03. Archimedean property.
+04. density of rationals.
+05. supremum and infimum.
+06. nested intervals.
+07. compact intervals.
+08. open and closed sets.
+Completion: Derive nested interval and Bolzano-Weierstrass results from completeness.

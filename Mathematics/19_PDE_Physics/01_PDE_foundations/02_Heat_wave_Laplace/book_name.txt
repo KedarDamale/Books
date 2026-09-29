@@ -1,0 +1,12 @@
+Primary book: Partial Differential Equations — Lawrence C. Evans
+Read: sections on classical model PDEs. Select by heading; page numbers vary by edition.
+Study checklist:
+01. heat equation.
+02. maximum principle.
+03. wave equation.
+04. finite propagation.
+05. Laplace equation.
+06. harmonic functions.
+07. separation of variables.
+08. boundary conditions.
+Completion: Solve one heat or wave model by eigenfunction expansion.

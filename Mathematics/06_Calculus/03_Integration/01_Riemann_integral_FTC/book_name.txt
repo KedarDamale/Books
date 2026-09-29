@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 1 — OpenStax
+Read: sections on Integration and the fundamental theorem. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Riemann sums.
+02. signed area.
+03. definite integral properties.
+04. antiderivatives.
+05. Fundamental Theorem parts I and II.
+06. substitution.
+07. average value.
+08. accumulation functions.
+Completion: Build a Riemann sum and use both parts of FTC.

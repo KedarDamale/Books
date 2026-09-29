@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 3 — OpenStax
+Read: sections on Multiple integration. Select by heading; page numbers vary by edition.
+Study checklist:
+01. iterated integrals.
+02. Fubini principle.
+03. regions and changing order.
+04. double and triple integrals.
+05. polar coordinates.
+06. cylindrical and spherical coordinates.
+07. Jacobian change of variables.
+08. mass and centroids.
+Completion: Integrate over one region in two coordinate systems.

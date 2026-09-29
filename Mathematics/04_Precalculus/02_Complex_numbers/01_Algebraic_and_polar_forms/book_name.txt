@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Complex numbers and polar coordinates. Select by heading; page numbers vary by edition.
+Study checklist:
+01. imaginary unit.
+02. complex arithmetic.
+03. conjugate and modulus.
+04. Argand plane.
+05. polar form.
+06. Euler formula preview.
+07. De Moivre theorem.
+08. roots of unity.
+Completion: Find all nth roots of a complex number and plot them.

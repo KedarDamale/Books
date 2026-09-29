@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Angles and the unit circle. Select by heading; page numbers vary by edition.
+Study checklist:
+01. degrees and radians.
+02. arc length.
+03. unit-circle coordinates.
+04. reference angles.
+05. quadrant signs.
+06. periodicity.
+07. sine cosine tangent.
+08. exact special-angle values.
+Completion: Rebuild the unit circle from symmetry without a lookup table.

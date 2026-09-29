@@ -1,0 +1,12 @@
+Primary book: College Algebra 2e — OpenStax
+Read: sections on Polynomial and rational functions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. zeros and multiplicity.
+02. turning points.
+03. intercepts.
+04. end behavior.
+05. asymptotes.
+06. sign intervals.
+07. fitting simple models.
+08. limitations of extrapolation.
+Completion: Choose and defend a polynomial or rational model for given data.

@@ -1,0 +1,12 @@
+Primary book: Book of Proof — Richard Hammack
+Read: sections on The language of mathematics and statements. Select by heading; page numbers vary by edition.
+Study checklist:
+01. mathematical sentences and variables.
+02. universe of discourse.
+03. quantifiers and their order.
+04. conjunction disjunction and negation.
+05. implication and converse.
+06. necessary versus sufficient conditions.
+07. definitions versus theorems.
+08. translating prose into symbols.
+Completion: Translate ten verbal claims and negate each accurately.

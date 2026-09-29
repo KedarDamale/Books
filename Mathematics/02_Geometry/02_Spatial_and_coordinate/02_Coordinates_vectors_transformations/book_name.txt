@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Coordinate geometry and transformations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Cartesian coordinates.
+02. distance and midpoint.
+03. slope and collinearity.
+04. translations reflections rotations.
+05. dilations and similarity.
+06. basic vectors.
+07. equations of circles.
+08. geometric locus.
+Completion: Describe the same transformation algebraically and geometrically.

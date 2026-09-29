@@ -1,0 +1,12 @@
+Primary book: A Friendly Introduction to Mathematical Logic — Christopher C. Leary and Lars Kristiansen
+Read: sections on first-order logic. Select by heading; page numbers vary by edition.
+Study checklist:
+01. formal languages.
+02. terms and formulas.
+03. structures and satisfaction.
+04. deduction systems.
+05. soundness.
+06. Gödel completeness theorem.
+07. compactness theorem.
+08. Löwenheim-Skolem theorem.
+Completion: Prove a compactness consequence for an infinite structure.

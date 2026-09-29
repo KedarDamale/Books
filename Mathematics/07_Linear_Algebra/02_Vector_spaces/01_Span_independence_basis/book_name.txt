@@ -1,0 +1,12 @@
+Primary book: Linear Algebra Done Right — Sheldon Axler
+Read: sections on vector spaces and linear independence. Select by heading; page numbers vary by edition.
+Study checklist:
+01. vector space axioms.
+02. subspaces.
+03. span.
+04. linear dependence.
+05. basis.
+06. dimension.
+07. sum and intersection.
+08. coordinate systems.
+Completion: Prove a set is a basis and compute coordinates in it.

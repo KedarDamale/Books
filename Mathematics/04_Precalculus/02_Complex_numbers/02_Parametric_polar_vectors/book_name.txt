@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Parametric and polar equations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. parameterized curves.
+02. eliminating parameters.
+03. velocity direction preview.
+04. polar plotting.
+05. symmetry tests.
+06. polar-coordinate conversion.
+07. vector addition and dot product.
+08. conic introduction.
+Completion: Graph one curve in Cartesian, parametric, and polar descriptions.

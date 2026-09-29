@@ -1,0 +1,13 @@
+Primary book: Mathematics for Economists — Carl P. Simon and Lawrence Blume
+Read: sections on economics and optimization foundations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. preferences and utility.
+02. constrained choice.
+03. comparative statics.
+04. Nash equilibrium.
+05. social choice preview.
+06. dynamic optimization.
+07. regression and identification.
+08. causal inference assumptions.
+Extension book: Mostly Harmless Econometrics — Joshua D. Angrist and Jörn-Steffen Pischke; read the introductory research-design and identification chapters for items 07–08.
+Completion: Solve a constrained utility problem and interpret its multipliers.

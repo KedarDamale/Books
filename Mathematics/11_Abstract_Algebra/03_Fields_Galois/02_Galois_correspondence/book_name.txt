@@ -1,0 +1,12 @@
+Primary book: Abstract Algebra — David S. Dummit and Richard M. Foote
+Read: sections on Galois theory. Select by heading; page numbers vary by edition.
+Study checklist:
+01. automorphism groups.
+02. fixed fields.
+03. fundamental theorem of Galois theory.
+04. quadratic and cyclotomic extensions.
+05. solvability by radicals.
+06. constructible polygons.
+07. finite-field Frobenius.
+08. examples of Galois groups.
+Completion: Compute a splitting field and its subgroup-field lattice.

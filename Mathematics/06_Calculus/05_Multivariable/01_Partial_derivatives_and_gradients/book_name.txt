@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 3 — OpenStax
+Read: sections on Functions of several variables and partial derivatives. Select by heading; page numbers vary by edition.
+Study checklist:
+01. domains and level sets.
+02. multivariable limits.
+03. partial and directional derivatives.
+04. gradient.
+05. chain rule and Jacobian.
+06. implicit differentiation.
+07. tangent planes.
+08. Hessian and local extrema.
+Completion: Compute a Jacobian and classify stationary points.

@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 2 — OpenStax
+Read: sections on Sequences and infinite series. Select by heading; page numbers vary by edition.
+Study checklist:
+01. sequence limits.
+02. monotone convergence preview.
+03. geometric and telescoping series.
+04. nth-term test.
+05. integral comparison ratio and root tests.
+06. absolute versus conditional convergence.
+07. alternating error.
+08. rearrangement caveat.
+Completion: Classify ten series and justify each convergence test.

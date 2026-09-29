@@ -1,0 +1,12 @@
+Primary book: Abstract Algebra: Theory and Applications — Thomas W. Judson
+Read: sections on groups and subgroups. Select by heading; page numbers vary by edition.
+Study checklist:
+01. binary operations.
+02. group axioms.
+03. cyclic groups.
+04. orders of elements.
+05. subgroup tests.
+06. cosets.
+07. Lagrange theorem.
+08. group homomorphisms.
+Completion: Classify subgroups of several finite cyclic groups.

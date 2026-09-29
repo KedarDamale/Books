@@ -1,0 +1,12 @@
+Primary book: Time Series Analysis and Its Applications — Robert H. Shumway and David S. Stoffer
+Read: sections on time-series models. Select by heading; page numbers vary by edition.
+Study checklist:
+01. stationarity.
+02. autocovariance and ACF.
+03. AR and MA models.
+04. ARMA identification.
+05. seasonality.
+06. forecast evaluation.
+07. state-space models.
+08. Kalman filtering.
+Completion: Fit and diagnose an ARMA model on a short series.

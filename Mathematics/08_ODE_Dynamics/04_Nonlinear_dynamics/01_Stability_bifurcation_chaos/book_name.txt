@@ -1,0 +1,12 @@
+Primary book: Notes on Diffy Qs — Jiří Lebl
+Read: sections on nonlinear systems and qualitative dynamics. Select by heading; page numbers vary by edition.
+Study checklist:
+01. fixed points.
+02. Jacobian linearization.
+03. Lyapunov stability.
+04. limit cycles.
+05. Poincare-Bendixson intuition.
+06. bifurcation types.
+07. Lorenz system.
+08. chaos and sensitivity.
+Completion: Classify equilibria under a parameter change and plot trajectories.

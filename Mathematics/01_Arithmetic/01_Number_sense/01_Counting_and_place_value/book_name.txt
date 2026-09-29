@@ -1,0 +1,12 @@
+Primary book: Prealgebra 2e — OpenStax
+Read: sections on Whole numbers and place value. Select by heading; page numbers vary by edition.
+Study checklist:
+01. natural numbers and zero.
+02. counting principles.
+03. decimal place value.
+04. comparison and ordering.
+05. rounding and estimation.
+06. expanded form.
+07. number-line placement.
+08. orders of magnitude.
+Completion: Estimate and verify ten calculations with different magnitudes.

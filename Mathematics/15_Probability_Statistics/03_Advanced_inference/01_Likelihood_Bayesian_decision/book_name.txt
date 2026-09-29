@@ -1,0 +1,12 @@
+Primary book: All of Statistics — Larry Wasserman
+Read: sections on likelihood Bayesian inference and decision theory. Select by heading; page numbers vary by edition.
+Study checklist:
+01. likelihood and score.
+02. maximum likelihood.
+03. Fisher information.
+04. asymptotic normality.
+05. prior posterior and likelihood.
+06. conjugate models.
+07. Bayesian credible intervals.
+08. loss and decision rules.
+Completion: Analyze the same simple model by frequentist and Bayesian methods.

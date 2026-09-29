@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 1 — OpenStax
+Read: sections on Applications of derivatives. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Rolle theorem.
+02. mean value theorem.
+03. monotonicity tests.
+04. local and global extrema.
+05. concavity and inflection.
+06. optimization modeling.
+07. Newton method.
+08. L'Hopital rule.
+Completion: Justify a global optimum and fully sketch a nontrivial function.

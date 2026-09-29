@@ -1,0 +1,12 @@
+Primary book: Modern Computer Algebra — Joachim von zur Gathen and Jürgen Gerhard
+Read: sections on exact arithmetic, polynomial algorithms, and symbolic representation.
+Study checklist:
+01. arbitrary-precision integer arithmetic.
+02. Euclidean and extended Euclidean algorithms.
+03. fast polynomial multiplication.
+04. polynomial factorization.
+05. Gröbner-basis motivation.
+06. expression swell.
+07. complexity of exact algorithms.
+08. randomized versus deterministic methods.
+Completion: Implement and benchmark an exact polynomial routine.

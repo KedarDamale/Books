@@ -1,0 +1,12 @@
+Primary book: Introduction to Graph Theory — Douglas B. West
+Read: sections on matching networks and extremal graphs. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Hall marriage theorem.
+02. augmenting paths.
+03. maximum matching.
+04. network flow min-cut.
+05. Bipartite dualities.
+06. Turán theorem.
+07. Ramsey theorem.
+08. probabilistic method preview.
+Completion: Solve a matching problem and prove feasibility with Hall theorem.

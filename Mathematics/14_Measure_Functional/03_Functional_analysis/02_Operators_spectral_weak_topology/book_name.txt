@@ -1,0 +1,12 @@
+Primary book: A Course in Functional Analysis — John B. Conway
+Read: sections on operator and spectral theory. Select by heading; page numbers vary by edition.
+Study checklist:
+01. compact operators.
+02. adjoints.
+03. self-adjoint and normal operators.
+04. spectral theorem.
+05. weak convergence.
+06. weak-star convergence.
+07. uniform boundedness principle.
+08. Fredholm alternative.
+Completion: Apply a spectral theorem to one compact operator.

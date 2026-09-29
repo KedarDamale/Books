@@ -1,0 +1,12 @@
+Primary book: Lectures on Symplectic Geometry — Ana Cannas da Silva
+Read: sections on differential forms and geometric structures. Select by heading; page numbers vary by edition.
+Study checklist:
+01. nondegenerate two-forms.
+02. symplectic manifolds.
+03. Darboux theorem statement.
+04. Hamiltonian vector fields.
+05. Poisson bracket.
+06. moment maps preview.
+07. contact geometry preview.
+08. mechanics examples.
+Completion: Derive Hamilton equations from a symplectic form.

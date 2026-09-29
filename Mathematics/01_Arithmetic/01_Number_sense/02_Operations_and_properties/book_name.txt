@@ -1,0 +1,12 @@
+Primary book: Prealgebra 2e — OpenStax
+Read: sections on Whole-number operations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. addition and subtraction algorithms.
+02. multiplication and division.
+03. commutativity and associativity.
+04. distributivity.
+05. inverse operations.
+06. order of operations.
+07. mental arithmetic.
+08. checking by estimation.
+Completion: Solve mixed multi-step arithmetic problems by two methods.

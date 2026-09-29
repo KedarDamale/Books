@@ -1,0 +1,12 @@
+Primary book: Book of Proof — Richard Hammack
+Read: sections on Methods of proof. Select by heading; page numbers vary by edition.
+Study checklist:
+01. direct proof.
+02. proof by cases.
+03. contrapositive.
+04. contradiction.
+05. existence proof.
+06. uniqueness proof.
+07. constructive versus nonconstructive proof.
+08. counterexample.
+Completion: Prove one theorem by two methods and compare assumptions.

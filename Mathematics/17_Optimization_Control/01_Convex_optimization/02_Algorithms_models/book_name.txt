@@ -1,0 +1,12 @@
+Primary book: Convex Optimization — Stephen Boyd and Lieven Vandenberghe
+Read: sections on optimization algorithms and examples. Select by heading; page numbers vary by edition.
+Study checklist:
+01. gradient descent.
+02. Newton method.
+03. line search.
+04. projected gradient.
+05. interior-point method.
+06. least squares.
+07. linear programming.
+08. semidefinite programming.
+Completion: Implement one method and verify its stopping criterion.

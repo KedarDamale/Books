@@ -1,0 +1,12 @@
+Primary book: A First Course in Coding Theory — Raymond Hill
+Read: sections on error-correcting codes. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Hamming distance.
+02. linear codes.
+03. generator and parity-check matrices.
+04. syndromes.
+05. Hamming codes.
+06. cyclic codes.
+07. Reed-Solomon overview.
+08. decoding radius bounds.
+Completion: Encode, corrupt, and decode a word using a small linear code.

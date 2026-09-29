@@ -1,0 +1,12 @@
+Primary book: Multilinear Algebra — Werner H. Greub
+Read: sections on multilinear algebra extensions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. bilinear forms.
+02. tensor products.
+03. universal property intuition.
+04. coordinate tensors.
+05. alternating forms.
+06. exterior powers.
+07. determinant as alternating form.
+08. contraction and basis dependence.
+Completion: Compute a tensor product and an exterior product in coordinates.

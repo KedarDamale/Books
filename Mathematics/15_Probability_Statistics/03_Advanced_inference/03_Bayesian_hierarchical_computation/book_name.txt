@@ -1,0 +1,12 @@
+Primary book: Bayesian Data Analysis — Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, and Donald B. Rubin
+Read: sections on Bayesian computation and hierarchical models. Select by heading; page numbers vary by edition.
+Study checklist:
+01. exchangeability.
+02. hierarchical priors.
+03. posterior predictive checks.
+04. Markov chain Monte Carlo.
+05. Gibbs sampling.
+06. Hamiltonian Monte Carlo overview.
+07. model comparison.
+08. prior sensitivity.
+Completion: Fit a small hierarchical model and check posterior predictions.

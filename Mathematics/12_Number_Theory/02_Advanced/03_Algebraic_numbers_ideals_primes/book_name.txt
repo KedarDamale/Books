@@ -1,0 +1,12 @@
+Primary book: Algebraic Number Theory — Jürgen Neukirch
+Read: sections on algebraic number fields. Select by heading; page numbers vary by edition.
+Study checklist:
+01. integral bases.
+02. discriminant.
+03. Dedekind domains.
+04. fractional ideals.
+05. ideal class group.
+06. units and Dirichlet unit theorem.
+07. ramification and splitting.
+08. local completions preview.
+Completion: Compute prime splitting in a quadratic extension.

@@ -1,0 +1,12 @@
+Primary book: Abstract Algebra: Theory and Applications — Thomas W. Judson
+Read: sections on normal subgroups and group actions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. normality.
+02. quotient groups.
+03. isomorphism theorems.
+04. group actions.
+05. orbits and stabilizers.
+06. class equation.
+07. Sylow theorem statements.
+08. permutation groups.
+Completion: Compute orbits and stabilizers and prove an isomorphism.

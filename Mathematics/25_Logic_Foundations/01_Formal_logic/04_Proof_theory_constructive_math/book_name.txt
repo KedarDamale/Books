@@ -1,0 +1,12 @@
+Primary book: Proof Theory — Gaisi Takeuti
+Read: sections on proof theory and constructive mathematics. Select by heading; page numbers vary by edition.
+Study checklist:
+01. sequent calculus.
+02. cut elimination.
+03. normalization.
+04. intuitionistic logic.
+05. Curry-Howard correspondence.
+06. ordinal analysis motivation.
+07. proof extraction.
+08. formal proof verification.
+Completion: Normalize a derivation and interpret its computational content.

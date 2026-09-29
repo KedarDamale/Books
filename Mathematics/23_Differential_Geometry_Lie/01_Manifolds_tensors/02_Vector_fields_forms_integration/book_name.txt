@@ -1,0 +1,12 @@
+Primary book: Introduction to Smooth Manifolds — John M. Lee
+Read: sections on vector fields and differential forms. Select by heading; page numbers vary by edition.
+Study checklist:
+01. vector fields and flows.
+02. Lie bracket.
+03. cotangent bundle.
+04. tensors.
+05. alternating differential forms.
+06. exterior derivative.
+07. pullback.
+08. Stokes theorem on manifolds.
+Completion: Compute a pullback and verify exterior derivative commutes.

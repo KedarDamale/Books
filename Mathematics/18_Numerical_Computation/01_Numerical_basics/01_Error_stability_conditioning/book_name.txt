@@ -1,0 +1,12 @@
+Primary book: Numerical Analysis — Richard L. Burden and J. Douglas Faires
+Read: sections on error analysis and floating-point arithmetic. Select by heading; page numbers vary by edition.
+Study checklist:
+01. absolute and relative error.
+02. floating-point representation.
+03. roundoff.
+04. truncation.
+05. conditioning.
+06. forward versus backward error.
+07. stability.
+08. catastrophic cancellation.
+Completion: Analyze a numerically unstable formula and repair it.

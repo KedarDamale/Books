@@ -1,0 +1,12 @@
+Primary book: Linear Algebra Done Right — Sheldon Axler
+Read: sections on inner product spaces. Select by heading; page numbers vary by edition.
+Study checklist:
+01. norm and inner product.
+02. Cauchy-Schwarz inequality.
+03. orthogonal complements.
+04. Gram-Schmidt.
+05. orthogonal projections.
+06. least squares.
+07. orthonormal basis.
+08. adjoints.
+Completion: Derive the least-squares normal equations and check residual orthogonality.

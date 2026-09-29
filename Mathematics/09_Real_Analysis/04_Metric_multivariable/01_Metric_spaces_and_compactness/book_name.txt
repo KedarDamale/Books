@@ -1,0 +1,12 @@
+Primary book: Basic Analysis II: Introduction to Real Analysis, Volume II — Jiří Lebl
+Read: sections on metric spaces. Select by heading; page numbers vary by edition.
+Study checklist:
+01. metric axioms.
+02. open and closed balls.
+03. convergence and Cauchy sequences.
+04. completeness.
+05. compactness.
+06. total boundedness.
+07. continuity on metric spaces.
+08. contraction mapping theorem.
+Completion: Prove Banach fixed-point theorem and apply it.

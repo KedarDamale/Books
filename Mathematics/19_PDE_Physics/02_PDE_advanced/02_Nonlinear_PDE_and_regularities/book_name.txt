@@ -1,0 +1,12 @@
+Primary book: Partial Differential Equations — Lawrence C. Evans
+Read: sections on nonlinear PDE and regularity. Select by heading; page numbers vary by edition.
+Study checklist:
+01. conservation laws.
+02. shocks.
+03. entropy solutions.
+04. semilinear equations.
+05. elliptic regularity.
+06. parabolic smoothing.
+07. viscosity solutions preview.
+08. existence methods.
+Completion: Explain why classical solutions fail for a shock problem.

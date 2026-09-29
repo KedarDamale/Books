@@ -1,0 +1,12 @@
+Primary book: Calculus of Variations and Optimal Control Theory — Daniel Liberzon
+Read: sections on variational and control optimization. Select by heading; page numbers vary by edition.
+Study checklist:
+01. functionals and variations.
+02. Euler-Lagrange equation.
+03. constraints and multipliers.
+04. Pontryagin principle preview.
+05. state-space models.
+06. controllability.
+07. observability.
+08. model predictive control overview.
+Completion: Derive an Euler-Lagrange equation for a physical path.

@@ -1,0 +1,12 @@
+Primary book: Algebraic Number Theory and Fermat's Last Theorem — Ian Stewart and David Tall
+Read: sections on algebraic numbers and arithmetic fields. Select by heading; page numbers vary by edition.
+Study checklist:
+01. algebraic integers.
+02. number fields.
+03. ring of integers.
+04. norm and trace.
+05. failure of unique factorization.
+06. ideals as repair.
+07. prime splitting.
+08. class group intuition.
+Completion: Compute norm and factorization behavior in a quadratic field.

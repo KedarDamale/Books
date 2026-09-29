@@ -1,0 +1,12 @@
+Primary book: Stochastic Calculus for Finance II — Steven E. Shreve
+Read: sections on stochastic finance applications. Select by heading; page numbers vary by edition.
+Study checklist:
+01. no-arbitrage principle.
+02. binomial pricing.
+03. risk-neutral measure.
+04. Brownian motion.
+05. Itô formula.
+06. geometric Brownian motion.
+07. Black-Scholes equation.
+08. hedging and model risk.
+Completion: Price a simple claim by a binomial model and identify assumptions.

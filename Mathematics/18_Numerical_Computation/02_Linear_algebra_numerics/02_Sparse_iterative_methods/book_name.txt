@@ -1,0 +1,12 @@
+Primary book: Numerical Linear Algebra — Lloyd N. Trefethen and David Bau III
+Read: sections on iterative methods and sparse matrices. Select by heading; page numbers vary by edition.
+Study checklist:
+01. sparse storage.
+02. Jacobi and Gauss-Seidel.
+03. Krylov subspaces.
+04. conjugate gradient.
+05. GMRES.
+06. preconditioning.
+07. stopping criteria.
+08. large-scale eigenproblems.
+Completion: Solve a sparse SPD system and compare convergence with preconditioning.

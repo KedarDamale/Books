@@ -1,0 +1,12 @@
+Primary book: Elementary Algebra 2e — OpenStax
+Read: sections on Linear equations and inequalities. Select by heading; page numbers vary by edition.
+Study checklist:
+01. equivalent equations.
+02. one-step and multi-step solving.
+03. literal equations.
+04. interval notation.
+05. inequality reversal.
+06. absolute-value equations.
+07. linear word models.
+08. extraneous solutions.
+Completion: Model and solve five real situations with explicit domains.

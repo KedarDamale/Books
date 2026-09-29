@@ -1,0 +1,12 @@
+Primary book: Introduction to Probability — Charles M. Grinstead and J. Laurie Snell
+Read: sections on probability basics and conditioning. Select by heading; page numbers vary by edition.
+Study checklist:
+01. sample spaces.
+02. events and axioms.
+03. counting sample spaces.
+04. conditional probability.
+05. independence.
+06. Bayes theorem.
+07. law of total probability.
+08. common probability paradoxes.
+Completion: Build a probability tree and derive Bayes theorem.

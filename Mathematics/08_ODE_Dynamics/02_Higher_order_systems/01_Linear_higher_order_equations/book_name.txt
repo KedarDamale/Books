@@ -1,0 +1,12 @@
+Primary book: Notes on Diffy Qs — Jiří Lebl
+Read: sections on second-order and higher linear equations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. homogeneous characteristic method.
+02. repeated and complex roots.
+03. forcing and resonance.
+04. undetermined coefficients.
+05. variation of parameters.
+06. Wronskian.
+07. initial conditions.
+08. mechanical oscillations.
+Completion: Solve a damped forced oscillator and classify regimes.

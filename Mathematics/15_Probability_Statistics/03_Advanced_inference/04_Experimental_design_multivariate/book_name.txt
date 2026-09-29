@@ -1,0 +1,12 @@
+Primary book: Design and Analysis of Experiments — Douglas C. Montgomery
+Read: sections on designed experiments. Select by heading; page numbers vary by edition.
+Study checklist:
+01. randomization.
+02. blocking.
+03. factorial designs.
+04. interactions.
+05. analysis of variance.
+06. power and sample size.
+07. response-surface methods.
+08. repeated-measures caveats.
+Completion: Design and analyze a two-factor experiment.

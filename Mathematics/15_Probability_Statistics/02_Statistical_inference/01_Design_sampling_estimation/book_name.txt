@@ -1,0 +1,12 @@
+Primary book: Introduction to Modern Statistics — Mine Çetinkaya-Rundel and Johanna Hardin
+Read: sections on data collection and estimation. Select by heading; page numbers vary by edition.
+Study checklist:
+01. populations and samples.
+02. observational versus experimental studies.
+03. random sampling.
+04. confounding.
+05. sampling distributions.
+06. point estimates.
+07. bias and variance.
+08. bootstrap.
+Completion: Design a study and assess estimator bias.

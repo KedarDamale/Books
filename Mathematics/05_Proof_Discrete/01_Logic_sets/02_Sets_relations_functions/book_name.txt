@@ -1,0 +1,12 @@
+Primary book: Book of Proof — Richard Hammack
+Read: sections on Sets functions and relations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. subset and power set.
+02. union intersection difference.
+03. Cartesian product.
+04. equivalence relations.
+05. partitions.
+06. injective surjective bijective maps.
+07. inverse images.
+08. countable sets preview.
+Completion: Prove two set identities and classify three relations.

@@ -1,0 +1,12 @@
+Primary book: Fractal Geometry: Mathematical Foundations and Applications — Kenneth Falconer
+Read: sections on fractal geometry and complex dynamics. Select by heading; page numbers vary by edition.
+Study checklist:
+01. self-similarity.
+02. Hausdorff dimension.
+03. box-counting dimension.
+04. iterated function systems.
+05. Mandelbrot and Julia sets.
+06. chaotic maps.
+07. attractors.
+08. scaling laws.
+Completion: Estimate box dimension for a known self-similar set.

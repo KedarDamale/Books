@@ -1,0 +1,12 @@
+Primary book: Precalculus 2e — OpenStax
+Read: sections on Conic sections and precalculus review. Select by heading; page numbers vary by edition.
+Study checklist:
+01. parabola focus-directrix.
+02. ellipse focal definition.
+03. hyperbola focal definition.
+04. standard equations.
+05. translations and rotations preview.
+06. domain and inverse review.
+07. function composition.
+08. average rate of change.
+Completion: Classify and graph conics, then explain readiness for limits.

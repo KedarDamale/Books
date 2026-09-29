@@ -1,0 +1,13 @@
+Primary book: Introduction to Analytic Number Theory — Tom M. Apostol
+Read: sections on analytic and modular viewpoints. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Dirichlet series.
+02. Euler products.
+03. prime number theorem statement.
+04. Dirichlet theorem statement.
+05. zeta function.
+06. modular forms motivation.
+07. elliptic curves motivation.
+08. local-global questions.
+Extension book: A First Course in Modular Forms — Fred Diamond and Jerry Shurman; read its introductory modular-form chapters for the modular-form items above.
+Completion: Explain how Euler products encode prime factorization.

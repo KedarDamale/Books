@@ -1,0 +1,12 @@
+Primary book: Applied Combinatorics — Mitchel T. Keller and William T. Trotter
+Read: sections on ordered sets matroids and designs. Select by heading; page numbers vary by edition.
+Study checklist:
+01. partial orders.
+02. chains and antichains.
+03. Dilworth theorem.
+04. Möbius inversion.
+05. matroid independence.
+06. greedy algorithm criterion.
+07. block designs.
+08. incidence matrices.
+Completion: Prove a greedy algorithm succeeds on a matroid.

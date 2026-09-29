@@ -1,0 +1,12 @@
+Primary book: Book of Proof — Richard Hammack
+Read: sections on Definitions examples and counterexamples. Select by heading; page numbers vary by edition.
+Study checklist:
+01. checking each hypothesis.
+02. constructing small examples.
+03. boundary cases.
+04. counterexample to a universal claim.
+05. counterexample to a converse.
+06. distinguishing existence from uniqueness.
+07. testing false implications.
+08. writing a minimal counterexample.
+Completion: Give one valid example and one counterexample for eight claims.

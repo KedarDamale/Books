@@ -1,0 +1,12 @@
+Primary book: The Rising Sea: Foundations of Algebraic Geometry — Ravi Vakil
+Read: sections on cohomology and moduli beginnings. Select by heading; page numbers vary by edition.
+Study checklist:
+01. quasicoherent sheaves.
+02. Čech cohomology.
+03. derived-functor idea.
+04. Serre vanishing statement.
+05. Riemann-Roch viewpoint.
+06. families of varieties.
+07. moduli problems.
+08. deformation theory motivation.
+Completion: Compute a basic Čech cohomology example.

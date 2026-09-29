@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 3 — OpenStax
+Read: sections on Vector fields and line integrals. Select by heading; page numbers vary by edition.
+Study checklist:
+01. parametric curves.
+02. arc length and curvature preview.
+03. vector fields.
+04. gradient and conservative fields.
+05. line integrals of scalars and fields.
+06. path independence.
+07. work.
+08. potential functions.
+Completion: Compute a line integral directly and by a potential.

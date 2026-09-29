@@ -1,0 +1,12 @@
+Primary book: Introduction to Probability — Charles M. Grinstead and J. Laurie Snell
+Read: sections on random variables and distributions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. discrete versus continuous variables.
+02. CDF and density.
+03. expectation and variance.
+04. moments.
+05. quantiles.
+06. named distributions.
+07. transformations.
+08. simulation.
+Completion: Derive the distribution of a transformed variable.

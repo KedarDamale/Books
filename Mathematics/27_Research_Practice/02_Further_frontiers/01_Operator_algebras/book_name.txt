@@ -1,0 +1,12 @@
+Primary book: A Course in Functional Analysis — John B. Conway
+Read: sections on operator algebras and spectra. Select by heading; page numbers vary by edition.
+Study checklist:
+01. bounded operators on Hilbert spaces.
+02. self-adjoint and normal operators.
+03. spectral measures.
+04. C-star algebra definitions.
+05. Gelfand representation.
+06. von Neumann algebra motivation.
+07. states and positive functionals.
+08. connections to statistical mechanics.
+Completion: Read one recent paper and map its prerequisite chain.

@@ -1,0 +1,12 @@
+Primary book: College Algebra 2e — OpenStax
+Read: sections on Systems of linear equations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. graphical intersection.
+02. substitution.
+03. elimination.
+04. inconsistent and dependent systems.
+05. two-variable versus three-variable systems.
+06. augmented matrices.
+07. row operations preview.
+08. application models.
+Completion: Solve one system by graphing, elimination, and row reduction.

@@ -1,0 +1,12 @@
+Primary book: Lie Groups, Lie Algebras, and Representations — Brian C. Hall
+Read: sections on Lie groups and Lie algebras. Select by heading; page numbers vary by edition.
+Study checklist:
+01. matrix Lie groups.
+02. Lie algebra from tangent space.
+03. exponential map.
+04. adjoint action.
+05. Lie algebra homomorphisms.
+06. representations.
+07. irreducibility.
+08. roots and weights preview.
+Completion: Compute Lie brackets and exponentials for a matrix group.

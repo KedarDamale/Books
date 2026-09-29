@@ -1,0 +1,12 @@
+Primary book: Introduction to Analytic Number Theory — Tom M. Apostol
+Read: sections on analytic number theory. Select by heading; page numbers vary by edition.
+Study checklist:
+01. arithmetic functions.
+02. Dirichlet convolution.
+03. Möbius inversion.
+04. Chebyshev bounds.
+05. prime number theorem pathway.
+06. Dirichlet characters.
+07. L-functions.
+08. distribution of primes in progressions.
+Completion: Prove a Möbius inversion identity and analyze an Euler product.

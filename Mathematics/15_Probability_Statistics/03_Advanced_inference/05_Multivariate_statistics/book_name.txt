@@ -1,0 +1,12 @@
+Primary book: Applied Multivariate Statistical Analysis — Richard A. Johnson and Dean W. Wichern
+Read: sections on multivariate analysis. Select by heading; page numbers vary by edition.
+Study checklist:
+01. multivariate normal.
+02. covariance matrices.
+03. Hotelling T-squared.
+04. principal component analysis.
+05. discriminant analysis.
+06. cluster analysis.
+07. canonical correlation.
+08. multiple testing.
+Completion: Apply PCA and explain variance retained and lost.

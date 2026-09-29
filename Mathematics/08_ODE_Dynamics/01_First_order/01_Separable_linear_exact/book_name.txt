@@ -1,0 +1,12 @@
+Primary book: Notes on Diffy Qs — Jiří Lebl
+Read: sections on first-order ordinary differential equations. Select by heading; page numbers vary by edition.
+Study checklist:
+01. initial value problems.
+02. separable equations.
+03. linear integrating factor.
+04. exact equations.
+05. autonomous equations.
+06. equilibria.
+07. direction fields.
+08. existence and uniqueness intuition.
+Completion: Solve three model equations and verify by substitution.

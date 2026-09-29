@@ -1,0 +1,12 @@
+Primary book: Real Analysis: Modern Techniques and Their Applications — Gerald B. Folland
+Read: sections on product measures and Lp spaces. Select by heading; page numbers vary by edition.
+Study checklist:
+01. product sigma algebra.
+02. Tonelli theorem.
+03. Fubini theorem.
+04. change of variables.
+05. Lp norms.
+06. Hölder inequality.
+07. Minkowski inequality.
+08. completeness of Lp.
+Completion: Justify a double-integral exchange and prove an Lp bound.

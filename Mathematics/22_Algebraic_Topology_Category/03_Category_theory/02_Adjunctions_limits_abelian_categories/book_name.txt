@@ -1,0 +1,12 @@
+Primary book: Category Theory in Context — Emily Riehl
+Read: sections on adjunctions and limits. Select by heading; page numbers vary by edition.
+Study checklist:
+01. limits and colimits.
+02. adjoint functors.
+03. units and counits.
+04. monads preview.
+05. abelian categories.
+06. exactness.
+07. derived category motivation.
+08. higher category preview.
+Completion: Construct an explicit adjunction and verify the triangle identities.

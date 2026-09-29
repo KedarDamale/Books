@@ -1,0 +1,12 @@
+Primary book: Convex Optimization — Stephen Boyd and Lieven Vandenberghe
+Read: sections on convex sets functions and duality. Select by heading; page numbers vary by edition.
+Study checklist:
+01. convex combinations.
+02. separating hyperplanes.
+03. convex functions and subgradients.
+04. Jensen inequality.
+05. Lagrangian.
+06. dual function.
+07. strong duality.
+08. KKT conditions.
+Completion: Derive the dual and KKT system for a constrained problem.

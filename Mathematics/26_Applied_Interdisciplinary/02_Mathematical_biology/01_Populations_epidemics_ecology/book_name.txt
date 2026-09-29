@@ -1,0 +1,12 @@
+Primary book: Mathematical Biology I: An Introduction — J. D. Murray
+Read: sections on population and epidemic models. Select by heading; page numbers vary by edition.
+Study checklist:
+01. logistic growth.
+02. predator-prey equations.
+03. equilibria and stability.
+04. SIR model.
+05. basic reproduction number.
+06. age-structured populations.
+07. stochastic birth-death models.
+08. parameter estimation.
+Completion: Analyze equilibria and sensitivity of an SIR model.

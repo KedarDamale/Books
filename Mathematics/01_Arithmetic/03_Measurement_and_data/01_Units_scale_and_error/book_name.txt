@@ -1,0 +1,12 @@
+Primary book: Prealgebra 2e — OpenStax
+Read: sections on Measurement and unit conversion. Select by heading; page numbers vary by edition.
+Study checklist:
+01. SI and customary units.
+02. dimensional consistency.
+03. unit conversion factors.
+04. area and volume units.
+05. scale drawings.
+06. significant digits.
+07. rounding error.
+08. reasonable precision.
+Completion: Convert ten compound units and flag impossible results.

@@ -1,0 +1,12 @@
+Primary book: Discrete Mathematics: An Open Introduction — Oscar Levin
+Read: sections on Induction recursion and invariants. Select by heading; page numbers vary by edition.
+Study checklist:
+01. weak induction.
+02. strong induction.
+03. well-ordering.
+04. recursive definitions.
+05. loop invariants.
+06. structural induction.
+07. recurrences.
+08. termination arguments.
+Completion: Prove a recurrence claim and an algorithm invariant.

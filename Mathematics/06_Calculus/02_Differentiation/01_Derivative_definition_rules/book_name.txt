@@ -1,0 +1,12 @@
+Primary book: Calculus Volume 1 — OpenStax
+Read: sections on Derivatives and differentiation rules. Select by heading; page numbers vary by edition.
+Study checklist:
+01. secant versus tangent.
+02. difference quotient.
+03. differentiability and continuity.
+04. power product quotient rules.
+05. chain rule.
+06. implicit differentiation.
+07. inverse function derivatives.
+08. higher derivatives.
+Completion: Derive product and chain rules and solve mixed derivative problems.

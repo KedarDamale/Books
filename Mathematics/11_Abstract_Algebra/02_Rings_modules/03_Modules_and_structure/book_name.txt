@@ -1,0 +1,12 @@
+Primary book: Abstract Algebra — David S. Dummit and Richard M. Foote
+Read: sections on modules over a ring. Select by heading; page numbers vary by edition.
+Study checklist:
+01. modules and submodules.
+02. module homomorphisms.
+03. free modules.
+04. torsion.
+05. exact sequences.
+06. finitely generated modules over PIDs.
+07. Smith normal form.
+08. applications to abelian groups.
+Completion: Find the invariant factors of a finite abelian group.

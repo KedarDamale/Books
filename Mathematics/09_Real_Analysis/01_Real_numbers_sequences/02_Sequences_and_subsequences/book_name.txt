@@ -1,0 +1,12 @@
+Primary book: Basic Analysis: Introduction to Real Analysis — Jiří Lebl
+Read: sections on sequences and convergence. Select by heading; page numbers vary by edition.
+Study checklist:
+01. epsilon definition of convergence.
+02. limit uniqueness.
+03. boundedness.
+04. monotone convergence.
+05. Cauchy criterion.
+06. subsequences.
+07. limsup and liminf.
+08. divergent examples.
+Completion: Prove a sequence convergence claim and exhibit two failures.

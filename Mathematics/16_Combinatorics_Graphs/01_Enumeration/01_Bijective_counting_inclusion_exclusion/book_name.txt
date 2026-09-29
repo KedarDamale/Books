@@ -1,0 +1,12 @@
+Primary book: Applied Combinatorics — Mitchel T. Keller and William T. Trotter
+Read: sections on elementary enumeration. Select by heading; page numbers vary by edition.
+Study checklist:
+01. bijections.
+02. stars and bars.
+03. multinomial coefficients.
+04. inclusion-exclusion.
+05. derangements.
+06. double counting.
+07. recurrences.
+08. combinatorial identities.
+Completion: Prove an identity by two combinatorial stories.

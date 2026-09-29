@@ -1,0 +1,12 @@
+Primary book: Commutative Algebra — David Eisenbud
+Read: sections on prime ideals and localization. Select by heading; page numbers vary by edition.
+Study checklist:
+01. prime and maximal ideals.
+02. Spec of a ring.
+03. Zariski topology.
+04. localization at multiplicative sets.
+05. local rings.
+06. localization of modules.
+07. support of a module.
+08. geometric meaning of localization.
+Completion: Compute Spec and localizations for two elementary rings.

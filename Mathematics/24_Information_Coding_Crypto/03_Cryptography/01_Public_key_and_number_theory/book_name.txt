@@ -1,0 +1,12 @@
+Primary book: An Introduction to Mathematical Cryptography — Jeffrey Hoffstein, Jill Pipher, and Joseph H. Silverman
+Read: sections on number-theoretic cryptography. Select by heading; page numbers vary by edition.
+Study checklist:
+01. modular exponentiation.
+02. RSA setup.
+03. Euler and Carmichael functions.
+04. discrete logarithm.
+05. Diffie-Hellman.
+06. elliptic-curve group law.
+07. digital signatures.
+08. security assumptions.
+Completion: Implement toy RSA and explain why toy parameters are insecure.

@@ -1,0 +1,12 @@
+Primary book: Introduction to Operations Research — Frederick S. Hillier and Gerald J. Lieberman
+Read: sections on dynamic programming and stochastic models. Select by heading; page numbers vary by edition.
+Study checklist:
+01. Bellman recursion.
+02. state and action space.
+03. optimal substructure.
+04. Markov decision processes.
+05. inventory control.
+06. queueing models.
+07. zero-sum games.
+08. equilibrium preview.
+Completion: Write Bellman equations for a finite decision problem.

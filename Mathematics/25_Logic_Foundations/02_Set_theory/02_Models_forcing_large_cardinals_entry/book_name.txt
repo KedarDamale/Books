@@ -1,0 +1,12 @@
+Primary book: Set Theory — Thomas Jech
+Read: sections on advanced set-theoretic methods. Select by heading; page numbers vary by edition.
+Study checklist:
+01. models of ZFC.
+02. constructible universe.
+03. forcing idea.
+04. continuum hypothesis independence.
+05. stationary sets.
+06. large cardinal hierarchy.
+07. descriptive set theory entry.
+08. independence versus proof.
+Completion: Explain the logical meaning of an independence result.

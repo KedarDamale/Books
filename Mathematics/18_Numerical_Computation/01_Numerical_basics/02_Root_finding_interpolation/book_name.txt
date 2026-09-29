@@ -1,0 +1,12 @@
+Primary book: Numerical Analysis — Richard L. Burden and J. Douglas Faires
+Read: sections on roots and interpolation. Select by heading; page numbers vary by edition.
+Study checklist:
+01. bisection.
+02. fixed-point iteration.
+03. Newton and secant methods.
+04. convergence rates.
+05. Lagrange interpolation.
+06. Newton interpolation.
+07. splines.
+08. Runge phenomenon.
+Completion: Compare root solvers and interpolation errors on test functions.

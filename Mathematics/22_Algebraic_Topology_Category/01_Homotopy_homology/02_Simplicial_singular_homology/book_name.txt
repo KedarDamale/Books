@@ -1,0 +1,12 @@
+Primary book: Algebraic Topology — Allen Hatcher
+Read: sections on homology groups. Select by heading; page numbers vary by edition.
+Study checklist:
+01. simplicial chains.
+02. boundary squared equals zero.
+03. cycles and boundaries.
+04. singular homology.
+05. long exact sequences.
+06. excision.
+07. Mayer-Vietoris.
+08. degree and applications.
+Completion: Compute homology of the sphere and a torus.

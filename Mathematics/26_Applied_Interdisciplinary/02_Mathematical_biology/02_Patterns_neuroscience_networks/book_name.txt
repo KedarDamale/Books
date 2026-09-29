@@ -1,0 +1,12 @@
+Primary book: Mathematical Biology II: Spatial Models and Biomedical Applications — J. D. Murray
+Read: sections on spatial and biological dynamics. Select by heading; page numbers vary by edition.
+Study checklist:
+01. reaction-diffusion equations.
+02. Turing patterns.
+03. traveling waves.
+04. neural activity models.
+05. coupled oscillators.
+06. network diffusion.
+07. noise in biological systems.
+08. model identifiability.
+Completion: Explain when diffusion can destabilize a homogeneous equilibrium.

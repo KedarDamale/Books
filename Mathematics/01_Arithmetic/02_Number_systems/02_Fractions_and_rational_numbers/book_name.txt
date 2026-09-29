@@ -1,0 +1,12 @@
+Primary book: Prealgebra 2e — OpenStax
+Read: sections on Fractions and rational numbers. Select by heading; page numbers vary by edition.
+Study checklist:
+01. part-whole and quotient interpretations.
+02. equivalent fractions.
+03. greatest common divisor.
+04. common denominators.
+05. fraction operations.
+06. mixed numbers.
+07. complex fractions.
+08. ordering rational numbers.
+Completion: Explain and compute all four operations on unfamiliar fractions.

@@ -1,0 +1,12 @@
+Primary book: Elementary Algebra 2e — OpenStax
+Read: sections on Variables and algebraic expressions. Select by heading; page numbers vary by edition.
+Study checklist:
+01. variables and constants.
+02. terms coefficients and degree.
+03. substitution and evaluation.
+04. distributive expansion.
+05. collecting like terms.
+06. factoring common factors.
+07. formula rearrangement.
+08. dimensional checks.
+Completion: Simplify ten expressions and verify by substitution.
