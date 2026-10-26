@@ -1,0 +1,14 @@
+Primary book: Software Architecture in Practice, 4th edition — Len Bass, Paul Clements, and Rick Kazman.
+Source: https://www.informit.com/store/software-architecture-in-practice-9780136886099
+Source type: Publisher book page and contents.
+Read: Architectural patterns, modifiability, interoperability, and service-based architecture themes.
+Study checklist:
+01. Choose boundaries around coherent responsibilities.
+02. Analyze coupling and change propagation.
+03. Compare local and remote calls.
+04. Assign data ownership.
+05. Identify distributed transaction pressure.
+06. Explain when decomposition raises complexity.
+Completion: Design one modular system and evaluate whether a specific boundary should remain local or become a service.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Quality_attributes_architecture_views_and_decisions/book_name.txt

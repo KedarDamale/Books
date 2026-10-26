@@ -1,0 +1,13 @@
+Primary book: Designing Data-Intensive Applications, 1st edition — Martin Kleppmann.
+Source: https://dataintensive.net/
+Source type: Author book site.
+Read: Encoding and Evolution, Batch Processing, Stream Processing, and derived-data consistency themes.
+Study checklist:
+01. Identify training and serving transformations.
+02. Define point-in-time feature availability.
+03. Check schema and distribution contracts.
+04. Reconcile online and batch outputs.
+05. Version derived features.
+06. Explain delayed-label monitoring limits.
+Completion: Build a shared preprocessing contract and detect a deliberate mismatch between training data and served requests.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

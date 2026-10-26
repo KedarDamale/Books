@@ -1,0 +1,13 @@
+Primary book: A Graduate Course in Applied Cryptography, version 0.6 — Dan Boneh and Victor Shoup.
+Source: https://toc.cryptobook.us/
+Source type: Author-provided open textbook.
+Read: Encryption, Stream Ciphers, Block Ciphers, and Chosen Plaintext Attacks themes.
+Study checklist:
+01. Define computational indistinguishability.
+02. State an encryption security game.
+03. Explain secure randomness requirements.
+04. Compare stream and block constructions.
+05. Identify nonce-reuse failure modes.
+06. Distinguish confidentiality and authenticity.
+Completion: Analyze a toy encryption game and demonstrate why reusing a stream-cipher keystream reveals message relationships.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

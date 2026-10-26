@@ -1,0 +1,13 @@
+Primary book: Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+Source: https://pages.cs.wisc.edu/~remzi/OSTEP/
+Source type: Author-provided open book.
+Read: Processes, Process API, and Limited Direct Execution themes.
+Study checklist:
+01. Explain user and kernel execution modes.
+02. Trace traps and context switches.
+03. Distinguish mechanism and policy.
+04. Model process states.
+05. Explain protection boundaries.
+06. Identify the cost of crossing boundaries.
+Completion: Simulate process states and explain a system-call path from a Rust program to a protected resource.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

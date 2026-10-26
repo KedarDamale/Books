@@ -1,0 +1,14 @@
+Primary book: Introduction to Theoretical Computer Science — Boaz Barak.
+Source: https://introtcs.org/public/index.html
+Source type: Author-provided open textbook draft.
+Read: Universality, uncomputability, and reductions themes.
+Study checklist:
+01. State the halting problem precisely.
+02. Construct a diagonalization argument.
+03. Reduce one undecidable problem to another.
+04. Separate recognizability and decidability.
+05. Explain semantic-property limits.
+06. Identify invalid self-reference arguments.
+Completion: Write a complete halting-problem proof and a reduction showing why a proposed perfect program analyzer cannot exist.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Universal_computation_and_encoding/book_name.txt

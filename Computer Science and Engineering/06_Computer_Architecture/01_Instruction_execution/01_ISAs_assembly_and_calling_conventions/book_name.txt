@@ -1,0 +1,13 @@
+Primary book: Digital Design and Computer Architecture: RISC-V Edition — Sarah L. Harris and David Harris.
+Source: https://pages.hmc.edu/harris/ddca/ddcarv.html
+Source type: Book and official companion resources.
+Read: Architecture themes: RISC-V instructions, addressing, procedures, and machine encoding.
+Study checklist:
+01. Distinguish ISA and microarchitecture.
+02. Decode registers and immediate fields.
+03. Translate loads, stores, and branches.
+04. Trace stack-based procedure calls.
+05. Explain caller and callee obligations.
+06. Read assembly emitted from Rust.
+Completion: Compile a small Rust function, annotate its assembly, and trace an input through registers and memory.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

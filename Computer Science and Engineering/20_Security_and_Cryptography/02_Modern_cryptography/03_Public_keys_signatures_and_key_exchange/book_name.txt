@@ -1,0 +1,14 @@
+Primary book: A Graduate Course in Applied Cryptography, version 0.6 — Dan Boneh and Victor Shoup.
+Source: https://toc.cryptobook.us/
+Source type: Author-provided open textbook.
+Read: Public Key Tools, Public Key Encryption, Digital Signatures, and Authenticated Key Exchange themes.
+Study checklist:
+01. Explain computational hardness assumptions.
+02. Separate encryption and signatures.
+03. Trace a Diffie-Hellman exchange.
+04. Identify man-in-the-middle substitution.
+05. Bind identities and transcript context.
+06. Explain forward secrecy and key compromise.
+Completion: Diagram an authenticated key exchange and identify the exact authentication failure in an unauthenticated variant.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Hashes_MACs_and_authenticated_encryption/book_name.txt

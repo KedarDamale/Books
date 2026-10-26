@@ -1,0 +1,13 @@
+Primary book: Basics of Quantum Information — John Watrous and IBM Quantum education contributors.
+Source: https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information
+Source type: Official course text.
+Read: Single systems, multiple systems, quantum circuits, and entanglement examples themes.
+Study checklist:
+01. Represent normalized state vectors.
+02. Apply unitary gates.
+03. Calculate measurement probabilities.
+04. Use tensor products for joint systems.
+05. Distinguish entanglement and classical correlation.
+06. Explain why amplitudes cannot all be read out.
+Completion: Simulate a small entangled circuit with NumPy and verify measurement frequencies against calculated probabilities.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

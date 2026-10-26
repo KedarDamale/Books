@@ -1,0 +1,14 @@
+Primary book: PyTorch Tutorials and documentation — PyTorch contributors.
+Source: https://docs.pytorch.org/tutorials/beginner/basics/intro.html
+Source type: Official online tutorials.
+Read: Distributed tutorials: DistributedDataParallel, collectives, data partitioning, and checkpointing.
+Study checklist:
+01. Explain gradient all-reduce.
+02. Partition samples without accidental duplication.
+03. Distinguish local and global batch size.
+04. Handle rank-dependent control-flow hazards.
+05. Save and restore distributed state.
+06. Analyze communication and straggler costs.
+Completion: Run or simulate a two-worker training step and verify that aggregated gradients match a single-worker reference under stated assumptions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Profiling_mixed_precision_and_memory/book_name.txt

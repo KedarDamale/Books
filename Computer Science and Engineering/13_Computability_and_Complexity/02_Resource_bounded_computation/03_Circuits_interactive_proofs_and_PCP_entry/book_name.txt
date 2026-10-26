@@ -1,0 +1,14 @@
+Primary book: Computational Complexity: A Modern Approach — Sanjeev Arora and Boaz Barak.
+Source: https://theory.cs.princeton.edu/complexity/
+Source type: Author book site and draft.
+Read: Boolean circuits, interactive proofs, and PCP theorem themes.
+Study checklist:
+01. Distinguish uniform and nonuniform computation.
+02. Define circuit size and depth.
+03. Explain verifier-prover interaction.
+04. State completeness and soundness.
+05. Interpret probabilistically checkable proofs.
+06. Connect hardness of approximation to PCP.
+Completion: Work through a small interactive verification example and explain precisely which advanced theorem is being used rather than reproved.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Space_hierarchies_and_randomized_classes/book_name.txt

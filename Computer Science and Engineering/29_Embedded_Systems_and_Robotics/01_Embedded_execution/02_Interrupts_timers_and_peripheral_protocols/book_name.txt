@@ -1,0 +1,14 @@
+Primary book: The Embedded Rust Book — Rust Embedded Working Group.
+Source: https://docs.rust-embedded.org/book/
+Source type: Official open book.
+Read: Peripherals, Interrupts, Concurrency, and hardware abstraction themes.
+Study checklist:
+01. Compare polling and interrupt-driven I/O.
+02. Protect shared interrupt state.
+03. Configure a timer abstraction.
+04. Explain serial bus framing.
+05. Separate register access and protocol state.
+06. Bound interrupt-handler work.
+Completion: Implement a simulated timer-driven sensor interface in Rust and exercise overflow, missing data, and concurrent access.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Bare_metal_no_std_and_startup/book_name.txt

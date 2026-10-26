@@ -1,0 +1,14 @@
+Primary book: Fundamentals of Numerical Computation — Tobin A. Driscoll and Richard J. Braun.
+Source: https://fncbook.com/
+Source type: Author-provided online book.
+Read: Roots of Nonlinear Equations, Piecewise Interpolation, and Global Function Approximation themes.
+Study checklist:
+01. Compare bracketing and Newton steps.
+02. State convergence assumptions.
+03. Identify derivative and initialization failures.
+04. Explain interpolation error.
+05. Compare local and global polynomial approximations.
+06. Detect extrapolation instability.
+Completion: Implement robust root finding and compare interpolation methods on a function chosen to expose approximation failure.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Linear_solves_least_squares_and_Krylov_methods/book_name.txt

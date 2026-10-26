@@ -1,0 +1,17 @@
+Primary book: The Rust Programming Language — Steve Klabnik, Carol Nichols, and Chris Krycho, with the Rust Community.
+Source: https://doc.rust-lang.org/book/
+Source type: Official open book.
+Read: Fearless Concurrency and Advanced Rust themes; pair with std::sync::atomic reference for ordering semantics.
+Study checklist:
+01. Explain atomic read-modify-write operations.
+02. Separate atomicity and ordering.
+03. Trace acquire-release synchronization.
+04. Contrast relaxed and sequentially consistent orderings.
+05. Identify ABA and reclamation concerns.
+06. State unsafe algorithm proof obligations.
+Completion: Model a message-passing atomic protocol, explain its happens-before argument, and identify an ordering change that breaks it.
+Required second source: Rust standard library: std::sync::atomic — Rust project contributors.
+Read: Memory model for atomic accesses, Ordering, fences, and examples. Required for the memory-order contracts.
+Source: https://doc.rust-lang.org/std/sync/atomic/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Interleavings_linearizability_and_progress/book_name.txt

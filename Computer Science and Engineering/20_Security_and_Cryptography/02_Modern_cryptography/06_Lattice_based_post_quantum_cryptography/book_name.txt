@@ -1,0 +1,14 @@
+Primary book: A Graduate Course in Applied Cryptography, version 0.6 — Dan Boneh and Victor Shoup.
+Source: https://toc.cryptobook.us/
+Source type: Author-provided open textbook.
+Read: Post-Quantum Cryptography from Lattices themes.
+Study checklist:
+01. Represent an integer lattice.
+02. State a short-vector problem informally.
+03. Explain learning-with-errors structure.
+04. Relate noise to correctness and security.
+05. Distinguish quantum resistance and unconditional secrecy.
+06. Identify implementation and parameter-selection limits.
+Completion: Build a deliberately tiny educational noisy-linear-equation example and explain why it is unsuitable as real encryption.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../05_Threshold_keys_and_secure_multiparty_computation/book_name.txt

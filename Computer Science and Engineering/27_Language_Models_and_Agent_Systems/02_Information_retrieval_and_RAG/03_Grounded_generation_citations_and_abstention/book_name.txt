@@ -1,0 +1,17 @@
+Primary book: LangChain Python documentation — LangChain contributors.
+Source: https://docs.langchain.com/oss/python/langchain/overview
+Source type: Official online guide.
+Read: Retrieval-augmented generation, model messages, structured output, and tool integration themes.
+Study checklist:
+01. Separate retrieval and generation failure modes.
+02. Bind answer claims to evidence spans.
+03. Distinguish relevance and factual support.
+04. Handle conflicting and stale documents.
+05. Define an abstention policy.
+06. Evaluate retrieval and answer stages independently.
+Completion: Build a small RAG workflow that cites source spans and refuses unsupported questions, then report categorized failures.
+Extension book: Graph Representation Learning — William L. Hamilton.
+Extension focus (optional): Explore knowledge graphs and relational representations independently of agent orchestration.
+Source: https://www.cs.mcgill.ca/~wlh/grl_book/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Dense_search_chunking_and_hybrid_retrieval/book_name.txt

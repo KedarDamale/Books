@@ -1,0 +1,14 @@
+Primary book: Polars User Guide — Polars contributors.
+Source: https://docs.pola.rs/
+Source type: Official online guide.
+Read: Expressions and contexts, Lazy API, Streaming, Joins, Window functions, and query optimization themes.
+Study checklist:
+01. Build expression trees rather than row callbacks.
+02. Distinguish eager and lazy execution.
+03. Inspect optimized query plans.
+04. Explain projection and predicate pushdown.
+05. Identify streaming-compatible operations.
+06. Compare null and NaN semantics.
+Completion: Translate a Pandas pipeline to lazy Polars and compare correctness, memory use, and optimizer behavior on the same input.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Grouping_windows_and_time_semantics/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: The Embedded Rust Book — Rust Embedded Working Group.
+Source: https://docs.rust-embedded.org/book/
+Source type: Official open book.
+Read: A no_std Rust Environment, A minimal Rust runtime, Memory-mapped Registers, and startup themes.
+Study checklist:
+01. Separate firmware and hosted execution.
+02. Explain reset and startup responsibilities.
+03. Define memory regions and stack placement.
+04. Access peripheral registers through safe abstractions.
+05. Explain panic and allocation choices.
+06. Analyze unsafe hardware-interface assumptions.
+Completion: Build or simulate a minimal no_std Rust firmware image and explain its startup path and memory layout.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

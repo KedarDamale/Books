@@ -1,0 +1,14 @@
+Primary book: The Missing Semester of Your CS Education, 2020 course notes — Anish Athalye, Jon Gjengset, and Jose Javier Gonzalez Ortiz.
+Source: https://missing.csail.mit.edu/2020/
+Source type: MIT course text.
+Read: 2020 notes: Debugging and Profiling.
+Study checklist:
+01. Use breakpoints and inspect stack frames.
+02. Minimize a failure before fixing it.
+03. Separate wall time from CPU time.
+04. Distinguish sampling and tracing profilers.
+05. Control warmup and measurement noise.
+06. Report distributions rather than one timing.
+Completion: Diagnose and measure a slow program, retain a correctness check, and explain the uncertainty in its speedup.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Environments_dependencies_and_build_graphs/book_name.txt

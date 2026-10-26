@@ -1,0 +1,14 @@
+Primary book: Basics of Quantum Information — John Watrous and IBM Quantum education contributors.
+Source: https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information
+Source type: Official course text.
+Read: Quantum Entanglement themes: teleportation, superdense coding, and the CHSH game.
+Study checklist:
+01. Trace shared entanglement preparation.
+02. Calculate conditional measurement states.
+03. Explain the classical message in teleportation.
+04. Distinguish teleporting state and matter.
+05. Compare classical and quantum CHSH strategies.
+06. Explain why entanglement cannot signal alone.
+Completion: Simulate teleportation with NumPy and verify the recovered state under each measurement outcome and classical correction.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Qubits_circuits_measurement_and_entanglement/book_name.txt

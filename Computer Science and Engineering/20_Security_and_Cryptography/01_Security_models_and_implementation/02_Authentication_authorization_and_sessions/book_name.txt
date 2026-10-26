@@ -1,0 +1,14 @@
+Primary book: Security Engineering: A Guide to Building Dependable Distributed Systems, 3rd edition — Ross Anderson.
+Source: https://www.cl.cam.ac.uk/archive/rja14/book.html
+Source type: Author-provided open book chapters.
+Read: Protocols, Access Control, and Distributed Systems themes.
+Study checklist:
+01. Separate identity proof and permission checks.
+02. Compare roles, attributes, and capabilities.
+03. Explain session creation and invalidation.
+04. Identify replay and fixation risks.
+05. Model credential rotation.
+06. Analyze object-level authorization failures.
+Completion: Specify a session and authorization model and test revocation, expired credentials, and unauthorized object access.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Threat_modeling_and_security_properties/book_name.txt

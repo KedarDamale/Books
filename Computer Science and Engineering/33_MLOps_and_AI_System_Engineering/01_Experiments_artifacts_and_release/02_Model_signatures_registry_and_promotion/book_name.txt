@@ -1,0 +1,14 @@
+Primary book: MLflow documentation — MLflow contributors.
+Source: https://mlflow.org/docs/latest/
+Source type: Official online guide.
+Read: Model packaging, signatures, input examples, registry, and deployment themes.
+Study checklist:
+01. Define model input and output schemas.
+02. Capture runtime dependencies.
+03. Validate an artifact before promotion.
+04. Separate aliases and immutable versions.
+05. Record approval and evaluation evidence.
+06. Plan rollback of models and preprocessing.
+Completion: Package a model with a signature and demonstrate a controlled promotion and rollback with a deliberately incompatible input schema.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_MLflow_experiments_artifacts_and_lineage/book_name.txt

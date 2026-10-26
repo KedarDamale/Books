@@ -1,0 +1,17 @@
+Primary book: Denoising Diffusion Probabilistic Models — Jonathan Ho, Ajay Jain, and Pieter Abbeel.
+Source: https://arxiv.org/abs/2006.11239
+Source type: Authors' open research paper.
+Read: Paper themes: forward diffusion, reverse parameterization, simplified denoising objective, and sampling.
+Study checklist:
+01. Define a forward noising schedule.
+02. Derive a sampled noisy observation.
+03. Explain the denoising prediction target.
+04. Distinguish training and sampling computation.
+05. Trace a reverse sampling step.
+06. Identify discretization and evaluation limitations.
+Completion: Train a small PyTorch denoiser on a toy distribution and compare generated samples and compute costs under several schedules.
+Extension book: Deep Learning — Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+Extension focus (optional): Deepen optimization, representation, and generative-model theory.
+Source: https://www.deeplearningbook.org/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../05_Low_rank_adaptation_in_PyTorch/book_name.txt

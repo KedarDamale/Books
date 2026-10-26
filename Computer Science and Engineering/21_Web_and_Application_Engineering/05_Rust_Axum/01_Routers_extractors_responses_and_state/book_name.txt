@@ -1,0 +1,13 @@
+Primary book: axum crate documentation — Tokio and axum contributors.
+Source: https://docs.rs/axum/latest/axum/
+Source type: Official crate documentation.
+Read: Routing, Handlers, Extractors, Responses, and Sharing state themes.
+Study checklist:
+01. Compose routers and typed paths.
+02. Explain extractor order and request-body consumption.
+03. Return typed application responses.
+04. Share state through ownership-safe handles.
+05. Preserve Send and Sync requirements.
+06. Convert domain failures at the HTTP boundary.
+Completion: Build an Axum resource API and explain one compiler error involving handler futures or shared-state ownership.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

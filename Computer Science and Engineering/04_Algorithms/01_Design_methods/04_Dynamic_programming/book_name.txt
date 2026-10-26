@@ -1,0 +1,14 @@
+Primary book: Algorithms — Jeff Erickson.
+Source: https://jeffe.cs.illinois.edu/teaching/algorithms/
+Source type: Author-provided open book and companion notes.
+Read: Dynamic Programming themes.
+Study checklist:
+01. Define a sufficient state.
+02. Derive a recurrence from subproblems.
+03. Establish base cases and evaluation order.
+04. Reconstruct an optimal solution.
+05. Compare memoization and tabulation.
+06. Find a counterexample to a faulty state.
+Completion: Implement sequence alignment with traceback and demonstrate why a tempting reduced state loses correctness.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Backtracking_and_pruning/book_name.txt

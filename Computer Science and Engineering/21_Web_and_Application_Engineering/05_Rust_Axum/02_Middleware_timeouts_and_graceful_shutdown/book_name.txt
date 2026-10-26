@@ -1,0 +1,14 @@
+Primary book: axum crate documentation — Tokio and axum contributors.
+Source: https://docs.rs/axum/latest/axum/
+Source type: Official crate documentation.
+Read: Middleware, Error handling, and official examples on timeouts and graceful shutdown.
+Study checklist:
+01. Trace middleware layering.
+02. Distinguish application and service-layer errors.
+03. Apply request deadlines.
+04. Bound concurrent service work.
+05. Propagate request tracing context.
+06. Drain in-flight work on shutdown.
+Completion: Implement an Axum service that rejects excess work predictably and shuts down without abandoning accepted requests silently.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Routers_extractors_responses_and_state/book_name.txt

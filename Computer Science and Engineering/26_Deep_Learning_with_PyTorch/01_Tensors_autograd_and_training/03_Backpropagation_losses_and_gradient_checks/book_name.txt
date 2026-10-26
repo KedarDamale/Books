@@ -1,0 +1,14 @@
+Primary book: Dive into Deep Learning — Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola.
+Source: https://d2l.ai/
+Source type: Open book.
+Read: Multilayer Perceptrons, Forward Propagation, Backward Propagation, and Computational Graphs themes.
+Study checklist:
+01. Derive affine-layer gradients.
+02. Apply chain rule through activations.
+03. Match loss functions and output parameterizations.
+04. Explain minibatch gradient estimates.
+05. Check gradients numerically.
+06. Diagnose disconnected or vanishing gradients.
+Completion: Implement a small network with NumPy gradients and compare its updates with an equivalent PyTorch network.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Modules_datasets_and_reproducible_loops/book_name.txt

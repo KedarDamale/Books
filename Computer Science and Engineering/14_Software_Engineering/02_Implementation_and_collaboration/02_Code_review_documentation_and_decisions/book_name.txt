@@ -1,0 +1,14 @@
+Primary book: Software Engineering at Google — Titus Winters, Tom Manshreck, and Hyrum Wright, editors.
+Source: https://abseil.io/resources/swe-book/html/toc.html
+Source type: Official open book.
+Read: Code Review, Documentation, and Style Guides and Rules themes.
+Study checklist:
+01. Review behavior and contracts before style.
+02. Explain a change for an unfamiliar reader.
+03. Document reasons and limitations.
+04. Distinguish API and implementation documentation.
+05. Record a consequential design decision.
+06. Make review comments actionable.
+Completion: Prepare a small reviewed change with a design note, interface documentation, and a resolved correctness concern.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Modularity_information_hiding_and_composition/book_name.txt

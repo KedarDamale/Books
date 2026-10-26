@@ -1,0 +1,13 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Transactions themes: atomicity, isolation, serializability, and isolation levels.
+Study checklist:
+01. Define transaction invariants.
+02. Construct conflict graphs.
+03. Distinguish serial and serializable histories.
+04. Demonstrate dirty and nonrepeatable reads.
+05. Explain write skew.
+06. Separate consistency promises from application invariants.
+Completion: Analyze several concurrent histories and show which violate a stated application invariant under snapshot isolation.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

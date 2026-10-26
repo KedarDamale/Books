@@ -1,0 +1,14 @@
+Primary book: Designing Data-Intensive Applications, 1st edition — Martin Kleppmann.
+Source: https://dataintensive.net/
+Source type: Author book site.
+Read: Batch Processing, Stream Processing, and The Future of Data Systems themes.
+Study checklist:
+01. Compare bounded and unbounded inputs.
+02. Trace replayable logs.
+03. Separate event time and processing time.
+04. Explain delivery and processing guarantees.
+05. Relate checkpoints to output commits.
+06. Bound the meaning of exactly-once claims.
+Completion: Build a restartable event processor and demonstrate when duplicate deliveries do and do not duplicate external effects.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Partitioning_rebalancing_and_distributed_naming/book_name.txt

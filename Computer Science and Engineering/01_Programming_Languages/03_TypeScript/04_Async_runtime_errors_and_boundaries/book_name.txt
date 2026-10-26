@@ -1,0 +1,14 @@
+Primary book: Eloquent JavaScript, 4th edition — Marijn Haverbeke.
+Source: https://eloquentjavascript.net/
+Source type: Open book.
+Read: Asynchronous Programming, Bugs and Errors, and Node.js themes; pair with TypeScript types.
+Study checklist:
+01. Trace promise resolution and rejection.
+02. Explain event-loop task ordering.
+03. Propagate failures across async calls.
+04. Distinguish compile-time and runtime schemas.
+05. Bound work and release resources.
+06. Design cancellation at an API boundary.
+Completion: Build a typed concurrent job runner and demonstrate rejection handling, concurrency limits, and orderly shutdown.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Generics_mapped_and_conditional_types/book_name.txt

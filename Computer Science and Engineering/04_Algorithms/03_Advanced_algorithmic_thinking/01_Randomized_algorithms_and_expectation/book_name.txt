@@ -1,0 +1,13 @@
+Primary book: Algorithms — Jeff Erickson.
+Source: https://jeffe.cs.illinois.edu/teaching/algorithms/
+Source type: Author-provided open book and companion notes.
+Read: Companion randomized algorithms notes and randomized analysis themes.
+Study checklist:
+01. Distinguish Las Vegas and Monte Carlo algorithms.
+02. Analyze randomized partitioning.
+03. Use indicator variables.
+04. State probability-of-failure guarantees.
+05. Compare expected and worst-case bounds.
+06. Explain dependence on random choices.
+Completion: Analyze and simulate randomized selection, reporting both expected work and rare expensive runs.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

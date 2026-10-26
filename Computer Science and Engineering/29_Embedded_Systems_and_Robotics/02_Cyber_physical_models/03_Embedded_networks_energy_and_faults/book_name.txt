@@ -1,0 +1,17 @@
+Primary book: Introduction to Embedded Systems: A Cyber-Physical Systems Approach, 2nd edition — Edward A. Lee and Sanjit A. Seshia.
+Source: https://ptolemy.berkeley.edu/books/leeseshia/
+Source type: Author-provided open book.
+Read: Networking, embedded processors, and design and analysis themes.
+Study checklist:
+01. Model packet loss and intermittent links.
+02. Budget compute and communication energy.
+03. Design bounded telemetry buffers.
+04. Define safe degraded behavior.
+05. Separate watchdog recovery and correctness.
+06. Analyze hardware and software failure interaction.
+Completion: Design a Rust sensor-node simulation with intermittent connectivity and quantify data loss, recovery behavior, and energy assumptions.
+Extension book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Extension focus (optional): Continue to robot dynamics and trajectory optimization after kinematics.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_State_machines_hybrid_systems_and_control/book_name.txt

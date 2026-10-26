@@ -1,0 +1,14 @@
+Primary book: Mining of Massive Datasets — Jure Leskovec, Anand Rajaraman, and Jeffrey D. Ullman.
+Source: https://www.mmds.org/
+Source type: Author-provided open book.
+Read: Recommendation Systems, dimensionality reduction, and finding similar items themes.
+Study checklist:
+01. Compare content and collaborative signals.
+02. Derive a matrix-factorization objective.
+03. Explain cold-start and feedback loops.
+04. Choose ranking metrics.
+05. Split interactions without temporal leakage.
+06. Analyze popularity and exposure bias.
+Completion: Build a recommendation baseline in Python and compare random and temporal evaluation splits with coverage and ranking metrics.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Imbalance_anomaly_detection_and_survival/book_name.txt

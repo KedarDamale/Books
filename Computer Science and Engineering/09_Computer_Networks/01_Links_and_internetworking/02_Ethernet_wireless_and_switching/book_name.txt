@@ -1,0 +1,14 @@
+Primary book: An Introduction to Computer Networks, 2nd edition — Peter L. Dordal.
+Source: https://intronetworks.cs.luc.edu/
+Source type: Open textbook.
+Read: Ethernet, Ethernet switches, and Wireless LANs themes.
+Study checklist:
+01. Explain frames and MAC addressing.
+02. Trace switch learning and forwarding.
+03. Identify broadcast and collision domains.
+04. Explain wireless contention and interference.
+05. Compare link reliability assumptions.
+06. Describe loops and spanning-tree motivation.
+Completion: Simulate a learning switch and explain broadcast behavior and the consequences of a forwarding loop.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Layering_packetization_and_delay/book_name.txt

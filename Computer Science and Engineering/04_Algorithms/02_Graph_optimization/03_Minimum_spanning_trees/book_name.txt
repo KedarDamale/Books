@@ -1,0 +1,14 @@
+Primary book: Algorithms — Jeff Erickson.
+Source: https://jeffe.cs.illinois.edu/teaching/algorithms/
+Source type: Author-provided open book and companion notes.
+Read: Minimum Spanning Trees themes.
+Study checklist:
+01. Define spanning trees and cut properties.
+02. Prove a safe-edge rule.
+03. Implement disjoint-set union.
+04. Compare Kruskal and Prim.
+05. Handle ties and disconnected graphs.
+06. Separate shortest-path and spanning objectives.
+Completion: Compute a minimum spanning forest and certify its cost using cut or cycle arguments.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Shortest_paths_and_negative_cycles/book_name.txt

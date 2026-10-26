@@ -1,0 +1,14 @@
+Primary book: Designing Data-Intensive Applications, 1st edition — Martin Kleppmann.
+Source: https://dataintensive.net/
+Source type: Author book site.
+Read: Storage and Retrieval, Replication, and derived-data themes.
+Study checklist:
+01. Distinguish cache and authoritative state.
+02. Compare write-through and cache-aside flows.
+03. Explain stale reads and TTL limits.
+04. Handle cache stampedes.
+05. Analyze hot-key amplification.
+06. Model invalidation after partial failure.
+Completion: Implement a small cache experiment and demonstrate a stale-data or stampede failure with a justified mitigation.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_API_contracts_idempotency_and_versioning/book_name.txt

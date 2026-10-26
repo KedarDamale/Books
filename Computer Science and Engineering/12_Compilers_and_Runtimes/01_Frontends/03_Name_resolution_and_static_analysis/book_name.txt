@@ -1,0 +1,14 @@
+Primary book: Crafting Interpreters — Robert Nystrom.
+Source: https://craftinginterpreters.com/contents.html
+Source type: Author-provided open book.
+Read: Resolving and Binding, Functions, and Classes themes.
+Study checklist:
+01. Build lexical symbol tables.
+02. Distinguish declaration and use sites.
+03. Resolve nested variable bindings.
+04. Detect illegal self-reference.
+05. Track function and loop contexts.
+06. Preserve helpful source diagnostics.
+Completion: Add a resolver to an interpreter and demonstrate a closure bug prevented by static binding resolution.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Grammars_precedence_and_parsing/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: The Python Standard Library — Python documentation contributors.
+Source: https://docs.python.org/3/library/
+Source type: Official reference.
+Read: asyncio and concurrent.futures themes: tasks, cancellation, synchronization, processes.
+Study checklist:
+01. Explain cooperative event-loop execution.
+02. Distinguish coroutine objects and tasks.
+03. Bound concurrent work.
+04. Propagate cancellation and timeouts.
+05. Separate I/O concurrency from CPU parallelism.
+06. Compare threads and worker processes.
+Completion: Implement a bounded asynchronous fetch simulation and compare CPU-bound work in threads and processes.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Types_generics_and_runtime_validation/book_name.txt

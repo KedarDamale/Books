@@ -1,0 +1,14 @@
+Primary book: The Rust Programming Language — Steve Klabnik, Carol Nichols, and Chris Krycho, with the Rust Community.
+Source: https://doc.rust-lang.org/book/
+Source type: Official open book.
+Read: Structs, Enums and Pattern Matching, Error Handling, and Generic Types, Traits, and Lifetimes themes.
+Study checklist:
+01. Represent alternatives with enums.
+02. Handle Option and Result exhaustively.
+03. Define trait-based interfaces.
+04. Explain generic monomorphization.
+05. Compare static and dynamic dispatch.
+06. Preserve error context across layers.
+Completion: Build a parser with typed errors and interchangeable input implementations, with no panic on malformed input.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Values_ownership_and_borrowing/book_name.txt

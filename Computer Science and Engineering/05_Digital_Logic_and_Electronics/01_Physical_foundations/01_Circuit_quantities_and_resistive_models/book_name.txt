@@ -1,0 +1,13 @@
+Primary book: Foundations of Analog and Digital Electronic Circuits — Anant Agarwal and Jeffrey H. Lang.
+Source: https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/pages/readings/
+Source type: Book with MIT reading guide.
+Read: Lumped abstraction, KVL, KCL, resistive networks, and nodal analysis themes.
+Study checklist:
+01. Define voltage, current, resistance, and power.
+02. Apply Kirchhoff current and voltage laws.
+03. Solve a small resistive network.
+04. Explain ground as a reference.
+05. Compare ideal and physical components.
+06. State the lumped-model validity assumptions.
+Completion: Solve and simulate a resistor network, checking units, conservation, and a model limitation.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

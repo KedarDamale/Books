@@ -1,0 +1,13 @@
+Primary book: MLflow documentation — MLflow contributors.
+Source: https://mlflow.org/docs/latest/
+Source type: Official online guide.
+Read: LLMs & Agents themes: tracing, evaluation datasets, scorers, and experiment comparison.
+Study checklist:
+01. Trace model, retriever, and tool spans.
+02. Record prompts and versions with sensitive-data controls.
+03. Define reference and reference-free evaluations.
+04. Separate deterministic checks and model judgments.
+05. Analyze cost and latency per successful task.
+06. Preserve regression cases.
+Completion: Evaluate a LangChain or LangGraph workflow with MLflow traces and demonstrate a regression invisible to final-answer accuracy alone.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

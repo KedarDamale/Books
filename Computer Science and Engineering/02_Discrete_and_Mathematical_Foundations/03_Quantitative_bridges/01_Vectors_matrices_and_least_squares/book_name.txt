@@ -1,0 +1,13 @@
+Primary book: Mathematics for Machine Learning — Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
+Source: https://mml-book.github.io/
+Source type: Author-provided open book.
+Read: Linear Algebra, Analytic Geometry, and Matrix Decompositions themes.
+Study checklist:
+01. Interpret a matrix as a linear map.
+02. Solve systems and identify rank.
+03. Calculate norms and projections.
+04. Explain eigenvalues and singular values.
+05. Derive a least-squares objective.
+06. Identify ill-conditioned inputs.
+Completion: Implement a small least-squares fit and explain why solving with a decomposition beats explicitly inverting a matrix.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

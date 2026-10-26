@@ -1,0 +1,14 @@
+Primary book: Software Foundations: Programming Language Foundations — Benjamin C. Pierce and collaborators.
+Source: https://softwarefoundations.cis.upenn.edu/plf-current/
+Source type: Open machine-checked textbook.
+Read: Types, Stlc, and type soundness themes.
+Study checklist:
+01. Derive a typing judgment.
+02. State progress and preservation.
+03. Identify the canonical-forms argument.
+04. Explain substitution in a preservation proof.
+05. Distinguish safety from termination.
+06. Construct a rejected but semantically harmless term.
+Completion: Present typing derivations and a proof outline for type safety of a small expression language.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Lambda_calculus_and_operational_semantics/book_name.txt

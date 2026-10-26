@@ -1,0 +1,14 @@
+Primary book: Artificial Intelligence: A Modern Approach, 4th US edition — Stuart Russell and Peter Norvig.
+Source: https://aima.cs.berkeley.edu/
+Source type: Official book site and contents.
+Read: Constraint Satisfaction Problems themes.
+Study checklist:
+01. Model variables, domains, and constraints.
+02. Implement backtracking with domain restoration.
+03. Explain arc consistency.
+04. Compare variable and value ordering.
+05. Detect inconsistent constraints.
+06. Separate propagation and complete search.
+Completion: Implement a Python constraint solver and quantify the effect of propagation on a structured puzzle family.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Adversarial_search_and_game_trees/book_name.txt

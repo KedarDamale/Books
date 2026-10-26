@@ -1,0 +1,14 @@
+Primary book: Computer Architecture: A Quantitative Approach, 7th edition — John L. Hennessy and David A. Patterson.
+Source: https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
+Source type: Publisher book page and contents.
+Read: Thread-Level Parallelism themes: coherence, consistency, shared-memory multiprocessors.
+Study checklist:
+01. Separate coherence from consistency.
+02. Trace a simple cache coherence protocol.
+03. Explain false sharing.
+04. Compare local and remote NUMA access.
+05. Relate fences to visible ordering.
+06. Identify hardware-software contract boundaries.
+Completion: Model two cores accessing shared cache lines and demonstrate false sharing in a small Rust benchmark.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Caches_locality_and_memory_hierarchy/book_name.txt

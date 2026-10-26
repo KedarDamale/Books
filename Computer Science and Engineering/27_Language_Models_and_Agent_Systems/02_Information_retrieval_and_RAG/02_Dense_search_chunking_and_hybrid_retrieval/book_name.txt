@@ -1,0 +1,14 @@
+Primary book: LangChain Python documentation — LangChain contributors.
+Source: https://docs.langchain.com/oss/python/langchain/overview
+Source type: Official online guide.
+Read: Retrieval themes: loaders, splitters, embeddings, retrievers, and vector stores; use framework components without requiring a new vector-database platform.
+Study checklist:
+01. Preserve document and chunk provenance.
+02. Choose chunk boundaries for a task.
+03. Explain embedding similarity and normalization.
+04. Compare exact dense and sparse retrieval.
+05. Fuse ranked candidate sets.
+06. Evaluate recall under a fixed context budget.
+Completion: Build a local LangChain retrieval experiment and compare chunking and hybrid-search choices with a fixed evaluation set.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Inverted_indexes_BM25_and_retrieval_evaluation/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Security Engineering: A Guide to Building Dependable Distributed Systems, 3rd edition — Ross Anderson.
+Source: https://www.cl.cam.ac.uk/archive/rja14/book.html
+Source type: Author-provided open book chapters.
+Read: Economics, Surveillance or Privacy, and Assurance and Sustainability themes.
+Study checklist:
+01. Identify incentives shaping security decisions.
+02. Explain externalities and information asymmetry.
+03. Minimize unnecessary data collection.
+04. Analyze retention and deletion consequences.
+05. Relate system lifetime to maintenance obligations.
+06. Evaluate resource and social costs.
+Completion: Assess a data service's incentives, retention policy, and maintenance burden and propose a measurable reduction in unnecessary harm.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Fairness_measurement_and_automated_decisions/book_name.txt

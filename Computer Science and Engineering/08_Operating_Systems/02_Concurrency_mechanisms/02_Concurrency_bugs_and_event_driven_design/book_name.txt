@@ -1,0 +1,14 @@
+Primary book: Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+Source: https://pages.cs.wisc.edu/~remzi/OSTEP/
+Source type: Author-provided open book.
+Read: Concurrency Bugs and Event-based Concurrency themes.
+Study checklist:
+01. Classify atomicity and ordering bugs.
+02. Construct a deadlocking schedule.
+03. Compare blocking and event-based I/O.
+04. Explain event-loop starvation.
+05. Manage state across callbacks.
+06. Identify scalability and complexity tradeoffs.
+Completion: Build two small server simulations and compare thread-per-connection and event-driven behavior under slow clients.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Locks_condition_variables_and_semaphores/book_name.txt

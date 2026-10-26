@@ -1,0 +1,14 @@
+Primary book: Dive into Systems — Suzanne J. Matthews, Tia Newhall, and Kevin C. Webb.
+Source: https://diveintosystems.org/book/
+Source type: Open book.
+Read: Parallel computing, memory hierarchy, and performance themes.
+Study checklist:
+01. Explain cache-aware data partitioning.
+02. Identify false sharing in adjacent outputs.
+03. Compare array-of-structures and structure-of-arrays.
+04. Design a safe parallel reduction.
+05. Explain non-associative floating-point outcomes.
+06. Measure scaling under bandwidth saturation.
+Completion: Compare two layouts for a parallel Rust workload and explain both timing and numerical differences.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Parallel_decomposition_work_and_span/book_name.txt

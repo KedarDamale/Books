@@ -1,0 +1,14 @@
+Primary book: The TypeScript Handbook — TypeScript contributors.
+Source: https://www.typescriptlang.org/docs/handbook/intro.html
+Source type: Official online handbook.
+Read: Generics, Keyof Type Operator, Indexed Access Types, Conditional Types, and Mapped Types themes.
+Study checklist:
+01. Preserve relationships through generic parameters.
+02. Apply constraints without losing inference.
+03. Transform object fields with mapped types.
+04. Explain conditional type distribution.
+05. Infer types from generic structures.
+06. Recognize unreadable type-level overengineering.
+Completion: Implement a typed event registry and explain the runtime validation still needed at its external boundary.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Unions_narrowing_and_exhaustiveness/book_name.txt

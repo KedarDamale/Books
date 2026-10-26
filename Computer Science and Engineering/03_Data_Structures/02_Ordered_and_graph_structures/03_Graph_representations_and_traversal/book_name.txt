@@ -1,0 +1,17 @@
+Primary book: Open Data Structures — Pat Morin.
+Source: https://opendatastructures.org/
+Source type: Open book.
+Read: Graphs, adjacency matrices, adjacency lists, and graph traversal themes.
+Study checklist:
+01. Represent weighted and directed edges.
+02. Compare dense and sparse storage.
+03. Trace BFS and DFS frontiers.
+04. Reconstruct traversal paths.
+05. State visited-set invariants.
+06. Explain traversal complexity by representation.
+Completion: Implement BFS and DFS over two graph representations and validate reachability on disconnected graphs.
+Extension book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Extension focus (optional): Continue from storage-aware structures into storage engines and query workloads.
+Source: https://www.db-book.com/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Tries_and_integer_search/book_name.txt

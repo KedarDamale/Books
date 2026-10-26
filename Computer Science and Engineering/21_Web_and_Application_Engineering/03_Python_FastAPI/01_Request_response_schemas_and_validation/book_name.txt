@@ -1,0 +1,13 @@
+Primary book: FastAPI: Tutorial - User Guide — Sebastian Ramirez and FastAPI contributors.
+Source: https://fastapi.tiangolo.com/tutorial/
+Source type: Official online guide.
+Read: Path Parameters, Query Parameters, Request Body, Response Model, and Handling Errors themes.
+Study checklist:
+01. Define typed request and response models.
+02. Separate coercion and strict validation.
+03. Apply field and cross-field constraints.
+04. Distinguish client errors and server failures.
+05. Generate and inspect OpenAPI contracts.
+06. Avoid exposing internal persistence fields.
+Completion: Implement a FastAPI resource endpoint and validate malformed requests and accidental response-field leakage.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

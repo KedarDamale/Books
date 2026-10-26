@@ -1,0 +1,14 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Concurrency Control themes: locking, timestamp protocols, validation, MVCC, snapshot isolation.
+Study checklist:
+01. Explain two-phase locking.
+02. Trace lock compatibility and upgrades.
+03. Detect wait-for cycles.
+04. Compare pessimistic and optimistic validation.
+05. Explain version visibility.
+06. Identify predicate and phantom problems.
+Completion: Simulate a concurrent transaction schedule under locking and MVCC and explain their different outcomes.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Transactions_serializability_and_anomalies/book_name.txt

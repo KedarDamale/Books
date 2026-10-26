@@ -1,0 +1,14 @@
+Primary book: Human-Computer Interaction, 3rd edition — Alan Dix, Janet Finlay, Gregory D. Abowd, and Russell Beale.
+Source: https://www.hcibook.com/e3/chapters/
+Source type: Official book site and chapter outlines.
+Read: Evaluation Techniques and experimental evaluation themes.
+Study checklist:
+01. Choose measurable task outcomes.
+02. Run a cognitive walkthrough.
+03. Design a usability observation.
+04. Separate within and between-subject comparisons.
+05. Recognize learning and order effects.
+06. Report uncertainty and qualitative findings.
+Completion: Evaluate a small interface with a reproducible protocol and explain what the sample can and cannot support.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_User_research_prototyping_and_task_analysis/book_name.txt

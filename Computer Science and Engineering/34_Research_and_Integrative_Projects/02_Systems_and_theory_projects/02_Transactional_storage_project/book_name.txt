@@ -1,0 +1,14 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Review storage, indexing, query execution, transaction, and recovery themes needed by the chosen scope.
+Study checklist:
+01. Define durable storage invariants.
+02. Choose a page or log format.
+03. Implement an index.
+04. Specify a transaction isolation promise.
+05. Enumerate crash and recovery states.
+06. Compare implementation results against a reference.
+Completion: Build a small Rust storage engine and publish a local crash-injection report that supports its exact durability and isolation claims.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Compiler_and_runtime_project/book_name.txt

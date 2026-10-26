@@ -1,0 +1,17 @@
+Primary book: Understanding Machine Learning: From Theory to Algorithms — Shai Shalev-Shwartz and Shai Ben-David.
+Source: https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/
+Source type: Author-provided open textbook.
+Read: A Gentle Start, A Formal Learning Model, Learning via Uniform Convergence, and The Bias-Complexity Tradeoff themes.
+Study checklist:
+01. Distinguish hypothesis class and fitted parameters.
+02. Interpret a generalization bound.
+03. Explain capacity and overfitting.
+04. Relate sample size and error probability.
+05. State distribution and independence assumptions.
+06. Separate information-theoretic and computational limits.
+Completion: Work through a finite-class generalization bound and compare its qualitative prediction with a synthetic learning experiment.
+Extension book: Mathematics for Machine Learning — Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
+Extension focus (optional): Revisit derivations and the assumptions behind numerical learning methods.
+Source: https://mml-book.github.io/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Recommendations_similarity_and_ranking/book_name.txt

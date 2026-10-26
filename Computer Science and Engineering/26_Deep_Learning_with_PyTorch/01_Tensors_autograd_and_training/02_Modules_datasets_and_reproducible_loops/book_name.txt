@@ -1,0 +1,14 @@
+Primary book: PyTorch Tutorials and documentation — PyTorch contributors.
+Source: https://docs.pytorch.org/tutorials/beginner/basics/intro.html
+Source type: Official online tutorials.
+Read: Datasets and DataLoaders, Build the Neural Network, Optimization, and Save and Load themes.
+Study checklist:
+01. Define modules and parameter registration.
+02. Separate datasets and minibatch loaders.
+03. Implement train and evaluation phases.
+04. Reset gradients at the correct boundary.
+05. Save optimizer and training state.
+06. Record reproducibility limits across hardware.
+Completion: Train a small PyTorch model with restartable checkpoints and verify resumed predictions against a controlled uninterrupted run.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Tensors_devices_and_autograd/book_name.txt

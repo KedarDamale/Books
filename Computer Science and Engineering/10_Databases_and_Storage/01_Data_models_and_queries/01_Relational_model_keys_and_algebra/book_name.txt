@@ -1,0 +1,13 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Introduction to the Relational Model and Formal Relational Query Languages themes.
+Study checklist:
+01. Define relations, tuples, and schemas.
+02. State candidate and foreign-key constraints.
+03. Compose selection and projection.
+04. Explain joins and relational division.
+05. Distinguish sets and SQL bags.
+06. Identify information lost by projection.
+Completion: Model a small lending library and express several queries in relational algebra with clear keys and constraints.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

@@ -1,0 +1,17 @@
+Primary book: Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition draft (2026-08-19) — Daniel Jurafsky and James H. Martin.
+Source: https://web.stanford.edu/~jurafsky/slp3/index.html
+Source type: Author-provided open draft.
+Read: Speech recognition, speech synthesis, and multimodal language-model themes.
+Study checklist:
+01. Represent audio as sampled signals.
+02. Explain time-frequency features.
+03. Compare alignment and sequence decoding problems.
+04. Relate text and nontext representations.
+05. Design modality-appropriate evaluation.
+06. Identify accessibility and demographic error differences.
+Completion: Build a small signal-to-feature experiment in Python and design a defensible evaluation plan for a speech or multimodal task.
+Extension book: Graph Representation Learning — William L. Hamilton.
+Extension focus (optional): Explore knowledge graphs and relational representations independently of agent orchestration.
+Source: https://www.cs.mcgill.ca/~wlh/grl_book/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Adaptation_instruction_tuning_and_evaluation/book_name.txt

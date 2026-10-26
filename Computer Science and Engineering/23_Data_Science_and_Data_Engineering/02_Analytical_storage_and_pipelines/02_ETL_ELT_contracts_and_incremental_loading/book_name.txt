@@ -1,0 +1,14 @@
+Primary book: Designing Data-Intensive Applications, 1st edition — Martin Kleppmann.
+Source: https://dataintensive.net/
+Source type: Author book site.
+Read: Batch Processing, Stream Processing, Encoding and Evolution, and derived-data themes.
+Study checklist:
+01. Define source and destination contracts.
+02. Choose full or incremental extraction.
+03. Make loads idempotent.
+04. Detect schema and quality violations.
+05. Design backfill and replay behavior.
+06. Track data lineage and rejected records.
+Completion: Implement an incremental Python pipeline that safely reruns after partial failure and reconciles source and destination totals.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_DuckDB_SQL_Parquet_and_query_plans/book_name.txt

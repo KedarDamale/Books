@@ -1,0 +1,14 @@
+Primary book: Dive into Deep Learning — Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola.
+Source: https://d2l.ai/
+Source type: Open book.
+Read: Generalization in Deep Learning, Environment and Distribution Shift, and evaluation themes.
+Study checklist:
+01. Separate in-distribution and shifted evaluation.
+02. Measure calibration and confidence failures.
+03. Analyze augmentation assumptions.
+04. Compare subgroup and aggregate errors.
+05. Detect memorized shortcuts.
+06. State reproducibility and robustness limits.
+Completion: Evaluate a PyTorch model on controlled shifts and identify a high-confidence error that aggregate accuracy hides.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Distributed_data_parallel_and_collectives/book_name.txt

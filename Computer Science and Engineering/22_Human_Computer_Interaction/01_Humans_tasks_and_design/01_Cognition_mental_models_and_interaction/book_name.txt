@@ -1,0 +1,13 @@
+Primary book: Human-Computer Interaction, 3rd edition — Alan Dix, Janet Finlay, Gregory D. Abowd, and Russell Beale.
+Source: https://www.hcibook.com/e3/chapters/
+Source type: Official book site and chapter outlines.
+Read: The Human, The Interaction, and Interaction Design Basics themes.
+Study checklist:
+01. Explain perception and working-memory constraints.
+02. Distinguish system and user mental models.
+03. Analyze gulf of execution and evaluation.
+04. Connect affordances and feedback.
+05. Identify error-prone interactions.
+06. State limits of simplified user models.
+Completion: Analyze a real interface using a concrete task and propose a redesign justified by observed interaction problems.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

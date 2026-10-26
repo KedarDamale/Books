@@ -1,0 +1,14 @@
+Primary book: LoRA: Low-Rank Adaptation of Large Language Models — Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen.
+Source: https://arxiv.org/abs/2106.09685
+Source type: Authors' open research paper.
+Read: Paper themes: low-rank parameterization, frozen base weights, trainable parameter count, and empirical comparison.
+Study checklist:
+01. Factor a weight update into low-rank matrices.
+02. Derive trainable parameter counts.
+03. Initialize adapters without changing initial outputs.
+04. Separate rank and update scaling.
+05. Merge updates for inference.
+06. Compare memory, quality, and baseline assumptions.
+Completion: Implement a low-rank adapter directly in PyTorch and compare it with full tuning under the same small-data protocol.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../04_Autoencoders_generative_models_and_representation_learning/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: The Missing Semester of Your CS Education, 2020 course notes — Anish Athalye, Jon Gjengset, and Jose Javier Gonzalez Ortiz.
+Source: https://missing.csail.mit.edu/2020/
+Source type: MIT course text.
+Read: 2020 notes: Data Wrangling and Command-line Environment.
+Study checklist:
+01. Select records with regular expressions.
+02. Explain text encodings and line endings.
+03. Compare structured and unstructured parsing.
+04. Compose repeatable command workflows.
+05. Make a Python automation script restartable.
+06. Inspect a failing pipeline stage.
+Completion: Turn messy text records into a validated summary with a repeatable script and documented rejected records.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Paths_shell_and_processes/book_name.txt

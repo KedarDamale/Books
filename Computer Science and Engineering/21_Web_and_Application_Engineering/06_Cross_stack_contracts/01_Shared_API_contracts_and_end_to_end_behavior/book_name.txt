@@ -1,0 +1,13 @@
+Primary book: FastAPI: Tutorial - User Guide — Sebastian Ramirez and FastAPI contributors.
+Source: https://fastapi.tiangolo.com/tutorial/
+Source type: Official online guide.
+Read: OpenAPI, security dependencies, testing, and deployment themes; compare the already studied NestJS and Axum interfaces.
+Study checklist:
+01. Treat wire schemas as explicit contracts.
+02. Generate or check TypeScript boundary types.
+03. Validate responses at runtime where needed.
+04. Test authorization across UI and service.
+05. Trace errors without exposing internals.
+06. Compare framework behavior under equivalent requests.
+Completion: Implement one small API contract in a chosen backend and consume it from React, then compare how the other two backends would preserve its semantics.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

@@ -1,0 +1,14 @@
+Primary book: Mathematics for Computer Science — Eric Lehman, F. Thomson Leighton, and Albert R. Meyer.
+Source: https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/
+Source type: MIT open textbook.
+Read: Directed graphs, simple graphs, trees, and partial orders themes.
+Study checklist:
+01. Represent directed and undirected relations.
+02. Prove the basic tree edge identity.
+03. Identify cycles and connected components.
+04. Relate DAGs to partial orders.
+05. Construct a topological ordering.
+06. Explain when a graph model loses information.
+Completion: Model build dependencies as a DAG and prove why a cycle prevents the chosen scheduling rule.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Counting_and_discrete_probability/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Designing Data-Intensive Applications, 1st edition — Martin Kleppmann.
+Source: https://dataintensive.net/
+Source type: Author book site.
+Read: Transactions, Stream Processing, and event-driven dataflow themes.
+Study checklist:
+01. Separate state changes and message publication.
+02. Explain transactional outbox reasoning.
+03. Design idempotent consumers.
+04. Track workflow state explicitly.
+05. Distinguish compensation and rollback.
+06. Handle poison messages and replay.
+Completion: Model and implement a two-step workflow that recovers after a database commit followed by a publication failure.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Caching_invalidation_and_hot_keys/book_name.txt

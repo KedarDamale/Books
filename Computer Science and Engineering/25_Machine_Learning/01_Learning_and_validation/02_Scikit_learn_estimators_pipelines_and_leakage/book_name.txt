@@ -1,0 +1,14 @@
+Primary book: scikit-learn User Guide — scikit-learn contributors.
+Source: https://scikit-learn.org/stable/user_guide.html
+Source type: Official online guide.
+Read: Getting Started, Pipelines and composite estimators, preprocessing, and Common pitfalls themes.
+Study checklist:
+01. Explain fit, transform, and predict contracts.
+02. Fit preprocessing only on training data.
+03. Compose ColumnTransformer and Pipeline.
+04. Preserve feature names and schemas.
+05. Separate hyperparameter search and final evaluation.
+06. Diagnose data leakage.
+Completion: Build a scikit-learn pipeline and demonstrate how fitting preprocessing before splitting inflates an evaluation result.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Objectives_generalization_and_baselines/book_name.txt

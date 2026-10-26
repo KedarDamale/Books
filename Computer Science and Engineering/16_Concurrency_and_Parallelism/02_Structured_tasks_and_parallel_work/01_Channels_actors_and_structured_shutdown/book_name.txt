@@ -1,0 +1,13 @@
+Primary book: Tokio Tutorial — Tokio contributors.
+Source: https://tokio.rs/tokio/tutorial
+Source type: Official online tutorial.
+Read: Channels, Shared state, Select, Streams, and Graceful Shutdown themes.
+Study checklist:
+01. Choose message ownership boundaries.
+02. Model request-response channels.
+03. Bound mailboxes.
+04. Propagate cancellation through tasks.
+05. Define shutdown ordering.
+06. Explain actor-state isolation limits.
+Completion: Build a Rust actor-style service with bounded mailboxes and verify that shutdown handles pending requests consistently.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

@@ -1,0 +1,13 @@
+Primary book: Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+Source: https://pages.cs.wisc.edu/~remzi/OSTEP/
+Source type: Author-provided open book.
+Read: Concurrency and Threads, Locks, Condition Variables, and Semaphores themes.
+Study checklist:
+01. Explain atomicity and critical sections.
+02. State a lock-protected invariant.
+03. Use condition predicates in loops.
+04. Compare mutexes and semaphores.
+05. Explain lost wakeups.
+06. Analyze deadlock conditions.
+Completion: Implement a bounded buffer in Rust and demonstrate why replacing a predicate loop with a one-time check is unsafe logically.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

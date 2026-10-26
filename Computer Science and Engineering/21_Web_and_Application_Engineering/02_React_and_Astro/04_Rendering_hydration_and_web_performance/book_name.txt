@@ -1,0 +1,14 @@
+Primary book: Astro documentation — Astro contributors.
+Source: https://docs.astro.build/en/getting-started/
+Source type: Official online guide.
+Read: On-demand rendering, endpoints, sessions, and islands architecture themes.
+Study checklist:
+01. Compare static and on-demand rendering.
+02. Trace request and hydration lifecycles.
+03. Identify mismatched server and client state.
+04. Set appropriate cache boundaries.
+05. Measure transferred assets and render blocking.
+06. Explain personalization and caching conflicts.
+Completion: Compare static and dynamic versions of one page and report performance and cache-correctness consequences.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Astro_content_routing_and_islands/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: CS 4620: Introduction to Computer Graphics, 2019 course materials — Steve Marschner and Cornell course staff.
+Source: https://www.cs.cornell.edu/courses/cs4620/2019fa/
+Source type: University course text and slides.
+Read: Course materials on rasterization, viewing, texture mapping, filtering, and shading.
+Study checklist:
+01. Transform vertices into clip and screen coordinates.
+02. Determine triangle coverage.
+03. Interpolate attributes with perspective correction.
+04. Resolve visibility with a depth buffer.
+05. Explain texture aliasing and filtering.
+06. Compare raster and ray-based visibility costs.
+Completion: Implement a small software triangle rasterizer in Rust or TypeScript and demonstrate depth testing and perspective-correct interpolation.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Animation_time_steps_and_collision_queries/book_name.txt

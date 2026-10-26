@@ -1,0 +1,14 @@
+Primary book: Human-Computer Interaction, 3rd edition — Alan Dix, Janet Finlay, Gregory D. Abowd, and Russell Beale.
+Source: https://www.hcibook.com/e3/chapters/
+Source type: Official book site and chapter outlines.
+Read: Groupware, Computer-Supported Cooperative Work, and universal design themes.
+Study checklist:
+01. Model shared and private workspace state.
+02. Explain awareness and coordination cues.
+03. Design conflict feedback.
+04. Respect different ability and access constraints.
+05. Identify privacy risks in activity indicators.
+06. Evaluate asynchronous collaboration tradeoffs.
+Completion: Prototype a collaborative editing or approval flow and explain conflict handling, accessibility, and privacy consequences.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Accessible_structure_forms_and_interaction/book_name.txt

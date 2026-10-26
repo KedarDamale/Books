@@ -1,0 +1,17 @@
+Primary book: scikit-learn User Guide — scikit-learn contributors.
+Source: https://scikit-learn.org/stable/user_guide.html
+Source type: Official online guide.
+Read: Cross-validation, model evaluation, probability calibration, and threshold tuning themes.
+Study checklist:
+01. Choose grouped or time-aware splitting.
+02. Compare precision-recall and ROC metrics.
+03. Relate thresholds to error costs.
+04. Explain calibration and discrimination.
+05. Use nested validation when selecting models.
+06. Report uncertainty and subgroup performance.
+Completion: Evaluate a classifier with appropriate splits and choose a decision threshold using validation data while preserving an untouched test set.
+Extension book: Mathematics for Machine Learning — Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
+Extension focus (optional): Revisit derivations and the assumptions behind numerical learning methods.
+Source: https://mml-book.github.io/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Scikit_learn_estimators_pipelines_and_leakage/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Database Design Using the E-R Model and Relational Database Design themes.
+Study checklist:
+01. Translate entities and relationships into schemas.
+02. Derive functional dependencies.
+03. Explain update and deletion anomalies.
+04. Distinguish 3NF and BCNF.
+05. Prove lossless decomposition.
+06. Evaluate dependency preservation.
+Completion: Normalize a flawed schema and provide a losslessness argument plus a workload-based tradeoff discussion.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Window_queries_and_recursive_relations/book_name.txt

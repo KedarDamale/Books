@@ -1,0 +1,17 @@
+Primary book: Designing Data-Intensive Applications, 1st edition — Martin Kleppmann.
+Source: https://dataintensive.net/
+Source type: Author book site.
+Read: Replication themes: multi-leader conflicts, leaderless replication, version vectors, and conflict-free data structures.
+Study checklist:
+01. Identify concurrent updates.
+02. Compare operation and state merging.
+03. Explain associativity, commutativity, and idempotence.
+04. Model a grow-only set or counter.
+05. Distinguish convergence and invariant preservation.
+06. Construct a business-rule conflict.
+Completion: Implement a mergeable counter or set and show a domain invariant that convergence alone does not guarantee.
+Extension book: Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers — Leslie Lamport.
+Extension focus (optional): Specify replication invariants and model failure executions.
+Source: https://lamport.azurewebsites.net/tla/book.html
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Distributed_transactions_and_atomic_commit/book_name.txt

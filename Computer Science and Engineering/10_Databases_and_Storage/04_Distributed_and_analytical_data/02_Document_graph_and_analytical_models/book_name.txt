@@ -1,0 +1,14 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Complex Data Types, Big Data, and Data Analytics themes.
+Study checklist:
+01. Compare relational and document representations.
+02. Model graph traversals explicitly.
+03. Explain columnar analytical execution.
+04. Design a dimensional schema.
+05. Distinguish OLTP and OLAP workloads.
+06. Identify denormalization consistency costs.
+Completion: Represent one domain in relational, document, and graph forms and evaluate concrete queries against each.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Partitioning_replication_and_distributed_queries/book_name.txt

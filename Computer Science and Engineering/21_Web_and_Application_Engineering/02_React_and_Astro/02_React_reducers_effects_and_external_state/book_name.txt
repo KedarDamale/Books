@@ -1,0 +1,14 @@
+Primary book: React documentation: Learn React — React team and contributors.
+Source: https://react.dev/learn
+Source type: Official online guide.
+Read: Managing State and Escape Hatches themes.
+Study checklist:
+01. Model complex transitions with a reducer.
+02. Explain context propagation.
+03. Separate derived values and stored state.
+04. Use effects for external synchronization.
+05. Clean up subscriptions and requests.
+06. Identify stale closures and race conditions.
+Completion: Build a data-driven interface that handles rapid input changes without stale responses overwriting newer results.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_React_components_props_state_and_identity/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: AWS Well-Architected Framework — Amazon Web Services.
+Source: https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
+Source type: Official online guide.
+Read: Reliability, security, and operational excellence pillars.
+Study checklist:
+01. Distinguish compute, storage, and network resources.
+02. Model regions and availability zones.
+03. Apply least-privilege resource identities.
+04. Separate control and data planes.
+05. Explain shared-responsibility boundaries.
+06. Design for an unavailable dependency.
+Completion: Map a local architecture to cloud resources and compare failure scenarios without requiring paid deployment.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Images_containers_volumes_and_networks/book_name.txt

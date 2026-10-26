@@ -1,0 +1,14 @@
+Primary book: NestJS documentation — Kamil Mysliwiec and NestJS contributors.
+Source: https://docs.nestjs.com/
+Source type: Official online guide.
+Read: Pipes, Guards, Interceptors, Exception filters, and request lifecycle themes.
+Study checklist:
+01. Trace request lifecycle ordering.
+02. Validate input at runtime.
+03. Apply authorization in guards.
+04. Separate interception and error translation.
+05. Preserve typed application errors.
+06. Explain decorator metadata limitations.
+Completion: Implement a NestJS request flow and demonstrate validation, forbidden access, and error translation through the full lifecycle.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Modules_controllers_providers_and_injection/book_name.txt

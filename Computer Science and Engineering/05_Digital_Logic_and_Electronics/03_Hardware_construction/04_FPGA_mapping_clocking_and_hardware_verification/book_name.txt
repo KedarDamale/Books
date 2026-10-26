@@ -1,0 +1,14 @@
+Primary book: Digital Design and Computer Architecture: RISC-V Edition — Sarah L. Harris and David Harris.
+Source: https://pages.hmc.edu/harris/ddca/ddcarv.html
+Source type: Book and official companion resources.
+Read: Digital System Implementation, Hardware Description Languages, and sequential timing themes.
+Study checklist:
+01. Map logic to lookup tables and registers.
+02. Define a clock and timing constraints.
+03. Identify clock-domain crossings.
+04. Explain synchronizer limits.
+05. Compare behavioral and post-synthesis checks.
+06. State coverage and hardware-test limitations.
+Completion: Synthesize or simulate a small FPGA-oriented controller and report logic resources, timing assumptions, and tested properties.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_CMOS_layout_interconnect_and_timing/book_name.txt

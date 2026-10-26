@@ -1,0 +1,13 @@
+Primary book: Programming Languages: Application and Interpretation, 3rd edition — Shriram Krishnamurthi.
+Source: https://www.plai.org/
+Source type: Author-provided open book.
+Read: Expression languages, abstract syntax, interpretation, and evaluation themes.
+Study checklist:
+01. Separate concrete and abstract syntax.
+02. Define values and evaluation rules.
+03. Distinguish syntax errors and runtime errors.
+04. Trace an interpreter recursively.
+05. Explain observable program behavior.
+06. Identify unspecified behavior in a language design.
+Completion: Implement a small expression interpreter in Python or Rust and write a precise account of its evaluation order.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

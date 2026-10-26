@@ -1,0 +1,14 @@
+Primary book: Performance Modeling and Design of Computer Systems: Queueing Theory in Action — Mor Harchol-Balter.
+Source: https://www.cs.cmu.edu/~harchol/PerformanceModeling/book.html
+Source type: Author book site and detailed contents.
+Read: Queueing terminology, Little's Law, operational laws, and bottleneck analysis themes.
+Study checklist:
+01. Define arrival rate and service demand.
+02. Apply Little's Law with units.
+03. Separate throughput and concurrency.
+04. Identify utilization saturation.
+05. Estimate storage and network demand.
+06. State workload and stationarity assumptions.
+Completion: Build a capacity model from a synthetic trace and vary assumptions to locate the first likely bottleneck.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Modular_monoliths_services_and_boundaries/book_name.txt

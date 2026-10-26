@@ -1,0 +1,13 @@
+Primary book: An Introduction to Statistical Learning: with Applications in Python — Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor.
+Source: https://www.statlearning.com/
+Source type: Author-provided open book.
+Read: Linear Regression, Classification, and Linear Model Selection and Regularization themes.
+Study checklist:
+01. Derive linear least-squares loss.
+02. Explain logistic likelihood.
+03. Compare ridge and lasso penalties.
+04. Standardize features within a pipeline.
+05. Interpret coefficients under assumptions.
+06. Diagnose collinearity and separation.
+Completion: Implement a linear or logistic model from scratch, compare with scikit-learn, and explain coefficient instability on correlated inputs.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

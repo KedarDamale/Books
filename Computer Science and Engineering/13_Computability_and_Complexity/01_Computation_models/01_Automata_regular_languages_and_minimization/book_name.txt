@@ -1,0 +1,13 @@
+Primary book: Introduction to Theoretical Computer Science — Boaz Barak.
+Source: https://introtcs.org/public/index.html
+Source type: Author-provided open textbook draft.
+Read: Functions with Infinite Domains, Automata, and Regular Expressions themes.
+Study checklist:
+01. Define deterministic and nondeterministic automata.
+02. Convert small NFAs to DFAs.
+03. Relate regular expressions and automata.
+04. Prove closure under simple operations.
+05. Distinguish states with suffixes.
+06. Show a language is nonregular.
+Completion: Construct and minimize an automaton for a protocol fragment and prove why balanced nesting requires more memory.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

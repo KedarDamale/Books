@@ -1,0 +1,13 @@
+Primary book: LangChain Python documentation — LangChain contributors.
+Source: https://docs.langchain.com/oss/python/langchain/overview
+Source type: Official online guide.
+Read: Models, Messages, Tools, Structured output, and Error handling themes.
+Study checklist:
+01. Normalize model message roles.
+02. Define typed tool schemas.
+03. Validate structured outputs with Pydantic.
+04. Separate model proposals and tool execution.
+05. Handle tool and provider failures.
+06. Record model and schema versions.
+Completion: Implement a LangChain workflow with typed outputs and a deterministic mock model, then test malformed output and tool failure.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

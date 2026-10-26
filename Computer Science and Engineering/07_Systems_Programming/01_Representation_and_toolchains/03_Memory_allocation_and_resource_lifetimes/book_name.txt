@@ -1,0 +1,14 @@
+Primary book: Computer Systems: A Programmer's Perspective, 3rd edition — Randal E. Bryant and David R. O'Hallaron.
+Source: https://csapp.cs.cmu.edu/
+Source type: Official book site and contents.
+Read: Virtual Memory themes: dynamic allocation, allocator organization, and memory bugs.
+Study checklist:
+01. Separate stack, heap, and virtual addresses.
+02. Trace allocator metadata.
+03. Compare allocation policies and fragmentation.
+04. Explain ownership-based resource release.
+05. Identify use-after-free and double-free mechanisms.
+06. Measure allocation overhead.
+Completion: Build a safe arena abstraction in Rust and document its lifetime, reclamation, and fragmentation tradeoffs.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Object_files_linking_and_loading/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Computer Architecture: A Quantitative Approach, 7th edition — John L. Hennessy and David A. Patterson.
+Source: https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
+Source type: Publisher book page and contents.
+Read: Pipelining review and Instruction-Level Parallelism themes.
+Study checklist:
+01. Calculate throughput versus latency.
+02. Identify structural, data, and control hazards.
+03. Explain forwarding and stalls.
+04. Compare static and dynamic prediction.
+05. Trace misprediction recovery.
+06. Explain why speedup is bounded.
+Completion: Simulate a short pipeline and compare schedules with stalls, forwarding, and branch mispredictions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Datapaths_and_control/book_name.txt

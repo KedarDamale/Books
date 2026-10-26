@@ -1,0 +1,14 @@
+Primary book: Think Python: How to Think Like a Computer Scientist, 2nd edition — Allen B. Downey.
+Source: https://greenteapress.com/thinkpython2/html/index.html
+Source type: Open book.
+Read: Strings, Lists, Dictionaries, Tuples, and data structure selection themes.
+Study checklist:
+01. Choose sequences, sets, or mappings.
+02. Distinguish equality and identity.
+03. Trace aliasing under mutation.
+04. Explain shallow and nested copies.
+05. Use comprehensions without hidden mutation.
+06. Estimate traversal and lookup costs.
+Completion: Build a word-frequency analyzer and demonstrate an aliasing bug with a corrected version.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Functions_scope_and_recursion/book_name.txt

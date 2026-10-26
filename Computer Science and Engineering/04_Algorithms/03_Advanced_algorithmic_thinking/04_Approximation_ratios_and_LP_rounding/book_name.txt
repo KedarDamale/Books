@@ -1,0 +1,14 @@
+Primary book: The Design of Approximation Algorithms — David P. Williamson and David B. Shmoys.
+Source: https://www.designofapproxalgs.com/
+Source type: Author-provided electronic book.
+Read: Linear programming relaxations, rounding, approximation guarantees, and integrality gaps themes.
+Study checklist:
+01. Define multiplicative approximation guarantees.
+02. Formulate an integer optimization problem.
+03. Derive a linear relaxation bound.
+04. Round a fractional solution.
+05. Prove a small approximation ratio.
+06. Explain integrality-gap limitations.
+Completion: Implement a vertex-cover approximation and compare its proven guarantee with exact optima on small graphs.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Approximation_and_streaming/book_name.txt

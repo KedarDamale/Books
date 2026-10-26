@@ -1,0 +1,14 @@
+Primary book: Pydantic documentation — Pydantic contributors.
+Source: https://docs.pydantic.dev/latest/
+Source type: Official online guide.
+Read: Models, validators, strict mode, serialization, and JSON Schema themes.
+Study checklist:
+01. Separate transport and domain models.
+02. Validate nested discriminated unions.
+03. Choose strict or coercing inputs deliberately.
+04. Control serialization of sensitive fields.
+05. Explain validation versus business invariants.
+06. Version a serialized contract.
+Completion: Define an event schema and show both backward-compatible input handling and rejection of an invalid domain transition.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Dependencies_async_resources_and_lifespans/book_name.txt

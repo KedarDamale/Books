@@ -1,0 +1,13 @@
+Primary book: Computer Systems: A Programmer's Perspective, 3rd edition — Randal E. Bryant and David R. O'Hallaron.
+Source: https://csapp.cs.cmu.edu/
+Source type: Official book site and contents.
+Read: Representing and Manipulating Information themes.
+Study checklist:
+01. Convert binary and hexadecimal values.
+02. Explain byte order and alignment.
+03. Compare signed and unsigned interpretation.
+04. Identify integer overflow behavior by language.
+05. Explain floating-point rounding.
+06. Construct a non-associative arithmetic example.
+Completion: Write Rust byte encoders and decoders and demonstrate integer and floating-point boundary cases.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

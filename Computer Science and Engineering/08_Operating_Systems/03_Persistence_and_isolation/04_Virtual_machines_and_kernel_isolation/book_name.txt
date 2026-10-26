@@ -1,0 +1,14 @@
+Primary book: Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+Source: https://pages.cs.wisc.edu/~remzi/OSTEP/
+Source type: Author-provided open book.
+Read: Virtual Machines appendix and protection themes.
+Study checklist:
+01. Separate machine virtualization and process isolation.
+02. Explain privileged instruction handling.
+03. Compare hardware-assisted virtualization strategies.
+04. Describe isolation resource boundaries.
+05. Identify shared-kernel limitations.
+06. Evaluate overhead and attack surface.
+Completion: Compare a process, container, and virtual machine using explicit resource, trust, and failure boundaries.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Crash_consistency_journals_and_checksums/book_name.txt

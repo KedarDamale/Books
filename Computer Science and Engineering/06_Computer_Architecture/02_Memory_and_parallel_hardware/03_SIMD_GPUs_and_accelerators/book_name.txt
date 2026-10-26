@@ -1,0 +1,14 @@
+Primary book: Computer Architecture: A Quantitative Approach, 7th edition — John L. Hennessy and David A. Patterson.
+Source: https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
+Source type: Publisher book page and contents.
+Read: Data-Level Parallelism and Domain-Specific Architectures themes.
+Study checklist:
+01. Explain vector lanes and SIMT execution.
+02. Relate memory coalescing to layout.
+03. Identify branch divergence.
+04. Compare compute and memory bottlenecks.
+05. Explain host-device transfer costs.
+06. Evaluate specialization versus flexibility.
+Completion: Analyze a PyTorch tensor workload and predict when GPU transfer overhead outweighs parallel execution benefits.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Coherence_consistency_and_NUMA/book_name.txt

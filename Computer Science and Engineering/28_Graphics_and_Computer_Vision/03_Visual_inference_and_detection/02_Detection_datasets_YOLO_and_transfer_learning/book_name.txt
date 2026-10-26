@@ -1,0 +1,14 @@
+Primary book: Ultralytics YOLO documentation — Ultralytics contributors.
+Source: https://docs.ultralytics.com/
+Source type: Official online guide.
+Read: Dataset configuration, detect training, validation, prediction, and augmentation themes; select the model family used by the project rather than assuming a latest version.
+Study checklist:
+01. Define annotation classes and coordinate conventions.
+02. Split correlated images without leakage.
+03. Configure transfer learning.
+04. Separate detection precision, recall, and localization quality.
+05. Analyze class and size-specific errors.
+06. Version data, model, and training configuration.
+Completion: Train or fine-tune a small YOLO detector and report per-class metrics plus annotation and split audits.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Alignment_stereo_motion_and_reconstruction/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Designing Data-Intensive Applications, 1st edition — Martin Kleppmann.
+Source: https://dataintensive.net/
+Source type: Author book site.
+Read: Replication and Consistency and Consensus themes.
+Study checklist:
+01. Compare leader-based and leaderless replication.
+02. Explain synchronous and asynchronous acknowledgment.
+03. Trace stale and monotonic reads.
+04. Derive quorum intersection assumptions.
+05. Distinguish linearizability and serializability.
+06. Explain CAP in its partition setting.
+Completion: Simulate a replicated register and produce histories illustrating different read and write guarantees.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

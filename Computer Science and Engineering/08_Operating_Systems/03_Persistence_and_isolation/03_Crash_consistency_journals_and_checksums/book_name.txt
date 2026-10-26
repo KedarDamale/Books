@@ -1,0 +1,14 @@
+Primary book: Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+Source: https://pages.cs.wisc.edu/~remzi/OSTEP/
+Source type: Author-provided open book.
+Read: FSCK and Journaling, Log-structured File Systems, and Data Integrity and Protection themes.
+Study checklist:
+01. Enumerate crash points during metadata updates.
+02. Explain write ordering.
+03. Compare journaling and copy-on-write ideas.
+04. Trace recovery and replay.
+05. Use checksums to detect corruption.
+06. Separate durability from atomicity.
+Completion: Simulate crashes at each step of a file update and show how a chosen recovery scheme restores invariants.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Filesystem_layout_and_namespaces/book_name.txt

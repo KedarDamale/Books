@@ -1,0 +1,13 @@
+Primary book: Site Reliability Engineering: How Google Runs Production Systems, 1st edition — Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy, editors.
+Source: https://sre.google/sre-book/table-of-contents/
+Source type: Official open book.
+Read: Service Level Objectives and Embracing Risk themes.
+Study checklist:
+01. Choose a user-visible service indicator.
+02. Define good events and total events.
+03. Calculate time-window availability.
+04. Separate SLO and contractual promise.
+05. Compute an error budget.
+06. Explain missing-data and low-traffic limitations.
+Completion: Define and compute an SLO from sample request logs and show how two plausible definitions yield different results.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

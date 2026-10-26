@@ -1,0 +1,14 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Indexing and Advanced Indexing Techniques themes.
+Study checklist:
+01. Trace B+ tree range access.
+02. Compare clustered and secondary indexes.
+03. Explain composite index order.
+04. Analyze hash index limitations.
+05. Compare bitmap and ordered indexes.
+06. Estimate index maintenance cost.
+Completion: Choose and justify indexes for a measured workload, then explain one query they fail to accelerate.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Pages_records_and_buffer_management/book_name.txt

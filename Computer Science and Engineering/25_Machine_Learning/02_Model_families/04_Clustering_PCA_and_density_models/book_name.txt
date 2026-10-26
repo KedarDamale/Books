@@ -1,0 +1,17 @@
+Primary book: scikit-learn User Guide — scikit-learn contributors.
+Source: https://scikit-learn.org/stable/user_guide.html
+Source type: Official online guide.
+Read: Clustering, decomposition, and Gaussian mixture models themes.
+Study checklist:
+01. Explain distance and density assumptions.
+02. Compare k-means and DBSCAN.
+03. Analyze PCA as variance projection.
+04. Distinguish clustering and classification evaluation.
+05. Identify parameter sensitivity.
+06. Construct a nonconvex or variable-density failure case.
+Completion: Cluster synthetic and real-shaped data with scikit-learn, compare stability, and explain a misleading cluster visualization.
+Extension book: Mathematics for Machine Learning — Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
+Extension focus (optional): Revisit derivations and the assumptions behind numerical learning methods.
+Source: https://mml-book.github.io/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Kernels_neighbors_and_Naive_Bayes/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Computer Systems: A Programmer's Perspective, 3rd edition — Randal E. Bryant and David R. O'Hallaron.
+Source: https://csapp.cs.cmu.edu/
+Source type: Official book site and contents.
+Read: Exceptional Control Flow themes: processes, signals, and process control.
+Study checklist:
+01. Distinguish a process and a program.
+02. Trace process creation and replacement.
+03. Explain exit status and reaping.
+04. Identify inherited resources.
+05. Explain asynchronous signal constraints.
+06. Design orderly child-process shutdown.
+Completion: Write a Rust process supervisor that captures output, reports failures, and cleans up child processes.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

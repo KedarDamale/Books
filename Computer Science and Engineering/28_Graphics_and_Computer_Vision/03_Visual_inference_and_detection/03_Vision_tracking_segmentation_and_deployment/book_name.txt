@@ -1,0 +1,14 @@
+Primary book: Ultralytics YOLO documentation — Ultralytics contributors.
+Source: https://docs.ultralytics.com/
+Source type: Official online guide.
+Read: Segmentation, tracking, export, and benchmark themes.
+Study checklist:
+01. Distinguish detection and segmentation outputs.
+02. Explain tracking identity and association.
+03. Measure latency including preprocessing.
+04. Compare export runtime behavior.
+05. Evaluate accuracy under compression or resizing.
+06. Identify domain-shift and occlusion failures.
+Completion: Build a local vision pipeline and measure end-to-end performance with failure examples for occlusion, lighting, and resolution changes.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Detection_datasets_YOLO_and_transfer_learning/book_name.txt

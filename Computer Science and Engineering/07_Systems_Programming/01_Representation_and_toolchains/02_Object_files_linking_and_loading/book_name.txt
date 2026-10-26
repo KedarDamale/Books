@@ -1,0 +1,14 @@
+Primary book: Computer Systems: A Programmer's Perspective, 3rd edition — Randal E. Bryant and David R. O'Hallaron.
+Source: https://csapp.cs.cmu.edu/
+Source type: Official book site and contents.
+Read: Linking themes: symbols, relocation, static libraries, and shared libraries.
+Study checklist:
+01. Separate compilation, linking, and loading.
+02. Inspect object sections and symbols.
+03. Explain relocation.
+04. Compare static and dynamic linking.
+05. Diagnose duplicate and missing symbols.
+06. Relate ABI compatibility to deployment.
+Completion: Inspect a Rust binary and library, identify symbols and sections, and reproduce a controlled linking failure.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Bits_bytes_integers_and_floats/book_name.txt

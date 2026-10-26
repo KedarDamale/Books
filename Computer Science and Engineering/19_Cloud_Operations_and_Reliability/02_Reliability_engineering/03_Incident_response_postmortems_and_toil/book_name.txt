@@ -1,0 +1,14 @@
+Primary book: Site Reliability Engineering: How Google Runs Production Systems, 1st edition — Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy, editors.
+Source: https://sre.google/sre-book/table-of-contents/
+Source type: Official open book.
+Read: Being On-Call, Managing Incidents, Postmortem Culture, and Eliminating Toil themes.
+Study checklist:
+01. Separate mitigation and root-cause investigation.
+02. Establish roles and communication state.
+03. Keep a timestamped incident record.
+04. Analyze contributing conditions.
+05. Write actionable corrective work.
+06. Distinguish toil and useful operational learning.
+Completion: Run a local failure exercise and write an evidence-based postmortem with a tested corrective action.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Metrics_logs_traces_and_alerting/book_name.txt

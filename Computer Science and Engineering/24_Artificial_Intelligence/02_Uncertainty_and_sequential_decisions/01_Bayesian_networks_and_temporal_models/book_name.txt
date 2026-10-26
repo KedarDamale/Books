@@ -1,0 +1,13 @@
+Primary book: Artificial Intelligence: A Modern Approach, 4th US edition — Stuart Russell and Peter Norvig.
+Source: https://aima.cs.berkeley.edu/
+Source type: Official book site and contents.
+Read: Probabilistic Reasoning and Probabilistic Reasoning over Time themes.
+Study checklist:
+01. Factor a joint distribution using a graph.
+02. Read conditional independence assumptions.
+03. Perform exact inference on a small network.
+04. Explain approximate sampling inference.
+05. Derive a hidden-state filtering update.
+06. Identify model misspecification.
+Completion: Implement a small Bayesian network and hidden-state filter in Python and compare results with exhaustive enumeration.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

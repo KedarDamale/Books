@@ -1,0 +1,13 @@
+Primary book: Computational Complexity: A Modern Approach — Sanjeev Arora and Boaz Barak.
+Source: https://theory.cs.princeton.edu/complexity/
+Source type: Author book site and draft.
+Read: Basic Complexity Classes themes: deterministic and nondeterministic computation, NP, reductions, completeness.
+Study checklist:
+01. Define a decision language.
+02. Relate certificates and verification.
+03. State P and NP without assuming inequality.
+04. Prove polynomial reduction composition.
+05. Distinguish worst-case and typical instances.
+06. Explain time versus space bounds.
+Completion: Classify several studied problems and provide a verifier and a complete NP-completeness reduction for one.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

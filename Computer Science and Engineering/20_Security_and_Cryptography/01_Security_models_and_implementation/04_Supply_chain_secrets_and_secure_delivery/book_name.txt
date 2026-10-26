@@ -1,0 +1,14 @@
+Primary book: Security Engineering: A Guide to Building Dependable Distributed Systems, 3rd edition — Ross Anderson.
+Source: https://www.cl.cam.ac.uk/archive/rja14/book.html
+Source type: Author-provided open book chapters.
+Read: Secure Systems Development and Assurance and Sustainability themes.
+Study checklist:
+01. Trace dependency trust.
+02. Protect build and release credentials.
+03. Explain artifact provenance.
+04. Design secret rotation.
+05. Minimize runtime privileges.
+06. Distinguish vulnerability scanning and assurance.
+Completion: Document a small application's dependency and secret lifecycle and demonstrate rotation without committing secret values.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Memory_safety_injection_and_input_boundaries/book_name.txt

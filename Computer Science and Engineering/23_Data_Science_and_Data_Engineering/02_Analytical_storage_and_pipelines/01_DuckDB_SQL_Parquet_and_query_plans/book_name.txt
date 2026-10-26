@@ -1,0 +1,13 @@
+Primary book: DuckDB documentation — DuckDB contributors.
+Source: https://duckdb.org/docs/
+Source type: Official online guide.
+Read: SQL, Python client, Parquet and CSV ingestion, query profiling, and memory management themes.
+Study checklist:
+01. Query external files with explicit schemas.
+02. Explain column pruning and filter pushdown.
+03. Compare materialization and lazy file scans.
+04. Inspect operator timings.
+05. Configure bounded-memory processing.
+06. Define transaction boundaries around promotion.
+Completion: Analyze a multi-file dataset with DuckDB and compare a direct file query with a materialized table using measured plans.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

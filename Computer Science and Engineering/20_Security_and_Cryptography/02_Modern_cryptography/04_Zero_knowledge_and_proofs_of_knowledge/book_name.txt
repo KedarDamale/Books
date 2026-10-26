@@ -1,0 +1,14 @@
+Primary book: A Graduate Course in Applied Cryptography, version 0.6 — Dan Boneh and Victor Shoup.
+Source: https://toc.cryptobook.us/
+Source type: Author-provided open textbook.
+Read: Identification and Signatures from Sigma Protocols and Proving Properties in Zero-Knowledge themes.
+Study checklist:
+01. Define completeness and soundness.
+02. Separate knowledge soundness and zero knowledge.
+03. Explain a commitment-challenge-response transcript.
+04. Trace a simulator argument.
+05. Identify honest-verifier assumptions.
+06. Explain why repeated challenges can expose knowledge.
+Completion: Work through a small sigma-protocol example and explain what the prover demonstrates without disclosing the witness.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Public_keys_signatures_and_key_exchange/book_name.txt

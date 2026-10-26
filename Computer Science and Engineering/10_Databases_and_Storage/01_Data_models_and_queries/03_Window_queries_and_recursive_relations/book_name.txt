@@ -1,0 +1,14 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Advanced SQL themes: window functions and recursive queries.
+Study checklist:
+01. Separate aggregation and window evaluation.
+02. Define partition and order specifications.
+03. Explain window frame boundaries.
+04. Express ranking and running totals.
+05. Construct recursive reachability queries.
+06. Identify nontermination and duplicate pitfalls.
+Completion: Compute cohort summaries and hierarchical reachability in SQL with boundary-case examples.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_SQL_joins_aggregation_and_nulls/book_name.txt

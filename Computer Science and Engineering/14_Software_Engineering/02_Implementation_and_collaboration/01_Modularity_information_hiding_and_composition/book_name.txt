@@ -1,0 +1,13 @@
+Primary book: Principles of Computer System Design: An Introduction — Jerome H. Saltzer and M. Frans Kaashoek.
+Source: https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/
+Source type: MIT textbook resources including open Part II.
+Read: Enforcing Modularity and abstraction themes.
+Study checklist:
+01. Identify likely sources of change.
+02. Hide representation decisions.
+03. Compare functional and structural decomposition.
+04. State module ownership responsibilities.
+05. Distinguish essential and accidental coupling.
+06. Explain when abstraction adds needless complexity.
+Completion: Refactor a tightly coupled program into modules and demonstrate a representation change confined to one boundary.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

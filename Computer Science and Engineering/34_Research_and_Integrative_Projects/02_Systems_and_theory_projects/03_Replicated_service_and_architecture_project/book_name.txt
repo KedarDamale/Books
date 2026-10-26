@@ -1,0 +1,14 @@
+Primary book: Distributed Systems, 4th edition — Maarten van Steen and Andrew S. Tanenbaum.
+Source: https://www.distributed-systems.net/index.php/books/ds4/
+Source type: Official book site with free personal digital edition.
+Read: Review communication, coordination, replication, and fault-tolerance themes needed by the design.
+Study checklist:
+01. State the system and failure model.
+02. Define replicated-state invariants.
+03. Separate safety and liveness evidence.
+04. Inject delay, duplication, and crashes.
+05. Measure workload and recovery behavior.
+06. Document unhandled failure classes.
+Completion: Build or simulate a replicated Rust service and provide a design document, invariant argument, failure experiment, and performance report.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Transactional_storage_project/book_name.txt

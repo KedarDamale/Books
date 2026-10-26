@@ -1,0 +1,14 @@
+Primary book: NestJS documentation — Kamil Mysliwiec and NestJS contributors.
+Source: https://docs.nestjs.com/
+Source type: Official online guide.
+Read: Queues, Microservices, asynchronous providers, and Testing themes.
+Study checklist:
+01. Separate HTTP and application-level contracts.
+02. Model background job state.
+03. Handle retries and duplicate work.
+04. Compare transport delivery guarantees.
+05. Replace providers in module tests.
+06. Shut down long-running resources.
+Completion: Implement a retryable job handler in NestJS and show that duplicate delivery does not duplicate the chosen effect.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Validation_guards_interceptors_and_errors/book_name.txt

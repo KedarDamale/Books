@@ -1,0 +1,14 @@
+Primary book: The Python Standard Library — Python documentation contributors.
+Source: https://docs.python.org/3/library/
+Source type: Official reference.
+Read: typing themes: annotations, generics, Protocol, and type narrowing.
+Study checklist:
+01. Separate annotations from runtime enforcement.
+02. Model optional values explicitly.
+03. Define a structural protocol.
+04. Express generic input-output relationships.
+05. Identify Any boundaries.
+06. Explain static checks versus runtime validation.
+Completion: Annotate a parser library and show one error a type checker catches and one requiring runtime validation.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Objects_protocols_and_data_models/book_name.txt

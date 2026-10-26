@@ -1,0 +1,13 @@
+Primary book: PyTorch Tutorials and documentation — PyTorch contributors.
+Source: https://docs.pytorch.org/tutorials/beginner/basics/intro.html
+Source type: Official online tutorials.
+Read: Learn the Basics: Tensors and Automatic Differentiation with torch.autograd themes.
+Study checklist:
+01. Track shapes, strides, and dtypes.
+02. Move tensors between devices deliberately.
+03. Build a dynamic computation graph.
+04. Explain gradient accumulation.
+05. Distinguish detach, no_grad, and evaluation mode.
+06. Identify in-place mutation hazards.
+Completion: Implement a differentiable tensor calculation and compare autograd gradients with finite differences on a small case.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

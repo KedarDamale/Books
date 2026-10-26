@@ -1,0 +1,14 @@
+Primary book: The Fuzzing Book — Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler.
+Source: https://www.fuzzingbook.org/
+Source type: Author-provided open book.
+Read: Introduction to Software Testing, property checks, and Mutation Analysis themes.
+Study checklist:
+01. State properties independent of implementation.
+02. Generate constrained inputs.
+03. Shrink a failing example.
+04. Derive metamorphic relations.
+05. Compare mutation score and coverage.
+06. Identify weak or circular test oracles.
+Completion: Use generated inputs to find and minimize a collection bug, then show a plausible mutation that the improved properties reject.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Examples_boundaries_and_test_oracles/book_name.txt

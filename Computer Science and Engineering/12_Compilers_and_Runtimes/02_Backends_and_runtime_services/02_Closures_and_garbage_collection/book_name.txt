@@ -1,0 +1,14 @@
+Primary book: Crafting Interpreters — Robert Nystrom.
+Source: https://craftinginterpreters.com/contents.html
+Source type: Author-provided open book.
+Read: Closures and Garbage Collection themes.
+Study checklist:
+01. Represent captured variables beyond stack lifetime.
+02. Identify garbage-collection roots.
+03. Trace mark-and-sweep reachability.
+04. Handle cycles.
+05. Compare reference counting and tracing.
+06. Explain pauses and allocation pressure.
+Completion: Implement closures and a small tracing collector in a toy runtime, then collect an unreachable cycle.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Bytecode_frames_and_code_generation/book_name.txt

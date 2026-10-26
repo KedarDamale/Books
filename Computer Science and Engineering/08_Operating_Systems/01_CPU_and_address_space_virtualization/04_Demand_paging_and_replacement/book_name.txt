@@ -1,0 +1,14 @@
+Primary book: Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+Source: https://pages.cs.wisc.edu/~remzi/OSTEP/
+Source type: Author-provided open book.
+Read: Swapping mechanisms, swapping policies, and complete virtual-memory systems themes.
+Study checklist:
+01. Trace demand paging and page faults.
+02. Compare FIFO, LRU, and clock replacement.
+03. Explain working sets and thrashing.
+04. Distinguish page cache and swap.
+05. Model copy-on-write.
+06. Identify limits of locality assumptions.
+Completion: Simulate page replacement on several traces and construct a workload where increasing frames hurts FIFO.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Address_translation_pages_and_TLBs/book_name.txt

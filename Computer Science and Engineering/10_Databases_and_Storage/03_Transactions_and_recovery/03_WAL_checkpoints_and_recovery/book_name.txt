@@ -1,0 +1,14 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Recovery System themes: logging, checkpoints, redo, undo, and ARIES.
+Study checklist:
+01. State write-ahead logging rules.
+02. Distinguish committed and flushed data.
+03. Trace redo and undo.
+04. Explain checkpoint information.
+05. Separate steal and force policies.
+06. Enumerate crash and recovery invariants.
+Completion: Implement a tiny logged key-value store and verify recovery by crashing before and after each commit step.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Locking_MVCC_and_deadlocks/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Distributed Systems, 4th edition — Maarten van Steen and Andrew S. Tanenbaum.
+Source: https://www.distributed-systems.net/index.php/books/ds4/
+Source type: Official book site with free personal digital edition.
+Read: Naming, architectures, and distributed lookup themes.
+Study checklist:
+01. Compare centralized and distributed directories.
+02. Explain consistent hashing.
+03. Trace lookup through a distributed overlay.
+04. Analyze rebalancing costs.
+05. Handle hot keys and skew.
+06. Separate location and identity.
+Completion: Simulate partition assignment as nodes join and leave and report data movement and imbalance.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

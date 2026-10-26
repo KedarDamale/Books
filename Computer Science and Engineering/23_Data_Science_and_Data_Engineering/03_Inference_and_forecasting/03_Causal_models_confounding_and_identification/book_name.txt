@@ -1,0 +1,14 @@
+Primary book: Causal Inference: What If — Miguel A. Hernan and James M. Robins.
+Source: https://miguelhernan.org/whatifbook
+Source type: Author-provided open book.
+Read: A definition of causal effect, randomized experiments, observational studies, exchangeability, positivity, and consistency themes.
+Study checklist:
+01. Define an intervention and target effect.
+02. Draw a causal DAG.
+03. Identify confounders, mediators, and colliders.
+04. State exchangeability and positivity assumptions.
+05. Separate identification and estimation.
+06. Demonstrate bias from conditioning on a collider.
+Completion: Simulate a confounded study and compare the observed association with an identified effect under stated assumptions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Hypothesis_tests_multiple_comparisons_and_power/book_name.txt

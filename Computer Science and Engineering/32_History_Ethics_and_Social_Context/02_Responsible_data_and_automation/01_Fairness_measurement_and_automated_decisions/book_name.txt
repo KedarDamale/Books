@@ -1,0 +1,13 @@
+Primary book: Artificial Intelligence: A Modern Approach, 4th US edition — Stuart Russell and Peter Norvig.
+Source: https://aima.cs.berkeley.edu/
+Source type: Official book site and contents.
+Read: Philosophy, Ethics, and Safety of AI themes.
+Study checklist:
+01. Separate representational and allocation harms.
+02. Compare fairness definitions.
+03. Identify biased labels and measurement processes.
+04. Explain tradeoffs between incompatible criteria.
+05. Preserve opportunities for correction and appeal.
+06. Evaluate subgroup uncertainty.
+Completion: Audit a synthetic decision model with multiple fairness measures and explain why improving one measure may worsen another.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

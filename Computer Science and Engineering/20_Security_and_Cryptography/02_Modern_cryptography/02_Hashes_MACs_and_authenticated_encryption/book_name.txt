@@ -1,0 +1,14 @@
+Primary book: A Graduate Course in Applied Cryptography, version 0.6 — Dan Boneh and Victor Shoup.
+Source: https://toc.cryptobook.us/
+Source type: Author-provided open textbook.
+Read: Message Integrity, collision-resistant hashing, and Authenticated Encryption themes.
+Study checklist:
+01. Separate collision and preimage resistance.
+02. Define message-authentication security.
+03. Explain why a bare hash is insufficient.
+04. Compare encrypt-then-MAC and AEAD contracts.
+05. Bind associated data to context.
+06. Identify verification-order failures.
+Completion: Use a maintained library in Rust or Python to authenticate records and demonstrate rejection after changing ciphertext or associated data.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Security_games_randomness_and_symmetric_encryption/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Query Processing and Query Optimization themes.
+Study checklist:
+01. Implement iterator-style query operators.
+02. Compare nested-loop, hash, and merge joins.
+03. Push selections using valid equivalences.
+04. Estimate selectivity and intermediate size.
+05. Explain join-order search.
+06. Identify cardinality-estimation failures.
+Completion: Build a small relational query executor and compare its chosen plan against measured alternatives on skewed data.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_B_plus_trees_hash_and_column_indexes/book_name.txt

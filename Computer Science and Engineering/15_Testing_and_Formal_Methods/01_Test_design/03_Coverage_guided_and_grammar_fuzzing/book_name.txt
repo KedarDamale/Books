@@ -1,0 +1,17 @@
+Primary book: The Fuzzing Book — Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler.
+Source: https://www.fuzzingbook.org/
+Source type: Author-provided open book.
+Read: Code Coverage, Greybox Fuzzing, Fuzzing with Grammars, and input reduction themes.
+Study checklist:
+01. Instrument branch coverage.
+02. Mutate a seed corpus.
+03. Generate structurally valid inputs.
+04. Separate crashes and semantic failures.
+05. Minimize a failing input.
+06. Explain coverage-guidance limitations.
+Completion: Fuzz a small Rust or Python parser, preserve a minimized regression case, and report what the campaign cannot establish.
+Extension book: Software Foundations: Separation Logic Foundations — Arthur Chargueraud, with contributions from collaborators.
+Extension focus (optional): Deepen local reasoning about mutable heap structures.
+Source: https://softwarefoundations.cis.upenn.edu/slf-current/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Property_based_metamorphic_and_mutation_testing/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: An Introduction to Statistical Learning: with Applications in Python — Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor.
+Source: https://www.statlearning.com/
+Source type: Author-provided open book.
+Read: Review the relevant modeling, resampling, and evaluation themes; integrate the already studied data and MLflow tools.
+Study checklist:
+01. Define a question and data contract.
+02. Build a restartable transformation pipeline.
+03. Prevent split and feature leakage.
+04. Compare simple and learned baselines.
+05. Track reproducible experiment artifacts.
+06. Explain decision costs and limitations.
+Completion: Deliver a Python data-and-ML study using the current stack with traceable records, held-out evaluation, a serving contract, and a recovery exercise.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

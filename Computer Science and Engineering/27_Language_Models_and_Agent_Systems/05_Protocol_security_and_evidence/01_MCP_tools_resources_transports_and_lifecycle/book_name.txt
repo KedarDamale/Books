@@ -1,0 +1,13 @@
+Primary book: Model Context Protocol documentation and specification — Model Context Protocol contributors.
+Source: https://modelcontextprotocol.io/docs/getting-started/intro
+Source type: Official protocol documentation.
+Read: Architecture, tools, resources, prompts, transports, lifecycle, and authorization specification themes.
+Study checklist:
+01. Distinguish host, client, and server responsibilities.
+02. Compare tools and resources.
+03. Define discoverable schemas.
+04. Trace initialization and version negotiation.
+05. Bind authorization to the correct server.
+06. Handle cancellation and transport failure.
+Completion: Implement a small local MCP tool server in Python or TypeScript and test schema discovery, errors, and authorization boundaries.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

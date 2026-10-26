@@ -1,0 +1,14 @@
+Primary book: Fundamentals of Numerical Computation — Tobin A. Driscoll and Richard J. Braun.
+Source: https://fncbook.com/
+Source type: Author-provided online book.
+Read: Initial-Value Problems for ODEs themes; apply numerical integration to simple animated dynamics.
+Study checklist:
+01. Represent motion as a state evolution.
+02. Compare explicit integration schemes.
+03. Separate frame time and simulation step.
+04. Detect energy drift.
+05. Explain discrete collision tunneling.
+06. State limits of a simple collision model.
+Completion: Animate a simulated particle system in Python or TypeScript and compare stability across step sizes and integration rules.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Materials_sampling_and_light_transport/book_name.txt

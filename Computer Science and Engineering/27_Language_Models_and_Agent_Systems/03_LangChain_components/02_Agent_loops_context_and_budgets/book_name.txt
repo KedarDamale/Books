@@ -1,0 +1,17 @@
+Primary book: LangChain Python documentation — LangChain contributors.
+Source: https://docs.langchain.com/oss/python/langchain/overview
+Source type: Official online guide.
+Read: Agents, Middleware, Short-term memory, and Streaming themes.
+Study checklist:
+01. Trace the model-tool-observation loop.
+02. Bound steps, tokens, and wall time.
+03. Control which context enters each call.
+04. Separate deterministic rules and model choices.
+05. Preserve traceable tool outcomes.
+06. Explain when an agent adds no value.
+Completion: Compare a deterministic workflow with an agent loop for the same task and measure correctness, cost, and failure recovery.
+Extension book: Graph Representation Learning — William L. Hamilton.
+Extension focus (optional): Explore knowledge graphs and relational representations independently of agent orchestration.
+Source: https://www.cs.mcgill.ca/~wlh/grl_book/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Messages_models_structured_output_and_tools/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Introduction to Embedded Systems: A Cyber-Physical Systems Approach, 2nd edition — Edward A. Lee and Sanjit A. Seshia.
+Source: https://ptolemy.berkeley.edu/books/leeseshia/
+Source type: Author-provided open book.
+Read: State Machines, Hybrid Systems, composition, and feedback themes.
+Study checklist:
+01. Combine discrete modes and continuous dynamics.
+02. Define guards and resets.
+03. Analyze mode-transition invariants.
+04. Explain feedback and stability intuition.
+05. Identify sampling and actuation delays.
+06. Check reachable unsafe states.
+Completion: Model a thermostat or motor controller and demonstrate a safety invariant plus a delay-induced failure.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Sensors_sampling_and_state_estimation/book_name.txt

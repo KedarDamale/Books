@@ -1,0 +1,17 @@
+Primary book: Artificial Intelligence: A Modern Approach, 4th US edition — Stuart Russell and Peter Norvig.
+Source: https://aima.cs.berkeley.edu/
+Source type: Official book site and contents.
+Read: Robotics themes: localization, mapping, motion planning, and uncertainty.
+Study checklist:
+01. Represent configuration-space obstacles.
+02. Compare graph and sampling-based planning.
+03. Maintain a probabilistic pose estimate.
+04. Explain data-association ambiguity.
+05. Distinguish localization and simultaneous mapping.
+06. Identify sensing and dynamics assumptions.
+Completion: Simulate a robot in a small map and compare planning and localization performance under increased observation uncertainty.
+Extension book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Extension focus (optional): Continue to robot dynamics and trajectory optimization after kinematics.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Rigid_motion_kinematics_and_trajectory_control/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Algorithms — Jeff Erickson.
+Source: https://jeffe.cs.illinois.edu/teaching/algorithms/
+Source type: Author-provided open book and companion notes.
+Read: Shortest Paths and All-Pairs Shortest Paths themes.
+Study checklist:
+01. State shortest-path optimality conditions.
+02. Prove edge-relaxation invariants.
+03. Compare Dijkstra and Bellman-Ford.
+04. Detect reachable negative cycles.
+05. Derive Floyd-Warshall recurrence.
+06. Distinguish unreachable and unbounded distances.
+Completion: Implement two shortest-path methods and provide inputs showing why negative edges break the wrong choice.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Connectivity_DAGs_and_components/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Software Foundations: Separation Logic Foundations — Arthur Chargueraud, with contributions from collaborators.
+Source: https://softwarefoundations.cis.upenn.edu/slf-current/
+Source type: Open machine-checked textbook.
+Read: Heap assertions, separating conjunction, frame rule, and mutable data structure themes.
+Study checklist:
+01. Describe heap ownership with assertions.
+02. Explain separating conjunction.
+03. Apply the frame rule.
+04. State a linked-structure invariant.
+05. Reason about aliasing and mutation.
+06. Relate logical ownership to Rust contracts.
+Completion: Write a separation-logic proof outline for a small heap update and explain the aliases it rules out.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Induction_and_machine_checked_proofs/book_name.txt

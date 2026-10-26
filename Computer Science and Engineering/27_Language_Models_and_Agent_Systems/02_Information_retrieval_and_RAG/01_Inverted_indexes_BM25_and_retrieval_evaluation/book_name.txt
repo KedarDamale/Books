@@ -1,0 +1,13 @@
+Primary book: Introduction to Information Retrieval — Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schutze.
+Source: https://nlp.stanford.edu/IR-book/
+Source type: Author-provided open book.
+Read: Boolean Retrieval, Index Construction, Scoring, Probabilistic Information Retrieval, and Evaluation themes.
+Study checklist:
+01. Build term and posting representations.
+02. Explain TF-IDF and BM25 assumptions.
+03. Compare sparse scores and cosine similarity.
+04. Calculate precision, recall, and ranked metrics.
+05. Construct relevance judgments.
+06. Separate retrieval quality and answer quality.
+Completion: Implement a small Python search engine and evaluate ranked results on a hand-judged query set.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

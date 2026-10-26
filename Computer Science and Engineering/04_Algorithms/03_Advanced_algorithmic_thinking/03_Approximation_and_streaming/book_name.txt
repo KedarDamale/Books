@@ -1,0 +1,14 @@
+Primary book: Mining of Massive Datasets — Jure Leskovec, Anand Rajaraman, and Jeffrey D. Ullman.
+Source: https://www.mmds.org/
+Source type: Author-provided open book.
+Read: Data stream algorithms, similarity search, and large-scale clustering themes.
+Study checklist:
+01. State an approximate objective and error measure.
+02. Explain reservoir sampling.
+03. Estimate distinct counts with bounded memory.
+04. Compare minhash similarity with exact similarity.
+05. Distinguish probabilistic error and approximation ratio.
+06. Construct a skewed-stream failure case.
+Completion: Process a synthetic stream with a fixed memory budget and compare approximation error across input distributions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Reductions_and_intractable_optimization/book_name.txt

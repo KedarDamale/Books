@@ -1,0 +1,14 @@
+Primary book: Security Engineering: A Guide to Building Dependable Distributed Systems, 3rd edition — Ross Anderson.
+Source: https://www.cl.cam.ac.uk/archive/rja14/book.html
+Source type: Author-provided open book chapters.
+Read: Inference Control, Surveillance or Privacy, and Assurance and Sustainability themes.
+Study checklist:
+01. Identify indirect sensitive inference.
+02. Separate pseudonymization and anonymity.
+03. Model linkage attacks.
+04. Compare data minimization and access restriction.
+05. Define evidence for a security claim.
+06. Explain limits of one-time audits.
+Completion: Analyze a small released dataset for linkage risks and propose an evaluated reduction in unnecessary disclosure.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Side_channels_and_hardware_trust/book_name.txt

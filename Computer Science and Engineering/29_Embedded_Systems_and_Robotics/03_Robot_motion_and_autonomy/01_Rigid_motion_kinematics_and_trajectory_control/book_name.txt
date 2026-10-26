@@ -1,0 +1,13 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources.
+Read: Rigid-Body Motions, Forward Kinematics, Velocity Kinematics, Inverse Kinematics, and Robot Control themes.
+Study checklist:
+01. Represent rigid transforms consistently.
+02. Compose joint-to-world transformations.
+03. Calculate a simple Jacobian.
+04. Identify singular configurations.
+05. Compare inverse-kinematics solutions.
+06. Explain tracking error and control limits.
+Completion: Implement a two-link robot simulator in Python and verify kinematics and trajectory tracking near a singularity.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

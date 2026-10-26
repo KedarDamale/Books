@@ -1,0 +1,14 @@
+Primary book: Human-Computer Interaction, 3rd edition — Alan Dix, Janet Finlay, Gregory D. Abowd, and Russell Beale.
+Source: https://www.hcibook.com/e3/chapters/
+Source type: Official book site and chapter outlines.
+Read: Design Process, User Support, Task Analysis, and prototyping themes.
+Study checklist:
+01. Define a target user and context.
+02. Observe a task without leading questions.
+03. Separate evidence and designer assumptions.
+04. Decompose task goals and actions.
+05. Prototype competing interaction flows.
+06. Record research and sampling limitations.
+Completion: Create two low-fidelity prototypes for an observed task and explain the evidence behind their differences.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Cognition_mental_models_and_interaction/book_name.txt

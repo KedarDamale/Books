@@ -1,0 +1,13 @@
+Primary book: Security Engineering: A Guide to Building Dependable Distributed Systems, 3rd edition — Ross Anderson.
+Source: https://www.cl.cam.ac.uk/archive/rja14/book.html
+Source type: Author-provided open book chapters.
+Read: Side Channels, Physical Tamper Resistance, and Advanced Cryptographic Engineering themes.
+Study checklist:
+01. Distinguish logical output and observable leakage.
+02. Explain timing and cache leakage.
+03. Identify secret-dependent control flow.
+04. Compare constant-time intent and machine behavior.
+05. Model physical access assumptions.
+06. State limits of application-level defenses.
+Completion: Measure a toy timing leak locally and explain which mitigations require compiler, runtime, or hardware support.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

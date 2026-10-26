@@ -1,0 +1,14 @@
+Primary book: Digital Design and Computer Architecture: RISC-V Edition — Sarah L. Harris and David Harris.
+Source: https://pages.hmc.edu/harris/ddca/ddcarv.html
+Source type: Book and official companion resources.
+Read: Digital Building Blocks themes: adders, arithmetic, comparators, and ALUs.
+Study checklist:
+01. Represent unsigned and signed integers.
+02. Derive ripple-carry addition.
+03. Explain carry and signed overflow.
+04. Construct comparison and shift operations.
+05. Compose an ALU from controlled operations.
+06. Compare delay and circuit size.
+Completion: Implement an ALU in a logic simulator and verify arithmetic overflow cases separately from carry cases.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Boolean_functions_and_gates/book_name.txt

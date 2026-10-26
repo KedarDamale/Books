@@ -1,0 +1,14 @@
+Primary book: Forecasting: Principles and Practice, 3rd edition — Rob J. Hyndman and George Athanasopoulos.
+Source: https://otexts.com/fpp3/
+Source type: Author-provided open book.
+Read: Forecasting Hierarchical and Grouped Time Series themes; implement reconciliation with NumPy.
+Study checklist:
+01. Represent aggregation as a summing matrix.
+02. Define coherent forecasts.
+03. Compare bottom-up and top-down allocation.
+04. Explain reconciliation as a projection.
+05. Account for correlated forecast errors.
+06. Evaluate accuracy at multiple hierarchy levels.
+Completion: Forecast a synthetic hierarchy and compare unreconciled and reconciled forecasts for coherence and error at every level.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../05_Smoothing_ARIMA_and_forecast_intervals/book_name.txt

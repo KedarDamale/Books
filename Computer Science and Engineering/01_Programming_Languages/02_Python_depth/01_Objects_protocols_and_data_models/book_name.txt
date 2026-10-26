@@ -1,0 +1,13 @@
+Primary book: The Python Tutorial — Python documentation contributors.
+Source: https://docs.python.org/3/tutorial/
+Source type: Official online text.
+Read: Classes, iterators, generators, and standard library overview themes.
+Study checklist:
+01. Explain attribute lookup and method binding.
+02. Prefer composition for independent responsibilities.
+03. Implement an iteration protocol.
+04. Trace generator suspension and resumption.
+05. Distinguish class and instance state.
+06. Design a small coherent public interface.
+Completion: Implement a lazy record collection with a clear iterator contract and demonstrate behavior after partial iteration.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

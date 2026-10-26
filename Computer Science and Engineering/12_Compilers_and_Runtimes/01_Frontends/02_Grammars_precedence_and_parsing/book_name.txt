@@ -1,0 +1,14 @@
+Primary book: Crafting Interpreters — Robert Nystrom.
+Source: https://craftinginterpreters.com/contents.html
+Source type: Author-provided open book.
+Read: Representing Code, Parsing Expressions, and Lox Grammar themes.
+Study checklist:
+01. Write a context-free grammar.
+02. Explain ambiguity and associativity.
+03. Eliminate left recursion where needed.
+04. Implement recursive-descent parsing.
+05. Compare Pratt precedence rules.
+06. Recover from syntax errors.
+Completion: Build an expression parser and verify ASTs for precedence, associativity, and invalid-input cases.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Lexers_tokens_and_source_locations/book_name.txt

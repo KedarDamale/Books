@@ -1,0 +1,17 @@
+Primary book: LangGraph Python documentation — LangGraph contributors.
+Source: https://docs.langchain.com/oss/python/langgraph/overview
+Source type: Official online guide.
+Read: Interrupts, human-in-the-loop workflows, subgraphs, and orchestration patterns themes.
+Study checklist:
+01. Persist state before external review.
+02. Bind approval to a specific proposed action.
+03. Validate resume inputs.
+04. Route work between specialized nodes.
+05. Maintain shared and private state deliberately.
+06. Analyze handoff loops and inconsistent decisions.
+Completion: Build a reviewable multi-stage workflow with an interrupt and demonstrate that changing a proposal invalidates its earlier approval.
+Extension book: Graph Representation Learning — William L. Hamilton.
+Extension focus (optional): Explore knowledge graphs and relational representations independently of agent orchestration.
+Source: https://www.cs.mcgill.ca/~wlh/grl_book/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Checkpoints_durable_execution_and_replay/book_name.txt

@@ -1,0 +1,17 @@
+Primary book: Computer Architecture: A Quantitative Approach, 7th edition — John L. Hennessy and David A. Patterson.
+Source: https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
+Source type: Publisher book page and contents.
+Read: Instruction-Level Parallelism and Its Exploitation themes.
+Study checklist:
+01. Distinguish true and name dependencies.
+02. Explain register renaming.
+03. Trace reservation and reorder structures.
+04. Separate execution from retirement.
+05. Explain precise exceptions.
+06. Identify speculation and resource limits.
+Completion: Trace a dependency graph through an out-of-order scheduler and explain why retirement order preserves architectural state.
+Extension book: CMOS VLSI Design: A Circuits and Systems Perspective, 4th edition — Neil H. E. Weste and David Money Harris.
+Extension focus (optional): Investigate the physical implementation costs of an architectural design.
+Source: https://www.pearson.com/en-us/subject-catalog/p/cmos-vlsi-design-a-circuits-and-systems-perspective/P200000003427
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Pipelines_hazards_and_branch_prediction/book_name.txt

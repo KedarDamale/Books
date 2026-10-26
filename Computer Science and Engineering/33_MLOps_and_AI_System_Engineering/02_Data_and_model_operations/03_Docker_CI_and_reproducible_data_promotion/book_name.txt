@@ -1,0 +1,14 @@
+Primary book: Docker documentation — Docker documentation contributors.
+Source: https://docs.docker.com/
+Source type: Official online guide.
+Read: Builds, image best practices, Compose, volumes, and container lifecycle themes.
+Study checklist:
+01. Package immutable application and model artifacts.
+02. Pin and inspect build inputs.
+03. Validate schemas before data promotion.
+04. Verify checksums and lineage.
+05. Separate persistent data from containers.
+06. Exercise rollback with incompatible artifacts.
+Completion: Build a local containerized model service and perform a verified data-and-model promotion followed by a recovery exercise.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Monitoring_drift_and_retraining_decisions/book_name.txt

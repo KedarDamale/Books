@@ -1,0 +1,14 @@
+Primary book: Introduction to the Theory of Computation, 3rd edition — Michael Sipser.
+Source: https://math.mit.edu/~sipser/book.html
+Source type: Author book site and MIT course reading guide.
+Read: Context-Free Languages themes: context-free grammars, pushdown automata, ambiguity, and grammar limitations.
+Study checklist:
+01. Define derivations in a context-free grammar.
+02. Distinguish syntax trees and token strings.
+03. Explain stack-based recognition.
+04. Compare regular and context-free languages.
+05. Exhibit ambiguous derivations.
+06. State limitations of a chosen grammar class.
+Completion: Write a recognizer for a nested language and prove an invariant relating the stack to unmatched input.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Automata_regular_languages_and_minimization/book_name.txt

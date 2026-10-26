@@ -1,0 +1,14 @@
+Primary book: Software Engineering at Google — Titus Winters, Tom Manshreck, and Hyrum Wright, editors.
+Source: https://abseil.io/resources/swe-book/html/toc.html
+Source type: Official open book.
+Read: Documentation, Knowledge Sharing, and measuring engineering outcomes themes.
+Study checklist:
+01. Turn an observation into a falsifiable question.
+02. Choose a meaningful baseline.
+03. Design an ablation that isolates a mechanism.
+04. Quantify uncertainty and resource cost.
+05. Preserve reproducible artifacts.
+06. Distinguish evidence, interpretation, and speculation.
+Completion: Write a small research report with a question, baseline, controlled experiment, counterexample, and reproducibility instructions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Paper_reading_claims_and_reproduction/book_name.txt

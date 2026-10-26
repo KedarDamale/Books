@@ -1,0 +1,13 @@
+Primary book: Open Data Structures — Pat Morin.
+Source: https://opendatastructures.org/
+Source type: Open book.
+Read: Binary search trees, treaps, and red-black tree themes.
+Study checklist:
+01. State search-order invariants.
+02. Trace insertion and deletion.
+03. Explain rotations preserving order.
+04. Relate height to operation cost.
+05. Compare randomized and deterministic balancing.
+06. Produce an unbalanced worst case.
+Completion: Implement a treap and compare its observed height with a plain search tree on ordered keys.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

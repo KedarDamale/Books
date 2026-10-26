@@ -1,0 +1,14 @@
+Primary book: Computer Systems: A Programmer's Perspective, 3rd edition — Randal E. Bryant and David R. O'Hallaron.
+Source: https://csapp.cs.cmu.edu/
+Source type: Official book site and contents.
+Read: System-Level I/O themes.
+Study checklist:
+01. Explain descriptors and open-file state.
+02. Handle partial reads and writes.
+03. Distinguish buffered and unbuffered I/O.
+04. Explain seekability and pipes.
+05. Interpret system-call errors.
+06. Relate flush, close, and persistence guarantees.
+Completion: Implement a binary file copier in Rust and exercise partial operations, interruptions, and invalid descriptors in a simulation.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Processes_signals_and_subprocesses/book_name.txt

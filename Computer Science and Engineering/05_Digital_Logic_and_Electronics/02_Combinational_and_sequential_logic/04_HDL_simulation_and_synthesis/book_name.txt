@@ -1,0 +1,14 @@
+Primary book: Digital Design and Computer Architecture: RISC-V Edition — Sarah L. Harris and David Harris.
+Source: https://pages.hmc.edu/harris/ddca/ddcarv.html
+Source type: Book and official companion resources.
+Read: Hardware Description Languages and Digital System Implementation themes.
+Study checklist:
+01. Distinguish describing hardware from running software.
+02. Model combinational and clocked logic.
+03. Explain blocking and nonblocking assignment intent.
+04. Write a self-checking testbench.
+05. Compare simulation and synthesized behavior.
+06. Read timing and resource reports.
+Completion: Describe a counter and ALU in an HDL, simulate them, and explain their synthesized circuit structure.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Registers_clocks_and_finite_state_machines/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Tokio Tutorial — Tokio contributors.
+Source: https://tokio.rs/tokio/tutorial
+Source type: Official online tutorial.
+Read: Spawning, Shared state, Channels, Async in depth, Select, Streams, and Graceful Shutdown themes.
+Study checklist:
+01. Explain futures as suspended state machines.
+02. Relate polling to executor scheduling.
+03. Identify Send requirements for spawned tasks.
+04. Bound queues and task counts.
+05. Explain cancellation at await points.
+06. Design graceful shutdown with outstanding work.
+Completion: Build a Tokio pipeline with bounded channels and show that cancellation neither leaks tasks nor loses acknowledged work.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../05_Unsafe_FFI_and_abstraction_contracts/book_name.txt

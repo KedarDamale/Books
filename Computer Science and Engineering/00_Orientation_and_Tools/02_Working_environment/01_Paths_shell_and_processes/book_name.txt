@@ -1,0 +1,13 @@
+Primary book: The Missing Semester of Your CS Education, 2020 course notes — Anish Athalye, Jon Gjengset, and Jose Javier Gonzalez Ortiz.
+Source: https://missing.csail.mit.edu/2020/
+Source type: MIT course text.
+Read: 2020 notes: Course overview + the shell and Shell Tools and Scripting.
+Study checklist:
+01. Navigate absolute and relative paths.
+02. Distinguish files, directories, and processes.
+03. Compose pipes and redirected streams.
+04. Quote arguments and handle whitespace.
+05. Interpret exit statuses and environment variables.
+06. Explain permissions before changing them.
+Completion: Build a shell pipeline that summarizes a log file and handles paths containing spaces.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

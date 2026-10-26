@@ -1,0 +1,14 @@
+Primary book: Physically Based Rendering: From Theory to Implementation, 4th edition — Matt Pharr, Wenzel Jakob, and Greg Humphreys.
+Source: https://www.pbr-book.org/
+Source type: Author-provided open book.
+Read: Sampling, Reflection Models, Light Sources, and Light Transport themes.
+Study checklist:
+01. Explain radiance and energy conservation.
+02. Model simple reflection distributions.
+03. Estimate integrals by Monte Carlo.
+04. Compare importance sampling and uniform sampling.
+05. Derive a path-tracing estimator.
+06. Distinguish variance and systematic bias.
+Completion: Render a small scene with two sampling schemes and compare convergence, noise, and energy behavior.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Ray_intersections_and_spatial_acceleration/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers — Leslie Lamport.
+Source: https://lamport.azurewebsites.net/tla/book.html
+Source type: Author-provided book.
+Read: Specifying a Simple Clock, A FIFO, Liveness and Fairness, and TLC Model Checker themes.
+Study checklist:
+01. Model initial states and next-state relations.
+02. State safety invariants.
+03. Distinguish safety and liveness.
+04. Explain weak and strong fairness.
+05. Interpret a model-checker counterexample.
+06. Bound a model without claiming an unbounded proof.
+Completion: Model a bounded queue or lock protocol in TLA+, find a counterexample, and explain the scope of the corrected model.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

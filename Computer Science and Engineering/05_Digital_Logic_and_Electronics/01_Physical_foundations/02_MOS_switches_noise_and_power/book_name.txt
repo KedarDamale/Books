@@ -1,0 +1,14 @@
+Primary book: Foundations of Analog and Digital Electronic Circuits — Anant Agarwal and Jeffrey H. Lang.
+Source: https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/pages/readings/
+Source type: Book with MIT reading guide.
+Read: Digital abstraction, MOS switch models, digital gates, and energy and power themes.
+Study checklist:
+01. Explain logic-level voltage ranges.
+02. Relate noise margins to valid states.
+03. Model a MOS switch.
+04. Explain CMOS inverter behavior.
+05. Distinguish static and switching power.
+06. Relate capacitance to transition delay.
+Completion: Simulate an inverter abstraction and estimate switching energy while stating what the switch model omits.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Circuit_quantities_and_resistive_models/book_name.txt

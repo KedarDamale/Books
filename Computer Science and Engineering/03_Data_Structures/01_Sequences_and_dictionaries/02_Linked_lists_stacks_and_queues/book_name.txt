@@ -1,0 +1,14 @@
+Primary book: Open Data Structures — Pat Morin.
+Source: https://opendatastructures.org/
+Source type: Open book.
+Read: Linked lists, stacks, queues, and deques themes.
+Study checklist:
+01. State node-link invariants.
+02. Implement insertion and removal safely.
+03. Compare array and linked locality.
+04. Use stacks for nested state.
+05. Implement FIFO and deque operations.
+06. Identify ownership or cycle problems.
+Completion: Implement a deque and use it in a simulation that exposes both empty and wraparound behavior.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Dynamic_arrays_and_amortization/book_name.txt

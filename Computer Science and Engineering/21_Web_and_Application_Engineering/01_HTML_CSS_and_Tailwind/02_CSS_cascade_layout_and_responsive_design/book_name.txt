@@ -1,0 +1,14 @@
+Primary book: MDN Web Docs: Learn web development — Mozilla and MDN contributors.
+Source: https://developer.mozilla.org/en-US/docs/Learn_web_development
+Source type: Official educational documentation.
+Read: CSS fundamentals themes: cascade, specificity, box model, Flexbox, Grid, and responsive design.
+Study checklist:
+01. Resolve cascade and inheritance conflicts.
+02. Calculate the box model.
+03. Explain normal flow and positioning.
+04. Compare Flexbox and Grid constraints.
+05. Use responsive sizing and media queries.
+06. Preserve focus visibility and readable reflow.
+Completion: Create a responsive page and explain its behavior at narrow widths, large text sizes, and keyboard focus states.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Semantic_HTML_forms_and_document_structure/book_name.txt

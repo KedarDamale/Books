@@ -1,0 +1,13 @@
+Primary book: Crafting Interpreters — Robert Nystrom.
+Source: https://craftinginterpreters.com/contents.html
+Source type: Author-provided open book.
+Read: Review the specific frontend, closure, VM, and collector themes needed by the design.
+Study checklist:
+01. Specify a small language precisely.
+02. Implement parsing and name resolution.
+03. Preserve evaluation semantics.
+04. Add a bytecode or equivalent backend.
+05. Design memory and error behavior.
+06. Validate with differential execution.
+Completion: Deliver a Python or Rust language implementation with a specification, executable examples, counterexamples, and a measured runtime limitation.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

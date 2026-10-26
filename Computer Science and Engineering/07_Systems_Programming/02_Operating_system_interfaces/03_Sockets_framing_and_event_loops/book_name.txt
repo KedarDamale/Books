@@ -1,0 +1,14 @@
+Primary book: Tokio Tutorial — Tokio contributors.
+Source: https://tokio.rs/tokio/tutorial
+Source type: Official online tutorial.
+Read: I/O, Framing, Spawning, and Streams themes.
+Study checklist:
+01. Separate streams from message boundaries.
+02. Design a length-delimited protocol.
+03. Handle partial frames.
+04. Apply backpressure to readers and writers.
+05. Bound connection resources.
+06. Explain graceful connection shutdown.
+Completion: Build a Rust TCP client and server that survive fragmented frames, slow peers, and premature disconnects.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Files_descriptors_and_system_calls/book_name.txt

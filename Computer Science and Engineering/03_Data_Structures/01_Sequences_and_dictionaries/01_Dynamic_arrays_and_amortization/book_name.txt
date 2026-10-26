@@ -1,0 +1,13 @@
+Primary book: Open Data Structures — Pat Morin.
+Source: https://opendatastructures.org/
+Source type: Open book.
+Read: Array-based lists, resizing arrays, and amortized analysis themes.
+Study checklist:
+01. Define sequence interface contracts.
+02. Trace indexing and shifting costs.
+03. Prove geometric growth amortization.
+04. Compare capacity and logical length.
+05. Explain iterator invalidation.
+06. Construct a poor resizing policy.
+Completion: Implement a growable vector in Rust or Python and account for total copied elements over repeated appends.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

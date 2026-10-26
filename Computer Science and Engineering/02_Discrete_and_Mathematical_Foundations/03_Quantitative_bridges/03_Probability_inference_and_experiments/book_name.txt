@@ -1,0 +1,14 @@
+Primary book: Mathematics for Machine Learning — Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
+Source: https://mml-book.github.io/
+Source type: Author-provided open book.
+Read: Probability and Distributions and When Models Meet Data themes.
+Study checklist:
+01. Define random variables and distributions.
+02. Apply conditional probability and Bayes rule.
+03. Calculate expectation and covariance.
+04. Distinguish likelihood and posterior probability.
+05. Explain sampling and estimation uncertainty.
+06. Identify selection and dependence assumptions.
+Completion: Simulate an estimator, compare empirical uncertainty across sample sizes, and document a violated assumption.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Derivatives_gradients_and_optimization/book_name.txt

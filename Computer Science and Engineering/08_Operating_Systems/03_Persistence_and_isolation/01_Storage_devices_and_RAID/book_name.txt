@@ -1,0 +1,13 @@
+Primary book: Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+Source: https://pages.cs.wisc.edu/~remzi/OSTEP/
+Source type: Author-provided open book.
+Read: I/O Devices, Hard Disk Drives, RAID, and Flash-based SSDs themes.
+Study checklist:
+01. Explain device queues and interrupts.
+02. Model disk seek and transfer costs.
+03. Compare HDD and SSD behavior.
+04. Calculate RAID capacity and failure exposure.
+05. Distinguish redundancy and backup.
+06. Explain write amplification.
+Completion: Analyze storage traces and compare RAID layouts under stated capacity, failure, and rebuild assumptions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

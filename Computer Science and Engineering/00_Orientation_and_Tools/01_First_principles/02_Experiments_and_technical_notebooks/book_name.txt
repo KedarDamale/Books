@@ -1,0 +1,14 @@
+Primary book: Software Engineering at Google — Titus Winters, Tom Manshreck, and Hyrum Wright, editors.
+Source: https://abseil.io/resources/swe-book/html/toc.html
+Source type: Official open book.
+Read: Knowledge Sharing and Documentation themes.
+Study checklist:
+01. State an answerable technical question.
+02. Record environment and input versions.
+03. Separate observations from explanations.
+04. Construct a minimal reproducible example.
+05. Explain a result with a diagram.
+06. Record an unresolved limitation.
+Completion: Create a notebook containing a hypothesis, reproducible experiment, result, and a counterexample to an overbroad conclusion.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Programs_models_and_abstraction/book_name.txt

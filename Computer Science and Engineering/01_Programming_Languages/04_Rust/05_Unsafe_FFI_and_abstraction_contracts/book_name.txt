@@ -1,0 +1,17 @@
+Primary book: The Rust Programming Language — Steve Klabnik, Carol Nichols, and Chris Krycho, with the Rust Community.
+Source: https://doc.rust-lang.org/book/
+Source type: Official open book.
+Read: Advanced Rust themes: Unsafe Rust, foreign functions, advanced traits, and lifetimes.
+Study checklist:
+01. Distinguish unsafe operations and unsafe interfaces.
+02. State pointer validity and aliasing obligations.
+03. Explain ABI and representation boundaries.
+04. Identify layout and alignment assumptions.
+05. Encapsulate unsafe code behind safe contracts.
+06. Explain why compilation is insufficient proof.
+Completion: Write a small safe wrapper around a simulated raw buffer interface and document every unsafe precondition.
+Required second source: The Rust Reference: Behavior considered undefined — Rust project contributors.
+Read: Behavior considered undefined, especially pointer validity and aliasing. Required to state the unsafe wrapper contract.
+Source: https://doc.rust-lang.org/reference/behavior-considered-undefined.html
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../04_Concurrency_Send_Sync_and_atomics/book_name.txt

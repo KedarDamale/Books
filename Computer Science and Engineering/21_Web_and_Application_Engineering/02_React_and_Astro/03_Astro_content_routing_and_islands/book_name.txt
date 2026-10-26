@@ -1,0 +1,14 @@
+Primary book: Astro documentation — Astro contributors.
+Source: https://docs.astro.build/en/getting-started/
+Source type: Official online guide.
+Read: Pages, routing, layouts, content collections, islands architecture, and React integration themes.
+Study checklist:
+01. Separate server-rendered content and client islands.
+02. Define routes and shared layouts.
+03. Validate content collections.
+04. Explain client hydration directives.
+05. Bound shipped client JavaScript.
+06. Integrate React only where interaction requires it.
+Completion: Build a content site with one React island and explain the rendering and hydration path for each page component.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_React_reducers_effects_and_external_state/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: LangGraph Python documentation — LangGraph contributors.
+Source: https://docs.langchain.com/oss/python/langgraph/overview
+Source type: Official online guide.
+Read: Persistence, Durable execution, fault tolerance, and time-travel themes.
+Study checklist:
+01. Identify checkpoint and thread identities.
+02. Trace restart from persisted state.
+03. Separate deterministic computation and side effects.
+04. Design idempotent replay behavior.
+05. Version evolving graph state.
+06. Explain durability boundaries and storage assumptions.
+Completion: Crash and resume a LangGraph workflow at several points and verify that acknowledged external effects are not duplicated.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_State_nodes_edges_and_reducers/book_name.txt

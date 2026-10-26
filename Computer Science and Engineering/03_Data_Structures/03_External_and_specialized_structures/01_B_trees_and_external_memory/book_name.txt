@@ -1,0 +1,13 @@
+Primary book: Open Data Structures — Pat Morin.
+Source: https://opendatastructures.org/
+Source type: Open book.
+Read: B-trees and external-memory searching themes.
+Study checklist:
+01. Define a block-transfer cost model.
+02. State occupancy and ordering invariants.
+03. Trace splits and merges.
+04. Compare node fanout and height.
+05. Explain range-scan behavior.
+06. Separate I/O costs from CPU costs.
+Completion: Simulate B-tree operations and compare block visits with binary search tree visits under the same storage model.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

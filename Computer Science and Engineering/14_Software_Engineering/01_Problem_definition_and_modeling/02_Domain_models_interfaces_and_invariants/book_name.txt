@@ -1,0 +1,14 @@
+Primary book: Software Engineering, 10th edition — Ian Sommerville.
+Source: https://software-engineering-book.com/
+Source type: Official book site and chapter resources.
+Read: System Modeling, Architectural Design, and Design and Implementation themes.
+Study checklist:
+01. Model entities and state transitions.
+02. State domain invariants.
+03. Specify interface preconditions and postconditions.
+04. Separate domain rules and transport details.
+05. Identify coupling across modules.
+06. Explain a model's intentional omissions.
+Completion: Model an approval workflow, define its invariants, and specify interfaces that preserve them across state transitions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Requirements_constraints_and_acceptance/book_name.txt

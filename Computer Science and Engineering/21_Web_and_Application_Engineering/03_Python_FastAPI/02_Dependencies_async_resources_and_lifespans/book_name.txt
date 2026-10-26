@@ -1,0 +1,14 @@
+Primary book: FastAPI: Tutorial - User Guide — Sebastian Ramirez and FastAPI contributors.
+Source: https://fastapi.tiangolo.com/tutorial/
+Source type: Official online guide.
+Read: Dependencies, concurrency, dependencies with yield, and Lifespan Events themes.
+Study checklist:
+01. Compose dependency scopes.
+02. Release request resources deterministically.
+03. Distinguish blocking and async work.
+04. Initialize shared resources through lifespan.
+05. Bound external calls with deadlines.
+06. Handle cancellation without leaking resources.
+Completion: Build a FastAPI service with managed database-like resources and demonstrate cleanup after request failure and shutdown.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Request_response_schemas_and_validation/book_name.txt

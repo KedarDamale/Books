@@ -1,0 +1,17 @@
+Primary book: Introduction to Embedded Systems: A Cyber-Physical Systems Approach, 2nd edition — Edward A. Lee and Sanjit A. Seshia.
+Source: https://ptolemy.berkeley.edu/books/leeseshia/
+Source type: Author-provided open book.
+Read: Scheduling and real-time execution themes.
+Study checklist:
+01. Separate hard and soft deadlines.
+02. Define period and execution demand.
+03. Analyze fixed-priority scheduling assumptions.
+04. Explain deadline-based scheduling.
+05. Identify priority inversion.
+06. Distinguish measured time and worst-case bounds.
+Completion: Analyze a periodic task set and construct a schedule showing both a feasible case and a missed deadline.
+Extension book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Extension focus (optional): Continue to robot dynamics and trajectory optimization after kinematics.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Interrupts_timers_and_peripheral_protocols/book_name.txt

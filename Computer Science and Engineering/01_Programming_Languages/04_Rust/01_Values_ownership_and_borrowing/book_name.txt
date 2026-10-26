@@ -1,0 +1,13 @@
+Primary book: The Rust Programming Language — Steve Klabnik, Carol Nichols, and Chris Krycho, with the Rust Community.
+Source: https://doc.rust-lang.org/book/
+Source type: Official open book.
+Read: Common Programming Concepts, Understanding Ownership, and Slices themes.
+Study checklist:
+01. Trace moves and copies.
+02. Explain shared and exclusive borrows.
+03. Relate lifetimes to valid references.
+04. Use slices without assuming ownership.
+05. Distinguish stack values and heap allocations.
+06. Explain a rejected aliasing example.
+Completion: Implement a text-processing pipeline without unnecessary cloning and explain its ownership graph.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

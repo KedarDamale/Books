@@ -1,0 +1,14 @@
+Primary book: Artificial Intelligence: A Modern Approach, 4th US edition — Stuart Russell and Peter Norvig.
+Source: https://aima.cs.berkeley.edu/
+Source type: Official book site and contents.
+Read: Logical Agents, First-Order Logic, Inference, and Automated Planning themes.
+Study checklist:
+01. Represent facts and rules precisely.
+02. Explain soundness and completeness.
+03. Apply unification in a small example.
+04. Distinguish open and closed-world assumptions.
+05. Model actions with preconditions and effects.
+06. Identify planning-model omissions.
+Completion: Build a small symbolic planner and explain a real-world execution failure caused by a missing model assumption.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Constraint_satisfaction_and_propagation/book_name.txt

@@ -1,0 +1,17 @@
+Primary book: Dive into Deep Learning — Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola.
+Source: https://d2l.ai/
+Source type: Open book.
+Read: Computational Performance, GPUs, asynchronous computation, and multi-GPU training themes.
+Study checklist:
+01. Separate host and device execution.
+02. Explain asynchronous accelerator timing.
+03. Compare batch sizes and memory pressure.
+04. Identify synchronization points.
+05. Relate tensor layout to kernel efficiency.
+06. Distinguish speedup and hardware utilization.
+Completion: Benchmark a PyTorch tensor operation correctly with device synchronization and explain a transfer-bound case.
+Extension book: Deep Learning — Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+Extension focus (optional): Deepen optimization, representation, and generative-model theory.
+Source: https://www.deeplearningbook.org/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Robustness_uncertainty_and_dataset_shift/book_name.txt

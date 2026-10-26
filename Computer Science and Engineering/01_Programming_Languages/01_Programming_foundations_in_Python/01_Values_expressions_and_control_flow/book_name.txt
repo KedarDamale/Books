@@ -1,0 +1,13 @@
+Primary book: Think Python: How to Think Like a Computer Scientist, 2nd edition — Allen B. Downey.
+Source: https://greenteapress.com/thinkpython2/html/index.html
+Source type: Open book.
+Read: Variables, expressions and statements, Conditionals and recursion, and Iteration themes.
+Study checklist:
+01. Evaluate expressions with explicit precedence.
+02. Distinguish values, names, and types.
+03. Trace branching paths.
+04. Write terminating loops.
+05. Identify off-by-one errors.
+06. Specify input and output behavior.
+Completion: Write a unit converter that validates inputs and explain its execution on normal and boundary cases.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

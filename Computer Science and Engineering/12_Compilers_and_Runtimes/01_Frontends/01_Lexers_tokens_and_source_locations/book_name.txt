@@ -1,0 +1,13 @@
+Primary book: Crafting Interpreters — Robert Nystrom.
+Source: https://craftinginterpreters.com/contents.html
+Source type: Author-provided open book.
+Read: Scanning and Scanning on Demand themes.
+Study checklist:
+01. Specify a token vocabulary.
+02. Distinguish keywords and identifiers.
+03. Handle escapes and numeric literals.
+04. Track source spans.
+05. Report lexical errors with recovery.
+06. Explain maximal-munch behavior.
+Completion: Implement a scanner in Rust or Python with source spans and tests for malformed and ambiguous token boundaries.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

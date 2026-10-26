@@ -1,0 +1,14 @@
+Primary book: AWS Well-Architected Framework — Amazon Web Services.
+Source: https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
+Source type: Official online guide.
+Read: Operational excellence, performance efficiency, cost optimization, and sustainability pillars.
+Study checklist:
+01. Compare canary and progressive rollout.
+02. Define automatic rollback signals.
+03. Reserve capacity for failure conditions.
+04. Measure cost per useful operation.
+05. Explain utilization and energy tradeoffs.
+06. Identify hidden network and storage costs.
+Completion: Evaluate two deployment policies with a cost model, overload experiment, and failure-capacity budget.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../04_Backups_restore_and_disaster_recovery/book_name.txt

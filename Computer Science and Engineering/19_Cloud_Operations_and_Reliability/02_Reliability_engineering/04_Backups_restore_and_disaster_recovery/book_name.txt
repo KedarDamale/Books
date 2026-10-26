@@ -1,0 +1,14 @@
+Primary book: Site Reliability Engineering: How Google Runs Production Systems, 1st edition — Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy, editors.
+Source: https://sre.google/sre-book/table-of-contents/
+Source type: Official open book.
+Read: Data Integrity and reliable data processing themes.
+Study checklist:
+01. Define recovery point and time objectives.
+02. Compare backups and replication.
+03. Verify backup completeness and readability.
+04. Restore dependencies in order.
+05. Detect silent data corruption.
+06. Exercise recovery under a failure model.
+Completion: Restore a small service from backup into a clean environment and measure achieved recovery time and data loss.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Incident_response_postmortems_and_toil/book_name.txt

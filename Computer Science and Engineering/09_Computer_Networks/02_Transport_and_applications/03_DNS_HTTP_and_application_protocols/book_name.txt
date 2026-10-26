@@ -1,0 +1,14 @@
+Primary book: An Introduction to Computer Networks, 2nd edition — Peter L. Dordal.
+Source: https://intronetworks.cs.luc.edu/
+Source type: Open textbook.
+Read: DNS, network applications, and HTTP themes.
+Study checklist:
+01. Trace recursive and iterative name resolution.
+02. Explain DNS caching and TTL.
+03. Parse HTTP requests and responses.
+04. Distinguish safe and idempotent operations.
+05. Explain persistent connections.
+06. Compare protocol semantics with transport guarantees.
+Completion: Use Python or Rust to trace a DNS lookup and implement a small HTTP exchange with explicit caching behavior.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Congestion_queues_and_fairness/book_name.txt

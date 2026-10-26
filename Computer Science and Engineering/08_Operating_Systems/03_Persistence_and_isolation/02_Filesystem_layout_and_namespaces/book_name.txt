@@ -1,0 +1,14 @@
+Primary book: Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+Source: https://pages.cs.wisc.edu/~remzi/OSTEP/
+Source type: Author-provided open book.
+Read: Files and Directories, File System Implementation, and Fast File System themes.
+Study checklist:
+01. Trace pathname lookup.
+02. Explain inodes and directory entries.
+03. Distinguish links and file contents.
+04. Model allocation and free-space tracking.
+05. Explain locality-aware placement.
+06. Analyze permissions and ownership.
+Completion: Implement a small in-memory filesystem model with directories, hard links, and explicit allocation accounting.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Storage_devices_and_RAID/book_name.txt

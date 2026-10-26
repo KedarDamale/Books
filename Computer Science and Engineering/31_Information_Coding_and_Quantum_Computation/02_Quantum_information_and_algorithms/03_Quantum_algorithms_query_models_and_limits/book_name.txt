@@ -1,0 +1,14 @@
+Primary book: Basics of Quantum Information — John Watrous and IBM Quantum education contributors.
+Source: https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information
+Source type: Official course text.
+Read: The linked Fundamentals of Quantum Algorithms course: query algorithms, search, Fourier transform, and phase-estimation themes.
+Study checklist:
+01. Separate circuit and query complexity.
+02. Explain interference as an algorithmic resource.
+03. Trace amplitude amplification.
+04. Interpret quantum phase estimation.
+05. State assumptions behind a speedup comparison.
+06. Account for noise and error-correction overhead.
+Completion: Simulate a small quantum search example and compare query count, classical simulation cost, and measurement success probability.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Teleportation_superdense_coding_and_CHSH/book_name.txt

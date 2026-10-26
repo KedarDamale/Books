@@ -1,0 +1,13 @@
+Primary book: Distributed Systems, 4th edition — Maarten van Steen and Andrew S. Tanenbaum.
+Source: https://www.distributed-systems.net/index.php/books/ds4/
+Source type: Official book site with free personal digital edition.
+Read: Communication, processes, and fault-tolerance themes.
+Study checklist:
+01. Distinguish synchronous and asynchronous models.
+02. Model crash and omission failures.
+03. Explain uncertain RPC outcomes.
+04. Separate request retries and operation semantics.
+05. Analyze timeout assumptions.
+06. Construct a partial-failure execution.
+Completion: Build an RPC simulator in Rust or Python where a timed-out request may still execute and document the consequences.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

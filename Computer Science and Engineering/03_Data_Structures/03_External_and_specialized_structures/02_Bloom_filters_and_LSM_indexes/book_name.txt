@@ -1,0 +1,14 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Advanced Indexing Techniques themes: Bloom Filter and Log-Structured Merge Tree and Variants.
+Study checklist:
+01. Derive Bloom filter false-positive behavior.
+02. Explain why deletion needs extra machinery.
+03. Trace memtables and sorted runs.
+04. Compare compaction strategies.
+05. Analyze read and write amplification.
+06. Explain filters as probabilistic accelerators.
+Completion: Implement a Bloom filter and an immutable sorted-run lookup, then measure false positives and extra reads.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_B_trees_and_external_memory/book_name.txt

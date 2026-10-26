@@ -1,0 +1,13 @@
+Primary book: CS 6120: Advanced Compilers, self-guided course — Adrian Sampson.
+Source: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
+Source type: Cornell course text.
+Read: Self-guided course introduction, empirical evaluation guidance, and one linked research paper relevant to a completed compiler unit.
+Study checklist:
+01. Separate problem, contribution, and evidence.
+02. Identify assumptions and baselines.
+03. Read an algorithm against its implementation.
+04. Reproduce a bounded central result.
+05. Compare negative and positive outcomes.
+06. State threats to validity.
+Completion: Reproduce one small result from a legitimately accessible paper and write a report explaining any disagreement.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

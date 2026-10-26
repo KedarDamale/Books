@@ -1,0 +1,14 @@
+Primary book: An Introduction to Computer Networks, 2nd edition — Peter L. Dordal.
+Source: https://intronetworks.cs.luc.edu/
+Source type: Open textbook.
+Read: TCP Congestion Control, queue management, and fair queuing themes.
+Study checklist:
+01. Explain congestion collapse.
+02. Trace additive increase and multiplicative decrease.
+03. Calculate bandwidth-delay product.
+04. Compare drop-tail and active queue management.
+05. Distinguish per-flow and user fairness.
+06. Analyze bufferbloat.
+Completion: Simulate competing flows through a bottleneck and compare throughput, queue delay, and fairness.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_UDP_TCP_and_reliable_transport/book_name.txt

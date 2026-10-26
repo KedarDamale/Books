@@ -1,0 +1,14 @@
+Primary book: Software Engineering, 10th edition — Ian Sommerville.
+Source: https://software-engineering-book.com/
+Source type: Official book site and chapter resources.
+Read: Software Evolution and software maintenance themes.
+Study checklist:
+01. Distinguish refactoring and behavior change.
+02. Characterize existing behavior before editing.
+03. Identify seams for incremental migration.
+04. Analyze dependency and compatibility constraints.
+05. Prioritize debt by consequences.
+06. Plan retirement of obsolete behavior.
+Completion: Migrate one interface in stages and demonstrate how old and new callers coexist until the migration completes.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Code_review_documentation_and_decisions/book_name.txt

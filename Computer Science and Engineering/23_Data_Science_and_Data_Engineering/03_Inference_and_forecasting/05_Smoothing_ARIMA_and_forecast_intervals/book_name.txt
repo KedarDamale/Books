@@ -1,0 +1,14 @@
+Primary book: Forecasting: Principles and Practice, 3rd edition — Rob J. Hyndman and George Athanasopoulos.
+Source: https://otexts.com/fpp3/
+Source type: Author-provided open book.
+Read: Exponential Smoothing, ARIMA Models, and prediction-interval themes; translate selected equations into Python.
+Study checklist:
+01. Explain level and trend updates.
+02. Model seasonal smoothing components.
+03. Relate differencing to stationarity.
+04. Interpret AR and MA terms.
+05. Compare one-step and multistep errors.
+06. State assumptions behind prediction intervals.
+Completion: Implement a simple smoothing model and an autoregressive baseline in Python and compare interval coverage on a known synthetic process.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../04_Time_series_structure_baselines_and_backtesting/book_name.txt

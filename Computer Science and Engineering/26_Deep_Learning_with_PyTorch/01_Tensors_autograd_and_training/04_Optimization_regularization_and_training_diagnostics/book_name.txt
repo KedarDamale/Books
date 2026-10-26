@@ -1,0 +1,17 @@
+Primary book: Dive into Deep Learning — Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola.
+Source: https://d2l.ai/
+Source type: Open book.
+Read: Numerical Stability and Initialization, Generalization, Dropout, and Optimization Algorithms themes.
+Study checklist:
+01. Explain initialization and activation scale.
+02. Compare SGD and adaptive updates.
+03. Separate weight decay and dropout effects.
+04. Interpret training and validation curves.
+05. Identify exploding gradients and unstable loss.
+06. Design a controlled optimization ablation.
+Completion: Train a network under several optimization settings and support the explanation with gradient, loss, and validation measurements.
+Extension book: Deep Learning — Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+Extension focus (optional): Deepen optimization, representation, and generative-model theory.
+Source: https://www.deeplearningbook.org/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Backpropagation_losses_and_gradient_checks/book_name.txt

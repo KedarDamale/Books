@@ -1,0 +1,13 @@
+Primary book: React documentation: Learn React — React team and contributors.
+Source: https://react.dev/learn
+Source type: Official online guide.
+Read: Describing the UI and Adding Interactivity themes.
+Study checklist:
+01. Define components and typed props.
+02. Explain render as a state snapshot.
+03. Update state without mutation.
+04. Choose stable list keys.
+05. Lift state to a coherent owner.
+06. Distinguish component identity and position.
+Completion: Build a typed editable list and demonstrate how incorrect keys corrupt local item state.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

@@ -1,0 +1,14 @@
+Primary book: Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+Source: https://pages.cs.wisc.edu/~remzi/OSTEP/
+Source type: Author-provided open book.
+Read: CPU Scheduling, Multi-level Feedback, Lottery Scheduling, and Multi-CPU Scheduling themes.
+Study checklist:
+01. Compute turnaround and response time.
+02. Compare FIFO, SJF, and round robin.
+03. Explain multilevel feedback.
+04. Analyze starvation and fairness.
+05. Relate scheduling to workload assumptions.
+06. Compare throughput and latency goals.
+Completion: Write a scheduling simulator and produce workloads that favor and defeat each selected policy.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Kernel_boundaries_and_process_lifecycle/book_name.txt

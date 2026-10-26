@@ -1,0 +1,17 @@
+Primary book: Computer Architecture: A Quantitative Approach, 7th edition — John L. Hennessy and David A. Patterson.
+Source: https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
+Source type: Publisher book page and contents.
+Read: Fundamentals of Quantitative Design and Analysis and Warehouse-Scale Systems themes.
+Study checklist:
+01. Apply Amdahl's law.
+02. Compare latency, throughput, and energy.
+03. Separate peak and sustained performance.
+04. Explain power and thermal constraints.
+05. Evaluate storage and interconnect bottlenecks.
+06. State workload-dependent design tradeoffs.
+Completion: Compare two hypothetical system designs using workload measurements, an explicit cost model, and sensitivity analysis.
+Extension book: CMOS VLSI Design: A Circuits and Systems Perspective, 4th edition — Neil H. E. Weste and David Money Harris.
+Extension focus (optional): Investigate the physical implementation costs of an architectural design.
+Source: https://www.pearson.com/en-us/subject-catalog/p/cmos-vlsi-design-a-circuits-and-systems-perspective/P200000003427
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_SIMD_GPUs_and_accelerators/book_name.txt

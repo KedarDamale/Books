@@ -1,0 +1,14 @@
+Primary book: Introduction to Parallel Computing and HPC Tutorials — Lawrence Livermore National Laboratory.
+Source: https://hpc-tutorials.llnl.gov/
+Source type: National laboratory tutorial texts.
+Read: Partitioning, communication, synchronization, load balancing, and performance analysis themes.
+Study checklist:
+01. Partition a grid or data domain.
+02. Distinguish computation and communication volume.
+03. Explain halo exchanges.
+04. Analyze strong and weak scaling.
+05. Identify stragglers and synchronization cost.
+06. Evaluate numeric differences after parallel reduction.
+Completion: Implement or simulate a partitioned numerical workload in Rust or Python and report scaling with communication explicitly included.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Monte_Carlo_simulation_and_variance/book_name.txt

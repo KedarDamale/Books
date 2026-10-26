@@ -1,0 +1,17 @@
+Primary book: Security Engineering: A Guide to Building Dependable Distributed Systems, 3rd edition — Ross Anderson.
+Source: https://www.cl.cam.ac.uk/archive/rja14/book.html
+Source type: Author-provided open book chapters.
+Read: Protocols, Boundaries, Access Control, and Secure Systems Development themes; apply them to the studied agent interfaces.
+Study checklist:
+01. Treat retrieved text as untrusted input.
+02. Separate instruction sources and data.
+03. Scope tool capabilities to a task.
+04. Require explicit state for consequential actions.
+05. Evaluate injected and malformed tool results.
+06. Trace decisions without leaking secrets.
+Completion: Evaluate a LangGraph workflow against malicious documents and tool responses and show the enforced boundary rather than relying on prompt wording alone.
+Extension book: Graph Representation Learning — William L. Hamilton.
+Extension focus (optional): Explore knowledge graphs and relational representations independently of agent orchestration.
+Source: https://www.cs.mcgill.ca/~wlh/grl_book/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_MCP_tools_resources_transports_and_lifecycle/book_name.txt

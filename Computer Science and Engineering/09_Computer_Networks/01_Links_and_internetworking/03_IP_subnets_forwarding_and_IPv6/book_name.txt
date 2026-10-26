@@ -1,0 +1,14 @@
+Primary book: An Introduction to Computer Networks, 2nd edition — Peter L. Dordal.
+Source: https://intronetworks.cs.luc.edu/
+Source type: Open textbook.
+Read: IP addressing, IPv4, IPv6, forwarding, and subnetting themes.
+Study checklist:
+01. Compute subnet membership.
+02. Apply longest-prefix matching.
+03. Distinguish routing and forwarding.
+04. Trace ARP or neighbor discovery.
+05. Explain fragmentation and path MTU.
+06. Compare NAT with end-to-end addressing.
+Completion: Build a routing-table lookup tool and trace a packet across IPv4 and IPv6 example topologies.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Ethernet_wireless_and_switching/book_name.txt

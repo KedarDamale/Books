@@ -1,0 +1,14 @@
+Primary book: Computer Vision: Algorithms and Applications, 2nd edition — Richard Szeliski.
+Source: https://szeliski.org/Book/
+Source type: Author book site with personal-use electronic edition.
+Read: Image Processing and Feature Detection and Matching themes.
+Study checklist:
+01. Explain sampling and aliasing.
+02. Apply convolution and boundary rules.
+03. Compare smoothing and edge filters.
+04. Analyze scale-space features.
+05. Match features with outlier rejection.
+06. Identify texture and illumination limitations.
+Completion: Implement image filters and a feature-matching experiment, including a case that breaks the matching assumptions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Transforms_coordinates_and_camera_models/book_name.txt

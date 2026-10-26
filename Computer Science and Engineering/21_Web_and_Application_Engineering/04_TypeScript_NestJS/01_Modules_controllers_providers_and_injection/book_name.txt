@@ -1,0 +1,13 @@
+Primary book: NestJS documentation — Kamil Mysliwiec and NestJS contributors.
+Source: https://docs.nestjs.com/
+Source type: Official online guide.
+Read: First steps, Controllers, Providers, Modules, Custom providers, and Injection scopes themes.
+Study checklist:
+01. Assign module responsibilities.
+02. Separate controllers and application services.
+03. Explain injection tokens.
+04. Choose provider lifetime deliberately.
+05. Resolve asynchronous dependencies.
+06. Avoid circular service ownership.
+Completion: Build a NestJS module with an interchangeable storage provider and explain its initialization and dependency graph.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

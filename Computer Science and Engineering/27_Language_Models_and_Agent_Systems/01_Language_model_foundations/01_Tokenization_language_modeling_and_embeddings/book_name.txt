@@ -1,0 +1,13 @@
+Primary book: Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition draft (2026-08-19) — Daniel Jurafsky and James H. Martin.
+Source: https://web.stanford.edu/~jurafsky/slp3/index.html
+Source type: Author-provided open draft.
+Read: Words and Tokens, N-gram Language Models, Vector Semantics and Embeddings, and neural language modeling themes.
+Study checklist:
+01. Compare tokenization choices and vocabulary costs.
+02. Derive autoregressive likelihood.
+03. Explain perplexity and its comparison limits.
+04. Distinguish static and contextual embeddings.
+05. Analyze rare and out-of-vocabulary inputs.
+06. Relate training text to evaluation leakage.
+Completion: Train a small Python language-model baseline and compare tokenization choices on held-out text with documented limitations.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

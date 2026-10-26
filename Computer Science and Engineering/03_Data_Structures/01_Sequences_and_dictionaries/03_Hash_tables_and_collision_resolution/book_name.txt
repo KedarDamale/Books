@@ -1,0 +1,14 @@
+Primary book: Open Data Structures — Pat Morin.
+Source: https://opendatastructures.org/
+Source type: Open book.
+Read: Hash tables, hash codes, chaining, and linear probing themes.
+Study checklist:
+01. Separate hashing from equality.
+02. Measure load factor.
+03. Compare chaining and open addressing.
+04. Explain probing deletion rules.
+05. Analyze expected versus adversarial cost.
+06. Construct a collision-heavy input.
+Completion: Implement a hash map, force collisions, and explain why average constant time requires assumptions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Linked_lists_stacks_and_queues/book_name.txt

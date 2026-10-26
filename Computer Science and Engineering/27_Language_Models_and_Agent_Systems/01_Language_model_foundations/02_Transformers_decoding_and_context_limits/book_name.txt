@@ -1,0 +1,14 @@
+Primary book: Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition draft (2026-08-19) — Daniel Jurafsky and James H. Martin.
+Source: https://web.stanford.edu/~jurafsky/slp3/index.html
+Source type: Author-provided open draft.
+Read: Transformers, Large Language Models, and generation themes.
+Study checklist:
+01. Trace causal self-attention.
+02. Explain positional information.
+03. Distinguish pretraining and adaptation.
+04. Compare greedy, beam, and sampling decoding.
+05. Analyze context and KV-cache costs.
+06. Separate fluent output and grounded correctness.
+Completion: Implement a small decoder experiment in PyTorch and compare output diversity, likelihood, and factual failure cases.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Tokenization_language_modeling_and_embeddings/book_name.txt

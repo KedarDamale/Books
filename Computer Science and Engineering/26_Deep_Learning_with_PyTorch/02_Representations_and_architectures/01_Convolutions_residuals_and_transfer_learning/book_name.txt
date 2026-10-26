@@ -1,0 +1,13 @@
+Primary book: Dive into Deep Learning — Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola.
+Source: https://d2l.ai/
+Source type: Open book.
+Read: Convolutional Neural Networks, Modern CNNs, and Fine-Tuning themes.
+Study checklist:
+01. Derive convolution output dimensions.
+02. Explain weight sharing and receptive fields.
+03. Compare pooling and strided convolution.
+04. Trace residual connections.
+05. Separate frozen and trainable parameters.
+06. Evaluate transfer under domain shift.
+Completion: Fine-tune a PyTorch image model and compare frozen-feature and full-fine-tuning experiments with the same data split.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

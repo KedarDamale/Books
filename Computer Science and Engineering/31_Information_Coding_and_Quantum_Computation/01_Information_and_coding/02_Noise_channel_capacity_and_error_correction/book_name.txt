@@ -1,0 +1,14 @@
+Primary book: Information Theory, Inference, and Learning Algorithms — David J. C. MacKay.
+Source: https://www.inference.org.uk/mackay/itila/
+Source type: Author book site; publisher contents also checked.
+Read: Noisy-Channel Coding, linear codes, and coding-theorem themes.
+Study checklist:
+01. Model a discrete noisy channel.
+02. Calculate a simple channel capacity.
+03. Explain redundancy and minimum distance.
+04. Encode and decode a small linear code.
+05. Distinguish detection and correction.
+06. Interpret asymptotic limits without promising finite-length perfection.
+Completion: Simulate transmission with and without an error-correcting code and compare block error rate over changing noise levels.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Entropy_mutual_information_and_source_coding/book_name.txt

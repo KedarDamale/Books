@@ -1,0 +1,14 @@
+Primary book: An Introduction to Statistical Learning: with Applications in Python — Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor.
+Source: https://www.statlearning.com/
+Source type: Author-provided open book.
+Read: Multiple Testing and statistical-inference themes.
+Study checklist:
+01. State null and alternative hypotheses.
+02. Explain p-values under the null.
+03. Separate statistical and practical significance.
+04. Compare familywise and false-discovery control.
+05. Relate power to effect and sample size.
+06. Identify optional-stopping and selection problems.
+Completion: Simulate repeated tests, compare multiplicity corrections, and report both detected effects and false discoveries.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Exploration_sampling_and_uncertainty/book_name.txt

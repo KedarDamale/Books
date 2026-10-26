@@ -1,0 +1,14 @@
+Primary book: Pro Git, 2nd edition — Scott Chacon and Ben Straub.
+Source: https://git-scm.com/book/en/v2
+Source type: Open book.
+Read: Getting Started, Git Basics, Git Branching, and Git Internals themes.
+Study checklist:
+01. Explain commits as snapshots in a DAG.
+02. Distinguish worktree, index, and repository.
+03. Inspect a diff before recording changes.
+04. Resolve a merge conflict deliberately.
+05. Recover an earlier version using history.
+06. Explain local and remote references.
+Completion: Create and merge two conflicting branches in a disposable repository, then recover a deleted file.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Text_data_and_automation/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Web Accessibility Tutorials — W3C Web Accessibility Initiative.
+Source: https://www.w3.org/WAI/tutorials/
+Source type: Official educational documentation.
+Read: Page Structure, Menus, Forms, Tables, Images, and custom-control accessibility themes.
+Study checklist:
+01. Choose native accessible elements.
+02. Preserve keyboard navigation order.
+03. Provide labels, instructions, and error associations.
+04. Expose control name, role, and value.
+05. Support zoom and reduced motion.
+06. Compare automated checks and manual testing.
+Completion: Audit a React or Astro page with keyboard and assistive-technology checks and fix an inaccessible form interaction.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

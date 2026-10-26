@@ -1,0 +1,17 @@
+Primary book: Graph Representation Learning — William L. Hamilton.
+Source: https://www.cs.mcgill.ca/~wlh/grl_book/
+Source type: Author-provided open prepublication book.
+Read: The Graph Neural Network Model, GNN Architectures, and limitations of message passing themes; implement with raw PyTorch tensors.
+Study checklist:
+01. Represent adjacency and node features.
+02. Define permutation-equivariant aggregation.
+03. Normalize neighborhood contributions.
+04. Explain receptive-field growth by layers.
+05. Identify oversmoothing and heterophily limits.
+06. Prevent train-test leakage through graph edges.
+Completion: Implement a basic graph convolution directly in PyTorch and test permutation equivariance and a leakage-prone split.
+Required second source: PyTorch Tutorials and documentation — PyTorch contributors.
+Read: Tensor operations, sparse/dense matrix multiplication, autograd, and module construction. Required implementation reference.
+Source: https://docs.pytorch.org/tutorials/beginner/basics/intro.html
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Sequence_models_attention_and_transformers/book_name.txt

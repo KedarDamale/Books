@@ -1,0 +1,14 @@
+Primary book: Programming Languages: Application and Interpretation, 3rd edition — Shriram Krishnamurthi.
+Source: https://www.plai.org/
+Source type: Author-provided open book.
+Read: Substitution, environments, functions, lexical scope, and recursion themes.
+Study checklist:
+01. Perform capture-avoiding substitution.
+02. Represent lexical environments.
+03. Explain closure creation and application.
+04. Contrast lexical and dynamic scope.
+05. Model recursive bindings.
+06. Construct a scope-sensitive counterexample.
+Completion: Extend an interpreter with first-class recursive functions and test a program that distinguishes lexical from dynamic scope.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Syntax_semantics_and_interpreters/book_name.txt

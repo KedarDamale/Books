@@ -1,0 +1,13 @@
+Primary book: Software Foundations: Programming Language Foundations — Benjamin C. Pierce and collaborators.
+Source: https://softwarefoundations.cis.upenn.edu/plf-current/
+Source type: Open machine-checked textbook.
+Read: Smallstep, Stlc, and operational semantics themes.
+Study checklist:
+01. Define free and bound variables.
+02. Perform alpha-renaming and beta-reduction.
+03. Trace small-step evaluation.
+04. Compare normal forms and divergence.
+05. State evaluation contexts.
+06. Relate formal terms to implemented functions.
+Completion: Write a lambda-term reducer in Python or Rust and explain termination behavior for selected terms.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

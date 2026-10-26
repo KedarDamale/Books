@@ -1,0 +1,13 @@
+Primary book: Software Foundations: Programming Language Foundations — Benjamin C. Pierce and collaborators.
+Source: https://softwarefoundations.cis.upenn.edu/plf-current/
+Source type: Open machine-checked textbook.
+Read: Hoare Logic, Hoare Logic Part II, and decorated programs themes.
+Study checklist:
+01. State Hoare triples.
+02. Apply assignment substitution correctly.
+03. Derive sequential composition.
+04. Prove conditional branches.
+05. Choose sufficient loop invariants.
+06. Separate partial and total correctness.
+Completion: Give a decorated correctness proof for an iterative algorithm and add a termination argument.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

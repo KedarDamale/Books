@@ -1,0 +1,14 @@
+Primary book: AWS Well-Architected Framework — Amazon Web Services.
+Source: https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
+Source type: Official online guide.
+Read: Operational excellence themes: operations as code, automated changes, and reversible deployment.
+Study checklist:
+01. Represent desired infrastructure state.
+02. Explain idempotent reconciliation.
+03. Detect configuration drift.
+04. Version infrastructure and environment inputs.
+05. Separate secret values and configuration.
+06. Analyze rollback and replacement hazards.
+Completion: Write a declarative deployment specification and demonstrate a local reconciliation loop correcting deliberate drift.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Cloud_resources_identity_and_failure_domains/book_name.txt

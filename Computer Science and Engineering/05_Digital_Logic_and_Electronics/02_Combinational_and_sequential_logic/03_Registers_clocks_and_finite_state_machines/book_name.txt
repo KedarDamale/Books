@@ -1,0 +1,14 @@
+Primary book: Digital Design and Computer Architecture: RISC-V Edition — Sarah L. Harris and David Harris.
+Source: https://pages.hmc.edu/harris/ddca/ddcarv.html
+Source type: Book and official companion resources.
+Read: Sequential Logic Design themes: latches, flip-flops, registers, FSMs, and timing.
+Study checklist:
+01. Distinguish combinational and sequential state.
+02. Explain edge-triggered storage.
+03. Design Moore and Mealy machines.
+04. Calculate setup and hold constraints.
+05. Explain metastability as a physical risk.
+06. Derive next-state equations.
+Completion: Design a controller FSM and test every legal transition plus reset and invalid-input behavior.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Binary_arithmetic_and_ALUs/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: MDN Web Docs: Learn web development — Mozilla and MDN contributors.
+Source: https://developer.mozilla.org/en-US/docs/Learn_web_development
+Source type: Official educational documentation.
+Read: HTML fundamentals themes: semantic structure, text, links, forms, tables, and media.
+Study checklist:
+01. Choose semantic document elements.
+02. Construct valid nested content.
+03. Associate labels and form controls.
+04. Distinguish form submission and scripting.
+05. Provide meaningful alternative text.
+06. Explain browser parsing and default behavior.
+Completion: Build a semantic multipage document and a keyboard-usable form that works before client-side enhancement.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

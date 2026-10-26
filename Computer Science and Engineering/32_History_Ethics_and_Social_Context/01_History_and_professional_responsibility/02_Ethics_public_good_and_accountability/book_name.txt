@@ -1,0 +1,14 @@
+Primary book: ACM Code of Ethics and Professional Conduct — Association for Computing Machinery.
+Source: https://www.acm.org/code-of-ethics
+Source type: Official professional code.
+Read: General Ethical Principles and Professional Responsibilities themes.
+Study checklist:
+01. Identify affected people beyond direct users.
+02. Distinguish legal compliance and ethical judgment.
+03. Analyze avoidable harm.
+04. Respect privacy and confidentiality.
+05. Explain professional competence limits.
+06. Assign responsibility for corrective action.
+Completion: Analyze a computing case using concrete stakeholders, competing duties, and an accountable course of action.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_History_of_hardware_software_and_networks/book_name.txt

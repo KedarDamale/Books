@@ -1,0 +1,14 @@
+Primary book: pandas User Guide — pandas contributors.
+Source: https://pandas.pydata.org/docs/user_guide/index.html
+Source type: Official online guide.
+Read: Group by, reshaping, windowing operations, and time series themes.
+Study checklist:
+01. Define aggregation grain.
+02. Compare grouping and window operations.
+03. Distinguish event and observation timestamps.
+04. Handle time zones and daylight transitions.
+05. Explain resampling alignment.
+06. Prevent future-information leakage.
+Completion: Build a time-indexed feature table and prove with examples that no feature reads future observations.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Pandas_indexes_missing_data_and_joins/book_name.txt

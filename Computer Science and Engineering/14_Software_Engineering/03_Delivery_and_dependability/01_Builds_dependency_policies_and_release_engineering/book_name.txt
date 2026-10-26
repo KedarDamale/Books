@@ -1,0 +1,13 @@
+Primary book: Software Engineering at Google — Titus Winters, Tom Manshreck, and Hyrum Wright, editors.
+Source: https://abseil.io/resources/swe-book/html/toc.html
+Source type: Official open book.
+Read: Build Systems and Build Philosophy, Dependency Management, and Continuous Delivery themes.
+Study checklist:
+01. Explain hermetic build inputs.
+02. Compare dependency pinning and update policies.
+03. Trace artifacts to source revisions.
+04. Design repeatable release steps.
+05. Separate deployment and feature exposure.
+06. Plan versioned rollback behavior.
+Completion: Define a reproducible release workflow for a Python, TypeScript, or Rust project and explain rollback limitations after schema changes.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

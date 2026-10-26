@@ -1,0 +1,13 @@
+Primary book: Software Engineering, 10th edition — Ian Sommerville.
+Source: https://software-engineering-book.com/
+Source type: Official book site and chapter resources.
+Read: Requirements Engineering and Systems Engineering themes.
+Study checklist:
+01. Separate stakeholder goals and proposed solutions.
+02. Write functional requirements.
+03. Make quality constraints measurable.
+04. Identify conflicting requirements.
+05. Define observable acceptance conditions.
+06. Track assumptions and requirement changes.
+Completion: Write a requirements document for a small information system with traceable acceptance criteria and explicit exclusions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

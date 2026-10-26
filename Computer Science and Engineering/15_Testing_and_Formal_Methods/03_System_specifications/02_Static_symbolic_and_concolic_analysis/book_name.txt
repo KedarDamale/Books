@@ -1,0 +1,17 @@
+Primary book: The Fuzzing Book — Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler.
+Source: https://www.fuzzingbook.org/
+Source type: Author-provided open book.
+Read: Symbolic Fuzzing, Concolic Fuzzing, and program-analysis themes.
+Study checklist:
+01. Represent path conditions.
+02. Explain symbolic input values.
+03. Solve a small branch constraint.
+04. Compare static and dynamic evidence.
+05. Identify path explosion.
+06. Recognize unsupported environment assumptions.
+Completion: Symbolically explore a small program and compare discovered paths with a fuzzing run, including an unexplored limitation.
+Extension book: Software Foundations: Separation Logic Foundations — Arthur Chargueraud, with contributions from collaborators.
+Extension focus (optional): Deepen local reasoning about mutable heap structures.
+Source: https://softwarefoundations.cis.upenn.edu/slf-current/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_TLA_state_models_invariants_and_liveness/book_name.txt

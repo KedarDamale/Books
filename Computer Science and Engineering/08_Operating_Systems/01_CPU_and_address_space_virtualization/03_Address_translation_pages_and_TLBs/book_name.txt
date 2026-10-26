@@ -1,0 +1,14 @@
+Primary book: Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+Source: https://pages.cs.wisc.edu/~remzi/OSTEP/
+Source type: Author-provided open book.
+Read: Address Spaces, Address Translation, Introduction to Paging, TLBs, and Advanced Page Tables themes.
+Study checklist:
+01. Translate virtual to physical addresses.
+02. Explain page permissions.
+03. Trace TLB hits and misses.
+04. Compare page-table organizations.
+05. Calculate page-table space overhead.
+06. Explain protection faults.
+Completion: Build a page-table translation simulator and demonstrate valid access, missing mappings, and permission failures.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Scheduling_fairness_and_response_time/book_name.txt

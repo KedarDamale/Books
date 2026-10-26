@@ -1,0 +1,17 @@
+Primary book: Designing Data-Intensive Applications, 1st edition — Martin Kleppmann.
+Source: https://dataintensive.net/
+Source type: Author book site.
+Read: The Trouble with Distributed Systems and Consistency and Consensus themes.
+Study checklist:
+01. Explain why silence is ambiguous.
+02. Distinguish safety from liveness under partitions.
+03. State the asynchronous consensus impossibility setting.
+04. Explain eventual synchrony assumptions.
+05. Relate failure suspicion to recovery.
+06. Identify claims invalidated by Byzantine behavior.
+Completion: Write two indistinguishable executions that show why a timeout alone cannot prove a node has failed.
+Extension book: Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers — Leslie Lamport.
+Extension focus (optional): Specify replication invariants and model failure executions.
+Source: https://lamport.azurewebsites.net/tla/book.html
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Logical_clocks_causality_and_snapshots/book_name.txt

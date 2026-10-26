@@ -1,0 +1,13 @@
+Primary book: An Introduction to Computer Networks, 2nd edition — Peter L. Dordal.
+Source: https://intronetworks.cs.luc.edu/
+Source type: Open textbook.
+Read: UDP, TCP Transport, and sliding-window themes.
+Study checklist:
+01. Separate datagrams and byte streams.
+02. Explain sequence numbers and acknowledgments.
+03. Trace loss and retransmission.
+04. Distinguish flow and congestion control.
+05. Explain connection setup and teardown.
+06. Identify head-of-line blocking.
+Completion: Implement a toy reliable transport over a lossy simulator and test duplicate, reordered, and missing packets.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

@@ -1,0 +1,14 @@
+Primary book: Introduction to Parallel Computing and HPC Tutorials — Lawrence Livermore National Laboratory.
+Source: https://hpc-tutorials.llnl.gov/
+Source type: National laboratory tutorial texts.
+Read: Parallel models, decomposition, synchronization, granularity, and performance analysis themes.
+Study checklist:
+01. Decompose work into a dependency DAG.
+02. Distinguish total work and critical path.
+03. Apply Amdahl and scaling arguments.
+04. Compare task and data parallelism.
+05. Analyze synchronization overhead.
+06. Balance granularity and scheduling costs.
+Completion: Parallelize a reduction in Rust and explain observed scaling using work, serial dependencies, and overhead.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Channels_actors_and_structured_shutdown/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Fundamentals of Numerical Computation — Tobin A. Driscoll and Richard J. Braun.
+Source: https://fncbook.com/
+Source type: Author-provided online book.
+Read: Initial-Value Problems, Boundary-Value Problems, Diffusion Equations, and Advection Equations themes.
+Study checklist:
+01. Discretize a differential model.
+02. Separate consistency, stability, and convergence.
+03. Explain stiffness and step-size restrictions.
+04. Apply a simple boundary condition.
+05. Compare explicit and implicit schemes.
+06. Measure grid-refinement error.
+Completion: Simulate a diffusion or transport problem in Python and report convergence behavior against a known solution.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

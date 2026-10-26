@@ -1,0 +1,17 @@
+Primary book: Programming Languages: Application and Interpretation, 3rd edition — Shriram Krishnamurthi.
+Source: https://www.plai.org/
+Source type: Author-provided open book.
+Read: Static typing, type inference, and language-design themes.
+Study checklist:
+01. Generate simple type constraints.
+02. Solve substitutions consistently.
+03. Explain inference versus annotation.
+04. Compare nominal and structural interfaces.
+05. Identify mutable subtyping hazards.
+06. Evaluate soundness and usability tradeoffs.
+Completion: Implement a small constraint-based type checker and show both a successful inference and an unsatisfiable constraint set.
+Extension book: Software Foundations: Programming Language Foundations — Benjamin C. Pierce and collaborators.
+Extension focus (optional): Continue from interpreter experiments to operational semantics and type-safety proofs.
+Source: https://softwarefoundations.cis.upenn.edu/plf-current/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Type_rules_progress_and_preservation/book_name.txt

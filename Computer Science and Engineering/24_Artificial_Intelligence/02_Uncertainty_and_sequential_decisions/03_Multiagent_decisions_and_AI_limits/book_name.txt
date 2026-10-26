@@ -1,0 +1,14 @@
+Primary book: Artificial Intelligence: A Modern Approach, 4th US edition — Stuart Russell and Peter Norvig.
+Source: https://aima.cs.berkeley.edu/
+Source type: Official book site and contents.
+Read: Multiagent Decision Making and Philosophy, Ethics, and Safety of AI themes.
+Study checklist:
+01. Model interacting agents and incentives.
+02. Distinguish individual and collective objectives.
+03. Explain coordination and strategic uncertainty.
+04. Identify specification gaming.
+05. Separate planning competence and reliability.
+06. State limits of a benchmark evaluation.
+Completion: Analyze a small multiagent game and construct an outcome where locally rational behavior harms the shared objective.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Utilities_MDPs_and_reinforcement_learning/book_name.txt

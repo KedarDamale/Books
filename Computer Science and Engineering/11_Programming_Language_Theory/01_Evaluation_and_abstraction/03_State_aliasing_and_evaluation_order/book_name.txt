@@ -1,0 +1,14 @@
+Primary book: Programming Languages: Application and Interpretation, 3rd edition — Shriram Krishnamurthi.
+Source: https://www.plai.org/
+Source type: Author-provided open book.
+Read: Mutation, store models, sequencing, and evaluation-order themes.
+Study checklist:
+01. Separate bindings from storage locations.
+02. Trace mutation through aliases.
+03. Explain call-by-value behavior.
+04. Compare strict and delayed evaluation.
+05. Identify effects hidden inside expressions.
+06. State an observational equivalence claim.
+Completion: Add mutable cells to an interpreter and show how changing evaluation order changes one program's result.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Lexical_scope_closures_and_recursion/book_name.txt

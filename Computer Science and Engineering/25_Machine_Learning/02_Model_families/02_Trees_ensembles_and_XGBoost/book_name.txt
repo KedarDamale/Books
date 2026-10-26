@@ -1,0 +1,14 @@
+Primary book: XGBoost documentation — XGBoost contributors.
+Source: https://xgboost.readthedocs.io/en/stable/
+Source type: Official online guide.
+Read: Introduction to Boosted Trees, parameters, early stopping, categorical data, and constraints themes.
+Study checklist:
+01. Explain tree splitting and additive ensembles.
+02. Derive residual or gradient fitting intuition.
+03. Relate depth and shrinkage to complexity.
+04. Configure validation-aware early stopping.
+05. Apply monotonic constraints deliberately.
+06. Diagnose overfitting and target leakage.
+Completion: Train an XGBoost model against a simple baseline and conduct ablations on depth, learning rate, and early stopping.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Linear_logistic_and_regularized_models/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Eloquent JavaScript, 4th edition — Marijn Haverbeke.
+Source: https://eloquentjavascript.net/
+Source type: Open book.
+Read: Values, Types, and Operators, Functions, Objects and Arrays, and Modules themes; write the exercises in TypeScript.
+Study checklist:
+01. Explain JavaScript values beneath TypeScript types.
+02. Trace lexical closures.
+03. Distinguish object references and copies.
+04. Explain prototypes without class folklore.
+05. Separate ES modules and execution environments.
+06. Identify coercion and equality surprises.
+Completion: Write a TypeScript module and predict its emitted program's behavior for closure, coercion, and reference cases.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

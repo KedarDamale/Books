@@ -1,0 +1,14 @@
+Primary book: Designing Data-Intensive Applications, 1st edition — Martin Kleppmann.
+Source: https://dataintensive.net/
+Source type: Author book site.
+Read: Transactions and Consistency and Consensus themes on atomic commit and two-phase commit.
+Study checklist:
+01. Separate atomic commit and consensus.
+02. Trace prepare and commit phases.
+03. Explain coordinator-failure blocking.
+04. Distinguish transaction isolation and commit atomicity.
+05. Model uncertain participants.
+06. Compare compensation with rollback.
+Completion: Simulate two-phase commit with failures at each phase and explain which executions block and why.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Consensus_and_replicated_state_machines/book_name.txt

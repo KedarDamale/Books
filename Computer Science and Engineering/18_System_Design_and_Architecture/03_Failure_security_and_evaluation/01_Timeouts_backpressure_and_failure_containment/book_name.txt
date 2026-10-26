@@ -1,0 +1,13 @@
+Primary book: Site Reliability Engineering: How Google Runs Production Systems, 1st edition — Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy, editors.
+Source: https://sre.google/sre-book/table-of-contents/
+Source type: Official open book.
+Read: Handling Overload, Addressing Cascading Failures, and load balancing themes.
+Study checklist:
+01. Allocate end-to-end deadlines.
+02. Bound retries with budgets and jitter.
+03. Apply admission control.
+04. Separate bulkheads and circuit breakers.
+05. Propagate backpressure across queues.
+06. Analyze retry-driven overload.
+Completion: Build a service simulation that collapses under retries, then measure how a bounded design changes recovery.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

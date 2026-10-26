@@ -1,0 +1,14 @@
+Primary book: Fundamentals of Numerical Computation — Tobin A. Driscoll and Richard J. Braun.
+Source: https://fncbook.com/
+Source type: Author-provided online book.
+Read: Linear Systems, Overdetermined Linear Systems, Matrix Analysis, and Krylov Methods themes.
+Study checklist:
+01. Explain pivoting and elimination.
+02. Compare QR and normal-equation approaches.
+03. Interpret matrix condition numbers.
+04. Use sparse matrix structure.
+05. Explain Krylov iteration and residuals.
+06. Identify stopping criteria limitations.
+Completion: Solve dense and sparse systems in Python and compare residual, actual error, and computational cost.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Floating_point_conditioning_and_stability/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Computer Vision: Algorithms and Applications, 2nd edition — Richard Szeliski.
+Source: https://szeliski.org/Book/
+Source type: Author book site with personal-use electronic edition.
+Read: Image Alignment, Structure from Motion, Stereo Correspondence, and Motion Estimation themes.
+Study checklist:
+01. Estimate planar alignment.
+02. Use robust fitting for outliers.
+03. Explain epipolar constraints.
+04. Relate disparity and depth.
+05. Distinguish camera and object motion.
+06. Identify ambiguous or textureless scenes.
+Completion: Estimate a planar transform and a simple depth or motion quantity, then report failure cases and geometric residuals.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

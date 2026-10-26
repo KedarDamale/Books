@@ -1,0 +1,14 @@
+Primary book: An Introduction to Statistical Learning: with Applications in Python — Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor.
+Source: https://www.statlearning.com/
+Source type: Author-provided open book.
+Read: Classification and Survival Analysis themes; use scikit-learn for classification and study survival likelihoods directly.
+Study checklist:
+01. Separate prevalence and decision costs.
+02. Compare weighting and resampling.
+03. Evaluate rare-event precision meaningfully.
+04. Explain censoring and survival functions.
+05. Distinguish anomaly score and probability.
+06. Identify deployment-prevalence changes.
+Completion: Simulate a rare-event task and show how prevalence changes precision while leaving another familiar metric nearly unchanged.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Feature_engineering_inspection_and_shift/book_name.txt

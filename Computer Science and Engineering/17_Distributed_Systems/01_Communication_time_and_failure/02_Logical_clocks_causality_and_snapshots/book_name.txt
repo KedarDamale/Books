@@ -1,0 +1,14 @@
+Primary book: Distributed Systems, 4th edition — Maarten van Steen and Andrew S. Tanenbaum.
+Source: https://www.distributed-systems.net/index.php/books/ds4/
+Source type: Official book site with free personal digital edition.
+Read: Coordination themes: clock synchronization, logical clocks, and global state.
+Study checklist:
+01. Distinguish wall-clock and logical order.
+02. Define happens-before.
+03. Trace Lamport clocks.
+04. Compare vector-clock partial orders.
+05. Identify concurrent events.
+06. Explain a consistent distributed snapshot.
+Completion: Annotate a message history with logical clocks and construct a consistent cut without a global physical clock.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_System_models_RPC_and_partial_failure/book_name.txt

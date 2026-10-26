@@ -1,0 +1,14 @@
+Primary book: Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+Source: https://pages.cs.wisc.edu/~remzi/OSTEP/
+Source type: Author-provided open book.
+Read: Locks, Locked Data Structures, Condition Variables, and Concurrency Bugs themes.
+Study checklist:
+01. Identify shared invariants and lock scope.
+02. Establish a global lock order.
+03. Compare coarse and fine-grained locking.
+04. Explain contention and convoying.
+05. Analyze starvation and priority inversion.
+06. Avoid callbacks while holding internal locks.
+Completion: Measure two locking strategies for a shared Rust structure and explain a deadlock-prevention argument.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Rust_atomics_memory_order_and_fences/book_name.txt

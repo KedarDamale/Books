@@ -1,0 +1,13 @@
+Primary book: Computer Architecture: A Quantitative Approach, 7th edition — John L. Hennessy and David A. Patterson.
+Source: https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
+Source type: Publisher book page and contents.
+Read: Memory Hierarchy Design themes.
+Study checklist:
+01. Calculate cache indexing and tags.
+02. Distinguish compulsory, capacity, and conflict misses.
+03. Compare write policies.
+04. Explain temporal and spatial locality.
+05. Calculate average memory access time.
+06. Identify misleading locality benchmarks.
+Completion: Measure a Rust array traversal under several strides and explain results with a cache model.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

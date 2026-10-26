@@ -1,0 +1,13 @@
+Primary book: CS 6120: Advanced Compilers, self-guided course — Adrian Sampson.
+Source: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
+Source type: Cornell course text.
+Read: Representing Programs, Data Flow, and Global Analysis & SSA lessons.
+Study checklist:
+01. Represent basic blocks and control-flow edges.
+02. Compute reaching definitions or liveness.
+03. Explain monotone fixed-point iteration.
+04. Calculate dominators.
+05. Construct SSA phi nodes.
+06. Preserve semantics across IR transformations.
+Completion: Implement a dataflow analysis over a Rust or Python IR and validate results on loops and unreachable blocks.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

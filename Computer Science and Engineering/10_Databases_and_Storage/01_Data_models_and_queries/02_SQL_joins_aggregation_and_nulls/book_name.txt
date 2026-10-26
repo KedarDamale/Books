@@ -1,0 +1,14 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Introduction to SQL and Intermediate SQL themes.
+Study checklist:
+01. Write inner and outer joins.
+02. Explain three-valued NULL logic.
+03. Apply grouping and HAVING.
+04. Compare subqueries and joins.
+05. Use constraints to protect data.
+06. Parameterize queries across an application boundary.
+Completion: Write queries over a deliberately messy dataset and explain NULL and duplicate-related mistakes.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Relational_model_keys_and_algebra/book_name.txt

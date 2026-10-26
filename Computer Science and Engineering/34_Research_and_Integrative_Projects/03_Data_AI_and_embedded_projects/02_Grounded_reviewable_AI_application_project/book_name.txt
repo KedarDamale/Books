@@ -1,0 +1,14 @@
+Primary book: LangGraph Python documentation — LangGraph contributors.
+Source: https://docs.langchain.com/oss/python/langgraph/overview
+Source type: Official online guide.
+Read: Review Graph API, Persistence, Interrupts, streaming, and subgraph themes needed by the chosen scope.
+Study checklist:
+01. Separate deterministic rules and model steps.
+02. Preserve source provenance and citations.
+03. Use typed tool contracts.
+04. Persist reviewable proposals and decisions.
+05. Evaluate adversarial and recovery scenarios.
+06. Measure successful-task cost and latency.
+Completion: Build a LangGraph application with FastAPI and a React or Astro interface, including review checkpoints and an evidence-based evaluation report.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Auditable_data_and_ML_project/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Fundamentals of Numerical Computation — Tobin A. Driscoll and Richard J. Braun.
+Source: https://fncbook.com/
+Source type: Author-provided online book.
+Read: Introduction themes: floating-point arithmetic, conditioning, and stability.
+Study checklist:
+01. Separate rounding and truncation error.
+02. Calculate relative and absolute error.
+03. Estimate problem conditioning.
+04. Distinguish forward and backward error.
+05. Explain cancellation.
+06. Construct an unstable computation.
+Completion: Compare two formulas for the same quantity over difficult inputs and explain error using conditioning and algorithmic stability.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

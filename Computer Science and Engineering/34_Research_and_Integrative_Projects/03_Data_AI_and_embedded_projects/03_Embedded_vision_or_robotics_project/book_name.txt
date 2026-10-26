@@ -1,0 +1,14 @@
+Primary book: Introduction to Embedded Systems: A Cyber-Physical Systems Approach, 2nd edition — Edward A. Lee and Sanjit A. Seshia.
+Source: https://ptolemy.berkeley.edu/books/leeseshia/
+Source type: Author-provided open book.
+Read: Review the selected sensing, scheduling, state-machine, and verification themes.
+Study checklist:
+01. Define physical and timing assumptions.
+02. Implement a Rust device or simulator boundary.
+03. Connect Python analysis or PyTorch inference.
+04. Specify safe degraded behavior.
+05. Measure end-to-end delay and uncertainty.
+06. Document model and hardware failure cases.
+Completion: Build a sensor, vision, or robot simulator that joins Rust execution with Python analysis and reports timing, estimation, and failure limits.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Grounded_reviewable_AI_application_project/book_name.txt

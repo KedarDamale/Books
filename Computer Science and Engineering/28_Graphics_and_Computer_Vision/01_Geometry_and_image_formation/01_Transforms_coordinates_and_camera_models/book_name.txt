@@ -1,0 +1,13 @@
+Primary book: Physically Based Rendering: From Theory to Implementation, 4th edition — Matt Pharr, Wenzel Jakob, and Greg Humphreys.
+Source: https://www.pbr-book.org/
+Source type: Author-provided open book.
+Read: Geometry and Transformations, Cameras, and ray generation themes.
+Study checklist:
+01. Distinguish points, vectors, and coordinate frames.
+02. Compose affine transforms.
+03. Explain homogeneous coordinates.
+04. Derive perspective projection.
+05. Trace camera rays.
+06. Identify numerical and coordinate-convention errors.
+Completion: Implement a camera model in Python or Rust and verify projection and ray construction on known geometric configurations.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

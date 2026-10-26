@@ -1,0 +1,13 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Physical Storage Systems and Data Storage Structures themes.
+Study checklist:
+01. Lay out fixed and variable-length records.
+02. Explain slotted pages.
+03. Trace buffer pinning and replacement.
+04. Compare row and column organization.
+05. Estimate scan I/O cost.
+06. Relate layout to workload.
+Completion: Implement a page-format simulator and compare storage and scan work for two record layouts.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

@@ -1,0 +1,14 @@
+Primary book: Elements of Data Science — Allen B. Downey.
+Source: https://allendowney.github.io/ElementsOfDataScience/
+Source type: Author-provided open book.
+Read: DataFrames and Series, distributions, relationships, and reproducible analysis themes.
+Study checklist:
+01. Define measurable quality constraints.
+02. Normalize identifiers without destroying evidence.
+03. Separate exact and approximate matches.
+04. Evaluate matching precision and recall.
+05. Preserve rule provenance.
+06. Analyze false-match and missed-match costs.
+Completion: Build a small record-reconciliation pipeline and report errors against hand-labeled cases with traceable matching decisions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Lakehouse_Delta_and_Databricks_execution/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Site Reliability Engineering: How Google Runs Production Systems, 1st edition — Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy, editors.
+Source: https://sre.google/sre-book/table-of-contents/
+Source type: Official open book.
+Read: Monitoring Distributed Systems and Practical Alerting themes.
+Study checklist:
+01. Choose latency, traffic, error, and saturation signals.
+02. Distinguish counters, gauges, and histograms.
+03. Explain trace context across services.
+04. Control label cardinality.
+05. Connect alerts to actionable symptoms.
+06. Protect sensitive log content.
+Completion: Instrument a small service and trace one failing request across components, including an alert tied to a user impact.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_SLIs_SLOs_and_error_budgets/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: The Python Tutorial — Python documentation contributors.
+Source: https://docs.python.org/3/tutorial/
+Source type: Official online text.
+Read: Input and Output, Errors and Exceptions, and Modules themes.
+Study checklist:
+01. Read and write with context managers.
+02. Separate text and binary data.
+03. Handle expected exceptions narrowly.
+04. Preserve exception causes.
+05. Organize reusable modules.
+06. Define an import-safe program entry.
+Completion: Build a file transformation command that reports invalid records, closes resources, and can be imported without side effects.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Sequences_mappings_and_mutability/book_name.txt

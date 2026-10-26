@@ -1,0 +1,13 @@
+Primary book: MLflow documentation — MLflow contributors.
+Source: https://mlflow.org/docs/latest/
+Source type: Official online guide.
+Read: Machine Learning themes: tracking, experiments, artifacts, datasets, and model logging.
+Study checklist:
+01. Define a reproducible experiment identity.
+02. Record data and code versions.
+03. Log parameters, metrics, and artifacts.
+04. Separate training and evaluation evidence.
+05. Compare runs with compatible protocols.
+06. Trace a model to source data.
+Completion: Track two scikit-learn or PyTorch experiments with MLflow and reproduce one from its recorded inputs.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

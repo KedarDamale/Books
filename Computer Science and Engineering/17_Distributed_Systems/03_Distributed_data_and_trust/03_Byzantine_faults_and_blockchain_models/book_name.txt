@@ -1,0 +1,17 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Blockchain Databases themes: properties, hash-linked histories, consensus, and smart contracts.
+Study checklist:
+01. Distinguish crash and Byzantine failures.
+02. Explain hash-linked tamper evidence.
+03. Compare permissioned and permissionless membership.
+04. State consensus trust assumptions.
+05. Analyze finality and forks.
+06. Identify throughput, privacy, and governance limitations.
+Completion: Model a small hash-linked ledger and explain which attacks it detects and which require a consensus or trust mechanism.
+Extension book: Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers — Leslie Lamport.
+Extension focus (optional): Specify replication invariants and model failure executions.
+Source: https://lamport.azurewebsites.net/tla/book.html
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Batch_streams_and_delivery_semantics/book_name.txt

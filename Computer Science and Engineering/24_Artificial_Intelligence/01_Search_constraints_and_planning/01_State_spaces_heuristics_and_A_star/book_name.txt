@@ -1,0 +1,13 @@
+Primary book: Artificial Intelligence: A Modern Approach, 4th US edition — Stuart Russell and Peter Norvig.
+Source: https://aima.cs.berkeley.edu/
+Source type: Official book site and contents.
+Read: Solving Problems by Searching and Search in Complex Environments themes.
+Study checklist:
+01. Define states, actions, costs, and goals.
+02. Compare uninformed search strategies.
+03. Prove heuristic admissibility.
+04. Distinguish consistency and admissibility.
+05. Analyze A-star termination assumptions.
+06. Explain memory and branching limits.
+Completion: Implement A-star in Python and compare admissible and inadmissible heuristics with optimal reference solutions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

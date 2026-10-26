@@ -1,0 +1,14 @@
+Primary book: Mathematics for Machine Learning — Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
+Source: https://mml-book.github.io/
+Source type: Author-provided open book.
+Read: Vector Calculus and Continuous Optimization themes.
+Study checklist:
+01. Differentiate scalar and vector compositions.
+02. Calculate gradients with the chain rule.
+03. Interpret directional derivatives.
+04. Apply gradient descent.
+05. Check convexity assumptions.
+06. Distinguish stationary and globally optimal points.
+Completion: Derive gradients for regularized linear regression and check them numerically before running an optimizer.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Vectors_matrices_and_least_squares/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Think Python: How to Think Like a Computer Scientist, 2nd edition — Allen B. Downey.
+Source: https://greenteapress.com/thinkpython2/html/index.html
+Source type: Open book.
+Read: Functions, Fruitful functions, and Conditionals and recursion themes.
+Study checklist:
+01. Define parameters and return values.
+02. Trace local scopes and call stacks.
+03. Decompose a task into functions.
+04. Identify recursion base cases.
+05. Relate recursive calls to termination.
+06. Compare iterative and recursive solutions.
+Completion: Implement and explain a recursive directory-shaped data traversal, including empty and deeply nested cases.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Values_expressions_and_control_flow/book_name.txt

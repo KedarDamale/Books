@@ -1,0 +1,14 @@
+Primary book: The Rust Programming Language — Steve Klabnik, Carol Nichols, and Chris Krycho, with the Rust Community.
+Source: https://doc.rust-lang.org/book/
+Source type: Official open book.
+Read: Functional Language Features and Smart Pointers themes.
+Study checklist:
+01. Explain iterator laziness.
+02. Distinguish closure capture modes.
+03. Choose Box, Rc, and Arc deliberately.
+04. Trace RefCell runtime borrow checks.
+05. Prevent ownership cycles with Weak.
+06. Compare allocation and indirection costs.
+Completion: Implement a shared tree with parent links and demonstrate that dropping the root releases the structure.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Enums_traits_generics_and_errors/book_name.txt

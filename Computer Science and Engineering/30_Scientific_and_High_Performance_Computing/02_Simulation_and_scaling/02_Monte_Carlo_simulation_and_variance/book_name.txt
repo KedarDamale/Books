@@ -1,0 +1,14 @@
+Primary book: Information Theory, Inference, and Learning Algorithms — David J. C. MacKay.
+Source: https://www.inference.org.uk/mackay/itila/
+Source type: Author book site; publisher contents also checked.
+Read: Monte Carlo Methods and sampling-based inference themes.
+Study checklist:
+01. Construct an unbiased estimator.
+02. Estimate Monte Carlo uncertainty.
+03. Explain pseudorandom seed reproducibility.
+04. Compare independent and correlated samples.
+05. Apply a variance-reduction method.
+06. Identify rare-event sampling failure.
+Completion: Estimate an integral using two sampling methods and compare error bars with repeated-run errors.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_ODE_PDE_discretization_and_convergence/book_name.txt

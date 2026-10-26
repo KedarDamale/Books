@@ -1,0 +1,13 @@
+Primary book: An Introduction to Statistical Learning: with Applications in Python — Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor.
+Source: https://www.statlearning.com/
+Source type: Author-provided open book.
+Read: Statistical Learning themes: prediction, inference, loss, flexibility, bias, and variance.
+Study checklist:
+01. Define a target and prediction horizon.
+02. Choose a loss matching consequences.
+03. Explain empirical and expected risk.
+04. Compare model flexibility and variance.
+05. Establish a meaningful baseline.
+06. Identify distribution-shift assumptions.
+Completion: Formulate a supervised task and show whether a learned model beats a justified baseline under a clean evaluation split.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

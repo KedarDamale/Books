@@ -1,0 +1,14 @@
+Primary book: scikit-learn User Guide — scikit-learn contributors.
+Source: https://scikit-learn.org/stable/user_guide.html
+Source type: Official online guide.
+Read: Support Vector Machines, Nearest Neighbors, and Naive Bayes themes.
+Study checklist:
+01. Explain margin and regularization.
+02. Compare linear and kernel similarity.
+03. Analyze feature scaling in distances.
+04. State conditional independence assumptions.
+05. Compare computational and statistical costs.
+06. Construct a model-assumption counterexample.
+Completion: Compare three model families on a controlled dataset and explain results using geometry and assumptions rather than scores alone.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Trees_ensembles_and_XGBoost/book_name.txt

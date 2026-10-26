@@ -1,0 +1,13 @@
+Primary book: Think Python: How to Think Like a Computer Scientist, 2nd edition — Allen B. Downey.
+Source: https://greenteapress.com/thinkpython2/html/index.html
+Source type: Open book.
+Read: The way of the program and debugging themes.
+Study checklist:
+01. Distinguish an algorithm from its implementation.
+02. Trace input, state changes, and output.
+03. Explain abstraction with a concrete example.
+04. Separate syntax, runtime, and logic errors.
+05. Compare a model with a real machine.
+06. Record assumptions and a falsifying example.
+Completion: Trace a small program by hand, predict its output, then explain a deliberately introduced bug.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

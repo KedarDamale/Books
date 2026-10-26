@@ -1,0 +1,13 @@
+Primary book: NumPy User Guide — NumPy contributors.
+Source: https://numpy.org/doc/stable/user/
+Source type: Official online guide.
+Read: Array creation, indexing, broadcasting, data types, copies and views, and universal functions themes.
+Study checklist:
+01. Track array shape and axes.
+02. Choose dtypes with precision constraints.
+03. Predict broadcasting compatibility.
+04. Distinguish views and copies.
+05. Explain strides and contiguity.
+06. Compare vectorized expressions and Python loops.
+Completion: Implement and verify a batched numerical calculation, then explain its allocations, dtype choices, and broadcasting rules.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

@@ -1,0 +1,14 @@
+Primary book: The TypeScript Handbook — TypeScript contributors.
+Source: https://www.typescriptlang.org/docs/handbook/intro.html
+Source type: Official online handbook.
+Read: The Basics, Everyday Types, Narrowing, and More on Functions themes.
+Study checklist:
+01. Model states with discriminated unions.
+02. Narrow unknown input safely.
+03. Separate undefined from absent fields.
+04. Use exhaustive case analysis.
+05. Explain structural assignability.
+06. Identify unsound type assertions.
+Completion: Model a request lifecycle and make adding a new state produce an exhaustiveness error until handled.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Runtime_values_functions_and_modules/book_name.txt

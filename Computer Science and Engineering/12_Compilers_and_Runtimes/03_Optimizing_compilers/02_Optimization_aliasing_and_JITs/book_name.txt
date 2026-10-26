@@ -1,0 +1,14 @@
+Primary book: CS 6120: Advanced Compilers, self-guided course — Adrian Sampson.
+Source: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
+Source type: Cornell course text.
+Read: Local Analysis & Optimization, Loop Optimization, Alias Analysis, and Dynamic Compilers lessons.
+Study checklist:
+01. Perform constant propagation and dead-code elimination.
+02. State transformation preconditions.
+03. Explain aliasing barriers.
+04. Recognize loop-invariant computations.
+05. Compare ahead-of-time and JIT compilation.
+06. Explain speculation and deoptimization.
+Completion: Implement two optimizations, validate them against an interpreter, and provide a counterexample to an invalid rewrite.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_IR_control_flow_dataflow_and_SSA/book_name.txt

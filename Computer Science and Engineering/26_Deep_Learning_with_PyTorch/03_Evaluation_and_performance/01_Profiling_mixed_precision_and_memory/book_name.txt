@@ -1,0 +1,13 @@
+Primary book: PyTorch Tutorials and documentation — PyTorch contributors.
+Source: https://docs.pytorch.org/tutorials/beginner/basics/intro.html
+Source type: Official online tutorials.
+Read: PyTorch profiler, automatic mixed precision, and performance tuning tutorials.
+Study checklist:
+01. Measure accelerator execution with synchronization.
+02. Attribute time and memory to operators.
+03. Explain mixed-precision numerical risks.
+04. Distinguish allocated and reserved memory.
+05. Compare gradient accumulation and batch size.
+06. Identify data-loading and transfer bottlenecks.
+Completion: Profile a training loop, apply one justified optimization, and report speed, memory, and numerical agreement.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

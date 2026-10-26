@@ -1,0 +1,14 @@
+Primary book: Introduction to Theoretical Computer Science — Boaz Barak.
+Source: https://introtcs.org/public/index.html
+Source type: Author-provided open textbook draft.
+Read: Defining computation, Code as data, Loops and infinity, and Equivalent models themes.
+Study checklist:
+01. Encode programs and inputs as data.
+02. Explain universal simulation.
+03. Compare circuits and unbounded computation.
+04. Relate multiple universal models.
+05. State the Church-Turing thesis carefully.
+06. Distinguish simulation overhead from computability.
+Completion: Implement a tiny universal-model simulator and explain how an interpreter treats code as data.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Grammars_pushdown_models_and_nesting/book_name.txt

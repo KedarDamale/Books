@@ -1,0 +1,14 @@
+Primary book: Tailwind CSS documentation — Tailwind Labs and contributors.
+Source: https://tailwindcss.com/docs/styling-with-utility-classes
+Source type: Official online guide.
+Read: Styling with utility classes, state variants, responsive design, theme variables, and detecting classes themes.
+Study checklist:
+01. Relate utility classes to underlying CSS.
+02. Compose responsive and state variants.
+03. Define reusable design tokens.
+04. Explain source detection of class names.
+05. Extract components without hiding semantics.
+06. Diagnose cascade and specificity interactions.
+Completion: Rebuild a CSS layout with Tailwind and demonstrate equivalent accessibility, responsive behavior, and theme customization.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_CSS_cascade_layout_and_responsive_design/book_name.txt

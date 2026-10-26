@@ -1,0 +1,17 @@
+Primary book: Designing Data-Intensive Applications, 1st edition — Martin Kleppmann.
+Source: https://dataintensive.net/
+Source type: Author book site.
+Read: Encoding and Evolution, dataflow, and schema evolution themes.
+Study checklist:
+01. Distinguish readers and writers during rollout.
+02. Compare backward and forward compatibility.
+03. Design expand-migrate-contract steps.
+04. Explain event meaning over time.
+05. Reconcile old and new representations.
+06. Identify irreversible migration steps.
+Completion: Create a staged schema migration plan with compatibility examples, validation, and a realistic recovery path.
+Extension book: Performance Modeling and Design of Computer Systems: Queueing Theory in Action — Mor Harchol-Balter.
+Extension focus (optional): Deepen workload-dependent capacity and scheduling analysis.
+Source: https://www.cs.cmu.edu/~harchol/PerformanceModeling/book.html
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Async_workflows_outbox_and_compensation/book_name.txt

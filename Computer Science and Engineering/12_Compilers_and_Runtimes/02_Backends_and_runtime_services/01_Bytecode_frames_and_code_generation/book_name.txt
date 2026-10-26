@@ -1,0 +1,13 @@
+Primary book: Crafting Interpreters — Robert Nystrom.
+Source: https://craftinginterpreters.com/contents.html
+Source type: Author-provided open book.
+Read: Chunks of Bytecode, A Virtual Machine, Jumping Back and Forth, and Calls and Functions themes.
+Study checklist:
+01. Define bytecode instruction effects.
+02. Maintain operand-stack invariants.
+03. Encode branches and constants.
+04. Construct call frames.
+05. Implement return-value handling.
+06. Explain bytecode validation boundaries.
+Completion: Compile a small language to bytecode and trace stack and frame state through nested calls.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

@@ -1,0 +1,14 @@
+Primary book: Software Engineering, 10th edition — Ian Sommerville.
+Source: https://software-engineering-book.com/
+Source type: Official book site and chapter resources.
+Read: Dependability and Security, Safety Engineering, Resilience Engineering, and Systems of Systems themes.
+Study checklist:
+01. Separate reliability, safety, and security.
+02. Model hazards and failure propagation.
+03. Explain defense in depth.
+04. Identify human and organizational dependencies.
+05. State assurance evidence requirements.
+06. Analyze a system boundary failure.
+Completion: Analyze a small safety-relevant workflow and connect hazards to mitigations and evidence without claiming risk can be eliminated.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Builds_dependency_policies_and_release_engineering/book_name.txt

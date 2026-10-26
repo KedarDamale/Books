@@ -1,0 +1,13 @@
+Primary book: Elements of Data Science — Allen B. Downey.
+Source: https://allendowney.github.io/ElementsOfDataScience/
+Source type: Author-provided open book.
+Read: Distributions, Relationships, Regression, Resampling, and Bootstrap Sampling themes.
+Study checklist:
+01. Describe distributions beyond averages.
+02. Identify sampling and measurement bias.
+03. Distinguish correlation and causal effects.
+04. Bootstrap a statistic with justified resampling.
+05. Quantify uncertainty alongside effect size.
+06. Explain dependence-related bootstrap failures.
+Completion: Analyze an open or synthetic dataset and compare conclusions under alternative sampling and resampling assumptions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

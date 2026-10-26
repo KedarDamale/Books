@@ -1,0 +1,17 @@
+Primary book: The Rust Programming Language — Steve Klabnik, Carol Nichols, and Chris Krycho, with the Rust Community.
+Source: https://doc.rust-lang.org/book/
+Source type: Official open book.
+Read: Enums, traits, generics, trait objects, and advanced type themes.
+Study checklist:
+01. Compare sum and product types.
+02. State representation invariants.
+03. Explain parametric polymorphism.
+04. Contrast subtype and trait-based interfaces.
+05. Relate dispatch to extensibility.
+06. Identify abstraction leaks.
+Completion: Implement the same extensible operation using Rust enums and traits, then explain the different change costs.
+Extension book: Software Foundations: Programming Language Foundations — Benjamin C. Pierce and collaborators.
+Extension focus (optional): Continue from interpreter experiments to operational semantics and type-safety proofs.
+Source: https://softwarefoundations.cis.upenn.edu/plf-current/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_State_aliasing_and_evaluation_order/book_name.txt

@@ -1,0 +1,17 @@
+Primary book: Distributed Systems, 4th edition — Maarten van Steen and Andrew S. Tanenbaum.
+Source: https://www.distributed-systems.net/index.php/books/ds4/
+Source type: Official book site with free personal digital edition.
+Read: Coordination and fault tolerance themes: consensus and replicated state machines.
+Study checklist:
+01. Define agreement, validity, and termination.
+02. Explain majority intersection.
+03. Trace leader election and log replication.
+04. Distinguish committed and merely replicated entries.
+05. Explain safe leader replacement.
+06. State membership and storage assumptions.
+Completion: Implement a bounded educational replicated log or model one in TLA+, then test leader failure and delayed messages.
+Required second source: In Search of an Understandable Consensus Algorithm, extended version — Diego Ongaro and John Ousterhout.
+Read: Leader election, log replication, safety argument, and membership-change themes. Required concrete consensus construction.
+Source: https://raft.github.io/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Replication_logs_quorums_and_consistency/book_name.txt

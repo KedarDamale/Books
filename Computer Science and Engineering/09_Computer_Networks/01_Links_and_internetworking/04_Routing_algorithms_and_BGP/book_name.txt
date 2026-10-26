@@ -1,0 +1,14 @@
+Primary book: An Introduction to Computer Networks, 2nd edition — Peter L. Dordal.
+Source: https://intronetworks.cs.luc.edu/
+Source type: Open textbook.
+Read: Routing-update algorithms, distance vector, link state, and BGP themes.
+Study checklist:
+01. Trace distance-vector convergence.
+02. Explain count-to-infinity.
+03. Compute link-state routes.
+04. Separate policy and shortest-path routing.
+05. Interpret autonomous-system paths.
+06. Explain route aggregation and failures.
+Completion: Simulate a link failure under two routing algorithms and explain convergence and transient loops.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_IP_subnets_forwarding_and_IPv6/book_name.txt

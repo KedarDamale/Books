@@ -1,0 +1,14 @@
+Primary book: The Rust Programming Language — Steve Klabnik, Carol Nichols, and Chris Krycho, with the Rust Community.
+Source: https://doc.rust-lang.org/book/
+Source type: Official open book.
+Read: Fearless Concurrency and shared-state concurrency themes.
+Study checklist:
+01. Explain Send and Sync contracts.
+02. Transfer ownership through channels.
+03. Share state with Arc and Mutex.
+04. Avoid holding locks across unrelated work.
+05. Identify deadlock and starvation scenarios.
+06. Separate race freedom from logical correctness.
+Completion: Implement a bounded worker pool and construct a logically incorrect result that still satisfies memory safety.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Iterators_closures_and_smart_pointers/book_name.txt

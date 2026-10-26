@@ -1,0 +1,14 @@
+Primary book: FastAPI: Tutorial - User Guide — Sebastian Ramirez and FastAPI contributors.
+Source: https://fastapi.tiangolo.com/tutorial/
+Source type: Official online guide.
+Read: Dependencies, Lifespan Events, async execution, testing, and deployment themes; apply the previously studied model artifact contracts.
+Study checklist:
+01. Load a model once per intended process scope.
+02. Validate request feature schemas.
+03. Separate CPU work and event-loop tasks.
+04. Bound batch size and queue delay.
+05. Version prediction responses.
+06. Compare batch and online inference behavior.
+Completion: Serve a versioned model through FastAPI and measure correctness, latency, concurrency limits, and shutdown behavior.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Model_signatures_registry_and_promotion/book_name.txt

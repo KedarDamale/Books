@@ -1,0 +1,14 @@
+Primary book: Forecasting: Principles and Practice, 3rd edition — Rob J. Hyndman and George Athanasopoulos.
+Source: https://otexts.com/fpp3/
+Source type: Author-provided open book.
+Read: Time Series Graphics, Time Series Decomposition, and The Forecaster's Toolbox themes; implement selected equations in Python.
+Study checklist:
+01. Identify trend, seasonality, and dependence.
+02. Separate forecast origin and horizon.
+03. Construct naive and seasonal-naive baselines.
+04. Compare expanding and rolling windows.
+05. Evaluate forecast errors by horizon.
+06. Prevent leakage from future aggregation.
+Completion: Backtest two forecast baselines in Python and demonstrate how random splitting creates a misleading result.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Causal_models_confounding_and_identification/book_name.txt

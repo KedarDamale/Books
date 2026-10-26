@@ -1,0 +1,14 @@
+Primary book: CMOS VLSI Design: A Circuits and Systems Perspective, 4th edition — Neil H. E. Weste and David Money Harris.
+Source: https://www.pearson.com/en-us/subject-catalog/p/cmos-vlsi-design-a-circuits-and-systems-perspective/P200000003427
+Source type: Publisher book page and official companion.
+Read: CMOS processing, circuit delay, interconnect, and combinational circuit design themes.
+Study checklist:
+01. Relate transistor networks and logic functions.
+02. Explain basic layout design-rule constraints.
+03. Estimate gate and interconnect delays.
+04. Compare transistor sizing choices.
+05. Analyze dynamic and leakage power.
+06. Separate functional verification and timing closure.
+Completion: Analyze a small CMOS logic path and explain how sizing or wire load changes delay, area, and power.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Gates_to_a_working_computer/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Docker documentation — Docker documentation contributors.
+Source: https://docs.docker.com/
+Source type: Official online guide.
+Read: Get started, image building, container networking, volumes, and Docker Compose themes.
+Study checklist:
+01. Explain image layers and build contexts.
+02. Distinguish image and running container.
+03. Separate writable layers and persistent volumes.
+04. Trace container network reachability.
+05. Use reproducible multi-stage builds.
+06. Explain shared-kernel isolation limits.
+Completion: Containerize a small service and database locally, prove data persistence across replacement, and document the network boundary.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

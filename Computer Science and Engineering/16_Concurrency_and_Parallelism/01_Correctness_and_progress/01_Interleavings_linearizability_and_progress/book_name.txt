@@ -1,0 +1,13 @@
+Primary book: Distributed Systems, 4th edition — Maarten van Steen and Andrew S. Tanenbaum.
+Source: https://www.distributed-systems.net/index.php/books/ds4/
+Source type: Official book site with free personal digital edition.
+Read: Coordination, synchronization, and concurrency correctness themes.
+Study checklist:
+01. Represent operations as invocation-response histories.
+02. Preserve real-time constraints in linearization.
+03. Identify a candidate linearization point.
+04. Distinguish safety and progress.
+05. Compare blocking and nonblocking guarantees.
+06. Construct a legal but surprising interleaving.
+Completion: Analyze a concurrent queue history and either supply a legal sequential explanation or a counterexample.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

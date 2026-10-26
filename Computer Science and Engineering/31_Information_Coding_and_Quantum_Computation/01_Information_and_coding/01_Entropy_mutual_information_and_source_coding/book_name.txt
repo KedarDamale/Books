@@ -1,0 +1,13 @@
+Primary book: Information Theory, Inference, and Learning Algorithms — David J. C. MacKay.
+Source: https://www.inference.org.uk/mackay/itila/
+Source type: Author book site; publisher contents also checked.
+Read: Probability, Entropy, Inference, symbol codes, and source-coding themes.
+Study checklist:
+01. Compute entropy for a finite distribution.
+02. Explain conditional entropy.
+03. Derive mutual information identities.
+04. Compare prefix-free code lengths.
+05. Relate compression and probability models.
+06. State assumptions behind an entropy limit.
+Completion: Implement a prefix code in Python and compare achieved length with entropy under matched and mismatched distributions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

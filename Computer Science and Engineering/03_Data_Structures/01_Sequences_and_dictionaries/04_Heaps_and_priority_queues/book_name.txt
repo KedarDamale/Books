@@ -1,0 +1,17 @@
+Primary book: Open Data Structures — Pat Morin.
+Source: https://opendatastructures.org/
+Source type: Open book.
+Read: Binary heaps and randomized meldable heaps themes.
+Study checklist:
+01. State heap order and shape invariants.
+02. Implement sift-up and sift-down.
+03. Derive bottom-up heap construction cost.
+04. Support priority updates explicitly.
+05. Compare heaps with sorted arrays.
+06. Explain tie handling and stability.
+Completion: Implement a priority queue and validate it against a sorted reference through mixed updates and deletions.
+Extension book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Extension focus (optional): Continue from storage-aware structures into storage engines and query workloads.
+Source: https://www.db-book.com/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Hash_tables_and_collision_resolution/book_name.txt

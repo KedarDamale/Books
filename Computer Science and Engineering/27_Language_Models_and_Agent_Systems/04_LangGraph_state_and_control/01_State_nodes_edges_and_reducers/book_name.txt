@@ -1,0 +1,13 @@
+Primary book: LangGraph Python documentation — LangGraph contributors.
+Source: https://docs.langchain.com/oss/python/langgraph/overview
+Source type: Official online guide.
+Read: Graph API, state schemas, reducers, nodes, edges, conditional routing, and subgraphs themes.
+Study checklist:
+01. Define explicit graph-state schemas.
+02. Separate node output and merged state.
+03. Explain reducer associativity requirements.
+04. Route using observable state.
+05. Bound cycles and recursion.
+06. Isolate reusable subgraph responsibilities.
+Completion: Implement a LangGraph workflow with conditional routing and test state merging under two concurrent updates.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

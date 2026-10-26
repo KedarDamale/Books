@@ -1,0 +1,13 @@
+Primary book: Software Engineering at Google — Titus Winters, Tom Manshreck, and Hyrum Wright, editors.
+Source: https://abseil.io/resources/swe-book/html/toc.html
+Source type: Official open book.
+Read: Testing Overview, Unit Testing, and Testing Larger Systems themes.
+Study checklist:
+01. Choose observable behavior as an oracle.
+02. Partition normal and exceptional inputs.
+03. Analyze boundary values.
+04. Separate unit and integration scope.
+05. Isolate time and external state.
+06. Explain why passing tests do not prove correctness.
+Completion: Design a compact suite for a parser or collection that detects several plausible incorrect implementations.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

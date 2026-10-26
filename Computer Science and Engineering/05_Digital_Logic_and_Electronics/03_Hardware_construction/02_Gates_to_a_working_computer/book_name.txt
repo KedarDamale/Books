@@ -1,0 +1,14 @@
+Primary book: The Elements of Computing Systems: Building a Modern Computer from First Principles, 2nd edition — Noam Nisan and Shimon Schocken.
+Source: https://www.nand2tetris.org/
+Source type: Book and official project materials.
+Read: Official hardware projects: Boolean logic, arithmetic, memory, machine language, architecture, and assembler themes.
+Study checklist:
+01. Compose gates into arithmetic units.
+02. Connect state to a datapath.
+03. Explain fetch and execute phases.
+04. Encode a small instruction set.
+05. Translate symbols into addresses.
+06. Trace a machine program through hardware.
+Completion: Build the educational computer in a simulator and run a hand-written arithmetic program through its assembler.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Memory_register_files_and_buses/book_name.txt

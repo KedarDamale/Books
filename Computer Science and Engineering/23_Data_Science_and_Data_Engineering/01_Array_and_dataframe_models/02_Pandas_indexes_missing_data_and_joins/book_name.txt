@@ -1,0 +1,14 @@
+Primary book: pandas User Guide — pandas contributors.
+Source: https://pandas.pydata.org/docs/user_guide/index.html
+Source type: Official online guide.
+Read: Indexing, missing data, merging, categorical data, and duplicate-label themes.
+Study checklist:
+01. Explain label alignment.
+02. Distinguish missingness representations.
+03. Validate join cardinality.
+04. Handle duplicate labels explicitly.
+05. Preserve nullable and categorical semantics.
+06. Identify accidental row multiplication.
+Completion: Clean and join two messy tables with explicit keys, rejected records, and reconciliation of input and output row counts.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_NumPy_shapes_dtypes_broadcasting_and_memory/book_name.txt

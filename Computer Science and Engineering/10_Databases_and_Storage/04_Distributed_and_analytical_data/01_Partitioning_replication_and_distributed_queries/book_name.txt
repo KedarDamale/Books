@@ -1,0 +1,13 @@
+Primary book: Database System Concepts, 7th edition — Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Source: https://www.db-book.com/
+Source type: Official book site and contents.
+Read: Parallel and Distributed Storage and Parallel and Distributed Query Processing themes.
+Study checklist:
+01. Choose range or hash partitioning.
+02. Explain skew and hot partitions.
+03. Compare replication placement.
+04. Trace distributed joins and shuffles.
+05. Estimate communication costs.
+06. Distinguish local and global constraints.
+Completion: Partition a synthetic dataset and compare distributed join strategies under uniform and skewed keys.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

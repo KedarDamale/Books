@@ -1,0 +1,14 @@
+Primary book: A Graduate Course in Applied Cryptography, version 0.6 — Dan Boneh and Victor Shoup.
+Source: https://toc.cryptobook.us/
+Source type: Author-provided open textbook.
+Read: Threshold Cryptography and Secure Multi-Party Computation themes.
+Study checklist:
+01. Explain secret sharing and reconstruction thresholds.
+02. Distinguish privacy and robustness thresholds.
+03. Model semi-honest and malicious participants.
+04. Define an ideal functionality.
+05. Identify output and metadata leakage.
+06. State communication and trust assumptions.
+Completion: Simulate secret sharing and a small secure-sum protocol in Python and explain which collusions or deviations break its guarantees.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../04_Zero_knowledge_and_proofs_of_knowledge/book_name.txt

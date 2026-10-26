@@ -1,0 +1,14 @@
+Primary book: Computational Complexity: A Modern Approach — Sanjeev Arora and Boaz Barak.
+Source: https://theory.cs.princeton.edu/complexity/
+Source type: Author book site and draft.
+Read: Space complexity, hierarchy theorems, and randomized computation themes.
+Study checklist:
+01. Define PSPACE and logarithmic-space models.
+02. Explain reachability as a space problem.
+03. State a hierarchy theorem with assumptions.
+04. Distinguish RP, coRP, and BPP.
+05. Amplify randomized success probabilities.
+06. Separate known containments from open separations.
+Completion: Prove an error-amplification bound and draw a class-containment diagram with open relationships explicitly marked.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Time_space_P_NP_and_completeness/book_name.txt

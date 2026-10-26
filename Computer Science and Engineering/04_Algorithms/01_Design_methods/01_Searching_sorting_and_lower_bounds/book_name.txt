@@ -1,0 +1,13 @@
+Primary book: Open Data Structures — Pat Morin.
+Source: https://opendatastructures.org/
+Source type: Open book.
+Read: Sorting and search themes: comparison sorting, counting sort, radix sort, and binary search.
+Study checklist:
+01. Prove binary-search interval invariants.
+02. Explain stable and in-place sorting.
+03. Analyze merge and partition schemes.
+04. Derive a comparison decision-tree bound.
+05. State counting-sort key assumptions.
+06. Construct adversarial sorting inputs.
+Completion: Implement two comparison sorts and a radix sort, then justify which cost model makes each attractive.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

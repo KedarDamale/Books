@@ -1,0 +1,13 @@
+Primary book: The Missing Semester of Your CS Education, 2020 course notes — Anish Athalye, Jon Gjengset, and Jose Javier Gonzalez Ortiz.
+Source: https://missing.csail.mit.edu/2020/
+Source type: MIT course text.
+Read: 2020 notes: Metaprogramming, build systems, and dependency management.
+Study checklist:
+01. Describe a build dependency graph.
+02. Separate direct and transitive dependencies.
+03. Explain lockfiles and reproducible resolution.
+04. Isolate Python, TypeScript, and Rust environments.
+05. Distinguish source and generated artifacts.
+06. Rebuild from a clean checkout.
+Completion: Make one small project reproducibly build from a clean checkout with pinned dependencies and documented commands.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

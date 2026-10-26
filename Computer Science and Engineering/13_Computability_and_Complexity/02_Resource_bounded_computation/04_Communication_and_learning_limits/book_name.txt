@@ -1,0 +1,14 @@
+Primary book: Computational Complexity: A Modern Approach — Sanjeev Arora and Boaz Barak.
+Source: https://theory.cs.princeton.edu/complexity/
+Source type: Author book site and draft.
+Read: Communication complexity and lower-bound themes.
+Study checklist:
+01. Define a communication protocol.
+02. Compare deterministic and randomized communication.
+03. Prove a small fooling-set lower bound.
+04. Relate information movement to distributed computation.
+05. Distinguish sample and computational complexity.
+06. Identify assumptions behind a lower bound.
+Completion: Prove a communication lower bound for a simple two-party task and explain its implication for a distributed representation.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Circuits_interactive_proofs_and_PCP_entry/book_name.txt

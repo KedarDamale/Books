@@ -1,0 +1,14 @@
+Primary book: Open Data Structures — Pat Morin.
+Source: https://opendatastructures.org/
+Source type: Open book.
+Read: Tries, binary tries, and integer searching themes.
+Study checklist:
+01. Explain prefix-based search.
+02. Distinguish key length from item count.
+03. Implement prefix lookup.
+04. Compare binary and compact representations.
+05. Analyze space amplification.
+06. Identify an unsuitable key distribution.
+Completion: Build a prefix dictionary and measure the effect of common prefixes on memory and lookup work.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Binary_search_trees_and_balancing/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Databricks documentation — Databricks.
+Source: https://docs.databricks.com/aws/en/
+Source type: Official online guide.
+Read: Lakehouse, Delta Lake, data engineering jobs, table history, and governance themes.
+Study checklist:
+01. Separate files, tables, and transaction metadata.
+02. Explain ACID table commits.
+03. Compare schema enforcement and evolution.
+04. Trace snapshot and time-travel semantics.
+05. Model scheduled job dependencies.
+06. Distinguish platform features and storage principles.
+Completion: Design a versioned analytical table pipeline and explain commit, rollback, retention, and access-control behavior without requiring a paid workspace.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_ETL_ELT_contracts_and_incremental_loading/book_name.txt

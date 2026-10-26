@@ -1,0 +1,14 @@
+Primary book: scikit-learn User Guide — scikit-learn contributors.
+Source: https://scikit-learn.org/stable/user_guide.html
+Source type: Official online guide.
+Read: Model evaluation, calibration, inspection, and outlier detection themes; apply the SRE monitoring principles studied earlier.
+Study checklist:
+01. Separate data, prediction, and concept drift.
+02. Monitor schema and service failures.
+03. Wait for labels before asserting predictive degradation.
+04. Compare subgroup behavior.
+05. Define evidence-based retraining triggers.
+06. Avoid treating drift alone as proof of worse accuracy.
+Completion: Simulate a deployed model under several shifts and report which monitoring signals support an actual retraining decision.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Train_serving_consistency_and_feature_contracts/book_name.txt

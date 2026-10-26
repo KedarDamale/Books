@@ -1,0 +1,14 @@
+Primary book: Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition draft (2026-08-19) — Daniel Jurafsky and James H. Martin.
+Source: https://web.stanford.edu/~jurafsky/slp3/index.html
+Source type: Author-provided open draft.
+Read: LLM training, instruction tuning, alignment, and evaluation themes.
+Study checklist:
+01. Separate pretraining, supervised adaptation, and preference objectives.
+02. Construct clean training and validation examples.
+03. Compare parameter freezing and full tuning.
+04. Identify contamination and memorization.
+05. Evaluate task and safety behavior separately.
+06. Explain limits of preference-based objectives.
+Completion: Adapt a small PyTorch model on a narrow task and evaluate generalization, baseline behavior, and regression cases.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../02_Transformers_decoding_and_context_limits/book_name.txt

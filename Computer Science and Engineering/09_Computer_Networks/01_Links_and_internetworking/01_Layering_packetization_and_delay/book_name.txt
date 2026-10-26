@@ -1,0 +1,13 @@
+Primary book: An Introduction to Computer Networks, 2nd edition — Peter L. Dordal.
+Source: https://intronetworks.cs.luc.edu/
+Source type: Open textbook.
+Read: Overview, packet switching, layering, and bandwidth themes.
+Study checklist:
+01. Separate protocol services and implementations.
+02. Trace encapsulation across layers.
+03. Calculate propagation and transmission delays.
+04. Explain packetization and MTU.
+05. Distinguish latency and bandwidth.
+06. Identify end-to-end reliability responsibilities.
+Completion: Trace a message across a layered network and compute its delay under several packet sizes and link rates.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

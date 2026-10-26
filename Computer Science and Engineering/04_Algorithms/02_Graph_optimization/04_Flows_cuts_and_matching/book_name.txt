@@ -1,0 +1,17 @@
+Primary book: Algorithms — Jeff Erickson.
+Source: https://jeffe.cs.illinois.edu/teaching/algorithms/
+Source type: Author-provided open book and companion notes.
+Read: Maximum Flows, Applications of Flows, and minimum-cost flow themes.
+Study checklist:
+01. Construct residual networks.
+02. Explain augmenting paths.
+03. Prove max-flow min-cut.
+04. Reduce bipartite matching to flow.
+05. Model capacities and conservation.
+06. Distinguish feasibility from minimum cost.
+Completion: Solve a matching problem through max flow and supply a cut certificate of optimality.
+Extension book: The Design of Approximation Algorithms — David P. Williamson and David B. Shmoys.
+Extension focus (optional): Further approximation techniques after the selected LP-rounding unit.
+Source: https://www.designofapproxalgs.com/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Minimum_spanning_trees/book_name.txt

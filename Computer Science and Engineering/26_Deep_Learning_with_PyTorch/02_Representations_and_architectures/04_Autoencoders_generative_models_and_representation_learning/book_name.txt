@@ -1,0 +1,14 @@
+Primary book: Deep Learning — Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+Source: https://www.deeplearningbook.org/
+Source type: Author-provided open book.
+Read: Autoencoders, Representation Learning, and Deep Generative Models themes; implement selected constructions in PyTorch.
+Study checklist:
+01. Separate reconstruction and predictive objectives.
+02. Explain bottleneck representations.
+03. Derive adversarial training objectives.
+04. Analyze unstable generator-discriminator dynamics.
+05. Compare reconstruction quality and useful features.
+06. Identify memorization and evaluation limitations.
+Completion: Train a small PyTorch autoencoder or adversarial model and evaluate both representations and failure cases beyond attractive samples.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Graph_neural_networks_and_message_passing/book_name.txt

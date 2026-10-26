@@ -1,0 +1,14 @@
+Primary book: Mathematics for Computer Science — Eric Lehman, F. Thomson Leighton, and Albert R. Meyer.
+Source: https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/
+Source type: MIT open textbook.
+Read: Induction, strong induction, recursive definitions, and state machines themes.
+Study checklist:
+01. Prove a base case and inductive step.
+02. Choose weak or strong induction.
+03. Prove structural properties recursively.
+04. State a loop invariant.
+05. Establish preservation and postconditions.
+06. Prove termination with a decreasing measure.
+Completion: Prove correctness and termination of binary search, explicitly handling an empty interval.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Propositions_quantifiers_and_sets/book_name.txt

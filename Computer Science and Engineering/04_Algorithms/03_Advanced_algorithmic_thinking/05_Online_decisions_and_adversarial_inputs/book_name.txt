@@ -1,0 +1,17 @@
+Primary book: Online Computation and Competitive Analysis — Allan Borodin and Ran El-Yaniv.
+Source: https://csaws.cs.technion.ac.il/~rani/book.html
+Source type: Author book site and table of contents.
+Read: Competitive analysis, online paging, adversary models, and online decision-making themes.
+Study checklist:
+01. Distinguish online and offline information.
+02. State the comparator used in evaluation.
+03. Compare adversarial and stochastic arrivals.
+04. Explain paging without future knowledge.
+05. Construct a policy-defeating request sequence.
+06. Separate worst-case and distribution-dependent claims.
+Completion: Compare two online paging policies against an optimal offline baseline and explain which adversary and cache-size assumptions make each comparison meaningful.
+Extension book: The Design of Approximation Algorithms — David P. Williamson and David B. Shmoys.
+Extension focus (optional): Further approximation techniques after the selected LP-rounding unit.
+Source: https://www.designofapproxalgs.com/
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../04_Approximation_ratios_and_LP_rounding/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Artificial Intelligence: A Modern Approach, 4th US edition — Stuart Russell and Peter Norvig.
+Source: https://aima.cs.berkeley.edu/
+Source type: Official book site and contents.
+Read: Making Simple Decisions, Making Complex Decisions, and Reinforcement Learning themes.
+Study checklist:
+01. Define expected utility.
+02. Specify an MDP.
+03. Derive Bellman equations.
+04. Compare value and policy iteration.
+05. Explain exploration versus exploitation.
+06. Separate observed reward and intended objective.
+Completion: Solve a small MDP exactly and compare it with a tabular learning agent under altered reward or transition assumptions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Bayesian_networks_and_temporal_models/book_name.txt

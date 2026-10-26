@@ -1,0 +1,13 @@
+Primary book: scikit-learn User Guide — scikit-learn contributors.
+Source: https://scikit-learn.org/stable/user_guide.html
+Source type: Official online guide.
+Read: Preprocessing, feature selection, inspection, permutation importance, and partial dependence themes.
+Study checklist:
+01. Define features available at prediction time.
+02. Measure permutation importance on held-out data.
+03. Explain correlated-feature ambiguity.
+04. Interpret partial dependence assumptions.
+05. Diagnose train-serving schema differences.
+06. Separate explanation and causal influence.
+Completion: Inspect a fitted model, expose one misleading feature explanation, and evaluate it on a deliberately shifted dataset.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

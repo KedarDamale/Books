@@ -1,0 +1,13 @@
+Primary book: Revolution: The First 2000 Years of Computing — Computer History Museum.
+Source: https://www.computerhistory.org/revolution/
+Source type: Museum educational exhibition.
+Read: Exhibition themes on early computation, electronic computers, software, personal computing, and networking.
+Study checklist:
+01. Place key developments in historical context.
+02. Distinguish invention and widespread adoption.
+03. Explain hardware-software coevolution.
+04. Identify contributions beyond a single inventor.
+05. Compare technical and institutional constraints.
+06. Evaluate a simplified historical narrative.
+Completion: Write a sourced history of one computing abstraction and explain how its surrounding constraints changed over time.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

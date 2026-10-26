@@ -1,0 +1,14 @@
+Primary book: Site Reliability Engineering: How Google Runs Production Systems, 1st edition — Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy, editors.
+Source: https://sre.google/sre-book/table-of-contents/
+Source type: Official open book.
+Read: Service Level Objectives, Addressing Cascading Failures, Data Integrity, and Postmortem Culture themes.
+Study checklist:
+01. Define user-visible AI service objectives.
+02. Separate model quality and service reliability.
+03. Bound provider timeouts and retries.
+04. Preserve human-review state through restarts.
+05. Detect stale evidence and incomplete workflows.
+06. Write an incident account grounded in traces.
+Completion: Run a local failure exercise for a reviewed AI workflow and demonstrate recovery without losing review decisions or duplicating external effects.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_MLflow_traces_agent_evaluations_and_regressions/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Physically Based Rendering: From Theory to Implementation, 4th edition — Matt Pharr, Wenzel Jakob, and Greg Humphreys.
+Source: https://www.pbr-book.org/
+Source type: Author-provided open book.
+Read: Shapes, Primitives and Intersection Acceleration, and bounding-volume hierarchy themes.
+Study checklist:
+01. Derive ray-shape intersections.
+02. Handle numerical tolerances.
+03. Construct axis-aligned bounds.
+04. Explain BVH traversal.
+05. Compare build and query costs.
+06. Identify degenerate geometry cases.
+Completion: Build a small Rust ray tracer with a BVH and verify images against brute-force intersections before benchmarking.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).

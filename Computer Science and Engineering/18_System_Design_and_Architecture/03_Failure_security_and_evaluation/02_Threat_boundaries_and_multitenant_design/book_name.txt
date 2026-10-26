@@ -1,0 +1,14 @@
+Primary book: Security Engineering: A Guide to Building Dependable Distributed Systems, 3rd edition — Ross Anderson.
+Source: https://www.cl.cam.ac.uk/archive/rja14/book.html
+Source type: Author-provided open book chapters.
+Read: Access Control, Boundaries, Distributed Systems, and Secure Systems Development themes.
+Study checklist:
+01. Draw data and identity trust boundaries.
+02. Separate authentication and authorization.
+03. Design tenant-scoped access invariants.
+04. Identify confused-deputy risks.
+05. Compare logical and physical isolation.
+06. Explain audit and revocation requirements.
+Completion: Review a multitenant architecture and construct concrete requests that would expose cross-tenant access bugs.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Timeouts_backpressure_and_failure_containment/book_name.txt

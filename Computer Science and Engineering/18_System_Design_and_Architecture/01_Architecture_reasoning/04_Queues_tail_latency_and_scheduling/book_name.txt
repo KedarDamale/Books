@@ -1,0 +1,14 @@
+Primary book: Performance Modeling and Design of Computer Systems: Queueing Theory in Action — Mor Harchol-Balter.
+Source: https://www.cs.cmu.edu/~harchol/PerformanceModeling/book.html
+Source type: Author book site and detailed contents.
+Read: Single-server queues, variability, scheduling policies, and server farms themes.
+Study checklist:
+01. Explain why variability increases waiting.
+02. Derive a simple queue's mean response.
+03. Compare mean and tail latency.
+04. Analyze head-of-line blocking.
+05. Compare pooling and partitioned queues.
+06. Identify unstable arrival-service regimes.
+Completion: Simulate queues with equal mean service time but different variability and explain the observed latency distributions.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../03_Capacity_models_and_resource_budgets/book_name.txt

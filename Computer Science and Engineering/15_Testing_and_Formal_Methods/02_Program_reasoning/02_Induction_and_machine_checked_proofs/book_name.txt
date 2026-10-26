@@ -1,0 +1,14 @@
+Primary book: Software Foundations: Logical Foundations — Benjamin C. Pierce and collaborators.
+Source: https://softwarefoundations.cis.upenn.edu/lf-current/
+Source type: Open machine-checked textbook.
+Read: Basics, Induction, Lists, Logic, and inductively defined propositions themes.
+Study checklist:
+01. Define inductive datatypes.
+02. State a theorem in a proof assistant.
+03. Distinguish computation and proof steps.
+04. Choose an induction hypothesis.
+05. Prove a list-function property.
+06. Identify admitted or unproved assumptions.
+Completion: Machine-check a proof about a simple recursive function and state every remaining assumption; proof-language syntax is a local tool, not a new primary language track.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
+Previous unit in this area: ../01_Hoare_logic_and_loop_verification/book_name.txt

@@ -1,0 +1,13 @@
+Primary book: Security Engineering: A Guide to Building Dependable Distributed Systems, 3rd edition — Ross Anderson.
+Source: https://www.cl.cam.ac.uk/archive/rja14/book.html
+Source type: Author-provided open book chapters.
+Read: What is Security Engineering, Who is the Opponent, and Boundaries themes.
+Study checklist:
+01. Define assets and adversary capabilities.
+02. Separate confidentiality, integrity, and availability.
+03. Draw trust boundaries.
+04. Identify abuse cases.
+05. Match controls to threats.
+06. State residual risk and assumptions.
+Completion: Threat-model a small service and demonstrate a concrete attack path prevented by one chosen control.
+Navigation: ../../../README.md (domain prerequisites and routes); ../../../TOPIC_INDEX.md (all units).
