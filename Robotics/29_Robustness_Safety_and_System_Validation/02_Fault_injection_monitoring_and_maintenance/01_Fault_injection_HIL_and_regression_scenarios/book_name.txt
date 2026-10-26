@@ -1,0 +1,14 @@
+Primary book: Introduction to Embedded Systems: A Cyber-Physical Systems Approach, 2nd edition — Edward A. Lee and Sanjit A. Seshia.
+Source: https://ptolemy.berkeley.edu/books/leeseshia/
+Source type: Author-provided open book.
+Read: Verification, state-machine analysis, scheduling, and embedded-design themes.
+Study checklist:
+01. Inject stale and missing sensor data.
+02. Corrupt or delay command messages.
+03. Simulate jams and unexpected contact.
+04. Exercise startup and shutdown failures.
+05. Verify invariants through all modes.
+06. Preserve a reproducible regression record.
+Completion: Build a fault-injection suite for a simulated or hardware-in-the-loop joint and report violations with exact state and command traces.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Logging_health_monitoring_and_predictive_maintenance/book_name.txt

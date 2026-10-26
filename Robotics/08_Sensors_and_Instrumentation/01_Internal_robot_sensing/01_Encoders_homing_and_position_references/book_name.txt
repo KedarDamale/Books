@@ -1,0 +1,14 @@
+Primary book: Measurement and Instrumentation: Theory and Application, 3rd edition — Alan S. Morris and Reza Langari.
+Source: https://shop.elsevier.com/books/measurement-and-instrumentation/unknown/978-0-12-817141-7
+Source type: Publisher book page and contents.
+Read: Rotational displacement, optical encoders, position sensing, and measurement errors themes.
+Study checklist:
+01. Compare incremental and absolute sensing.
+02. Decode quadrature direction and count.
+03. Relate resolution and joint angle.
+04. Define index and home references.
+05. Distinguish repeatability and absolute accuracy.
+06. Detect missed counts and invalid transitions.
+Completion: Implement a Rust or Python encoder decoder model and test direction reversal, bounce, missing transitions, and homing repeatability.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Current_force_torque_and_strain_measurement/book_name.txt

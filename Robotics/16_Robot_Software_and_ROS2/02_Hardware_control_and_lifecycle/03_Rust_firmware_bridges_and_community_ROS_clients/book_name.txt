@@ -1,0 +1,15 @@
+Primary book: ros2_rust: Rust bindings for ROS 2 — ros2-rust contributors.
+Source: https://github.com/ros2-rust/ros2_rust
+Source type: Community-maintained project documentation.
+Read: Project README, supported distributions, build requirements, examples, and limitations; compare with the standard ROS Python client.
+Study checklist:
+01. Separate firmware transport and ROS graph roles.
+02. Define a versioned serial or bus contract.
+03. Preserve units, timing, and errors at the bridge.
+04. Test with a mock device.
+05. Check current Rust-client compatibility.
+06. Avoid assuming community bindings match every rclpy feature.
+Completion: Prototype a Rust-to-Python robot-state bridge and document compatibility, latency, backpressure, and disconnection behavior.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Launch_parameters_lifecycle_and_record_replay/book_name.txt
+Next unit in this area: ../04_TypeScript_operator_UI_and_command_authority/book_name.txt

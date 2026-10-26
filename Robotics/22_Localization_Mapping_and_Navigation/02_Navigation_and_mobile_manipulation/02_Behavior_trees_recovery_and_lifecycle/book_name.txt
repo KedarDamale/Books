@@ -1,0 +1,15 @@
+Primary book: Nav2 documentation — Nav2 contributors.
+Source: https://docs.nav2.org/
+Source type: Official online documentation.
+Read: Behavior trees, lifecycle management, navigation actions, and recovery behaviors themes.
+Study checklist:
+01. Explain success, failure, and running states.
+02. Compose sequence and fallback behavior.
+03. Bound retries and recovery attempts.
+04. Cancel actions consistently.
+05. Separate recovery and blind repetition.
+06. Preserve a diagnosable failure state.
+Completion: Build a navigation task tree and inject blocked paths, stale localization, and controller failures while tracing recovery behavior.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Costmaps_global_paths_and_local_control/book_name.txt
+Next unit in this area: ../03_Base_placement_and_mobile_manipulation/book_name.txt

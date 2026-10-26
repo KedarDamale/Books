@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Geometric pose estimation, point-cloud grasp selection, and bin-picking themes.
+Study checklist:
+01. Separate object class and metric pose.
+02. Combine masks with depth consistently.
+03. Generate approach and contact candidates.
+04. Reject unreachable or colliding grasps.
+05. Account for pose covariance.
+06. Validate candidates with geometric constraints.
+Completion: Build a simulated detection-to-grasp pipeline and demonstrate failures caused by a correct class prediction with inaccurate geometry.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Perception_confidence_uncertainty_and_abstention/book_name.txt

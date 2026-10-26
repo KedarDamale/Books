@@ -1,0 +1,14 @@
+Primary book: NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev 2 — NASA systems engineering contributors.
+Source: https://www.nasa.gov/reference/systems-engineering-handbook/
+Source type: Official open engineering handbook.
+Read: Validation, verification, technical assessment, and evidence-management themes; select one already cited open robotics paper for reproduction.
+Study checklist:
+01. Extract a paper's precise claim.
+02. Match task and evaluation conditions.
+03. Reproduce a bounded result.
+04. Isolate a mechanism with ablations.
+05. Report failed seeds and negative outcomes.
+06. Separate simulator evidence and physical evidence.
+Completion: Write a small robotics reproduction report with a baseline, controlled ablation, uncertainty, and the exact scope of the reproduced claim.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Cross_embodiment_datasets_and_transfer/book_name.txt

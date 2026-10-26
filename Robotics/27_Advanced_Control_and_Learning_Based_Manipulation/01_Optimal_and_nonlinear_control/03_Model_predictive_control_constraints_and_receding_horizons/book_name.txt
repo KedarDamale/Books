@@ -1,0 +1,14 @@
+Primary book: Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation — Russ Tedrake.
+Source: https://underactuated.csail.mit.edu/
+Source type: Open MIT course text.
+Read: Model Predictive Control and trajectory optimization themes.
+Study checklist:
+01. Formulate a finite-horizon control problem.
+02. Include state and actuator constraints.
+03. Warm-start consecutive optimizations.
+04. Explain terminal cost and constraint roles.
+05. Handle infeasibility and missed solve deadlines.
+06. Evaluate model mismatch over a horizon.
+Completion: Implement a small Python MPC example and compare tracking, constraint violations, and compute time against a simpler controller.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Lyapunov_functions_regions_of_attraction_and_passivity/book_name.txt

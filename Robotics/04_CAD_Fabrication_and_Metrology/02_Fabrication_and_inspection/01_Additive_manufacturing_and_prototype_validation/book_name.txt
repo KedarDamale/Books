@@ -1,0 +1,17 @@
+Primary book: Design and Manufacturing I, MIT 2.007 course materials — Daniel Frey, David Gossard, and course contributors.
+Source: https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/
+Source type: Open university course materials.
+Read: Prototyping, manufacturing processes, material selection, and design-for-manufacture themes.
+Study checklist:
+01. Choose part orientation from load paths.
+02. Explain layer-direction weakness.
+03. Design clearances for the chosen process.
+04. Plan support and postprocessing.
+05. Separate prototype and final-part requirements.
+06. Design a representative coupon or load test.
+Completion: Prepare a printable prototype and a test plan that checks fit, stiffness, and orientation sensitivity before it carries the intended load.
+Required second source: Modeling with 3D printing in mind — Prusa Research documentation contributors.
+Read: Part orientation, supports, and printable-feature constraints. Required for process-specific FDM details.
+Source: https://help.prusa3d.com/article/modeling-with-3d-printing-in-mind_164135
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Machining_sheet_parts_and_DFM/book_name.txt

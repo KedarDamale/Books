@@ -1,0 +1,15 @@
+Primary book: Getting Started in KiCad and KiCad documentation — KiCad documentation contributors.
+Source: https://docs.kicad.org/
+Source type: Official online manuals.
+Read: Schematic Editor, PCB Editor, electrical rules, design rules, and fabrication outputs themes.
+Study checklist:
+01. Assign symbols and verified footprints.
+02. Separate signal and high-current return paths.
+03. Apply clearance and width constraints.
+04. Run electrical and layout checks.
+05. Produce reviewable fabrication outputs.
+06. Plan staged power and continuity checks.
+Completion: Design a small sensor-interface PCB and deliver schematics, checked layout, and a bring-up plan tied to its requirements.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Logic_levels_ADC_DAC_and_ground_references/book_name.txt
+Next unit in this area: ../04_Grounding_EMI_cables_and_mixed_signal_interfaces/book_name.txt

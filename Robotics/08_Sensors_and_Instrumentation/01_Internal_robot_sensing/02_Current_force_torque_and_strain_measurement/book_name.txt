@@ -1,0 +1,15 @@
+Primary book: Measurement and Instrumentation: Theory and Application, 3rd edition — Alan S. Morris and Reza Langari.
+Source: https://shop.elsevier.com/books/measurement-and-instrumentation/unknown/978-0-12-817141-7
+Source type: Publisher book page and contents.
+Read: Current measurement, strain gauges, bridge circuits, force, and torque themes.
+Study checklist:
+01. Relate strain and bridge output.
+02. Explain amplifier offset and drift.
+03. Distinguish actuator current and contact force.
+04. Account for cross-axis sensitivity.
+05. Define a zeroing procedure.
+06. State overload and temperature limits.
+Completion: Model a load-cell or current-based force estimate and compare calibration error, drift, and friction-induced ambiguity.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Encoders_homing_and_position_references/book_name.txt
+Next unit in this area: ../03_IMUs_inertial_frames_and_sensor_errors/book_name.txt

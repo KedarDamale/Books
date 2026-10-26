@@ -1,0 +1,15 @@
+Primary book: NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev 2 — NASA systems engineering contributors.
+Source: https://www.nasa.gov/reference/systems-engineering-handbook/
+Source type: Official open engineering handbook.
+Read: Model analysis, verification, validation, and technical risk themes.
+Study checklist:
+01. Define the purpose of the simulator.
+02. Identify parameters relevant to that purpose.
+03. Compare models with measured responses.
+04. Validate contact and actuator behavior separately.
+05. Quantify unvalidated assumptions.
+06. Decide what evidence requires physical testing.
+Completion: Write a simulator-validation report using held-out measurements or synthetic ground truth and identify unsupported deployment claims.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Drake_multibody_systems_and_optimization/book_name.txt
+Next unit in this area: ../03_Software_and_hardware_in_the_loop/book_name.txt

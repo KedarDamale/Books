@@ -1,0 +1,15 @@
+Primary book: Shigley's Mechanical Engineering Design — Richard G. Budynas and J. Keith Nisbett.
+Source: https://www.mheducation.com/highered/product/shigleys-mechanical-engineering-design-nisbett.html
+Source type: Publisher book page; obtain a legitimate edition.
+Read: Fatigue failure, surface effects, fluctuating loading, and machine-element durability themes.
+Study checklist:
+01. Describe a cyclic load history.
+02. Separate mean and alternating stress.
+03. Explain fatigue strength assumptions.
+04. Identify fretting and wear mechanisms.
+05. Relate alignment to bearing loading.
+06. Define an inspection and replacement hypothesis.
+Completion: Estimate comparative life sensitivity for two joint designs and show how uncertainty in the load spectrum changes the conclusion.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Yield_buckling_and_stress_concentrations/book_name.txt
+Next unit in this area: ../03_Metals_polymers_composites_and_printed_parts/book_name.txt

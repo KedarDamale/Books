@@ -1,0 +1,14 @@
+Primary book: ROS 2 Jazzy documentation — ROS 2 documentation contributors.
+Source: https://docs.ros.org/en/jazzy/
+Source type: Official documentation; source repository available.
+Read: tf2 tutorials, URDF tutorials, robot_state_publisher, and joint-state themes.
+Study checklist:
+01. Build a consistent transform tree.
+02. Separate static and dynamic transforms.
+03. Define joint axes and origins.
+04. Include inertial and collision properties.
+05. Check link and joint naming.
+06. Diagnose missing or inconsistent transforms.
+Completion: Describe an arm in URDF and verify its displayed poses against independently computed forward kinematics.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_QoS_executors_callbacks_and_freshness/book_name.txt

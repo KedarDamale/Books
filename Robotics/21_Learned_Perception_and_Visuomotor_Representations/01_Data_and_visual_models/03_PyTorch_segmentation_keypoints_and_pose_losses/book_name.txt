@@ -1,0 +1,14 @@
+Primary book: PyTorch Tutorials — PyTorch contributors.
+Source: https://docs.pytorch.org/tutorials/
+Source type: Official online tutorials.
+Read: Transfer learning, custom datasets, computer-vision finetuning, and model-training tutorials.
+Study checklist:
+01. Define output geometry and target encoding.
+02. Build a custom dataset with transforms.
+03. Choose losses matching label semantics.
+04. Mask missing or invalid labels.
+05. Evaluate spatial rather than only class error.
+06. Compare a neural model and a geometric baseline.
+Completion: Train a small segmentation or keypoint model and evaluate how its output errors affect object pose estimation.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_YOLO_training_validation_and_tracking/book_name.txt

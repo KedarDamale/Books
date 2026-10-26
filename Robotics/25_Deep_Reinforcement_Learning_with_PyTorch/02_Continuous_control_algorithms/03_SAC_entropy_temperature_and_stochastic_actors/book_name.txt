@@ -1,0 +1,18 @@
+Primary book: Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor — Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, and Sergey Levine.
+Source: https://arxiv.org/abs/1801.01290
+Source type: Authors' open research paper.
+Read: Maximum-entropy objective, stochastic actor, value estimation, and off-policy learning themes; compare the Spinning Up SAC implementation notes for variant details.
+Study checklist:
+01. Relate expected return and entropy regularization.
+02. Sample a reparameterized stochastic action.
+03. Correct log probability after action squashing.
+04. Compare critic and actor targets.
+05. Explain entropy-temperature tuning.
+06. Identify replay and target-network assumptions.
+Completion: Implement a small SAC experiment in PyTorch and test log-probability correction, action bounds, and sensitivity to entropy settings.
+Required second source: Spinning Up in Deep RL — Joshua Achiam and OpenAI contributors.
+Read: SAC algorithm guide and PyTorch pseudocode. Required to identify the implementation variant and any differences from the original paper.
+Source: https://spinningup.openai.com/en/latest/
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_DDPG_TD3_and_action_scaling/book_name.txt
+Next unit in this area: ../04_Deep_RL_reproducibility_and_failure_analysis/book_name.txt

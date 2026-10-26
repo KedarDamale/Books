@@ -1,0 +1,14 @@
+Primary book: The Embedded Rust Book — Rust Embedded Working Group.
+Source: https://docs.rust-embedded.org/book/
+Source type: Official open book.
+Read: A no_std Rust Environment, startup, memory-mapped registers, and peripherals themes.
+Study checklist:
+01. Explain reset and runtime initialization.
+02. Partition flash, RAM, and stack.
+03. Encapsulate register access.
+04. Relate ownership to peripheral uniqueness.
+05. Define panic and reset behavior.
+06. Identify unsafe hardware-interface obligations.
+Completion: Build or simulate a minimal Rust controller and explain memory layout, startup state, and peripheral ownership.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_GPIO_timers_ADC_PWM_and_interrupts/book_name.txt

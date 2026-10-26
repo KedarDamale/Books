@@ -1,0 +1,17 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Force Control and Hybrid Motion-Force Control themes.
+Study checklist:
+01. Separate constrained and free motion directions.
+02. Choose force and position objectives.
+03. Define a contact frame.
+04. Transform selection directions correctly.
+05. Manage contact-mode transitions.
+06. Identify inconsistent simultaneous objectives.
+Completion: Design a surface-following experiment in simulation with force regulation normal to the surface and motion along it.
+Extension book: Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation — Russ Tedrake.
+Extension focus (optional): Continue to nonlinear stability and optimization-based control.
+Source: https://underactuated.csail.mit.edu/
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Cartesian_impedance_and_admittance/book_name.txt

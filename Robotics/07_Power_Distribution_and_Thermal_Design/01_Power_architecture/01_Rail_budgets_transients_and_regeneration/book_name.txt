@@ -1,0 +1,14 @@
+Primary book: Fundamentals of Power Electronics, 3rd edition — Robert W. Erickson and Dragan Maksimovic.
+Source: https://link.springer.com/book/10.1007/978-3-030-43881-4
+Source type: Publisher book page and contents.
+Read: Converter steady state, dynamic behavior, input and output filtering, and loss themes.
+Study checklist:
+01. Separate logic and actuator power demands.
+02. Calculate peak and average rail currents.
+03. Model startup and acceleration transients.
+04. Explain bus capacitance and voltage sag.
+05. Account for regenerative energy.
+06. Identify a supply unable to absorb returned power.
+Completion: Build a rail-current and energy budget for a multi-joint move and simulate bus voltage during acceleration and braking.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_DC_DC_conversion_and_noise_paths/book_name.txt

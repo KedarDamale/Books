@@ -1,0 +1,15 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Trajectory Generation themes: time scaling and joint-space trajectories.
+Study checklist:
+01. Separate geometric path and time law.
+02. Generate cubic and quintic profiles.
+03. Compare trapezoidal and smooth speed profiles.
+04. Enforce position, speed, and acceleration bounds.
+05. Relate jerk and vibration excitation.
+06. Coordinate joints to finish together.
+Completion: Generate a bounded multi-joint move and compare peak torque and vibration for two time-scaling choices.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Current_velocity_position_cascades/book_name.txt
+Next unit in this area: ../03_Computed_torque_and_gravity_compensation/book_name.txt

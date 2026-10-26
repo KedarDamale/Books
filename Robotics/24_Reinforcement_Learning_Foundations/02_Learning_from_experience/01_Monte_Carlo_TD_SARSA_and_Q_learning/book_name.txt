@@ -1,0 +1,14 @@
+Primary book: Reinforcement Learning: An Introduction, 2nd edition — Richard S. Sutton and Andrew G. Barto.
+Source: https://mitpress.mit.edu/9780262039246/reinforcement-learning/
+Source type: Publisher book page; author's open edition linked in catalog.
+Read: Monte Carlo Methods and Temporal-Difference Learning themes.
+Study checklist:
+01. Estimate returns from sampled episodes.
+02. Derive a one-step TD target.
+03. Compare on-policy and off-policy updates.
+04. Explain SARSA and Q-learning behavior.
+05. Analyze step-size and visitation assumptions.
+06. Construct a case where behavior risk differs.
+Completion: Implement tabular algorithms in Python and compare their behavior on a task where a risky route affects the data-collecting policy.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Eligibility_traces_bootstrapping_and_approximation/book_name.txt

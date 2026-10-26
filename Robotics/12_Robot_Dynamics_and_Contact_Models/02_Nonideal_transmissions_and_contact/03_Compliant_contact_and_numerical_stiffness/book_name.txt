@@ -1,0 +1,14 @@
+Primary book: MuJoCo documentation — MuJoCo contributors.
+Source: https://mujoco.readthedocs.io/en/stable/overview.html
+Source type: Official online documentation.
+Read: Computation and modeling themes: contacts, constraint softness, integration, and solver settings.
+Study checklist:
+01. Explain compliance and damping at contact.
+02. Relate contact stiffness and integration step.
+03. Distinguish penetration tolerance and physical deformation.
+04. Detect solver-dependent behavior.
+05. Compare energy dissipation across settings.
+06. State what simulation cannot validate about real contact.
+Completion: Simulate a simple contact event under several time steps and stiffness values and report convergence and nonphysical artifacts.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Unilateral_contact_friction_cones_and_impacts/book_name.txt

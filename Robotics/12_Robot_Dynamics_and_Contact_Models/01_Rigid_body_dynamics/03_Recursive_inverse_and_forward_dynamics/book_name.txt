@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Newton-Euler inverse dynamics and forward dynamics themes.
+Study checklist:
+01. Trace forward velocity and acceleration recursion.
+02. Trace backward wrench accumulation.
+03. Calculate torque for a prescribed motion.
+04. Solve accelerations from applied torque.
+05. Compare algorithmic cost.
+06. Validate simple limiting cases.
+Completion: Implement or use a Python dynamics reference to compare inverse and forward calculations on the same trajectory.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Lagrange_equations_and_manipulator_structure/book_name.txt

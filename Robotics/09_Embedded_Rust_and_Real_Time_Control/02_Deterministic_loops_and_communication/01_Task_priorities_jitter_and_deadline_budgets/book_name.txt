@@ -1,0 +1,14 @@
+Primary book: Real-Time Interrupt-driven Concurrency book — RTIC contributors.
+Source: https://rtic.rs/2/book/en/
+Source type: Official online book.
+Read: Tasks, shared resources, scheduling, priorities, and timing-analysis themes.
+Study checklist:
+01. Separate control periods and execution times.
+02. Assign priorities from timing needs.
+03. Account for blocking on shared resources.
+04. Measure release and completion jitter.
+05. Distinguish observed and worst-case execution time.
+06. Detect a deadline miss explicitly.
+Completion: Model or implement a Rust task schedule and show how competing sensor work changes control-loop timing.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Control_state_machines_watchdogs_and_fault_latches/book_name.txt

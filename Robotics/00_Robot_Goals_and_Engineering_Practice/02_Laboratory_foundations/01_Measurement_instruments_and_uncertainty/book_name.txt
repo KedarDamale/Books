@@ -1,0 +1,14 @@
+Primary book: Measurement and Instrumentation: Theory and Application, 3rd edition — Alan S. Morris and Reza Langari.
+Source: https://shop.elsevier.com/books/measurement-and-instrumentation/unknown/978-0-12-817141-7
+Source type: Publisher book page and contents.
+Read: Measurement-system characteristics, errors, calibration, and electrical measuring instruments themes.
+Study checklist:
+01. Choose the quantity and units to measure.
+02. Distinguish resolution, accuracy, and precision.
+03. Identify instrument loading.
+04. Separate systematic and random error.
+05. Record calibration and operating range.
+06. Report uncertainty with a result.
+Completion: Measure or simulate a sensor-voltage experiment and explain instrument loading and the resulting uncertainty budget.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Robot_energy_hazards_and_stop_states/book_name.txt

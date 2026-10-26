@@ -1,0 +1,14 @@
+Primary book: Reinforcement Learning: An Introduction, 2nd edition — Richard S. Sutton and Andrew G. Barto.
+Source: https://mitpress.mit.edu/9780262039246/reinforcement-learning/
+Source type: Publisher book page; author's open edition linked in catalog.
+Read: Finite Markov Decision Processes themes.
+Study checklist:
+01. Define states, actions, rewards, and transitions.
+02. Explain discounted and episodic returns.
+03. State the Markov assumption.
+04. Distinguish hidden state and observation.
+05. Separate reward and intended task success.
+06. Compare stochastic and deterministic policies.
+Completion: Formulate a reaching or object-moving task as an MDP and show a state omission that makes the chosen observation non-Markov.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Bellman_equations_policy_evaluation_and_control/book_name.txt

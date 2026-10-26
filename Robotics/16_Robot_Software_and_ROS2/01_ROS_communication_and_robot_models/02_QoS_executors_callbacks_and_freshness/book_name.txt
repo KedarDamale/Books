@@ -1,0 +1,15 @@
+Primary book: ROS 2 Jazzy documentation — ROS 2 documentation contributors.
+Source: https://docs.ros.org/en/jazzy/
+Source type: Official documentation; source repository available.
+Read: Quality of Service, executors, callback groups, and time themes.
+Study checklist:
+01. Compare reliability and history policies.
+02. Configure bounded queues.
+03. Explain callback scheduling and blocking.
+04. Use source timestamps for freshness.
+05. Analyze deadline and liveliness signals.
+06. Avoid treating message arrival as current physical state.
+Completion: Inject delayed and bursty joint messages and compare queue and callback policies against a freshness requirement.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Python_nodes_topics_services_and_actions/book_name.txt
+Next unit in this area: ../03_tf2_URDF_joint_states_and_model_conventions/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Electric Motors and Drives: Fundamentals, Types and Applications, 5th edition — Austin Hughes and Bill Drury.
+Source: https://shop.elsevier.com/books/electric-motors-and-drives/hughes/978-0-08-102615-1
+Source type: Publisher book page and contents.
+Read: Motor selection, drive ratings, thermal behavior, and servo-system themes.
+Study checklist:
+01. Compute gravity and acceleration torque.
+02. Apply transmission efficiency consistently.
+03. Reflect load inertia to the motor.
+04. Calculate RMS and peak demand.
+05. Compare required and available speed.
+06. Analyze overload and duty-cycle margins.
+Completion: Size a shoulder or elbow actuator from a measured or simulated trajectory and show why a stall-torque-only choice is inadequate.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_DC_BLDC_stepper_and_servo_tradeoffs/book_name.txt

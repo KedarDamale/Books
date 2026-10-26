@@ -1,0 +1,14 @@
+Primary book: Introduction to Robotics and Perception — Frank Dellaert and Seth Hutchinson.
+Source: https://www.roboticsbook.org/intro.html
+Source type: Author-provided online textbook.
+Read: Sensing themes for cameras, range sensors, and robot-world observations.
+Study checklist:
+01. Compare geometric measurement types.
+02. Relate field of view and usable workspace.
+03. Explain range and resolution tradeoffs.
+04. Identify transparent and reflective-surface failures.
+05. Account for occlusion and lighting.
+06. Compare measurement latency and robot motion.
+Completion: Choose a camera and depth-sensing arrangement conceptually and document visibility and failure cases for the target workbench.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Contact_tactile_and_limit_sensors/book_name.txt

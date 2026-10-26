@@ -1,0 +1,15 @@
+Primary book: A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning — Stephane Ross, Geoffrey J. Gordon, and J. Andrew Bagnell.
+Source: https://arxiv.org/abs/1011.0686
+Source type: Authors' open research paper.
+Read: Dataset aggregation algorithm, no-regret reduction, and experiment themes.
+Study checklist:
+01. Collect data on learner-visited states.
+02. Define when and how the expert supplies labels.
+03. Aggregate without losing data provenance.
+04. Evaluate expert and learner mixing.
+05. Budget intervention and labeling cost.
+06. State reduction and expert-quality assumptions.
+Completion: Run simulated dataset aggregation and compare recovery behavior with a policy trained only on expert-state demonstrations.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Behavior_cloning_demonstrations_and_covariate_shift/book_name.txt
+Next unit in this area: ../03_Offline_RL_support_and_conservative_values/book_name.txt

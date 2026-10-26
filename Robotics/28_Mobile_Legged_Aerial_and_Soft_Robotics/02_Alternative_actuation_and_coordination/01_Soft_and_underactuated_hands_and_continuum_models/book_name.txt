@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Hands, soft or underactuated end effectors, compliance, and contact themes.
+Study checklist:
+01. Compare rigid-link and distributed deformation models.
+02. Explain passive adaptation to object shape.
+03. Identify hysteresis and material uncertainty.
+04. Choose sensing for an underactuated mechanism.
+05. Relate compliance and grasp robustness.
+06. State where lumped models fail.
+Completion: Model a simple compliant or underactuated gripper and compare its contact adaptation with a rigid-finger design.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Multirobot_coordination_shared_frames_and_resources/book_name.txt

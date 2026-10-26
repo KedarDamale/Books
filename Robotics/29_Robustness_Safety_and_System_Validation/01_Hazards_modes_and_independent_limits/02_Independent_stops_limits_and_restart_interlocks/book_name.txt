@@ -1,0 +1,15 @@
+Primary book: OSHA Technical Manual, Section IV, Chapter 4: Industrial Robot Systems and Industrial Robot System Safety — Occupational Safety and Health Administration.
+Source: https://www.osha.gov/otm/section-4-safety-hazards/chapter-4
+Source type: Official technical guidance; US context.
+Read: Safeguarding, operating modes, unexpected motion, maintenance, and system integration themes.
+Study checklist:
+01. Separate task logic and protective functions.
+02. Define independent motion-enabling conditions.
+03. Account for gravity after power removal.
+04. Verify stop and restart transitions.
+05. Prevent bypass through remote commands.
+06. Define maintenance and fault-recovery states.
+Completion: Model a stop-and-restart architecture and test loss of control communication, power interruption, held loads, and unexpected reset.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Risk_assessment_failure_analysis_and_traceability/book_name.txt
+Next unit in this area: ../03_Stopping_distance_contact_energy_and_test_scope/book_name.txt

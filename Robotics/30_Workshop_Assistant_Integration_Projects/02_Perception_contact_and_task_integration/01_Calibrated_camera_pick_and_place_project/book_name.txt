@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Revisit geometric pose estimation, grasp selection, planning, and pick-and-place themes.
+Study checklist:
+01. Validate camera-to-robot transforms.
+02. Convert detections into metric grasp proposals.
+03. Reject uncertain or colliding grasps.
+04. Confirm acquisition and release.
+05. Recover from observation and grasp failure.
+06. Evaluate complete episodes under held-out conditions.
+Completion: Deliver a camera-guided object-moving demonstration in simulation or hardware with success rates, pose errors, failure categories, and recoveries.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Contact_aware_fixture_or_tool_task_project/book_name.txt

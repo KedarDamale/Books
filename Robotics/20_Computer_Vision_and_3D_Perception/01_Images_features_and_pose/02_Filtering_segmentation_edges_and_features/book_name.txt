@@ -1,0 +1,15 @@
+Primary book: OpenCV Tutorials and Camera Calibration and 3D Reconstruction reference — OpenCV contributors.
+Source: https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
+Source type: Official online documentation.
+Read: Image Processing and 2D Features tutorials on filtering, thresholds, morphology, corners, and descriptors.
+Study checklist:
+01. Apply filters with explicit boundary rules.
+02. Separate color-space choices and illumination effects.
+03. Use thresholding with failure cases.
+04. Extract corners and local features.
+05. Match descriptors with rejection criteria.
+06. Explain geometric meaning lost by simple segmentation.
+Completion: Build a Python perception baseline for simple workbench objects and document failures under changed backgrounds and lighting.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Image_formation_lighting_exposure_and_sampling/book_name.txt
+Next unit in this area: ../03_Homographies_fiducials_and_PnP_pose/book_name.txt

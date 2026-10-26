@@ -1,0 +1,15 @@
+Primary book: CAN knowledge — CAN in Automation.
+Source: https://www.can-cia.org/can-knowledge
+Source type: Official engineering association reference.
+Read: CAN data-link arbitration, error handling, physical layers, and higher-layer protocol themes.
+Study checklist:
+01. Explain identifier-based arbitration.
+02. Calculate a basic bus-load estimate.
+03. Distinguish message priority and node identity.
+04. Account for framing and retries.
+05. Model bus-off and recovery.
+06. Separate bus correctness and application freshness.
+Completion: Simulate periodic joint messages and a fault burst and analyze deadline, freshness, and recovery behavior under the stated bus model.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Control_state_machines_watchdogs_and_fault_latches/book_name.txt
+Next unit in this area: ../04_DMA_buffers_and_high_rate_sensor_acquisition/book_name.txt

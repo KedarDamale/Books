@@ -1,0 +1,15 @@
+Primary book: Planning Algorithms — Steven M. LaValle.
+Source: https://lavalle.pl/planning/
+Source type: Author-provided open book.
+Read: Planning with multiple decision makers, coordination, and information-space themes.
+Study checklist:
+01. Define shared task and resource constraints.
+02. Maintain inter-robot frame consistency.
+03. Separate centralized and distributed decisions.
+04. Detect conflicting access to shared space.
+05. Handle stale state and lost communication.
+06. Evaluate coordination cost and deadlocks.
+Completion: Simulate two robots sharing a workcell or transport corridor and verify conflict handling under delayed communication.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Soft_and_underactuated_hands_and_continuum_models/book_name.txt
+Next unit in this area: ../03_Pneumatic_cylinders_valves_and_compressed_air/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: Foundations of Analog and Digital Electronic Circuits — Anant Agarwal and Jeffrey H. Lang.
+Source: https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/pages/readings/
+Source type: Book with official MIT reading guide.
+Read: Capacitors, inductors, first-order circuits, and transient-response themes.
+Study checklist:
+01. Relate stored energy to voltage or current.
+02. Derive an RC time constant.
+03. Explain inductor current continuity.
+04. Analyze switching transients.
+05. Separate steady state and startup behavior.
+06. Predict the effect of parasitic elements.
+Completion: Simulate an inductive load switching event and explain current continuity, energy flow, and transient suppression requirements.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Kirchhoff_laws_loading_and_sensor_dividers/book_name.txt
+Next unit in this area: ../03_Op_amps_filters_and_signal_conditioning/book_name.txt

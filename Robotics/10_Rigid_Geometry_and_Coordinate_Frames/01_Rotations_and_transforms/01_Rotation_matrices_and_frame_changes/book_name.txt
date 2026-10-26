@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Rigid-Body Motions themes: rotation matrices and angular velocities.
+Study checklist:
+01. Distinguish active rotation and coordinate change.
+02. Check orthogonality and determinant.
+03. Compose rotations in the correct order.
+04. Explain local and world axes.
+05. Relate angular velocity to rotation derivatives.
+06. Identify a convention mismatch.
+Completion: Implement rotation operations in Python and verify known poses, inverses, composition order, and an intentionally mixed convention.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Quaternions_exponential_coordinates_and_interpolation/book_name.txt

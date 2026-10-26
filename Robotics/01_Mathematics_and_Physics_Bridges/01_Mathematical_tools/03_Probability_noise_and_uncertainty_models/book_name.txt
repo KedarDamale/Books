@@ -1,0 +1,14 @@
+Primary book: State Estimation for Robotics, 2nd edition draft (2026-09-02) — Timothy D. Barfoot.
+Source: https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf
+Source type: Author-provided open draft.
+Read: Probability, Gaussian distributions, and estimation background themes.
+Study checklist:
+01. Define a random state and observation.
+02. Interpret covariance and correlation.
+03. Propagate a small linear uncertainty model.
+04. Separate measurement noise and model bias.
+05. Explain a likelihood and posterior.
+06. Identify unjustified Gaussian assumptions.
+Completion: Simulate uncertain range measurements and compare a predicted covariance with empirical errors and a deliberately biased case.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Matrices_derivatives_and_numerical_checks/book_name.txt

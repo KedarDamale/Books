@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Arms, end effectors, contact modeling, and task-level manipulation themes.
+Study checklist:
+01. Define a tool-center frame.
+02. Update mass and collision models after tool changes.
+03. Design a stable fixture interface.
+04. Analyze reaction forces from tool contact.
+05. Verify attachment and release.
+06. Bound a skill to its tested tool and workpiece conditions.
+Completion: Design a fixture-based lightweight tool-holding task and provide geometry, load, sensing, and failure-recovery models.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Pushing_insertion_and_contact_modes/book_name.txt

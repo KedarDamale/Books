@@ -1,0 +1,14 @@
+Primary book: Computer Vision: Algorithms and Applications, 2nd edition — Richard Szeliski.
+Source: https://szeliski.org/Book/
+Source type: Author site with personal-use electronic edition.
+Read: Stereo Correspondence and depth-reconstruction themes.
+Study checklist:
+01. Relate disparity and depth.
+02. Explain stereo rectification.
+03. Analyze depth uncertainty with range.
+04. Identify correspondence and texture failures.
+05. Distinguish missing depth and free space.
+06. Align color and depth coordinates.
+Completion: Reconstruct a simple scene and plot how depth error changes with distance and calibration perturbation.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Point_clouds_normals_registration_and_ICP/book_name.txt

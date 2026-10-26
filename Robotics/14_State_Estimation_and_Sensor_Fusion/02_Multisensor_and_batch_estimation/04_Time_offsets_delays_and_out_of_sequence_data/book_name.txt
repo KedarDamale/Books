@@ -1,0 +1,17 @@
+Primary book: State Estimation for Robotics, 2nd edition draft (2026-09-02) — Timothy D. Barfoot.
+Source: https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf
+Source type: Author-provided open draft.
+Read: Continuous-time trajectory, inertial navigation, and measurement-timing themes.
+Study checklist:
+01. Distinguish clock offset and transport delay.
+02. Propagate state to acquisition time.
+03. Model delayed observations.
+04. Estimate or bound a time offset.
+05. Handle reordered observations consistently.
+06. Relate timing error and spatial error.
+Completion: Inject a timestamp offset into fused sensor data and quantify the resulting pose error before and after correction.
+Extension book: Probabilistic Robotics — Sebastian Thrun, Wolfram Burgard, and Dieter Fox.
+Extension focus (optional): Compare filtering and mapping models for different robot embodiments.
+Source: https://mitpress.mit.edu/9780262201629/probabilistic-robotics/
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_Factor_graphs_smoothing_and_robust_losses/book_name.txt

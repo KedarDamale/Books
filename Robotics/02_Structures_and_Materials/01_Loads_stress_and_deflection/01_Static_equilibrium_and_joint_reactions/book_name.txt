@@ -1,0 +1,14 @@
+Primary book: Engineering Statics: Open and Interactive — Daniel W. Baker and William Haynes.
+Source: https://engineeringstatics.org/
+Source type: Open textbook.
+Read: Rigid-body equilibrium, moments, distributed loads, and centroids themes.
+Study checklist:
+01. Construct a consistent free-body diagram.
+02. Replace distributed loads by resultants.
+03. Solve force and moment equations.
+04. Determine support reactions.
+05. Locate combined centers of mass.
+06. Detect an underconstrained structure.
+Completion: Calculate base and bearing reactions for a cantilevered arm with its own weight and an end payload.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Tension_shear_torsion_and_combined_stress/book_name.txt

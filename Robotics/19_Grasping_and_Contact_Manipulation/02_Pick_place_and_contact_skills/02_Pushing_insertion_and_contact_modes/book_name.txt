@@ -1,0 +1,15 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Mobile manipulation, contact-rich manipulation, and force-control themes.
+Study checklist:
+01. Model deliberate contact as task state.
+02. Distinguish sticking and sliding motion.
+03. Use compliance during constrained motion.
+04. Identify jamming and wedging conditions.
+05. Compare open-loop and feedback execution.
+06. Define disengagement and recovery behavior.
+Completion: Simulate pushing or a simple insertion task and compare rigid position control with a contact-aware compliant strategy.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Pregrasp_approach_lift_and_place_sequences/book_name.txt
+Next unit in this area: ../03_Tool_use_payload_changes_and_fixture_design/book_name.txt

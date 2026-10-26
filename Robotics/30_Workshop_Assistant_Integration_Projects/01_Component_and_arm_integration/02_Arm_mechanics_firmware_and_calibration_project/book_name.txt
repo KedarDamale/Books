@@ -1,0 +1,15 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Revisit geometry, kinematics, dynamics, and trajectory-generation themes selected for the arm.
+Study checklist:
+01. Maintain consistent CAD and robot descriptions.
+02. Size all joints for the selected workload.
+03. Integrate firmware and telemetry.
+04. Calibrate joint and tool references.
+05. Validate workspace and collision geometry.
+06. Measure endpoint accuracy across poses.
+Completion: Deliver a modeled or built multi-joint arm with versioned assets and a report connecting predicted and measured reach, repeatability, load, and timing.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Instrumented_single_joint_project/book_name.txt
+Next unit in this area: ../03_Operator_station_and_deterministic_motion_project/book_name.txt

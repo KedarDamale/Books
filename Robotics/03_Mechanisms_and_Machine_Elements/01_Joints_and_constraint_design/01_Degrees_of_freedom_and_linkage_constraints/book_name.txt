@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Configuration Space themes: mobility, joints, constraints, and mechanisms.
+Study checklist:
+01. Count unconstrained motion dimensions.
+02. Classify revolute and prismatic joints.
+03. Apply a mobility count with assumptions.
+04. Identify redundant constraints.
+05. Distinguish local and global mobility.
+06. Construct a mechanism with a singular configuration.
+Completion: Analyze the mobility of three candidate arm or gripper mechanisms and explain a case where naive constraint counting misleads.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Bearings_shafts_and_alignment/book_name.txt

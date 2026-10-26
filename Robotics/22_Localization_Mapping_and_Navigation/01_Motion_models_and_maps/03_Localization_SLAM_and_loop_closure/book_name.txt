@@ -1,0 +1,14 @@
+Primary book: Probabilistic Robotics — Sebastian Thrun, Wolfram Burgard, and Dieter Fox.
+Source: https://mitpress.mit.edu/9780262201629/probabilistic-robotics/
+Source type: Publisher book page.
+Read: Monte Carlo Localization, SLAM, and graph-based mapping themes.
+Study checklist:
+01. Separate localization and simultaneous mapping.
+02. Represent landmark or pose relationships.
+03. Explain data-association uncertainty.
+04. Detect loop-closure ambiguity.
+05. Identify gauge freedoms.
+06. Compare local consistency and global map correctness.
+Completion: Construct a small localization or pose-graph example with a false loop closure and evaluate its effect on the map.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Occupancy_grids_and_map_uncertainty/book_name.txt

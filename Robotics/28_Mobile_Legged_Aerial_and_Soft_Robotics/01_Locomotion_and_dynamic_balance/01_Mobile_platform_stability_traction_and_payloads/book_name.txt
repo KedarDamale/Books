@@ -1,0 +1,14 @@
+Primary book: Robotics, Vision and Control: Fundamental Algorithms in Python, 3rd edition — Peter Corke.
+Source: https://petercorke.com/rvc3p/
+Source type: Author book site and chapter guides.
+Read: Mobile robot motion, kinematic constraints, and dynamics-related navigation themes.
+Study checklist:
+01. Relate wheel arrangement and available motion.
+02. Model center-of-mass projection.
+03. Analyze tipping under acceleration.
+04. Compare traction limits and commanded force.
+05. Include arm motion in platform loading.
+06. Distinguish geometric stability and dynamic behavior.
+Completion: Analyze a mobile-arm platform under several arm poses and accelerations and identify traction and tipping constraints.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Legged_balance_gaits_and_contact_switching/book_name.txt

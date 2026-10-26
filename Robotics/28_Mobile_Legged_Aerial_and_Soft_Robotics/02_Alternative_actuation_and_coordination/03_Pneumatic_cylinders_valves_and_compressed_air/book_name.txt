@@ -1,0 +1,15 @@
+Primary book: Hydraulics and Pneumatics: A Technician's and Engineer's Guide, 3rd edition — Andrew Parr.
+Source: https://shop.elsevier.com/books/hydraulics-and-pneumatics/parr/978-0-08-096674-8
+Source type: Publisher book page and contents.
+Read: Pneumatic actuators, directional valves, pressure regulation, and compressed-air system themes.
+Study checklist:
+01. Relate pressure difference and actuator force.
+02. Account for flow-limited speed.
+03. Explain compressibility and compliance.
+04. Trace valve and cylinder states.
+05. Identify leakage and pressure-loss effects.
+06. Define pressure-loss and stored-energy behavior.
+Completion: Simulate a pneumatic gripper or axis and compare predicted force and response as supply pressure, valve flow, and load change.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Multirobot_coordination_shared_frames_and_resources/book_name.txt
+Next unit in this area: ../04_Hydraulic_actuators_pressure_flow_and_load_holding/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Human-Robot Interaction: An Introduction, 2nd edition — Christoph Bartneck, Tony Belpaeme, Friederike Eyssel, Takayuki Kanda, Merel Keijsers, and Selma Sabanovic.
+Source: https://www.human-robot-interaction.org/
+Source type: Authors' official site with open book.
+Read: Interaction design, communication, trust, and human expectations themes.
+Study checklist:
+01. Show the robot's current mode and intended action.
+02. Distinguish success feedback and progress indication.
+03. Explain uncertainty in user-understandable terms.
+04. Avoid overstating robot understanding.
+05. Support interruption and correction.
+06. Evaluate user expectations against actual behavior.
+Completion: Prototype an operator interaction and evaluate whether users can predict motion, identify faults, and stop or correct a task.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Shared_workspaces_handovers_and_human_presence/book_name.txt

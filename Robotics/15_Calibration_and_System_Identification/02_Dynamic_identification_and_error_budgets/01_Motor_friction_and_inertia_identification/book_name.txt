@@ -1,0 +1,14 @@
+Primary book: Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation — Russ Tedrake.
+Source: https://underactuated.csail.mit.edu/
+Source type: Open MIT course text.
+Read: System Identification and model-based control themes.
+Study checklist:
+01. Choose identifiable model parameters.
+02. Design informative excitation.
+03. Separate training and validation motion.
+04. Fit friction and inertial effects.
+05. Account for noise in differentiated signals.
+06. Reject an unphysical parameter fit.
+Completion: Identify a simulated joint model from logged measurements and validate it on a different motion profile and payload.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Compliance_backlash_and_task_accuracy_budgets/book_name.txt

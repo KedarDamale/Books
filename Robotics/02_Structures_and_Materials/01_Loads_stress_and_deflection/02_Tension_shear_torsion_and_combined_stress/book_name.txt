@@ -1,0 +1,15 @@
+Primary book: Mechanics of Materials — David Roylance.
+Source: https://eng.libretexts.org/Bookshelves/Mechanical_Engineering/Mechanics_of_Materials_(Roylance)
+Source type: Legitimate open MIT-derived text.
+Read: Tensile response, shear structures, and general stress analysis themes.
+Study checklist:
+01. Define engineering stress and strain.
+02. Apply elastic material laws.
+03. Calculate axial and shear stress.
+04. Relate torque and shaft torsion.
+05. Explain combined stress states.
+06. Identify assumptions behind simple formulas.
+Completion: Compare candidate shafts under combined bending and torsion with units, assumptions, and a stated material limit.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Static_equilibrium_and_joint_reactions/book_name.txt
+Next unit in this area: ../03_Beam_bending_deflection_and_stiffness/book_name.txt

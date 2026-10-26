@@ -1,0 +1,15 @@
+Primary book: Gymnasium documentation — Farama Foundation and contributors.
+Source: https://gymnasium.farama.org/
+Source type: Official online documentation.
+Read: Create a Custom Environment, spaces, reset, step, termination, and truncation themes.
+Study checklist:
+01. Define observation and action spaces precisely.
+02. Separate termination and time-limit truncation.
+03. Reset simulator and controller state.
+04. Seed stochastic components explicitly.
+05. Reject invalid actions consistently.
+06. Expose testable task metrics beyond reward.
+Completion: Implement a small arm or gripper environment and verify reset independence, action bounds, termination semantics, and reward correctness.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Eligibility_traces_bootstrapping_and_approximation/book_name.txt
+Next unit in this area: ../04_Reward_design_shaping_and_evaluation_protocols/book_name.txt

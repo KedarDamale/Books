@@ -1,0 +1,14 @@
+Primary book: Measurement and Instrumentation: Theory and Application, 3rd edition — Alan S. Morris and Reza Langari.
+Source: https://shop.elsevier.com/books/measurement-and-instrumentation/unknown/978-0-12-817141-7
+Source type: Publisher book page and contents.
+Read: Acceleration, vibration, angular-motion measurement, and inertial sensing themes.
+Study checklist:
+01. Distinguish specific force and gravity.
+02. Explain gyro bias and scale error.
+03. Track sensor-axis conventions.
+04. Relate sampling and vibration aliasing.
+05. Identify saturation and clipping.
+06. Explain drift after integrating biased measurements.
+Completion: Simulate an IMU on a moving link and demonstrate how bias and frame mistakes corrupt a reconstructed motion.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Current_force_torque_and_strain_measurement/book_name.txt

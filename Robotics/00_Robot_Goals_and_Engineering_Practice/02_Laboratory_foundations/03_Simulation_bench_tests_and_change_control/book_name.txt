@@ -1,0 +1,14 @@
+Primary book: NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev 2 — NASA systems engineering contributors.
+Source: https://www.nasa.gov/reference/systems-engineering-handbook/
+Source type: Official open engineering handbook.
+Read: Integration planning, verification methods, configuration control, and risk management themes.
+Study checklist:
+01. Progress from component models to integrated tests.
+02. Define entry and exit criteria.
+03. Keep hardware and firmware revisions identifiable.
+04. Change one experimental variable at a time.
+05. Define a reversible test configuration.
+06. Document the limits of bench evidence.
+Completion: Plan a staged test sequence for one robot joint from simulation through an instrumented low-energy bench setup.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Robot_energy_hazards_and_stop_states/book_name.txt

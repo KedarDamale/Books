@@ -1,0 +1,14 @@
+Primary book: Fundamentals of Power Electronics, 3rd edition — Robert W. Erickson and Dragan Maksimovic.
+Source: https://link.springer.com/book/10.1007/978-3-030-43881-4
+Source type: Publisher book page and contents.
+Read: Power semiconductor switches, switching losses, and converter switch realization themes.
+Study checklist:
+01. Explain gate-drive voltage and charge.
+02. Distinguish conduction and switching loss.
+03. Trace freewheel-current paths.
+04. Analyze dead time and shoot-through.
+05. Check electrical and thermal operating limits.
+06. Separate logic drive and power switching.
+Completion: Analyze a low-voltage motor-switching stage in simulation and identify current paths and losses in every switching state.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Logic_levels_ADC_DAC_and_ground_references/book_name.txt

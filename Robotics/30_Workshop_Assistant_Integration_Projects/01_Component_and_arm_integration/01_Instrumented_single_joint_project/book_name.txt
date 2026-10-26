@@ -1,0 +1,14 @@
+Primary book: Electric Motors and Drives: Fundamentals, Types and Applications, 5th edition — Austin Hughes and Bill Drury.
+Source: https://shop.elsevier.com/books/electric-motors-and-drives/hughes/978-0-08-102615-1
+Source type: Publisher book page and contents.
+Read: Revisit motor sizing, current regulation, servo control, and thermal behavior for the chosen joint.
+Study checklist:
+01. State mechanical and electrical load requirements.
+02. Integrate position and current measurements.
+03. Implement homing and fault states.
+04. Demonstrate bounded tracking.
+05. Measure thermal and timing behavior.
+06. Verify stop and power-loss behavior.
+Completion: Deliver an instrumented joint model or bench assembly with identified dynamics, controller results, a fault report, and documented operating limits.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Arm_mechanics_firmware_and_calibration_project/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Measurement and Instrumentation: Theory and Application, 3rd edition — Alan S. Morris and Reza Langari.
+Source: https://shop.elsevier.com/books/measurement-and-instrumentation/unknown/978-0-12-817141-7
+Source type: Publisher book page and contents.
+Read: Sampling, digital conversion, signal conditioning, and measurement-system dynamics themes.
+Study checklist:
+01. Choose sampling from signal bandwidth.
+02. Explain aliasing and anti-alias filtering.
+03. Distinguish acquisition and arrival timestamps.
+04. Quantify transport and processing latency.
+05. Detect dropped or reordered samples.
+06. Preserve units and calibration metadata.
+Completion: Record or simulate two asynchronous sensor streams and quantify the alignment error produced by using arrival time instead of acquisition time.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Contact_tactile_and_limit_sensors/book_name.txt

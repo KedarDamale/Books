@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Forward Kinematics themes: product of exponentials and manipulator structure.
+Study checklist:
+01. Assign link and joint frames.
+02. Identify joint axes and offsets.
+03. Derive a product-of-exponentials model.
+04. Compare with direct geometric composition.
+05. Include tool and mounting transforms.
+06. Validate against known joint poses.
+Completion: Implement forward kinematics for a small arm in Python and compare independent geometric and matrix calculations.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Analytic_inverse_kinematics_and_solution_branches/book_name.txt

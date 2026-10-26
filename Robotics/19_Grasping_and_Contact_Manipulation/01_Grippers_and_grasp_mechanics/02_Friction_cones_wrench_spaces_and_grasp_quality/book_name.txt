@@ -1,0 +1,15 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Robot manipulation themes: contact types, friction, and grasp stability.
+Study checklist:
+01. Construct contact-force constraints.
+02. Map contact forces into object wrenches.
+03. Explain force and form closure.
+04. Analyze disturbance resistance.
+05. Compare grasp-quality metrics.
+06. Identify sensitivity to uncertain friction.
+Completion: Evaluate several grasps of a simple object and show how friction uncertainty changes the feasible disturbance set.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Gripper_geometry_aperture_and_object_constraints/book_name.txt
+Next unit in this area: ../03_Grip_force_slip_and_object_damage_limits/book_name.txt

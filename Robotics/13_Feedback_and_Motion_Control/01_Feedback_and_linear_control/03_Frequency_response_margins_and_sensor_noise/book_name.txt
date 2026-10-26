@@ -1,0 +1,14 @@
+Primary book: Feedback Systems: An Introduction for Scientists and Engineers, 2nd edition — Karl J. Astrom and Richard M. Murray.
+Source: https://www.cds.caltech.edu/~murray/FBS/Second_Edition.html
+Source type: Author-approved open textbook and contents.
+Read: Frequency Domain Analysis, loop transfer functions, and robustness themes.
+Study checklist:
+01. Construct a Bode interpretation.
+02. Relate crossover and response speed.
+03. Explain phase and gain margins.
+04. Analyze delay-induced phase loss.
+05. Distinguish disturbance rejection and noise amplification.
+06. Identify an unmodeled resonance.
+Completion: Compare two loop designs using frequency response, a delayed model, and a noisy measurement simulation.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_PID_feedforward_and_anti_windup/book_name.txt

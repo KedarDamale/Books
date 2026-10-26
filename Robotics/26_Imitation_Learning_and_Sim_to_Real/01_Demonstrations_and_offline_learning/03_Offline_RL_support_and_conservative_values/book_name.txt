@@ -1,0 +1,15 @@
+Primary book: Conservative Q-Learning for Offline Reinforcement Learning — Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine.
+Source: https://arxiv.org/abs/2006.04779
+Source type: Authors' open research paper.
+Read: Offline RL problem setup, distribution shift, conservative objectives, and evaluation themes.
+Study checklist:
+01. Separate fixed-data and interactive learning.
+02. Identify state-action support gaps.
+03. Explain overestimated unseen actions.
+04. Construct a conservative value objective.
+05. Compare imitation and offline optimization.
+06. State limits of evaluation from logged data.
+Completion: Train or analyze a small offline policy and demonstrate why strong logged-data fit can still produce unsupported actions during rollout.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_DAgger_expert_queries_and_recovery_data/book_name.txt
+Next unit in this area: ../04_Diffusion_visuomotor_policies_and_action_chunks/book_name.txt

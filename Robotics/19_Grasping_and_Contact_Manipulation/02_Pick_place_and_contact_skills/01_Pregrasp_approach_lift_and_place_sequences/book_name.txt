@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Basic Pick and Place themes: grasp poses, pregrasp poses, trajectories, and execution.
+Study checklist:
+01. Transform grasp candidates into robot coordinates.
+02. Define collision-checked approach and retreat.
+03. Confirm object acquisition.
+04. Include the held object in geometry.
+05. Validate placement and release.
+06. Specify recovery for each failed stage.
+Completion: Execute a simulated pick-and-place sequence and inject failed grasp, dropped object, and blocked placement cases.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Pushing_insertion_and_contact_modes/book_name.txt

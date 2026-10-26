@@ -1,0 +1,14 @@
+Primary book: PyTorch Tutorials — PyTorch contributors.
+Source: https://docs.pytorch.org/tutorials/
+Source type: Official online tutorials.
+Read: Profiler, performance tuning, device transfers, inference, and model-persistence tutorials.
+Study checklist:
+01. Measure preprocessing through decision latency.
+02. Distinguish average and tail inference time.
+03. Account for device transfer and synchronization.
+04. Bound frame queues and discard stale inputs.
+05. Verify exported or optimized output agreement.
+06. Monitor runtime schema and calibration versions.
+Completion: Profile a perception pipeline and demonstrate why processing every queued frame can produce worse control than dropping stale frames.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Perception_confidence_uncertainty_and_abstention/book_name.txt

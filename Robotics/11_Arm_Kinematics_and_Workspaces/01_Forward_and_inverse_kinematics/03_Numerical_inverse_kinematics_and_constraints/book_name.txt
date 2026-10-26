@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Numerical inverse kinematics and Newton-Raphson themes.
+Study checklist:
+01. Define a pose-error representation.
+02. Linearize the error using a Jacobian.
+03. Choose damping and step limits.
+04. Apply joint and task constraints.
+05. Detect nonconvergence.
+06. Compare local convergence and global reachability.
+Completion: Implement damped numerical IK and evaluate initial-condition sensitivity, joint-limit handling, and singular targets.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Analytic_inverse_kinematics_and_solution_branches/book_name.txt

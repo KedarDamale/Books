@@ -1,0 +1,14 @@
+Primary book: NIST/SEMATECH e-Handbook of Statistical Methods: Measurement Process Characterization — NIST and SEMATECH contributors.
+Source: https://www.itl.nist.gov/div898/handbook/mpc/mpc.htm
+Source type: Official open engineering handbook.
+Read: Calibration, gauge studies, bias, stability, and uncertainty themes.
+Study checklist:
+01. Define a joint reference convention.
+02. Estimate scale and zero offset.
+03. Separate accuracy and repeatability.
+04. Repeat homing from different directions.
+05. Quantify thermal and setup variation.
+06. Preserve calibration version and validity.
+Completion: Design a joint calibration study and report offset, repeatability, uncertainty, and conditions under which the result applies.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Camera_intrinsics_distortion_and_reprojection/book_name.txt

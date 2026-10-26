@@ -1,0 +1,15 @@
+Primary book: Measurement and Instrumentation: Theory and Application, 3rd edition — Alan S. Morris and Reza Langari.
+Source: https://shop.elsevier.com/books/measurement-and-instrumentation/unknown/978-0-12-817141-7
+Source type: Publisher book page and contents.
+Read: Digital conversion, signal conditioning, and electrical-interface themes.
+Study checklist:
+01. Compare voltage-level compatibility.
+02. Explain ADC reference and quantization.
+03. Distinguish resolution and effective accuracy.
+04. Account for sample-and-hold settling.
+05. Relate grounding errors to sensor readings.
+06. Identify when level shifting or isolation is needed.
+Completion: Specify a sensor-to-controller interface with a voltage budget, conversion-error budget, and reference-ground assumptions.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_MOSFETs_drivers_and_inductive_load_switching/book_name.txt
+Next unit in this area: ../03_Schematics_PCB_layout_and_board_bringup/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: ISO 10218-1:2025: Robotics — Safety requirements — Part 1: Industrial robots — International Organization for Standardization.
+Source: https://www.iso.org/standard/73933.html
+Source type: Official standard catalog and preview; full standard is not redistributed.
+Read: Official scope and preview of ISO 10218-1:2025; consult a legitimately obtained full standard for any clause-level design work.
+Study checklist:
+01. Identify the industrial-robot scope.
+02. Distinguish robot and integrated-application responsibilities.
+03. Separate hazard analysis and conformity evidence.
+04. Identify protective-function requirements needing specialist validation.
+05. Track applicable edition and application context.
+06. Avoid inferring certification from a prototype demonstration.
+Completion: Write a standards-scope note for the proposed assistant identifying relevant responsibilities, unavailable evidence, and the limits of the learning tests.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_Stopping_distance_contact_energy_and_test_scope/book_name.txt

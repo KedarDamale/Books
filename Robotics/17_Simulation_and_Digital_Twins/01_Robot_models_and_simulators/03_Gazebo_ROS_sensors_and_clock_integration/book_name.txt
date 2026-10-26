@@ -1,0 +1,14 @@
+Primary book: Gazebo Harmonic documentation — Gazebo contributors.
+Source: https://gazebosim.org/docs/harmonic/getstarted/
+Source type: Official documentation.
+Read: Sensors, ROS integration, simulation time, and robot-control tutorials.
+Study checklist:
+01. Bridge simulated measurements with defined schemas.
+02. Use simulation time consistently.
+03. Configure sensor rates and noise.
+04. Separate physics and rendering update rates.
+05. Handle paused or reset clocks.
+06. Record simulated state for replay.
+Completion: Run or specify a ROS-connected simulated robot and diagnose a failure caused by mixed wall and simulation clocks.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_MuJoCo_actuators_contacts_and_Python_loops/book_name.txt

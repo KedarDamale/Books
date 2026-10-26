@@ -1,0 +1,14 @@
+Primary book: PyTorch Tutorials — PyTorch contributors.
+Source: https://docs.pytorch.org/tutorials/
+Source type: Official online tutorials.
+Read: Reinforcement Learning DQN tutorial themes: replay memory, target networks, exploration, and optimization.
+Study checklist:
+01. Implement a replay buffer.
+02. Construct bootstrapped targets without gradient leakage.
+03. Explain target-network stabilization.
+04. Separate exploration and evaluation modes.
+05. Handle terminal masks correctly.
+06. Analyze extrapolation and unstable values.
+Completion: Implement a small PyTorch DQN and compare behavior after deliberately removing target isolation or mishandling terminal transitions.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Policy_gradients_REINFORCE_and_advantages/book_name.txt

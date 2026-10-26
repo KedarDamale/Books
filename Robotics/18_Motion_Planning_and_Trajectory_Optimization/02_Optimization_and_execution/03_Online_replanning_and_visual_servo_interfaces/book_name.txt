@@ -1,0 +1,17 @@
+Primary book: MoveIt 2 documentation — MoveIt contributors.
+Source: https://moveit.picknik.ai/main/
+Source type: Official online documentation; select a release compatible with the ROS environment.
+Read: MoveIt Servo, collision monitoring, command modes, and real-time integration themes.
+Study checklist:
+01. Choose joint or Cartesian command semantics.
+02. Bound command age.
+03. Monitor collisions and singularity proximity.
+04. Coordinate replanning and low-level tracking.
+05. Define halt and resume behavior.
+06. Explain reaction limits from latency and stopping distance.
+Completion: Simulate a moving obstacle or target and measure whether the complete sensing-planning-control chain can react within its stated envelope.
+Extension book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Extension focus (optional): Connect motion execution to perception, grasping, and contact tasks.
+Source: https://manipulation.mit.edu/
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_MoveIt_planning_scenes_pipelines_and_execution/book_name.txt

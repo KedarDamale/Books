@@ -1,0 +1,14 @@
+Primary book: Lessons In Electric Circuits — Tony R. Kuphaldt.
+Source: https://www.ibiblio.org/kuphaldt/electricCircuits/
+Source type: Author-approved open textbook series.
+Read: DC themes: Ohm's law, series and parallel circuits, Kirchhoff laws, and meters.
+Study checklist:
+01. Solve a resistor network.
+02. Distinguish voltage and current measurement.
+03. Calculate source and load interaction.
+04. Design a divider for a stated load.
+05. Check component power dissipation.
+06. Identify an invalid ideal-source assumption.
+Completion: Analyze a sensor divider with two different ADC input models and explain the measurement error caused by loading.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Capacitance_inductance_and_transient_response/book_name.txt

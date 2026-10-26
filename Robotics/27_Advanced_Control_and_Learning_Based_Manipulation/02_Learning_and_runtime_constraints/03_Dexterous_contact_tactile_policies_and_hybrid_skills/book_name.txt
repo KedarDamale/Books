@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Dexterous hands, contact-rich manipulation, planning, and policy-learning themes.
+Study checklist:
+01. Represent changing contact modes.
+02. Combine tactile and visual state.
+03. Define constrained manipulation subskills.
+04. Learn a bounded residual or skill selector.
+05. Detect loss of contact and slip.
+06. Evaluate transfer across object and friction changes.
+Completion: Compare a classical contact skill with a learned augmentation on a simulated manipulation task using explicit mode and recovery metrics.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Control_barrier_functions_and_action_filters/book_name.txt

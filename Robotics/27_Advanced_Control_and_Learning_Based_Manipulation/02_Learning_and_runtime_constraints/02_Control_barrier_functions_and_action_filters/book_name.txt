@@ -1,0 +1,15 @@
+Primary book: Control Barrier Functions: Theory and Applications — Aaron D. Ames, Samuel Coogan, Magnus Egerstedt, Gennaro Notomista, Koushil Sreenath, and Paulo Tabuada.
+Source: https://arxiv.org/abs/1903.11199
+Source type: Authors' open research paper.
+Read: Forward invariance, barrier conditions, and quadratic-program control filters themes.
+Study checklist:
+01. Define a constraint set mathematically.
+02. Derive a simple barrier inequality.
+03. Formulate a minimally modifying action filter.
+04. State model and relative-degree assumptions.
+05. Handle actuator limits and infeasibility.
+06. Distinguish model-based invariance and real-system evidence.
+Completion: Implement a barrier-filtered simulated controller and test feasible, infeasible, delayed, and model-mismatched cases.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Learned_dynamics_residual_models_and_uncertainty/book_name.txt
+Next unit in this area: ../03_Dexterous_contact_tactile_policies_and_hybrid_skills/book_name.txt

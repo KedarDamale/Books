@@ -1,0 +1,14 @@
+Primary book: University Physics, Volume 2 — Samuel J. Ling, Jeff Sanny, and William Moebs.
+Source: https://openstax.org/details/books/university-physics-volume-2
+Source type: Open textbook.
+Read: Electric potential, emf, internal resistance, electrical power, and energy-storage themes.
+Study checklist:
+01. Distinguish charge capacity and stored energy.
+02. Model internal resistance and voltage sag.
+03. Estimate runtime from a duty cycle.
+04. Separate cell and pack behavior.
+05. Identify the need for cell-specific operating limits.
+06. State what a simple source model omits.
+Completion: Model a battery-powered robot duty cycle and list the cell-specific charge, discharge, temperature, and protection information required before choosing a pack.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Thermal_resistance_duty_cycles_and_derating/book_name.txt

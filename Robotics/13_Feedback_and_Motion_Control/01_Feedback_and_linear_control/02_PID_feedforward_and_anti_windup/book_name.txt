@@ -1,0 +1,15 @@
+Primary book: Feedback Systems: An Introduction for Scientists and Engineers, 2nd edition — Karl J. Astrom and Richard M. Murray.
+Source: https://www.cds.caltech.edu/~murray/FBS/Second_Edition.html
+Source type: Author-approved open textbook and contents.
+Read: PID Control and feedback/feedforward themes.
+Study checklist:
+01. Explain proportional, integral, and derivative action.
+02. Filter derivative estimates.
+03. Add model-based feedforward.
+04. Identify actuator saturation.
+05. Implement an anti-windup mechanism.
+06. Separate tuning evidence and stability claims.
+Completion: Implement PID with feedforward on a simulated joint and compare saturated moves with and without anti-windup.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Closed_loop_models_poles_and_stability/book_name.txt
+Next unit in this area: ../03_Frequency_response_margins_and_sensor_noise/book_name.txt

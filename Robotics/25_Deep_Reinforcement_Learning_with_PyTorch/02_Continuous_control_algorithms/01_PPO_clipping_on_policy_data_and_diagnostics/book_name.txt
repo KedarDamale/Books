@@ -1,0 +1,14 @@
+Primary book: Proximal Policy Optimization Algorithms — John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.
+Source: https://arxiv.org/abs/1707.06347
+Source type: Authors' open research paper.
+Read: Clipped surrogate objective, sampling, minibatch optimization, and empirical evaluation themes.
+Study checklist:
+01. Compute probability ratios against a frozen policy.
+02. Explain clipping without claiming a hard trust region.
+03. Optimize actor and value losses separately.
+04. Track approximate KL and entropy.
+05. Limit reuse of on-policy data.
+06. Diagnose destructive policy updates.
+Completion: Implement or inspect PPO in PyTorch and report return, KL, clipping fraction, entropy, and seed variability on a small simulated task.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_DDPG_TD3_and_action_scaling/book_name.txt

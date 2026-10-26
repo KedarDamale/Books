@@ -1,0 +1,14 @@
+Primary book: Finite Element Analysis, MIT mechanics-of-materials module (2001) — David Roylance.
+Source: https://web.mit.edu/course/3/3.11/www/modules/fea.pdf
+Source type: Author-provided university teaching text.
+Read: Element stiffness, assembly, boundary conditions, stress calculations, and FEA limitations themes.
+Study checklist:
+01. Construct a simple stiffness element.
+02. Assemble a small structural system.
+03. Apply physically justified supports and loads.
+04. Distinguish stress concentration and numerical singularity.
+05. Check mesh and model sensitivity.
+06. Compare with hand calculation or measurement.
+Completion: Analyze a link or bracket using a small Python model or CAD solver and present convergence, boundary-condition sensitivity, and an independent sanity check.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_Dimensional_inspection_repeatability_and_gauge_studies/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Lessons In Electric Circuits — Tony R. Kuphaldt.
+Source: https://www.ibiblio.org/kuphaldt/electricCircuits/
+Source type: Author-approved open textbook series.
+Read: Electrical safety, conductors, overcurrent protection, and DC circuit themes.
+Study checklist:
+01. Size a conductor from current and allowable drop.
+02. Match protection to the protected circuit.
+03. Analyze connector and contact losses.
+04. Separate disconnect and software command paths.
+05. Identify reverse-polarity and short-circuit cases.
+06. Define a deenergized maintenance state.
+Completion: Produce a power-distribution schematic and fault table showing which protective element addresses each stated electrical fault.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_DC_DC_conversion_and_noise_paths/book_name.txt

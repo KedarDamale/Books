@@ -1,0 +1,15 @@
+Primary book: Probabilistic Robotics — Sebastian Thrun, Wolfram Burgard, and Dieter Fox.
+Source: https://mitpress.mit.edu/9780262201629/probabilistic-robotics/
+Source type: Publisher book page.
+Read: Particle Filters and Monte Carlo Localization themes.
+Study checklist:
+01. Represent a belief with weighted samples.
+02. Apply importance weighting.
+03. Explain resampling and degeneracy.
+04. Preserve multiple hypotheses when justified.
+05. Compare proposal distributions.
+06. Identify sample impoverishment.
+Completion: Localize a robot in an ambiguous simulated environment and compare particle behavior before and after a disambiguating observation.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_IMU_fusion_biases_and_inertial_navigation/book_name.txt
+Next unit in this area: ../03_Factor_graphs_smoothing_and_robust_losses/book_name.txt

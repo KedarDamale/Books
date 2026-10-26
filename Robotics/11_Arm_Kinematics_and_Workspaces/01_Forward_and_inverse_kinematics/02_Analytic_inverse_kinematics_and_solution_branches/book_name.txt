@@ -1,0 +1,15 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Inverse Kinematics themes: analytic geometry and multiple solutions.
+Study checklist:
+01. Solve a planar arm geometrically.
+02. Identify unreachable targets.
+03. Enumerate elbow or wrist branches.
+04. Enforce joint limits.
+05. Distinguish position and full-pose constraints.
+06. Track a solution continuously.
+Completion: Solve planar-arm targets across the workspace and demonstrate unreachable, multiple-solution, and branch-switching cases.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Kinematic_chains_and_forward_kinematics/book_name.txt
+Next unit in this area: ../03_Numerical_inverse_kinematics_and_constraints/book_name.txt

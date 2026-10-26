@@ -1,0 +1,14 @@
+Primary book: RP2040 Datasheet: A microcontroller by Raspberry Pi — Raspberry Pi Ltd.
+Source: https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
+Source type: Official openly provided datasheet.
+Read: Datasheet themes: DMA, ADC, PWM, timers, and peripheral request pacing; use the device as a concrete worked reference rather than a required purchase.
+Study checklist:
+01. Separate CPU-driven and DMA-driven transfers.
+02. Define buffer ownership across interrupts.
+03. Detect overruns and partial buffers.
+04. Tie samples to acquisition timing.
+05. Account for bus and memory contention.
+06. Bound data age before control use.
+Completion: Model or implement double-buffered sensor acquisition in Rust and test buffer rollover, delayed processing, and overrun detection.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_CAN_arbitration_bus_load_and_faults/book_name.txt

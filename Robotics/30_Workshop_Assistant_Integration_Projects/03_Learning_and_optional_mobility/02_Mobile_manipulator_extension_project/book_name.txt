@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Revisit Mobile Manipulation and its perception, planning, and robot-state-estimation differences.
+Study checklist:
+01. Combine base and arm frames.
+02. Allocate reach and navigation uncertainty.
+03. Plan base placement and arm motion together.
+04. Validate footprint changes with payload.
+05. Detect localization loss.
+06. Recover from blocked routes and failed manipulation.
+Completion: Extend the assistant in simulation with a mobile base and evaluate navigation-plus-manipulation episodes under controlled disturbances.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Learned_skill_with_classical_baseline_project/book_name.txt

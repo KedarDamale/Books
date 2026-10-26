@@ -1,0 +1,15 @@
+Primary book: Planning Algorithms — Steven M. LaValle.
+Source: https://lavalle.pl/planning/
+Source type: Author-provided open book.
+Read: Discrete planning, information spaces, and planning under uncertainty themes.
+Study checklist:
+01. Represent symbolic task goals.
+02. Connect symbols to geometric feasibility.
+03. Track uncertain object locations.
+04. Plan observations that reduce ambiguity.
+05. Replan after unexpected outcomes.
+06. Explain combinatorial and model limitations.
+Completion: Plan a small sorting task with geometric constraints and show how an unreachable or misidentified object changes the task plan.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Skills_preconditions_postconditions_and_state_machines/book_name.txt
+Next unit in this area: ../03_Language_requests_typed_goals_and_bounded_execution/book_name.txt

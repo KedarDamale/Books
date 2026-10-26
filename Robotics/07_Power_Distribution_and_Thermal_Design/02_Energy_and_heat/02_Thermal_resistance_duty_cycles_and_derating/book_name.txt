@@ -1,0 +1,15 @@
+Primary book: University Physics, Volume 2 — Samuel J. Ling, Jeff Sanny, and William Moebs.
+Source: https://openstax.org/details/books/university-physics-volume-2
+Source type: Open textbook.
+Read: Temperature, heat transfer, thermal expansion, and thermodynamics themes.
+Study checklist:
+01. Convert electrical losses into heat load.
+02. Use a lumped thermal-resistance model.
+03. Estimate transient heating with thermal capacitance.
+04. Relate ambient conditions and temperature rise.
+05. Explain derating and cooling limits.
+06. Distinguish winding and case temperature.
+Completion: Simulate a motor-and-driver thermal duty cycle and compare continuous, intermittent, and faulted operating conditions.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Battery_energy_state_and_protection_requirements/book_name.txt
+Next unit in this area: ../03_Cell_monitoring_balancing_and_BMS_fault_states/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Hands, simple grippers, end effectors, and model-based grasp-selection themes.
+Study checklist:
+01. Match aperture to object geometry.
+02. Model finger-object contact locations.
+03. Account for approach and closing clearance.
+04. Distinguish form and frictional retention.
+05. Define payload and orientation constraints.
+06. Explain when a simple gripper cannot achieve the task.
+Completion: Design a parallel-jaw gripper concept and evaluate a set of objects with explicit feasible and infeasible grasps.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Friction_cones_wrench_spaces_and_grasp_quality/book_name.txt

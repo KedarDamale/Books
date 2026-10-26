@@ -1,0 +1,15 @@
+Primary book: Precision Machine Design, MIT 2.75 course materials — Martin Culpepper and Alexander Slocum.
+Source: https://ocw.mit.edu/courses/2-75-precision-machine-design-fall-2001/
+Source type: Open university course materials.
+Read: Error budgets, stiffness, compliance, and precision-design themes.
+Study checklist:
+01. Measure direction-dependent positioning error.
+02. Separate geometric and elastic error.
+03. Relate load and deflection.
+04. Quantify backlash dead zones.
+05. Combine independent and correlated error sources carefully.
+06. Prioritize improvements by task sensitivity.
+Completion: Construct an endpoint-accuracy budget and show whether improved sensing, mechanics, or calibration offers the largest benefit.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Motor_friction_and_inertia_identification/book_name.txt
+Next unit in this area: ../03_Experiment_design_parameter_uncertainty_and_drift/book_name.txt

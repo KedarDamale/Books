@@ -1,0 +1,15 @@
+Primary book: NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev 2 — NASA systems engineering contributors.
+Source: https://www.nasa.gov/reference/systems-engineering-handbook/
+Source type: Official open engineering handbook.
+Read: Design solution definition, interface management, and decision-analysis themes.
+Study checklist:
+01. Separate mechanical, electrical, and software interfaces.
+02. Assign authoritative state to each subsystem.
+03. Define units, frames, and timing contracts.
+04. Compare alternatives using task requirements.
+05. Identify coupled design choices.
+06. Record evidence behind a tradeoff.
+Completion: Produce a block diagram and interface table, then compare two arm architectures against the same task specification.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Workspace_payload_tasks_and_success_criteria/book_name.txt
+Next unit in this area: ../03_Verification_validation_and_engineering_notebooks/book_name.txt

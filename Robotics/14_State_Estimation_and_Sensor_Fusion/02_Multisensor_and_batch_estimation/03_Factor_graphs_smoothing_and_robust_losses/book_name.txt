@@ -1,0 +1,15 @@
+Primary book: State Estimation for Robotics, 2nd edition draft (2026-09-02) — Timothy D. Barfoot.
+Source: https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf
+Source type: Author-provided open draft.
+Read: Batch estimation, least squares, sparsity, and robust-estimation themes.
+Study checklist:
+01. Construct residual factors from measurements.
+02. Distinguish filtering and smoothing.
+03. Fix gauge freedoms deliberately.
+04. Explain sparse normal-equation structure.
+05. Apply robust losses with stated assumptions.
+06. Identify outliers and local minima.
+Completion: Build a small pose-estimation graph and compare ordinary least squares with a robust formulation after injecting outliers.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Particle_filters_and_multimodal_beliefs/book_name.txt
+Next unit in this area: ../04_Time_offsets_delays_and_out_of_sequence_data/book_name.txt

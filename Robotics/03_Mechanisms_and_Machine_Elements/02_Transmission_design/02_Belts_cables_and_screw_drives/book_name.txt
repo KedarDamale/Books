@@ -1,0 +1,15 @@
+Primary book: Shigley's Mechanical Engineering Design — Richard G. Budynas and J. Keith Nisbett.
+Source: https://www.mheducation.com/highered/product/shigleys-mechanical-engineering-design-nisbett.html
+Source type: Publisher book page; obtain a legitimate edition.
+Read: Flexible mechanical elements and power screws themes.
+Study checklist:
+01. Calculate belt and cable mechanical advantage.
+02. Explain pretension and compliance.
+03. Compare lead and ball-screw behavior.
+04. Analyze axial force and speed conversion.
+05. Identify backdrivability conditions.
+06. Plan tensioning and travel limits.
+Completion: Design a linear or remote-actuated axis and quantify speed, force, compliance, and adjustment requirements.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Gears_ratios_backlash_and_reflected_inertia/book_name.txt
+Next unit in this area: ../03_Counterbalances_brakes_and_gravity_holding/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Exponential coordinates of rotation and rotation-representation themes.
+Study checklist:
+01. Normalize and compare unit quaternions.
+02. Explain quaternion sign ambiguity.
+03. Relate axis-angle and matrix forms.
+04. Compute exponential and logarithmic maps.
+05. Interpolate orientations along a defined path.
+06. Identify singularities and branch choices.
+Completion: Compare orientation interpolation methods and test continuity near equivalent quaternion signs and near a rotation of pi radians.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Rotation_matrices_and_frame_changes/book_name.txt
+Next unit in this area: ../03_Homogeneous_transforms_and_frame_trees/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation — Russ Tedrake.
+Source: https://underactuated.csail.mit.edu/
+Source type: Open MIT course text.
+Read: Trajectory Optimization themes: direct transcription, collocation, constraints, and solver behavior.
+Study checklist:
+01. Choose decision variables and discretization.
+02. Formulate dynamics and boundary constraints.
+03. Penalize meaningful motion costs.
+04. Include actuator and collision constraints.
+05. Inspect feasibility residuals.
+06. Explain initialization and local-optimum sensitivity.
+Completion: Optimize a small robot trajectory from several initial guesses and compare feasibility, cost, and solver failures.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_MoveIt_planning_scenes_pipelines_and_execution/book_name.txt

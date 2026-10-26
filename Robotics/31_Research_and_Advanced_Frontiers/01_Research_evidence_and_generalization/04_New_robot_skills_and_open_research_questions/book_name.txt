@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Looking-ahead sections and the completed perception, planning, control, and learning themes relevant to a chosen question.
+Study checklist:
+01. Choose a gap exposed by an experiment.
+02. Formulate a falsifiable research question.
+03. Compare mechanical and algorithmic solutions.
+04. Select evidence that could reject the hypothesis.
+05. Scope resources and evaluation conditions.
+06. Publish a reproducible local artifact.
+Completion: Propose and test one improvement to the assistant, reporting both task-level value and the assumptions that remain unresolved.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_Vision_language_action_models_and_limits/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Diffusion Policy: Visuomotor Policy Learning via Action Diffusion — Cheng Chi and collaborators.
+Source: https://diffusion-policy.cs.columbia.edu/
+Source type: Authors' official paper and project site.
+Read: Visual conditioning, action diffusion, and receding-horizon execution themes.
+Study checklist:
+01. Represent multimodal demonstration actions.
+02. Condition a denoiser on observations.
+03. Predict action sequences consistently.
+04. Replan using a receding horizon.
+05. Account for inference latency and action age.
+06. Evaluate recovery beyond demonstration-like starts.
+Completion: Implement a small action-sequence denoising experiment in PyTorch or reproduce a bounded project result and compare open-loop and receding-horizon execution.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_Offline_RL_support_and_conservative_values/book_name.txt

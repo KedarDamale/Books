@@ -1,0 +1,15 @@
+Primary book: Dive into Deep Learning — Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola.
+Source: https://d2l.ai/
+Source type: Open textbook.
+Read: Generalization, distribution shift, classification confidence, and evaluation themes.
+Study checklist:
+01. Distinguish class confidence and geometric uncertainty.
+02. Evaluate calibration on held-out conditions.
+03. Detect inputs outside a tested operating range.
+04. Aggregate evidence across views.
+05. Define an uncertainty-driven reobserve action.
+06. Evaluate abstention and missed-task tradeoffs.
+Completion: Compare a confidence-only execution rule with a geometry-and-uncertainty rule and measure task errors and unnecessary refusals.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Detection_to_3D_pose_and_grasp_candidates/book_name.txt
+Next unit in this area: ../03_Real_time_inference_profiling_and_deployment/book_name.txt

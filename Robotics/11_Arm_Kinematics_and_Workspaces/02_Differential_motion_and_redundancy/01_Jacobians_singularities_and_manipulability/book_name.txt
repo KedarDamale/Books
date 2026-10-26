@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Velocity Kinematics and Statics themes: Jacobians, singularities, and manipulability.
+Study checklist:
+01. Derive body or spatial Jacobians.
+02. Relate joint rates and task velocity.
+03. Analyze rank loss.
+04. Interpret singular values geometrically.
+05. Compare translational and rotational scaling.
+06. Identify infeasible velocity directions.
+Completion: Map singular values across an arm workspace and explain a direction of motion that requires excessive joint speed.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Redundancy_null_spaces_and_secondary_objectives/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev 2 — NASA systems engineering contributors.
+Source: https://www.nasa.gov/reference/systems-engineering-handbook/
+Source type: Official open engineering handbook.
+Read: Technical risk management, system analysis, verification, and validation themes.
+Study checklist:
+01. Identify hazardous system states.
+02. Trace initiating faults and consequences.
+03. Distinguish prevention, detection, and mitigation.
+04. Analyze common-cause dependencies.
+05. Link mitigations to tests.
+06. Document unresolved assumptions and evidence gaps.
+Completion: Create a failure-analysis and verification matrix for the arm's motion, grasp, power, sensing, and operator interfaces.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Independent_stops_limits_and_restart_interlocks/book_name.txt

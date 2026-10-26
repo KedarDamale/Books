@@ -1,0 +1,14 @@
+Primary book: University Physics, Volume 1 — Samuel J. Ling, Jeff Sanny, and William Moebs.
+Source: https://openstax.org/books/university-physics-volume-1/pages/preface
+Source type: Open textbook.
+Read: Oscillations, damped motion, and driven oscillation themes.
+Study checklist:
+01. Derive a mass-spring-damper model.
+02. Interpret natural frequency and damping.
+03. Explain transient and steady-state response.
+04. Identify resonance under forcing.
+05. Relate stiffness and payload changes.
+06. State the limits of a linear oscillator model.
+Completion: Simulate a flexible link model and compare vibration after a step command under several damping and payload conditions.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Work_energy_power_and_rotational_inertia/book_name.txt

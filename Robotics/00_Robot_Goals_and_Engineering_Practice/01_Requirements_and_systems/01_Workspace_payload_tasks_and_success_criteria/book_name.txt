@@ -1,0 +1,14 @@
+Primary book: NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev 2 — NASA systems engineering contributors.
+Source: https://www.nasa.gov/reference/systems-engineering-handbook/
+Source type: Official open engineering handbook.
+Read: Stakeholder expectations, technical requirements, and logical decomposition themes.
+Study checklist:
+01. Define the intended object-handling tasks.
+02. Specify reach and payload separately.
+03. Describe workspace and mounting constraints.
+04. Define task success and failure observables.
+05. Allocate latency and accuracy budgets.
+06. Record assumptions and excluded capabilities.
+Completion: Write a measurable specification for a camera-guided workshop arm with a gripper and a bounded set of objects.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Interfaces_architecture_and_trade_studies/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Differential inverse kinematics, joint centering, and constrained velocity optimization themes.
+Study checklist:
+01. Compute a pseudoinverse solution.
+02. Identify null-space joint motion.
+03. Add a secondary posture objective.
+04. Enforce speed and joint bounds.
+05. Explain competing task priorities.
+06. Recognize discontinuity near changing constraints.
+Completion: Control a redundant simulated arm toward a target while comparing posture objectives and constraint activation.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Jacobians_singularities_and_manipulability/book_name.txt
+Next unit in this area: ../03_Workspace_self_collision_and_tool_envelopes/book_name.txt

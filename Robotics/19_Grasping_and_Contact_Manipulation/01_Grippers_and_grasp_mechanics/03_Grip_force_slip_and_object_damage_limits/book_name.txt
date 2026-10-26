@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Contact forces, static equilibrium, gripper sensing, and manipulation constraints themes.
+Study checklist:
+01. Calculate minimum retention force under assumptions.
+02. Include acceleration and orientation changes.
+03. Distinguish command and measured grip force.
+04. Detect slip using available cues.
+05. Bound force for fragile objects.
+06. Analyze loss-of-power retention.
+Completion: Build a gripper-force model and a slip-detection experiment that distinguishes secure grasp, obstruction, and excessive compression.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Friction_cones_wrench_spaces_and_grasp_quality/book_name.txt

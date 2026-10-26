@@ -1,0 +1,14 @@
+Primary book: Computer Vision: Algorithms and Applications, 2nd edition — Richard Szeliski.
+Source: https://szeliski.org/Book/
+Source type: Author site with personal-use electronic edition.
+Read: Image Formation and Image Processing themes.
+Study checklist:
+01. Relate lighting, reflectance, and measured intensity.
+02. Explain exposure and motion blur.
+03. Distinguish pixel sampling and optical resolution.
+04. Compare global and rolling shutters.
+05. Identify saturation and low-light noise.
+06. Relate image quality to robot-task measurements.
+Completion: Create an image-capture or synthetic experiment and quantify how blur, exposure, and lighting change feature or pose accuracy.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Filtering_segmentation_edges_and_features/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: Computer Vision: Algorithms and Applications, 2nd edition — Richard Szeliski.
+Source: https://szeliski.org/Book/
+Source type: Author site with personal-use electronic edition.
+Read: Motion Estimation and tracking themes.
+Study checklist:
+01. Estimate image displacement under assumptions.
+02. Distinguish camera and object motion.
+03. Maintain track identity through observations.
+04. Explain appearance and motion-model tradeoffs.
+05. Detect tracking loss.
+06. Measure latency in a feedback loop.
+Completion: Track a moving target and demonstrate how an unreported track failure corrupts a downstream motion command.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Point_clouds_normals_registration_and_ICP/book_name.txt
+Next unit in this area: ../04_Visual_servoing_IBVS_and_PBVS/book_name.txt

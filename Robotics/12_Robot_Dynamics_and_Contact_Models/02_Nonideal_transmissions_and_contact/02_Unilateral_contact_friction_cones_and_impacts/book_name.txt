@@ -1,0 +1,15 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Static equilibrium with frictional contact and contact-simulation themes.
+Study checklist:
+01. Distinguish unilateral and bilateral constraints.
+02. State nonpenetration and normal-force conditions.
+03. Model a Coulomb friction cone.
+04. Identify sticking and sliding.
+05. Explain impulse and impact models.
+06. Describe limitations of rigid-contact approximations.
+Completion: Analyze a pushed or grasped object and compare predicted contact modes as force direction and friction change.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Friction_backlash_compliance_and_payload_effects/book_name.txt
+Next unit in this area: ../03_Compliant_contact_and_numerical_stiffness/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: Spinning Up in Deep RL — Joshua Achiam and OpenAI contributors.
+Source: https://spinningup.openai.com/en/latest/
+Source type: Official open educational text.
+Read: Intro to Policy Optimization and policy-gradient derivations themes.
+Study checklist:
+01. Derive the likelihood-ratio gradient.
+02. Separate trajectory and action probabilities.
+03. Explain a variance-reducing baseline.
+04. Estimate advantages.
+05. Preserve gradients through log probabilities correctly.
+06. Analyze return normalization choices.
+Completion: Implement REINFORCE in PyTorch and verify a small gradient estimate against a known or finite-difference reference.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Deep_Q_learning_replay_and_target_networks/book_name.txt
+Next unit in this area: ../03_Actor_critic_GAE_and_rollout_buffers/book_name.txt

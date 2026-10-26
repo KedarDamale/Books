@@ -1,0 +1,15 @@
+Primary book: OSHA Technical Manual, Section IV, Chapter 4: Industrial Robot Systems and Industrial Robot System Safety — Occupational Safety and Health Administration.
+Source: https://www.osha.gov/otm/section-4-safety-hazards/chapter-4
+Source type: Official technical guidance; US context.
+Read: Robot-system hazards, safeguarding, operating modes, maintenance, and integration themes.
+Study checklist:
+01. Identify kinetic and stored-energy hazards.
+02. Map reachable and pinch-point regions.
+03. Distinguish normal stop and protective functions.
+04. Define behavior after lost power or communication.
+05. Prevent unexpected automatic restart.
+06. Match a test setup to its hazard exposure.
+Completion: Analyze a proposed arm test and define its guarded workspace, stop-state behavior, and restart conditions before writing the test procedure.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Measurement_instruments_and_uncertainty/book_name.txt
+Next unit in this area: ../03_Simulation_bench_tests_and_change_control/book_name.txt

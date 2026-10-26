@@ -1,0 +1,14 @@
+Primary book: Spinning Up in Deep RL — Joshua Achiam and OpenAI contributors.
+Source: https://spinningup.openai.com/en/latest/
+Source type: Official open educational text.
+Read: Revisit a selected policy algorithm and experimental design; use the completed simulator and task specification.
+Study checklist:
+01. Choose a narrowly defined learning objective.
+02. Preserve a classical baseline.
+03. Train only within a documented environment contract.
+04. Evaluate unseen conditions and multiple seeds.
+05. Keep independent execution limits.
+06. Report where learning helps and fails.
+Completion: Demonstrate a PyTorch learned skill or residual controller and compare task success, constraint violations, recovery, and compute against the baseline.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Mobile_manipulator_extension_project/book_name.txt

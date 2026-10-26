@@ -1,0 +1,15 @@
+Primary book: Reinforcement Learning: An Introduction, 2nd edition — Richard S. Sutton and Andrew G. Barto.
+Source: https://mitpress.mit.edu/9780262039246/reinforcement-learning/
+Source type: Publisher book page; author's open edition linked in catalog.
+Read: Dynamic Programming themes.
+Study checklist:
+01. Derive state and action value definitions.
+02. Apply Bellman expectation updates.
+03. Explain Bellman optimality.
+04. Evaluate a fixed policy.
+05. Compare policy and value iteration.
+06. State finite-model and convergence assumptions.
+Completion: Solve a small robot-like grid task exactly and compare learned or heuristic policies against its known optimal values.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_MDPs_rewards_returns_and_partial_observability/book_name.txt
+Next unit in this area: ../03_Bandits_exploration_and_reward_uncertainty/book_name.txt

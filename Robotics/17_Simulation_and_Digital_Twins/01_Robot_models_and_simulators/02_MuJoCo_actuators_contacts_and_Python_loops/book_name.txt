@@ -1,0 +1,15 @@
+Primary book: MuJoCo documentation — MuJoCo contributors.
+Source: https://mujoco.readthedocs.io/en/stable/overview.html
+Source type: Official online documentation.
+Read: Modeling, computation, actuators, sensors, and Python programming themes.
+Study checklist:
+01. Map policy or controller outputs to actuator inputs.
+02. Distinguish actuator control and generalized torque.
+03. Step simulation deterministically when possible.
+04. Inspect contacts and constraints.
+05. Configure time step and solver assumptions.
+06. Reset complete physical and controller state.
+Completion: Implement a Python arm-control simulation and show how actuator settings and incomplete resets change behavior.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_URDF_SDF_MJCF_and_consistent_robot_assets/book_name.txt
+Next unit in this area: ../03_Gazebo_ROS_sensors_and_clock_integration/book_name.txt

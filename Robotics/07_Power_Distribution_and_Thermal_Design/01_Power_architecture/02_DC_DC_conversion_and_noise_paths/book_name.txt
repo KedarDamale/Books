@@ -1,0 +1,15 @@
+Primary book: Fundamentals of Power Electronics, 3rd edition — Robert W. Erickson and Dragan Maksimovic.
+Source: https://link.springer.com/book/10.1007/978-3-030-43881-4
+Source type: Publisher book page and contents.
+Read: Buck and boost converters, switching loss, filtering, and converter control themes.
+Study checklist:
+01. Derive an ideal conversion ratio.
+02. Identify inductor and capacitor ripple.
+03. Compare efficiency across loads.
+04. Explain switching-noise coupling.
+05. Model loop stability at a basic level.
+06. Account for startup and shutdown sequencing.
+Completion: Compare two low-voltage power architectures using efficiency, ripple, load-step response, and sensor-noise consequences.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Rail_budgets_transients_and_regeneration/book_name.txt
+Next unit in this area: ../03_Fuses_wiring_connectors_and_disconnect_paths/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: Probabilistic Robotics — Sebastian Thrun, Wolfram Burgard, and Dieter Fox.
+Source: https://mitpress.mit.edu/9780262201629/probabilistic-robotics/
+Source type: Publisher book page.
+Read: Occupancy Grid Mapping and sensor-model themes.
+Study checklist:
+01. Represent occupied, free, and unknown space.
+02. Apply an inverse sensor update.
+03. Explain log-odds accumulation.
+04. Account for sensor visibility.
+05. Distinguish map resolution and accuracy.
+06. Detect inconsistent evidence from dynamic objects.
+Completion: Build an occupancy map from simulated range data and show why unknown cells cannot simply be treated as free.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Wheel_odometry_nonholonomic_motion_and_slip/book_name.txt
+Next unit in this area: ../03_Localization_SLAM_and_loop_closure/book_name.txt

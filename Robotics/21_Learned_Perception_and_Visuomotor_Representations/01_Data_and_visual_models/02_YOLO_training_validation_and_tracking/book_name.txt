@@ -1,0 +1,15 @@
+Primary book: Ultralytics YOLO documentation — Ultralytics contributors.
+Source: https://docs.ultralytics.com/
+Source type: Official online documentation.
+Read: Detection, dataset configuration, training, validation, prediction, and tracking themes.
+Study checklist:
+01. Choose a task-appropriate model family.
+02. Fine-tune using clean splits.
+03. Measure per-class precision and recall.
+04. Evaluate localization and small-object errors.
+05. Analyze tracking identity switches.
+06. Record data, weight, and inference versions.
+Completion: Train or evaluate a YOLO workbench detector and report task-specific errors under occlusion, lighting change, and novel viewpoints.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Robot_datasets_splits_labels_and_geometry/book_name.txt
+Next unit in this area: ../03_PyTorch_segmentation_keypoints_and_pose_losses/book_name.txt

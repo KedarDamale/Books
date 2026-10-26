@@ -1,0 +1,15 @@
+Primary book: MoveIt 2 documentation — MoveIt contributors.
+Source: https://moveit.picknik.ai/main/
+Source type: Official online documentation; select a release compatible with the ROS environment.
+Read: Planning Scene, Robot Model, planning pipelines, Python interfaces, and trajectory execution themes.
+Study checklist:
+01. Configure robot and semantic descriptions.
+02. Add and attach collision objects.
+03. Select a planner with stated assumptions.
+04. Check the start state and limits.
+05. Separate plan success and execution success.
+06. Reconcile scene updates during execution.
+Completion: Plan a pick-and-place scene in MoveIt or a reproducible mock and demonstrate stale-scene, start-state, and execution-failure handling.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Trajectory_optimization_constraints_and_local_minima/book_name.txt
+Next unit in this area: ../03_Online_replanning_and_visual_servo_interfaces/book_name.txt

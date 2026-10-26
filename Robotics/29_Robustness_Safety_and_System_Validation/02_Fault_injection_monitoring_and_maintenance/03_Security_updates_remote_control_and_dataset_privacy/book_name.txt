@@ -1,0 +1,14 @@
+Primary book: NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev 2 — NASA systems engineering contributors.
+Source: https://www.nasa.gov/reference/systems-engineering-handbook/
+Source type: Official open engineering handbook.
+Read: Configuration management, interface control, technical risk, and verification themes; apply the linked CSE security prerequisites.
+Study checklist:
+01. Authenticate remote control authority.
+02. Restrict commands by active robot mode.
+03. Version and verify firmware and model updates.
+04. Reject incompatible calibration and configuration.
+05. Preserve recovery after interrupted updates.
+06. Control access to recorded workcell images.
+Completion: Specify a robot-update and remote-control protocol and test unauthorized commands, partial updates, stale configuration, and recovery.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Logging_health_monitoring_and_predictive_maintenance/book_name.txt

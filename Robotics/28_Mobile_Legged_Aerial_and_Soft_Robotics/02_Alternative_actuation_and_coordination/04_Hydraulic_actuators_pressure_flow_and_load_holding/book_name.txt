@@ -1,0 +1,14 @@
+Primary book: Hydraulics and Pneumatics: A Technician's and Engineer's Guide, 3rd edition — Andrew Parr.
+Source: https://shop.elsevier.com/books/hydraulics-and-pneumatics/parr/978-0-08-096674-8
+Source type: Publisher book page and contents.
+Read: Hydraulic actuators, pumps, proportional control, load holding, and circuit safety themes.
+Study checklist:
+01. Relate pressure, flow, force, and speed.
+02. Compare hydraulic and pneumatic stiffness.
+03. Explain relief and load-holding functions.
+04. Account for fluid heating and losses.
+05. Identify leakage and contamination effects.
+06. Model loss of pressure or hose integrity.
+Completion: Analyze a hydraulic-axis concept and document its force-speed envelope, load path, thermal losses, and controlled response to pressure loss.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_Pneumatic_cylinders_valves_and_compressed_air/book_name.txt

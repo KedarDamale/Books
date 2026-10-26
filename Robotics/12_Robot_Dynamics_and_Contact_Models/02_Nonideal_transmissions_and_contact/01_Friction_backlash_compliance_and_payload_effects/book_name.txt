@@ -1,0 +1,14 @@
+Primary book: Robotics, Vision and Control: Fundamental Algorithms in Python, 3rd edition — Peter Corke.
+Source: https://petercorke.com/rvc3p/
+Source type: Author book site and chapter guides.
+Read: Manipulator dynamics and control themes on friction, actuator effects, and payloads.
+Study checklist:
+01. Distinguish viscous and Coulomb friction.
+02. Model static friction and dead zones.
+03. Explain backlash hysteresis.
+04. Include transmission elasticity.
+05. Separate payload and friction effects.
+06. Identify parameter combinations difficult to distinguish.
+Completion: Fit a simple joint model to synthetic torque-motion data and show where friction or backlash defeats the rigid idealization.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Unilateral_contact_friction_cones_and_impacts/book_name.txt

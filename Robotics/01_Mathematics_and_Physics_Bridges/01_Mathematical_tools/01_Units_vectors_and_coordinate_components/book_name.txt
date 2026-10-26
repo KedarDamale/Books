@@ -1,0 +1,14 @@
+Primary book: University Physics, Volume 1 — Samuel J. Ling, Jeff Sanny, and William Moebs.
+Source: https://openstax.org/books/university-physics-volume-1/pages/preface
+Source type: Open textbook.
+Read: Units and Measurement and Vectors themes.
+Study checklist:
+01. Check dimensional consistency.
+02. Convert between mechanical and electrical units.
+03. Resolve vectors into components.
+04. Compute dot and cross products.
+05. Distinguish a vector and its coordinates.
+06. Track sign and axis conventions.
+Completion: Compute forces and moments for a simple arm in two coordinate frames and show the physical answer is unchanged.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Matrices_derivatives_and_numerical_checks/book_name.txt

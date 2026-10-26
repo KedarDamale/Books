@@ -1,0 +1,14 @@
+Primary book: Electric Motors and Drives: Fundamentals, Types and Applications, 5th edition — Austin Hughes and Bill Drury.
+Source: https://shop.elsevier.com/books/electric-motors-and-drives/hughes/978-0-08-102615-1
+Source type: Publisher book page and contents.
+Read: Servo drives, closed-loop control, and drive-system dynamics themes.
+Study checklist:
+01. Assign roles to current, velocity, and position loops.
+02. Relate inner and outer bandwidths.
+03. Propagate saturation across loop boundaries.
+04. Explain encoder differentiation and filtering.
+05. Include gearbox dynamics.
+06. Detect interactions from poorly separated loops.
+Completion: Simulate a cascaded joint servo and show how inner-loop bandwidth and current limits change outer-loop tracking.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Trajectory_profiles_and_jerk_limits/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation — Russ Tedrake.
+Source: https://underactuated.csail.mit.edu/
+Source type: Open MIT course text.
+Read: Lyapunov Analysis, regions of attraction, and energy-based control themes.
+Study checklist:
+01. State stability and asymptotic stability separately.
+02. Choose a candidate energy-like function.
+03. Compute its derivative along trajectories.
+04. Bound a local region of attraction.
+05. Relate dissipated energy and passivity.
+06. Identify unmodeled actuator or delay assumptions.
+Completion: Prove a stability claim for a simple controlled mechanism and compare its certified region with numerical rollouts.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Linearization_LQR_and_trajectory_stabilization/book_name.txt
+Next unit in this area: ../03_Model_predictive_control_constraints_and_receding_horizons/book_name.txt

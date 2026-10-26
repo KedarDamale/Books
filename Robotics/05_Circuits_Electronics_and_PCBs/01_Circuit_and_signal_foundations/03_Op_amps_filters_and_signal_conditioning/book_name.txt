@@ -1,0 +1,14 @@
+Primary book: Foundations of Analog and Digital Electronic Circuits — Anant Agarwal and Jeffrey H. Lang.
+Source: https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/pages/readings/
+Source type: Book with official MIT reading guide.
+Read: Amplifiers, op-amp abstraction, feedback, and filter themes.
+Study checklist:
+01. State ideal amplifier assumptions.
+02. Calculate gain and input range.
+03. Explain common-mode and output-swing limits.
+04. Design a simple low-pass interface.
+05. Compare noise gain and signal gain.
+06. Identify saturation and bandwidth failures.
+Completion: Model a sensor amplifier and filter and demonstrate a case where supply range or bandwidth invalidates the ideal calculation.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Capacitance_inductance_and_transient_response/book_name.txt

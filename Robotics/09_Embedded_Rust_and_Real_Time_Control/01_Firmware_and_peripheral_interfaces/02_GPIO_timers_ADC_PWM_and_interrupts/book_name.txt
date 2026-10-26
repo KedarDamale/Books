@@ -1,0 +1,18 @@
+Primary book: The Embedded Rust Book — Rust Embedded Working Group.
+Source: https://docs.rust-embedded.org/book/
+Source type: Official open book.
+Read: Peripherals, interrupts, concurrency, and peripheral abstraction themes.
+Study checklist:
+01. Configure an input or output contract.
+02. Relate timer counts and physical time.
+03. Schedule ADC and PWM activity.
+04. Bound interrupt-handler work.
+05. Share state without inconsistent snapshots.
+06. Detect counter rollover and overrun.
+Completion: Implement a simulated sensor-and-PWM firmware loop and verify timing, rollover handling, and shared-state consistency.
+Required second source: RP2040 Datasheet: A microcontroller by Raspberry Pi — Raspberry Pi Ltd.
+Read: GPIO, timers, ADC, and PWM peripheral descriptions. Required concrete hardware semantics; an equivalent chosen MCU reference may replace it.
+Source: https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Bare_metal_startup_memory_and_peripherals/book_name.txt
+Next unit in this area: ../03_Portable_drivers_errors_and_bus_protocols/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Homogeneous Transformation Matrices and transformation composition themes.
+Study checklist:
+01. Label source and destination frames explicitly.
+02. Compose position and orientation consistently.
+03. Invert a rigid transform.
+04. Transform points and direction vectors correctly.
+05. Build a frame tree.
+06. Detect inconsistent closed-loop transforms.
+Completion: Create a base-link-camera-object frame graph and recover an object's base-frame pose through multiple equivalent transform chains.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Quaternions_exponential_coordinates_and_interpolation/book_name.txt

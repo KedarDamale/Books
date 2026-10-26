@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Robot Control themes: feedforward, computed torque, and motion control.
+Study checklist:
+01. Calculate configuration-dependent gravity torque.
+02. Derive a computed-torque tracking law.
+03. Explain model cancellation assumptions.
+04. Compare independent-joint and coupled control.
+05. Analyze mass and friction mismatch.
+06. Preserve actuator constraints.
+Completion: Compare independent PID, gravity compensation, and computed torque for a simulated arm with an uncertain payload.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Trajectory_profiles_and_jerk_limits/book_name.txt

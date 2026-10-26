@@ -1,0 +1,15 @@
+Primary book: Spinning Up in Deep RL — Joshua Achiam and OpenAI contributors.
+Source: https://spinningup.openai.com/en/latest/
+Source type: Official open educational text.
+Read: DDPG and TD3 algorithm guides and pseudocode themes.
+Study checklist:
+01. Represent bounded continuous actions.
+02. Differentiate a critic through an actor.
+03. Separate exploration and target-policy noise.
+04. Use replay and target updates.
+05. Explain twin-critic overestimation mitigation.
+06. Preserve physical units at the action boundary.
+Completion: Compare deterministic actor-critic variants on a normalized simulated joint task and expose an error caused by incorrect action scaling.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_PPO_clipping_on_policy_data_and_diagnostics/book_name.txt
+Next unit in this area: ../03_SAC_entropy_temperature_and_stochastic_actors/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: Human-Robot Interaction: An Introduction, 2nd edition — Christoph Bartneck, Tony Belpaeme, Friederike Eyssel, Takayuki Kanda, Merel Keijsers, and Selma Sabanovic.
+Source: https://www.human-robot-interaction.org/
+Source type: Authors' official site with open book.
+Read: Human-aware interaction, collaboration, proxemics, and task coordination themes.
+Study checklist:
+01. Model shared workspace occupancy.
+02. Distinguish person detection and protective sensing.
+03. Coordinate handover readiness signals.
+04. Preserve a clear stop or decline option.
+05. Account for unpredictable human motion.
+06. Analyze failure to detect attention or contact.
+Completion: Specify a supervised lightweight handover interaction with explicit readiness, release, interruption, and failed-perception states.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Intent_feedback_mental_models_and_trust/book_name.txt
+Next unit in this area: ../03_HRI_evaluation_accessibility_and_privacy/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: FreeCAD documentation and manual — FreeCAD documentation contributors.
+Source: https://github.com/FreeCAD/FreeCAD-documentation
+Source type: Official open documentation repository.
+Read: Assembly modeling, placement, constraints, and interference-inspection themes.
+Study checklist:
+01. Define mating references and degrees of freedom.
+02. Check static interference.
+03. Sweep a joint through its motion range.
+04. Reserve cable and tool clearances.
+05. Distinguish nominal geometry and physical clearance.
+06. Identify assembly-order conflicts.
+Completion: Assemble a small arm joint model and document mechanical, cable, and tool-access clearances over its intended motion.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Constrained_sketches_and_parametric_parts/book_name.txt
+Next unit in this area: ../03_Drawings_datums_fits_and_tolerance_stacks/book_name.txt

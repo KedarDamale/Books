@@ -1,0 +1,14 @@
+Primary book: Precision Machine Design, MIT 2.75 course materials — Martin Culpepper and Alexander Slocum.
+Source: https://ocw.mit.edu/courses/2-75-precision-machine-design-fall-2001/
+Source type: Open university course materials.
+Read: Error budgeting, geometric constraints, tolerances, and precision-design themes.
+Study checklist:
+01. Choose functional datums.
+02. Distinguish size and position tolerances.
+03. Match fits to assembly function.
+04. Calculate a worst-case tolerance stack.
+05. Compare statistical and worst-case assumptions.
+06. Link an inspection method to each critical dimension.
+Completion: Create a dimensioned joint-interface drawing and a tolerance budget connecting manufacturing errors to endpoint alignment.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Assemblies_clearances_and_interference/book_name.txt

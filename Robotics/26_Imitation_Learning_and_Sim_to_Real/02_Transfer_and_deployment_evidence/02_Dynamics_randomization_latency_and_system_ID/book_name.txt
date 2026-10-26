@@ -1,0 +1,15 @@
+Primary book: Sim-to-Real Transfer of Robotic Control with Dynamics Randomization — Xue Bin Peng, Marcin Andrychowicz, Wojciech Zaremba, and Pieter Abbeel.
+Source: https://arxiv.org/abs/1710.06537
+Source type: Authors' open research paper.
+Read: Randomized physical parameters, policy training, recurrent control, and transfer experiments themes.
+Study checklist:
+01. Randomize physically plausible model parameters.
+02. Include sensing and actuation delay.
+03. Distinguish episode-constant and rapidly changing variation.
+04. Calibrate distributions from measurements.
+05. Compare nominal and randomized policies.
+06. Identify simulator exploitation.
+Completion: Train or evaluate a simulated policy across a documented parameter envelope and test failures just outside that envelope.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Visual_domain_randomization_and_synthetic_data/book_name.txt
+Next unit in this area: ../03_Staged_policy_transfer_monitors_and_rollback/book_name.txt

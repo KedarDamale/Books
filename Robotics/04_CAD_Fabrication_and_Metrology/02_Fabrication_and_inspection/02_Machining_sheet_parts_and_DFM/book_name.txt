@@ -1,0 +1,15 @@
+Primary book: Design and Manufacturing I, MIT 2.007 course materials — Daniel Frey, David Gossard, and course contributors.
+Source: https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/
+Source type: Open university course materials.
+Read: Machining, fabrication processes, and design-for-manufacturing themes.
+Study checklist:
+01. Relate geometry to accessible tooling.
+02. Design holes and pockets for fabrication.
+03. Plan fixturing and reference surfaces.
+04. Compare cut, bent, and machined parts.
+05. Control burr and edge effects.
+06. Evaluate manufacturing and service tradeoffs.
+Completion: Produce a manufacturing plan for one robot component with process choice, fixturing, critical dimensions, and inspection steps.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Additive_manufacturing_and_prototype_validation/book_name.txt
+Next unit in this area: ../03_Dimensional_inspection_repeatability_and_gauge_studies/book_name.txt

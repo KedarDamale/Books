@@ -1,0 +1,14 @@
+Primary book: Robotics, Vision and Control: Fundamental Algorithms in Python, 3rd edition — Peter Corke.
+Source: https://petercorke.com/rvc3p/
+Source type: Author book site and chapter guides.
+Read: Visual Servoing themes: image-based and position-based servo systems.
+Study checklist:
+01. Distinguish image-space and pose-space errors.
+02. Relate camera velocity and feature motion.
+03. Construct an interaction matrix for a simple feature.
+04. Analyze calibration and depth sensitivity.
+05. Bound camera and robot latency.
+06. Detect features leaving the valid field of view.
+Completion: Simulate visual servoing toward a target and compare convergence and failure under depth error, occlusion, and latency.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_Optical_flow_tracking_and_visual_feedback/book_name.txt

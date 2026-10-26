@@ -1,0 +1,14 @@
+Primary book: Human-Robot Interaction: An Introduction, 2nd edition — Christoph Bartneck, Tony Belpaeme, Friederike Eyssel, Takayuki Kanda, Merel Keijsers, and Selma Sabanovic.
+Source: https://www.human-robot-interaction.org/
+Source type: Authors' official site with open book.
+Read: Revisit interaction design, communication, collaboration, and evaluation themes; combine completed manipulation skills.
+Study checklist:
+01. Accept a bounded set of object-handling requests.
+02. Resolve ambiguous references explicitly.
+03. Plan only from available skills.
+04. Communicate intent and uncertainty.
+05. Support interruption and safe recovery.
+06. Evaluate usefulness and operator workload.
+Completion: Integrate the arm, perception, skills, and UI into a supervised workshop-assistant demonstration with end-to-end task and failure evidence.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Contact_aware_fixture_or_tool_task_project/book_name.txt

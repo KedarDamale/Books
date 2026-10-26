@@ -1,0 +1,14 @@
+Primary book: Shigley's Mechanical Engineering Design — Richard G. Budynas and J. Keith Nisbett.
+Source: https://www.mheducation.com/highered/product/shigleys-mechanical-engineering-design-nisbett.html
+Source type: Publisher book page; obtain a legitimate edition.
+Read: Mechanical springs, clutches, brakes, and static loading themes.
+Study checklist:
+01. Calculate gravity torque over the workspace.
+02. Model a spring counterbalance.
+03. Distinguish holding and dynamic braking.
+04. Analyze a power-loss load path.
+05. Compare counterweight and spring tradeoffs.
+06. Identify failure modes in a holding mechanism.
+Completion: Model an arm's worst-case gravity load and compare a counterbalance and a holding-brake strategy including loss of drive power.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Belts_cables_and_screw_drives/book_name.txt

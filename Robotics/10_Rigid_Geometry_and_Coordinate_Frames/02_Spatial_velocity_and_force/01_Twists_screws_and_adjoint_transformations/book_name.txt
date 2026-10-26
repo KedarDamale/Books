@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Twists, exponential coordinates of rigid motion, and adjoint representation themes.
+Study checklist:
+01. Represent angular and linear velocity together.
+02. Distinguish body and spatial twists.
+03. Construct a screw-axis representation.
+04. Apply the adjoint transformation.
+05. Relate a twist to a pose derivative.
+06. State units and component ordering.
+Completion: Transform an end-effector twist between frames and verify the resulting point velocity numerically.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Wrenches_virtual_work_and_force_frames/book_name.txt

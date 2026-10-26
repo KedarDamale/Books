@@ -1,0 +1,14 @@
+Primary book: Dive into Deep Learning — Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola.
+Source: https://d2l.ai/
+Source type: Open textbook.
+Read: Data preprocessing, computer-vision datasets, augmentation, and evaluation themes.
+Study checklist:
+01. Label object identity and geometry consistently.
+02. Split by scene, episode, or physical object.
+03. Preserve camera and calibration metadata.
+04. Detect temporal and viewpoint leakage.
+05. Match augmentations to plausible physics.
+06. Track annotation uncertainty.
+Completion: Create a small robot-perception dataset specification and show why random frame splitting overstates generalization.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_YOLO_training_validation_and_tracking/book_name.txt

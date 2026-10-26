@@ -1,0 +1,17 @@
+Primary book: OpenCV Tutorials and Camera Calibration and 3D Reconstruction reference — OpenCV contributors.
+Source: https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
+Source type: Official online documentation.
+Read: Hand-eye calibration, robot-world hand-eye calibration, pose estimation, and homogeneous transforms themes.
+Study checklist:
+01. Distinguish eye-in-hand and fixed-camera layouts.
+02. Construct consistent transform equations.
+03. Collect sufficiently varied poses.
+04. Estimate camera-to-robot transforms.
+05. Calibrate a tool-center offset.
+06. Propagate calibration errors into grasp position.
+Completion: Solve a synthetic hand-eye problem and quantify how limited motion diversity or mixed transform conventions corrupt the result.
+Required second source: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Read: Rigid transforms, frame composition, and robot kinematics. Required for consistent robot-camera-tool equations.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Camera_intrinsics_distortion_and_reprojection/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: University Physics, Volume 1 — Samuel J. Ling, Jeff Sanny, and William Moebs.
+Source: https://openstax.org/books/university-physics-volume-1/pages/preface
+Source type: Open textbook.
+Read: Newton's Laws, applications of Newton's laws, and torque themes.
+Study checklist:
+01. Choose the body and boundary of a model.
+02. Draw external forces and moments.
+03. Apply translational force balance.
+04. Apply rotational torque balance.
+05. Distinguish mass and weight.
+06. Explain when a rigid-body approximation fails.
+Completion: Model a supported link carrying a payload and derive joint loads for rest and a specified acceleration.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Work_energy_power_and_rotational_inertia/book_name.txt

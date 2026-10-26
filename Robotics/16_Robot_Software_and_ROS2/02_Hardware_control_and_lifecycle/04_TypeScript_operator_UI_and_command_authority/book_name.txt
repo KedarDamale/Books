@@ -1,0 +1,14 @@
+Primary book: NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev 2 — NASA systems engineering contributors.
+Source: https://www.nasa.gov/reference/systems-engineering-handbook/
+Source type: Official open engineering handbook.
+Read: Interface management, system architecture, human-system considerations, and verification themes; implement UI with the linked CSE framework units.
+Study checklist:
+01. Separate observation and command authority.
+02. Bind controls to explicit operating modes.
+03. Show state freshness and fault status.
+04. Validate goals before execution.
+05. Preserve cancellation and operator intent.
+06. Keep browser timing outside servo-loop assumptions.
+Completion: Specify a React or Astro operator interface with a typed API boundary and test stale state, rejected goals, and cancellation semantics.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_Rust_firmware_bridges_and_community_ROS_clients/book_name.txt

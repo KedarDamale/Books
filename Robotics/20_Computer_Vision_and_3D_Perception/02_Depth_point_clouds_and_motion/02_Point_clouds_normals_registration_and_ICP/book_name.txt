@@ -1,0 +1,15 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Geometric Pose Estimation themes: representations, registration, ICP, partial views, and outliers.
+Study checklist:
+01. Transform and filter point clouds.
+02. Estimate local normals.
+03. Register clouds with known correspondences.
+04. Trace ICP correspondence and fitting steps.
+05. Identify local minima and symmetry.
+06. Reject partial-view and outlier failures.
+Completion: Register two object point clouds and compare convergence under initialization errors, symmetry, and partial occlusion.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Stereo_RGBD_and_depth_error_models/book_name.txt
+Next unit in this area: ../03_Optical_flow_tracking_and_visual_feedback/book_name.txt

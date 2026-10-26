@@ -1,0 +1,14 @@
+Primary book: NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev 2 — NASA systems engineering contributors.
+Source: https://www.nasa.gov/reference/systems-engineering-handbook/
+Source type: Official open engineering handbook.
+Read: Verification, validation, integration, configuration management, and technical risk themes.
+Study checklist:
+01. Freeze an identifiable policy and preprocessing version.
+02. Define tested operating conditions.
+03. Gate actuator authority by mode.
+04. Monitor state and command constraints.
+05. Preserve a classical fallback and stop behavior.
+06. Compare simulation and measured deployment evidence.
+Completion: Write and exercise a staged transfer protocol with replay, shadow execution, bounded authority, fault injection, and a documented rollback decision.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Dynamics_randomization_latency_and_system_ID/book_name.txt

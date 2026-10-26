@@ -1,0 +1,15 @@
+Primary book: OpenCV Tutorials and Camera Calibration and 3D Reconstruction reference — OpenCV contributors.
+Source: https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
+Source type: Official online documentation.
+Read: Camera calibration, distortion models, calibration patterns, and reprojection-error themes.
+Study checklist:
+01. Choose a camera model.
+02. Collect geometrically informative views.
+03. Estimate intrinsic and distortion parameters.
+04. Inspect reprojection residuals.
+05. Separate training views and validation views.
+06. Detect poor calibration geometry.
+Completion: Calibrate a real or synthetic camera and validate geometric predictions on views excluded from fitting.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Joint_offsets_scales_and_repeatability/book_name.txt
+Next unit in this area: ../03_Hand_eye_base_camera_and_tool_transforms/book_name.txt

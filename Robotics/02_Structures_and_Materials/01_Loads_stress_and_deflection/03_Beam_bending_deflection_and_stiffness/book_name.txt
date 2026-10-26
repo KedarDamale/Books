@@ -1,0 +1,14 @@
+Primary book: Mechanics of Materials — David Roylance.
+Source: https://eng.libretexts.org/Bookshelves/Mechanical_Engineering/Mechanics_of_Materials_(Roylance)
+Source type: Legitimate open MIT-derived text.
+Read: Bending and beam-deflection themes.
+Study checklist:
+01. Relate distributed load, shear, and moment.
+02. Calculate section properties.
+03. Estimate elastic beam deflection.
+04. Compare strength and stiffness constraints.
+05. Explain boundary-condition sensitivity.
+06. Identify when slender-beam assumptions fail.
+Completion: Compare two link cross-sections with equal mass and explain their predicted endpoint deflection under the same load.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Tension_shear_torsion_and_combined_stress/book_name.txt

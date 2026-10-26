@@ -1,0 +1,15 @@
+Primary book: State Estimation for Robotics, 2nd edition draft (2026-09-02) — Timothy D. Barfoot.
+Source: https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf
+Source type: Author-provided open draft.
+Read: Linear-Gaussian estimation and Kalman-filter themes.
+Study checklist:
+01. Derive prediction and measurement updates.
+02. Interpret process and measurement covariance.
+03. Check innovation consistency.
+04. Preserve covariance symmetry.
+05. Analyze observability.
+06. Distinguish biased estimates and underestimated uncertainty.
+Completion: Implement a linear state estimator and evaluate error and innovation statistics under correct noise, bias, and dropped measurements.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Bayes_filters_motion_and_measurement_models/book_name.txt
+Next unit in this area: ../03_EKF_UKF_and_nonlinear_estimation_limits/book_name.txt

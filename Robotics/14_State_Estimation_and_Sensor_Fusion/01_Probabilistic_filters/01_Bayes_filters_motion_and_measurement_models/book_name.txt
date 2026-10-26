@@ -1,0 +1,14 @@
+Primary book: Probabilistic Robotics — Sebastian Thrun, Wolfram Burgard, and Dieter Fox.
+Source: https://mitpress.mit.edu/9780262201629/probabilistic-robotics/
+Source type: Publisher book page.
+Read: Recursive State Estimation, robot motion models, and measurement models themes.
+Study checklist:
+01. Define hidden state and observation.
+02. Factor prediction and correction steps.
+03. Construct a motion likelihood.
+04. Construct a sensor likelihood.
+05. State conditional independence assumptions.
+06. Explain unobservable or ambiguous states.
+Completion: Implement a simple discrete Bayes filter and compare correct and deliberately mismatched observation models.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Kalman_filters_covariance_and_innovation_tests/book_name.txt

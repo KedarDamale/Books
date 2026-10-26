@@ -1,0 +1,14 @@
+Primary book: ROS 2 Jazzy documentation — ROS 2 documentation contributors.
+Source: https://docs.ros.org/en/jazzy/
+Source type: Official documentation; source repository available.
+Read: Beginner client-library tutorials on nodes, publishers, subscribers, services, and actions; use rclpy examples.
+Study checklist:
+01. Choose topics for ongoing state streams.
+02. Separate services and long-running actions.
+03. Define messages with units and frames.
+04. Handle action feedback and cancellation.
+05. Model reconnect and startup behavior.
+06. Distinguish transport delivery and task success.
+Completion: Build Python ROS 2 nodes for a simulated joint and demonstrate feedback, cancellation, and an explicit failure result.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_QoS_executors_callbacks_and_freshness/book_name.txt

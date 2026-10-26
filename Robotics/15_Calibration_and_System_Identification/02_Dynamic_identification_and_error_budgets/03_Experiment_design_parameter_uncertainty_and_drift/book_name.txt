@@ -1,0 +1,14 @@
+Primary book: NIST/SEMATECH e-Handbook of Statistical Methods: Measurement Process Characterization — NIST and SEMATECH contributors.
+Source: https://www.itl.nist.gov/div898/handbook/mpc/mpc.htm
+Source type: Official open engineering handbook.
+Read: Measurement-process characterization, calibration designs, stability, and uncertainty themes.
+Study checklist:
+01. Choose repeated and randomized measurements.
+02. Distinguish parameter fit and predictive validation.
+03. Estimate parameter uncertainty.
+04. Monitor calibration drift.
+05. Define recalibration triggers.
+06. Preserve provenance across hardware changes.
+Completion: Design a calibration-maintenance experiment with drift detection and a documented decision rule for recalibration.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Compliance_backlash_and_task_accuracy_budgets/book_name.txt

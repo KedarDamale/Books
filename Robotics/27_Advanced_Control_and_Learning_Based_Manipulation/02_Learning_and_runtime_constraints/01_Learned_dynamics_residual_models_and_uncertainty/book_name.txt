@@ -1,0 +1,14 @@
+Primary book: Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation — Russ Tedrake.
+Source: https://underactuated.csail.mit.edu/
+Source type: Open MIT course text.
+Read: System Identification and model-based reinforcement-learning themes.
+Study checklist:
+01. Separate a physical model and learned residual.
+02. Choose identifiable prediction targets.
+03. Preserve held-out trajectories for validation.
+04. Represent or bound model uncertainty.
+05. Compare one-step and rollout error.
+06. Limit model use to its evidence-supported region.
+Completion: Fit a PyTorch residual dynamics model and show how small one-step error can coexist with poor long-horizon control.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Control_barrier_functions_and_action_filters/book_name.txt

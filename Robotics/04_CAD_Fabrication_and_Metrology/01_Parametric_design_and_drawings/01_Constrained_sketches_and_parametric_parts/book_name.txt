@@ -1,0 +1,14 @@
+Primary book: FreeCAD documentation and manual — FreeCAD documentation contributors.
+Source: https://github.com/FreeCAD/FreeCAD-documentation
+Source type: Official open documentation repository.
+Read: Sketcher and Part Design themes: constraints, dimensions, features, and model dependencies.
+Study checklist:
+01. Fully constrain design-defining sketch geometry.
+02. Separate parameters and derived dimensions.
+03. Create features from functional intent.
+04. Avoid fragile references where possible.
+05. Explain a feature dependency graph.
+06. Check that design variants regenerate correctly.
+Completion: Model a joint bracket parametrically and regenerate it for three shaft or mounting sizes without repairing broken features.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Assemblies_clearances_and_interference/book_name.txt

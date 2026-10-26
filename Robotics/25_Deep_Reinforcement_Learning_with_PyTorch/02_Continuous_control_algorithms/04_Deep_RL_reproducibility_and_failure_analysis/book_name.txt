@@ -1,0 +1,17 @@
+Primary book: Spinning Up in Deep RL — Joshua Achiam and OpenAI contributors.
+Source: https://spinningup.openai.com/en/latest/
+Source type: Official open educational text.
+Read: Spinning Up as a research tool, experiment design, logging, and algorithm comparison themes.
+Study checklist:
+01. Separate environment and optimizer randomness.
+02. Compare equal interaction and compute budgets.
+03. Use independent evaluation episodes.
+04. Report multiple seeds and uncertainty.
+05. Preserve failed runs and configuration artifacts.
+06. Distinguish benchmark return and robot-task reliability.
+Completion: Compare two policies using a fixed evaluation protocol and produce an error analysis including a high-return but constraint-violating policy.
+Extension book: Reinforcement Learning: An Introduction, 2nd edition — Richard S. Sutton and Andrew G. Barto.
+Extension focus (optional): Revisit the statistical and sequential-decision assumptions behind the neural implementation.
+Source: https://mitpress.mit.edu/9780262039246/reinforcement-learning/
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_SAC_entropy_temperature_and_stochastic_actors/book_name.txt

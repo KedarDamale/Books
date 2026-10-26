@@ -1,0 +1,15 @@
+Primary book: Open X-Embodiment: Robotic Learning Datasets and RT-X Models — Open X-Embodiment Collaboration.
+Source: https://robotics-transformer-x.github.io/
+Source type: Authors' official paper and dataset site.
+Read: Dataset composition, embodiment interfaces, model training, and cross-robot evaluation themes.
+Study checklist:
+01. Compare robot and sensor embodiments.
+02. Normalize action representations carefully.
+03. Preserve episode and provenance boundaries.
+04. Identify dataset imbalance and leakage.
+05. Evaluate transfer on genuinely different conditions.
+06. Separate aggregate results and per-robot performance.
+Completion: Audit a selected open robot dataset or a synthetic multi-robot collection and propose a valid cross-embodiment evaluation split.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Reproduction_ablations_and_robot_benchmarks/book_name.txt
+Next unit in this area: ../03_Vision_language_action_models_and_limits/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Arms, Hands, simple grippers, and soft or underactuated hands themes.
+Study checklist:
+01. Compare rigid and compliant actuation.
+02. Explain series elasticity and force estimation.
+03. Relate tendon routing and friction.
+04. Analyze underactuated finger motion.
+05. Distinguish grip-force and aperture control.
+06. Identify payload-retention failure modes.
+Completion: Compare two gripper actuation mechanisms and model the effect of friction, compliance, and an unexpected object contact.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Brushless_commutation_and_field_oriented_control/book_name.txt

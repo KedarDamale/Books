@@ -1,0 +1,14 @@
+Primary book: Feedback Systems: An Introduction for Scientists and Engineers, 2nd edition — Karl J. Astrom and Richard M. Murray.
+Source: https://www.cds.caltech.edu/~murray/FBS/Second_Edition.html
+Source type: Author-approved open textbook and contents.
+Read: System Modeling, Dynamic Behavior, and Linear Systems themes.
+Study checklist:
+01. Define reference, error, disturbance, and output.
+02. Derive a simple closed-loop model.
+03. Relate poles and transient response.
+04. Distinguish stability and tracking accuracy.
+05. Explain unstable hidden states.
+06. Identify model and linearization assumptions.
+Completion: Model a motor position loop and compare stable, oscillatory, and unstable parameter choices against simulation.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_PID_feedforward_and_anti_windup/book_name.txt

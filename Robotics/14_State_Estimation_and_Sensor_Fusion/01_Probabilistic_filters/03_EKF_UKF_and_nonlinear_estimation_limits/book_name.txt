@@ -1,0 +1,14 @@
+Primary book: State Estimation for Robotics, 2nd edition draft (2026-09-02) — Timothy D. Barfoot.
+Source: https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf
+Source type: Author-provided open draft.
+Read: Nonlinear filtering, local approximations, and sigma-point estimation themes.
+Study checklist:
+01. Linearize motion and observation functions.
+02. Explain local perturbation coordinates.
+03. Compare EKF and sigma-point propagation.
+04. Handle angular residuals correctly.
+05. Identify initialization sensitivity.
+06. Detect inconsistent uncertainty claims.
+Completion: Compare nonlinear filters on a synthetic orientation or range problem with challenging initialization and non-Gaussian measurements.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Kalman_filters_covariance_and_innovation_tests/book_name.txt

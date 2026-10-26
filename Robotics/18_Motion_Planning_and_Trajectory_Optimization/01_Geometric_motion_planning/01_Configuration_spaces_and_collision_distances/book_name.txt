@@ -1,0 +1,14 @@
+Primary book: Planning Algorithms — Steven M. LaValle.
+Source: https://lavalle.pl/planning/
+Source type: Author-provided open book.
+Read: Configuration Space and Geometric Representations and Transformations themes.
+Study checklist:
+01. Represent obstacles in configuration space.
+02. Distinguish point and extended-body robots.
+03. Compute or query collision distances.
+04. Account for payload geometry.
+05. Analyze discretized collision-check gaps.
+06. Include self-collision and joint limits.
+Completion: Construct a planar-arm collision checker and produce a path that defeats an overly coarse sampled check.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Graph_search_sampling_PRM_and_RRT/book_name.txt

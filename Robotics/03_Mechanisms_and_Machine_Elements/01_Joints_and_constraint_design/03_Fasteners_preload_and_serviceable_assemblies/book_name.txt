@@ -1,0 +1,14 @@
+Primary book: Shigley's Mechanical Engineering Design — Richard G. Budynas and J. Keith Nisbett.
+Source: https://www.mheducation.com/highered/product/shigleys-mechanical-engineering-design-nisbett.html
+Source type: Publisher book page; obtain a legitimate edition.
+Read: Screws, fasteners, and nonpermanent joints themes.
+Study checklist:
+01. Explain preload and joint stiffness.
+02. Distinguish friction transfer and bolt shear.
+03. Analyze separation and slip.
+04. Identify loosening under cyclic loads.
+05. Design accessible assembly sequences.
+06. State the uncertainty in torque-to-preload estimates.
+Completion: Specify a bolted joint concept for a robot mount and analyze its load path, loosening risks, and inspection method.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Bearings_shafts_and_alignment/book_name.txt

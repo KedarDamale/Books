@@ -1,0 +1,14 @@
+Primary book: Electric Motors and Drives: Fundamentals, Types and Applications, 5th edition — Austin Hughes and Bill Drury.
+Source: https://shop.elsevier.com/books/electric-motors-and-drives/hughes/978-0-08-102615-1
+Source type: Publisher book page and contents.
+Read: Motor fundamentals and DC motor characteristics themes.
+Study checklist:
+01. Relate current and torque constants.
+02. Relate speed and back EMF.
+03. Model winding resistance and inductance.
+04. Interpret torque-speed curves.
+05. Separate stall and continuous operating points.
+06. Account for mechanical and electrical losses.
+Completion: Construct a motor model and compare predicted current, speed, power, and heating for an arm-joint duty cycle.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_DC_BLDC_stepper_and_servo_tradeoffs/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World — Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, and Pieter Abbeel.
+Source: https://arxiv.org/abs/1703.06907
+Source type: Authors' open research paper.
+Read: Rendering randomization, synthetic training data, localization, and transfer experiments themes.
+Study checklist:
+01. Identify nuisance visual parameters.
+02. Randomize within a documented distribution.
+03. Preserve labels and geometry during rendering.
+04. Separate synthetic and physical evaluation.
+05. Compare randomization ablations.
+06. Explain uncovered real-world conditions.
+Completion: Generate a synthetic object dataset and evaluate whether appearance randomization improves a held-out scene without masking geometric errors.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Dynamics_randomization_latency_and_system_ID/book_name.txt

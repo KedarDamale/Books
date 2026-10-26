@@ -1,0 +1,14 @@
+Primary book: Reinforcement Learning: An Introduction, 2nd edition — Richard S. Sutton and Andrew G. Barto.
+Source: https://mitpress.mit.edu/9780262039246/reinforcement-learning/
+Source type: Publisher book page; author's open edition linked in catalog.
+Read: Multi-armed Bandits themes.
+Study checklist:
+01. Separate immediate reward and sequential effects.
+02. Estimate action values from samples.
+03. Compare epsilon-greedy and confidence-based exploration.
+04. Explain nonstationary reward estimates.
+05. Analyze exploration cost.
+06. Distinguish uncertainty and stochastic variability.
+Completion: Compare exploration policies in a synthetic bandit and report cumulative reward, variability, and adaptation after reward changes.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Bellman_equations_policy_evaluation_and_control/book_name.txt

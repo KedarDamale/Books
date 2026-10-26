@@ -1,0 +1,14 @@
+Primary book: ROS 2 Jazzy documentation — ROS 2 documentation contributors.
+Source: https://docs.ros.org/en/jazzy/
+Source type: Official documentation; source repository available.
+Read: Revisit actions, lifecycle, parameters, tf2, and recording themes.
+Study checklist:
+01. Expose typed motion-goal contracts.
+02. Display mode, faults, and state freshness.
+03. Cancel and reject goals consistently.
+04. Separate observation and actuator authority.
+05. Record synchronized command and state logs.
+06. Reproduce a failed motion from logs.
+Completion: Integrate a Python robot coordinator with a TypeScript operator station and test normal moves, rejected goals, cancellation, and stale feedback.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Arm_mechanics_firmware_and_calibration_project/book_name.txt

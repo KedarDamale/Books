@@ -1,0 +1,15 @@
+Primary book: OSHA Technical Manual, Section IV, Chapter 4: Industrial Robot Systems and Industrial Robot System Safety — Occupational Safety and Health Administration.
+Source: https://www.osha.gov/otm/section-4-safety-hazards/chapter-4
+Source type: Official technical guidance; US context.
+Read: Robot hazard assessment, safeguarding, contact hazards, and application limits themes.
+Study checklist:
+01. Calculate stopping motion under stated deceleration.
+02. Include sensing and processing delay.
+03. Account for pose-dependent inertia.
+04. Distinguish measured force and collision risk.
+05. Define the scope of a test envelope.
+06. Explain why a bench demo does not establish collaborative safety.
+Completion: Estimate and simulate stopping behavior across payloads and poses and list the measurements needed to validate the envelope physically.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Independent_stops_limits_and_restart_interlocks/book_name.txt
+Next unit in this area: ../04_Standards_scope_and_safety_evidence_boundaries/book_name.txt

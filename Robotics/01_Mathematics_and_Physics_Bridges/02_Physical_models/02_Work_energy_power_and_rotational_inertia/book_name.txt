@@ -1,0 +1,15 @@
+Primary book: University Physics, Volume 1 — Samuel J. Ling, Jeff Sanny, and William Moebs.
+Source: https://openstax.org/books/university-physics-volume-1/pages/preface
+Source type: Open textbook.
+Read: Work and Kinetic Energy, Potential Energy, Rotation, and Angular Momentum themes.
+Study checklist:
+01. Compute work along a motion.
+02. Relate torque and angular power.
+03. Calculate rotational kinetic energy.
+04. Explain configuration-dependent potential energy.
+05. Apply parallel-axis reasoning.
+06. Distinguish peak and average power.
+Completion: Estimate energy and peak mechanical power for an arm move and explain why holding a load can still heat a motor.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Newton_Euler_forces_and_free_body_diagrams/book_name.txt
+Next unit in this area: ../03_Oscillation_damping_and_resonance/book_name.txt

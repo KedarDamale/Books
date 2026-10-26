@@ -1,0 +1,14 @@
+Primary book: Reinforcement Learning: An Introduction, 2nd edition — Richard S. Sutton and Andrew G. Barto.
+Source: https://mitpress.mit.edu/9780262039246/reinforcement-learning/
+Source type: Publisher book page; author's open edition linked in catalog.
+Read: Reward hypotheses, policy invariance intuition, and experimental evaluation themes.
+Study checklist:
+01. Separate task specification and dense reward.
+02. Identify reward-hacking shortcuts.
+03. Compare sparse and shaped signals.
+04. Define held-out conditions before tuning.
+05. Report repeated-run uncertainty.
+06. Measure physical constraints independently of reward.
+Completion: Train a tabular agent or simple policy under two reward designs and exhibit a high-reward behavior that fails the intended task.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_Gymnasium_environment_contracts_and_resets/book_name.txt

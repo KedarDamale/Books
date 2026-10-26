@@ -1,0 +1,17 @@
+Primary book: Planning Algorithms — Steven M. LaValle.
+Source: https://lavalle.pl/planning/
+Source type: Author-provided open book.
+Read: Configuration-space geometry, robot geometry, and collision-obstacle themes.
+Study checklist:
+01. Distinguish joint and task workspaces.
+02. Include gripper and payload geometry.
+03. Account for self-collision.
+04. Model joint and cable travel limits.
+05. Compare reachability and collision-free reachability.
+06. State geometric approximation errors.
+Completion: Compute a sampled usable workspace for a modeled arm and compare it with the unconstrained reach envelope.
+Extension book: Planning Algorithms — Steven M. LaValle.
+Extension focus (optional): Deepen geometry, configuration spaces, and completeness assumptions.
+Source: https://lavalle.pl/planning/
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Redundancy_null_spaces_and_secondary_objectives/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning — Stephane Ross, Geoffrey J. Gordon, and J. Andrew Bagnell.
+Source: https://arxiv.org/abs/1011.0686
+Source type: Authors' open research paper.
+Read: Sequential prediction, imitation-learning setup, learner-induced distributions, and behavioral-cloning limitations themes.
+Study checklist:
+01. Define observation-action demonstration pairs.
+02. Preserve timing and action semantics.
+03. Split complete demonstrations by conditions.
+04. Explain compounding errors under rollout.
+05. Compare action prediction and task success.
+06. Identify missing recovery demonstrations.
+Completion: Train a small PyTorch behavioral-cloning policy and compare held-out action loss with closed-loop task success after a perturbation.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_DAgger_expert_queries_and_recovery_data/book_name.txt

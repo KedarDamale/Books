@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Programming the Task Level themes: state machines, behavior trees, and task planning.
+Study checklist:
+01. Define a skill's preconditions and effects.
+02. Separate physical truth and internal belief.
+03. Verify postconditions from observations.
+04. Represent failure outcomes explicitly.
+05. Make retries conditional on changed evidence.
+06. Preserve cancellation through nested skills.
+Completion: Compose observe, grasp, move, and release skills and test each failed postcondition without assuming command completion implies success.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Task_and_motion_planning_with_uncertain_objects/book_name.txt

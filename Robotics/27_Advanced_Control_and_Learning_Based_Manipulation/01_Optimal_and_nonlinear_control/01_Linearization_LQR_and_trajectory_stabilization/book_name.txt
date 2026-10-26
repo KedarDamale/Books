@@ -1,0 +1,14 @@
+Primary book: Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation — Russ Tedrake.
+Source: https://underactuated.csail.mit.edu/
+Source type: Open MIT course text.
+Read: Linear Quadratic Regulators and time-varying LQR themes.
+Study checklist:
+01. Linearize about an equilibrium or trajectory.
+02. Define state and input costs.
+03. Solve a finite or infinite-horizon regulator.
+04. Distinguish local stabilization and global control.
+05. Analyze controllability assumptions.
+06. Compare nonlinear rollout with linear predictions.
+Completion: Stabilize a simulated mechanism using LQR and estimate where its local model ceases to predict successful recovery.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Lyapunov_functions_regions_of_attraction_and_passivity/book_name.txt

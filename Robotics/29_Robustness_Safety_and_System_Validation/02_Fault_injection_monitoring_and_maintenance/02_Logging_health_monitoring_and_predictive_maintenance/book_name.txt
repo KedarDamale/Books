@@ -1,0 +1,15 @@
+Primary book: NIST/SEMATECH e-Handbook of Statistical Methods: Measurement Process Characterization — NIST and SEMATECH contributors.
+Source: https://www.itl.nist.gov/div898/handbook/mpc/mpc.htm
+Source type: Official open engineering handbook.
+Read: Measurement-process stability, statistical control, and calibration-monitoring themes.
+Study checklist:
+01. Choose health signals linked to failure mechanisms.
+02. Establish a comparable operating baseline.
+03. Separate wear and changed task conditions.
+04. Detect drift without assuming causation.
+05. Define inspection and maintenance triggers.
+06. Preserve lifetime and configuration records.
+Completion: Analyze synthetic or real joint telemetry for temperature, current, or positioning drift and evaluate false alarms under changed payloads.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Fault_injection_HIL_and_regression_scenarios/book_name.txt
+Next unit in this area: ../03_Security_updates_remote_control_and_dataset_privacy/book_name.txt

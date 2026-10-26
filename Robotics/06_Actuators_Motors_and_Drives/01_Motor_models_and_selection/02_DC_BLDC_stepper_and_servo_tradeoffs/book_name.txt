@@ -1,0 +1,15 @@
+Primary book: Electric Motors and Drives: Fundamentals, Types and Applications, 5th edition — Austin Hughes and Bill Drury.
+Source: https://shop.elsevier.com/books/electric-motors-and-drives/hughes/978-0-08-102615-1
+Source type: Publisher book page and contents.
+Read: DC, brushless, stepping, and servo-drive themes.
+Study checklist:
+01. Compare commutation mechanisms.
+02. Distinguish motor and servo system.
+03. Explain step loss and resonance.
+04. Compare torque-speed envelopes.
+05. Identify feedback requirements.
+06. Match motor type to task constraints.
+Completion: Compare three actuator types for the same joint using motion accuracy, holding load, speed, sensing, and thermal requirements.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Motor_torque_speed_back_EMF_and_losses/book_name.txt
+Next unit in this area: ../03_Joint_actuator_and_gearbox_sizing/book_name.txt

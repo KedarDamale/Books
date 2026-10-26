@@ -1,0 +1,14 @@
+Primary book: ros2_control documentation, Jazzy — ros-controls contributors.
+Source: https://control.ros.org/jazzy/
+Source type: Official online documentation.
+Read: Hardware components, controller manager, command and state interfaces, joint limits, and update-loop themes.
+Study checklist:
+01. Separate measured state and commanded input.
+02. Map hardware resources to controllers.
+03. Explain read-update-write sequencing.
+04. Bound blocking I/O.
+05. Handle controller activation and deactivation.
+06. Distinguish framework limits and independent protective functions.
+Completion: Specify and simulate a hardware-interface boundary with invalid-state, stale-feedback, activation, and shutdown cases.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Launch_parameters_lifecycle_and_record_replay/book_name.txt

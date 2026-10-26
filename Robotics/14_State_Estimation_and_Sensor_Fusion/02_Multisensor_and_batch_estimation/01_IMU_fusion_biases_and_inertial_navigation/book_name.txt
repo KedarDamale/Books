@@ -1,0 +1,14 @@
+Primary book: State Estimation for Robotics, 2nd edition draft (2026-09-02) — Timothy D. Barfoot.
+Source: https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf
+Source type: Author-provided open draft.
+Read: Inertial navigation, bias models, attitude estimation, and multisensor fusion themes.
+Study checklist:
+01. Separate high-frequency motion and low-frequency bias.
+02. Fuse gyro integration with an absolute cue.
+03. Estimate or model bias drift.
+04. Transform IMU quantities consistently.
+05. Reject invalid gravity assumptions during acceleration.
+06. Evaluate drift and latency.
+Completion: Build a simulated orientation estimator and demonstrate why accelerometer-based tilt fails during sustained nongravitational acceleration.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Particle_filters_and_multimodal_beliefs/book_name.txt

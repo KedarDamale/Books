@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Motion control with compliance, impedance, and force-control themes.
+Study checklist:
+01. Define Cartesian stiffness and damping.
+02. Distinguish impedance and admittance causality.
+03. Transform task errors and wrenches consistently.
+04. Relate joint and task dynamics.
+05. Analyze interaction with a stiff environment.
+06. Respect available sensing and actuation.
+Completion: Simulate compliant end-effector motion against a surface and compare force and stability under different stiffness and delay assumptions.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Force_motion_selection_and_hybrid_control/book_name.txt

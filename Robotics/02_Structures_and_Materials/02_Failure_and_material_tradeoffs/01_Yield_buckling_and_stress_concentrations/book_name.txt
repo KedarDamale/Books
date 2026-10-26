@@ -1,0 +1,14 @@
+Primary book: Shigley's Mechanical Engineering Design — Richard G. Budynas and J. Keith Nisbett.
+Source: https://www.mheducation.com/highered/product/shigleys-mechanical-engineering-design-nisbett.html
+Source type: Publisher book page; obtain a legitimate edition.
+Read: Static failure, stress concentration, and column-loading themes.
+Study checklist:
+01. Distinguish yielding and instability.
+02. Identify stress raisers at holes and shoulders.
+03. Choose a relevant failure criterion.
+04. Estimate a buckling load.
+05. Define a margin against a stated load case.
+06. Explain why a single safety factor is insufficient evidence.
+Completion: Analyze a loaded bracket or slender member and identify which failure mode governs under several mounting assumptions.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Fatigue_wear_and_joint_lifetime/book_name.txt

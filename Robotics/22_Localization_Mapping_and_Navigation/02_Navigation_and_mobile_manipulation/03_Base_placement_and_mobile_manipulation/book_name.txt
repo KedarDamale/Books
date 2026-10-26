@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Mobile Manipulation themes: perception, motion planning, wheeled bases, and manipulation differences.
+Study checklist:
+01. Choose a base pose for arm reachability.
+02. Model coupled base and arm geometry.
+03. Account for base localization uncertainty.
+04. Stabilize the base before contact tasks.
+05. Replan when the scene or base moves.
+06. Evaluate task success across both subsystems.
+Completion: Simulate a mobile pick-and-place task and show how base-position error changes grasp feasibility and collision margins.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Behavior_trees_recovery_and_lifecycle/book_name.txt

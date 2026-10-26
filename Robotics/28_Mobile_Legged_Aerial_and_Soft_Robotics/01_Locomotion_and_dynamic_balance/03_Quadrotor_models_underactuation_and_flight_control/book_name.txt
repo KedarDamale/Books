@@ -1,0 +1,14 @@
+Primary book: Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation — Russ Tedrake.
+Source: https://underactuated.csail.mit.edu/
+Source type: Open MIT course text.
+Read: Quadrotors, underactuated systems, and feedback-control themes.
+Study checklist:
+01. Derive thrust and moment allocation.
+02. Distinguish attitude and translation control.
+03. Explain underactuation.
+04. Include actuator saturation.
+05. Analyze state-estimation dependence.
+06. Identify limits of a simplified aerodynamic model.
+Completion: Stabilize a simulated quadrotor model and evaluate disturbance rejection, saturation, and attitude-estimation errors.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Legged_balance_gaits_and_contact_switching/book_name.txt

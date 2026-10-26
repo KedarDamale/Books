@@ -1,0 +1,15 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Rigid-body motion and numerical inverse-kinematics themes; refresh the linked linear-algebra and calculus prerequisites first.
+Study checklist:
+01. Interpret a matrix as a mapping.
+02. Differentiate a vector-valued function.
+03. Relate Jacobians and local sensitivity.
+04. Use finite differences to check derivatives.
+05. Explain conditioning near singular matrices.
+06. Distinguish numerical tolerance and physical error.
+Completion: Check an analytic two-link position Jacobian against finite differences over ordinary and near-singular configurations.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Units_vectors_and_coordinate_components/book_name.txt
+Next unit in this area: ../03_Probability_noise_and_uncertainty_models/book_name.txt

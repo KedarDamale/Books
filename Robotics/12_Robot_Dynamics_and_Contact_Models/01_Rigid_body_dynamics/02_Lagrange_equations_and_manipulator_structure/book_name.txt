@@ -1,0 +1,15 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Lagrangian formulation and equations of motion themes.
+Study checklist:
+01. Choose generalized coordinates.
+02. Derive Euler-Lagrange equations.
+03. Identify mass, velocity, and gravity terms.
+04. Check dimensions and symmetry.
+05. Explain configuration coupling.
+06. State rigid-link and friction assumptions.
+Completion: Derive a planar two-link dynamics model and validate gravity and energy behavior against numerical simulation.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Mass_inertia_and_energy_models/book_name.txt
+Next unit in this area: ../03_Recursive_inverse_and_forward_dynamics/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Nav2 documentation — Nav2 contributors.
+Source: https://docs.nav2.org/
+Source type: Official online documentation.
+Read: Navigation concepts, costmaps, planners, controllers, and footprint configuration themes.
+Study checklist:
+01. Configure a robot footprint and clearance model.
+02. Separate global route and local motion control.
+03. Combine obstacle observations with freshness checks.
+04. Include speed and stopping constraints.
+05. Compare static and dynamic obstacles.
+06. Identify localization-dependent collision risks.
+Completion: Navigate a simulated mobile base around obstacles and compare footprint, inflation, and controller settings against the same test cases.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Behavior_trees_recovery_and_lifecycle/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Wrenches and static-force transformation themes.
+Study checklist:
+01. Represent force and moment as a wrench.
+02. Shift the moment reference correctly.
+03. Transform wrenches between frames.
+04. Preserve the twist-wrench power pairing.
+05. Explain virtual work.
+06. Identify an incorrect force-frame conversion.
+Completion: Calculate the same contact wrench and mechanical power in two frames and show how a wrong moment reference violates consistency.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Twists_screws_and_adjoint_transformations/book_name.txt

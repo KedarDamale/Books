@@ -1,0 +1,15 @@
+Primary book: Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation — Russ Tedrake.
+Source: https://underactuated.csail.mit.edu/
+Source type: Open MIT course text.
+Read: Walking, contact models, hybrid systems, and whole-body control themes.
+Study checklist:
+01. Define stance and flight phases.
+02. Model hybrid contact transitions.
+03. Compare static and dynamic balance.
+04. Relate support geometry and momentum.
+05. Plan simple center-of-mass motion.
+06. State sensing and ground-model assumptions.
+Completion: Simulate a reduced-order legged model and demonstrate a balance or contact-transition failure under changed terrain or timing.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Mobile_platform_stability_traction_and_payloads/book_name.txt
+Next unit in this area: ../03_Quadrotor_models_underactuation_and_flight_control/book_name.txt

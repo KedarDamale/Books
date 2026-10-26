@@ -1,0 +1,14 @@
+Primary book: Battery monitors and balancers: technical resources — Texas Instruments.
+Source: https://www.ti.com/product-category/battery-management-ics/battery-monitors-balancers/overview.html
+Source type: Official component-family engineering documentation.
+Read: Technical resources on cell monitoring, voltage and temperature protection, balancing, and fault diagnostics; read the exact cell and monitor documentation selected for any physical design.
+Study checklist:
+01. Separate pack and individual-cell measurements.
+02. Define chemistry-specific operating limits.
+03. Explain passive balancing objectives.
+04. Distinguish estimation and protective thresholds.
+05. Model open-sensor and overtemperature faults.
+06. Define controlled charge and discharge permission states.
+Completion: Design a simulated pack-monitor state machine with parameterized manufacturer limits and test undervoltage, overvoltage, sensor faults, and loss of communications.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Thermal_resistance_duty_cycles_and_derating/book_name.txt

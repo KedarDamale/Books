@@ -1,0 +1,14 @@
+Primary book: Mechanics of Materials — David Roylance.
+Source: https://eng.libretexts.org/Bookshelves/Mechanical_Engineering/Mechanics_of_Materials_(Roylance)
+Source type: Legitimate open MIT-derived text.
+Read: Tensile response, material behavior, yielding, and fracture themes.
+Study checklist:
+01. Compare stiffness and strength per mass.
+02. Explain anisotropy and direction dependence.
+03. Identify creep under sustained loads.
+04. Relate temperature to material behavior.
+05. Distinguish brittle and ductile failure.
+06. State what bulk-material data cannot establish.
+Completion: Select a link material using load, stiffness, temperature, and manufacturing constraints and identify tests needed for the chosen material.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Fatigue_wear_and_joint_lifetime/book_name.txt

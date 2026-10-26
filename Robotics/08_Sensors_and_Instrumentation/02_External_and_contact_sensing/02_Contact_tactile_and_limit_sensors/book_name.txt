@@ -1,0 +1,15 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Sensors, grippers, contact models, and force-feedback themes.
+Study checklist:
+01. Distinguish contact detection and force measurement.
+02. Choose sensor placement from task observability.
+03. Explain contact bounce and hysteresis.
+04. Detect grip loss with available signals.
+05. Identify unobserved contact regions.
+06. Combine redundant signals without assuming independence.
+Completion: Design a gripper contact-state estimator and test ambiguous cases such as touching an obstruction instead of holding an object.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Cameras_depth_range_and_sensor_selection/book_name.txt
+Next unit in this area: ../03_Sampling_timestamping_and_synchronized_acquisition/book_name.txt

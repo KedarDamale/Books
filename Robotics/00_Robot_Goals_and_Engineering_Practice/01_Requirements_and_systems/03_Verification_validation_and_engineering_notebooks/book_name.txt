@@ -1,0 +1,14 @@
+Primary book: NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev 2 — NASA systems engineering contributors.
+Source: https://www.nasa.gov/reference/systems-engineering-handbook/
+Source type: Official open engineering handbook.
+Read: Product verification, product validation, configuration management, and technical assessment themes.
+Study checklist:
+01. Distinguish verifying a requirement and validating a task.
+02. Trace tests to requirements.
+03. Version models and calibration data.
+04. Preserve measurements and uncertainty.
+05. Record failures without hiding them.
+06. Separate evidence and interpretation.
+Completion: Create a requirements-to-test matrix and an experiment record that another learner can reproduce.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Interfaces_architecture_and_trade_studies/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Dynamics themes: rigid-body inertia and kinetic energy.
+Study checklist:
+01. Locate link centers of mass.
+02. Build inertia tensors in declared frames.
+03. Apply parallel-axis transformations.
+04. Check positive physical inertia conditions.
+05. Derive kinetic and potential energy.
+06. Include attached tools and payloads.
+Completion: Construct a two-link mass model and verify that predicted energy is invariant under a consistent change of coordinates.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Lagrange_equations_and_manipulator_structure/book_name.txt

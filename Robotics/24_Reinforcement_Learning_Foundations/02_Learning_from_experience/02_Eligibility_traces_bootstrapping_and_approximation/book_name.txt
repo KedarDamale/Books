@@ -1,0 +1,15 @@
+Primary book: Reinforcement Learning: An Introduction, 2nd edition — Richard S. Sutton and Andrew G. Barto.
+Source: https://mitpress.mit.edu/9780262039246/reinforcement-learning/
+Source type: Publisher book page; author's open edition linked in catalog.
+Read: n-step Bootstrapping, Eligibility Traces, and approximation themes.
+Study checklist:
+01. Compare one-step and multistep targets.
+02. Explain trace decay.
+03. Derive a basic TD-lambda update.
+04. Separate bias and variance effects.
+05. Introduce feature-based value approximation.
+06. Identify instability from incompatible approximations.
+Completion: Compare several return estimators on the same simulated data and analyze error, variance, and sensitivity to trace parameters.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Monte_Carlo_TD_SARSA_and_Q_learning/book_name.txt
+Next unit in this area: ../03_Gymnasium_environment_contracts_and_resets/book_name.txt

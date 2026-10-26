@@ -1,0 +1,14 @@
+Primary book: Robotics, Vision and Control: Fundamental Algorithms in Python, 3rd edition — Peter Corke.
+Source: https://petercorke.com/rvc3p/
+Source type: Author book site and chapter guides.
+Read: Mobile Robot Motion and wheel-odometry themes.
+Study checklist:
+01. Derive differential-drive motion.
+02. Compare holonomic and nonholonomic constraints.
+03. Integrate encoder measurements.
+04. Calibrate wheel scale and track width.
+05. Explain slip and unmodeled contact.
+06. Propagate motion uncertainty.
+Completion: Simulate wheel odometry with scale error and slip and compare accumulated error against a calibrated model.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Occupancy_grids_and_map_uncertainty/book_name.txt

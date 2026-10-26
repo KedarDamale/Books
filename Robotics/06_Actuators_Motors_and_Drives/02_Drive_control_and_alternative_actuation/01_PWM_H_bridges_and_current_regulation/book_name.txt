@@ -1,0 +1,14 @@
+Primary book: Electric Motors and Drives: Fundamentals, Types and Applications, 5th edition — Austin Hughes and Bill Drury.
+Source: https://shop.elsevier.com/books/electric-motors-and-drives/hughes/978-0-08-102615-1
+Source type: Publisher book page and contents.
+Read: DC motor drives and current-control themes.
+Study checklist:
+01. Trace motoring and braking quadrants.
+02. Relate PWM duty and average drive behavior.
+03. Distinguish current and voltage commands.
+04. Measure or model current ripple.
+05. Explain supply regeneration.
+06. Handle saturation in the current loop.
+Completion: Simulate a current-regulated motor drive under startup, load disturbance, and braking and account for its energy flows.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Brushless_commutation_and_field_oriented_control/book_name.txt

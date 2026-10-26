@@ -1,0 +1,14 @@
+Primary book: Measurement and Instrumentation: Theory and Application, 3rd edition — Alan S. Morris and Reza Langari.
+Source: https://shop.elsevier.com/books/measurement-and-instrumentation/unknown/978-0-12-817141-7
+Source type: Publisher book page and contents.
+Read: Measurement noise, interference reduction, shielding, grounding, and signal-conditioning themes.
+Study checklist:
+01. Trace high-current and signal return paths.
+02. Distinguish common-mode and differential interference.
+03. Relate motor switching to coupled noise.
+04. Choose shielding and cable-routing principles.
+05. Identify ground-loop mechanisms.
+06. Measure interference under representative actuator loads.
+Completion: Create a robot-wiring interference model and an experiment that distinguishes sensor noise, grounding error, and software timing problems.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../03_Schematics_PCB_layout_and_board_bringup/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Motion Planning and Trajectory Generation themes.
+Study checklist:
+01. Separate collision-free paths and timed trajectories.
+02. Smooth without invalidating geometry.
+03. Enforce joint rate and acceleration constraints.
+04. Check dynamic torque demand.
+05. Identify discontinuous curvature or velocity.
+06. Revalidate the final executed trajectory.
+Completion: Convert a planned path into a timed arm motion and demonstrate a case where smoothing or timing breaks a previous guarantee.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Graph_search_sampling_PRM_and_RRT/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Spinning Up in Deep RL — Joshua Achiam and OpenAI contributors.
+Source: https://spinningup.openai.com/en/latest/
+Source type: Official open educational text.
+Read: Vanilla Policy Gradient, actor-critic structure, and advantage-estimation themes.
+Study checklist:
+01. Separate actor and critic objectives.
+02. Bootstrap value targets consistently.
+03. Compute generalized advantage estimates.
+04. Handle rollout truncation correctly.
+05. Track policy version in collected data.
+06. Diagnose critic bias and high-variance updates.
+Completion: Build a PyTorch actor-critic loop and compare advantage estimates and learning curves across rollout lengths.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Policy_gradients_REINFORCE_and_advantages/book_name.txt

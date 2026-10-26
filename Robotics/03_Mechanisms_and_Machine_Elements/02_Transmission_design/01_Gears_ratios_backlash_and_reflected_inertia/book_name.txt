@@ -1,0 +1,14 @@
+Primary book: Shigley's Mechanical Engineering Design — Richard G. Budynas and J. Keith Nisbett.
+Source: https://www.mheducation.com/highered/product/shigleys-mechanical-engineering-design-nisbett.html
+Source type: Publisher book page; obtain a legitimate edition.
+Read: Gears, gear trains, and gear-load analysis themes.
+Study checklist:
+01. Calculate speed and torque ratios.
+02. Account for transmission efficiency.
+03. Reflect load inertia through a ratio.
+04. Explain backlash and compliance.
+05. Compare planetary and other gear arrangements.
+06. Identify tooth and bearing load limits.
+Completion: Compare two gear ratios for one arm joint using torque-speed, inertia, efficiency, and backlash requirements.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Belts_cables_and_screw_drives/book_name.txt

@@ -1,0 +1,14 @@
+Primary book: Robotic Manipulation: Perception, Planning, and Control — Russ Tedrake.
+Source: https://manipulation.mit.edu/
+Source type: Open MIT course text.
+Read: Task-level programming and large-language-model discussion themes; connect to the existing CSE LangGraph and typed-tool units.
+Study checklist:
+01. Translate a request into a bounded task schema.
+02. Resolve object and workspace references.
+03. Check capability and physical preconditions.
+04. Separate model-generated plans and execution authority.
+05. Preserve human confirmation for ambiguous goals.
+06. Report observed outcomes and uncertainty.
+Completion: Design a language-to-task interface that accepts bounded pick-and-place goals and rejects unsupported or ambiguous physical requests before execution.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Task_and_motion_planning_with_uncertain_objects/book_name.txt

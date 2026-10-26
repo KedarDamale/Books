@@ -1,0 +1,15 @@
+Primary book: ROS 2 Jazzy documentation — ROS 2 documentation contributors.
+Source: https://docs.ros.org/en/jazzy/
+Source type: Official documentation; source repository available.
+Read: Launch, parameters, managed lifecycle nodes, and rosbag2 themes.
+Study checklist:
+01. Make configuration explicit and versioned.
+02. Validate parameters before motion.
+03. Order resource startup and activation.
+04. Record state and command streams.
+05. Distinguish replay time and wall time.
+06. Prevent replayed data from accidentally commanding hardware.
+Completion: Create a reproducible robot launch and a logging-replay experiment that exercises lifecycle failures without energizing actuators.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_ros2_control_hardware_interfaces_and_update_loops/book_name.txt
+Next unit in this area: ../03_Rust_firmware_bridges_and_community_ROS_clients/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch and Frank C. Park.
+Source: https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+Source type: Official book resources and author materials.
+Read: Revisit force control, impedance, hybrid motion-force control, and contact modeling themes.
+Study checklist:
+01. Define a tool or fixture contact task.
+02. Model expected reaction forces.
+03. Control compliance and actuator limits.
+04. Detect contact-mode changes.
+05. Preserve a disengagement behavior.
+06. Validate performance across contact uncertainties.
+Completion: Demonstrate a lightweight pushing, surface-following, or fixture task and compare force, tracking, and recovery with a position-only baseline.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Calibrated_camera_pick_and_place_project/book_name.txt
+Next unit in this area: ../03_Bounded_workshop_assistant_project/book_name.txt

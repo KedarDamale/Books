@@ -1,0 +1,15 @@
+Primary book: Planning Algorithms — Steven M. LaValle.
+Source: https://lavalle.pl/planning/
+Source type: Author-provided open book.
+Read: Discrete Planning and Sampling-Based Motion Planning themes.
+Study checklist:
+01. Define a planning state and metric.
+02. Apply graph search to a discretization.
+03. Construct a probabilistic roadmap.
+04. Grow a rapidly exploring random tree.
+05. Explain probabilistic completeness assumptions.
+06. Analyze narrow-passage failures.
+Completion: Compare grid search, PRM, and RRT on the same arm problem with repeated seeds and explicit collision-check costs.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Configuration_spaces_and_collision_distances/book_name.txt
+Next unit in this area: ../03_Path_smoothing_time_scaling_and_feasibility/book_name.txt

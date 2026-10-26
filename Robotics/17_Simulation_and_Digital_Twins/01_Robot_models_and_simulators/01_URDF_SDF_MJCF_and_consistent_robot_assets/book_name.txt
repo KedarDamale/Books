@@ -1,0 +1,14 @@
+Primary book: Gazebo Harmonic documentation — Gazebo contributors.
+Source: https://gazebosim.org/docs/harmonic/getstarted/
+Source type: Official documentation.
+Read: Robot building, SDF worlds, URDF import, joints, collision, and inertial properties themes.
+Study checklist:
+01. Separate visual and collision meshes.
+02. Preserve units and joint conventions.
+03. Check inertial parameters.
+04. Model actuator and joint limits.
+05. Maintain a canonical asset source.
+06. Detect discrepancies between description formats.
+Completion: Build a small arm model and compare joint poses, mass properties, and collision geometry across its description and simulator.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_MuJoCo_actuators_contacts_and_Python_loops/book_name.txt

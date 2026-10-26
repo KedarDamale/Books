@@ -1,0 +1,14 @@
+Primary book: embedded-hal crate documentation — Rust Embedded Working Group and contributors.
+Source: https://docs.rs/embedded-hal/latest/embedded_hal/
+Source type: Official crate documentation.
+Read: embedded-hal themes: digital I/O, I2C, SPI, delays, and platform-agnostic drivers.
+Study checklist:
+01. Separate register logic and bus access.
+02. Define transaction and ownership boundaries.
+03. Preserve bus error information.
+04. Handle device identity and startup checks.
+05. Bound retries and timeout behavior.
+06. Test a driver using a mock bus.
+Completion: Write a Rust sensor-driver abstraction with a mocked bus and demonstrate failed initialization, malformed responses, and recovery.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_GPIO_timers_ADC_PWM_and_interrupts/book_name.txt

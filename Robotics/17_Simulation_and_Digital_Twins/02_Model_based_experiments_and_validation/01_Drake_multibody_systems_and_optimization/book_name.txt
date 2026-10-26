@@ -1,0 +1,14 @@
+Primary book: Drake documentation and tutorials — Drake contributors.
+Source: https://drake.mit.edu/
+Source type: Official online documentation.
+Read: Python tutorials on MultibodyPlant, SceneGraph, systems diagrams, simulation, and mathematical programs.
+Study checklist:
+01. Separate plant, geometry, and controller subsystems.
+02. Inspect model parameters and state.
+03. Connect typed system ports.
+04. Formulate a small constrained optimization.
+05. Compare analytic and simulator outputs.
+06. Record solver and numerical assumptions.
+Completion: Model a simple arm in Drake and compare its kinematics and dynamics with independent calculations before optimizing a motion.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Next unit in this area: ../02_Simulator_validation_and_reality_gap_budgets/book_name.txt

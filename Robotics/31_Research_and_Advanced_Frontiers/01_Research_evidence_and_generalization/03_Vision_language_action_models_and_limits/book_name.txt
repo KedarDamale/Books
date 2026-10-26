@@ -1,0 +1,15 @@
+Primary book: OpenVLA: An Open-Source Vision-Language-Action Model — Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, and collaborators.
+Source: https://openvla.github.io/
+Source type: Authors' official paper and project site.
+Read: Model architecture, training data, adaptation, and evaluation themes; study as a research direction rather than a required stack replacement.
+Study checklist:
+01. Trace observations and language into action predictions.
+02. Explain embodiment-specific action decoding.
+03. Identify data and compute requirements.
+04. Compare fine-tuning and zero-shot claims.
+05. Retain runtime constraints and task verification.
+06. Evaluate failures beyond curated demonstrations.
+Completion: Analyze or reproduce a small VLA-related result and document action semantics, data assumptions, execution limits, and unsupported generalization claims.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Cross_embodiment_datasets_and_transfer/book_name.txt
+Next unit in this area: ../04_New_robot_skills_and_open_research_questions/book_name.txt

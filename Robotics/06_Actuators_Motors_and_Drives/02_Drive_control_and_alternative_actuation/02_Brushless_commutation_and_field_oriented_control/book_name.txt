@@ -1,0 +1,15 @@
+Primary book: Electric Motors and Drives: Fundamentals, Types and Applications, 5th edition — Austin Hughes and Bill Drury.
+Source: https://shop.elsevier.com/books/electric-motors-and-drives/hughes/978-0-08-102615-1
+Source type: Publisher book page and contents.
+Read: Brushless drives, vector control, and rotor-position sensing themes.
+Study checklist:
+01. Explain electrical and mechanical angle.
+02. Relate phase currents to rotor torque.
+03. Interpret rotating-frame current components.
+04. Trace rotor-angle dependence.
+05. Distinguish current-loop and motion-loop bandwidth.
+06. Analyze loss of position information.
+Completion: Work through a small brushless-drive model and show how rotor-angle error changes torque and current demand.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_PWM_H_bridges_and_current_regulation/book_name.txt
+Next unit in this area: ../03_Compliance_remote_actuation_and_gripper_drives/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: Shigley's Mechanical Engineering Design — Richard G. Budynas and J. Keith Nisbett.
+Source: https://www.mheducation.com/highered/product/shigleys-mechanical-engineering-design-nisbett.html
+Source type: Publisher book page; obtain a legitimate edition.
+Read: Shafts, rolling-contact bearings, and lubrication themes.
+Study checklist:
+01. Resolve radial and axial loads.
+02. Choose a bearing arrangement conceptually.
+03. Relate fits and preload to alignment.
+04. Analyze shaft bending and torsion.
+05. Explain lubrication and contamination effects.
+06. Distinguish rated life and demonstrated life.
+Completion: Design a joint support arrangement and justify load paths, bearing spacing, alignment strategy, and maintenance access.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../01_Degrees_of_freedom_and_linkage_constraints/book_name.txt
+Next unit in this area: ../03_Fasteners_preload_and_serviceable_assemblies/book_name.txt

@@ -1,0 +1,15 @@
+Primary book: NIST/SEMATECH e-Handbook of Statistical Methods: Measurement Process Characterization — NIST and SEMATECH contributors.
+Source: https://www.itl.nist.gov/div898/handbook/mpc/mpc.htm
+Source type: Official open engineering handbook.
+Read: Gauge studies, calibration, repeatability, reproducibility, and uncertainty themes.
+Study checklist:
+01. Choose an instrument for a dimensional requirement.
+02. Separate part variation and gauge variation.
+03. Design repeated measurements.
+04. Check instrument bias and stability.
+05. Quantify operator and setup effects.
+06. Report uncertainty against a tolerance.
+Completion: Perform or simulate a gauge study for a joint dimension and decide whether the measurement process resolves the required tolerance.
+Navigation: ../../../README.md (prerequisites and branches); ../../../TOPIC_INDEX.md (all units); ../../../BUILD_PATH.md (integration milestones).
+Previous unit in this area: ../02_Machining_sheet_parts_and_DFM/book_name.txt
+Next unit in this area: ../04_Finite_elements_mesh_convergence_and_model_validation/book_name.txt
